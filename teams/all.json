@@ -1,16 +1,19 @@
 {
-  "teams": [
-    {
-      "name": "Sweden",
-      "short-name": "SWE",
-      "id": 1,
-      "rank": 5
-    },
-    {
-      "name": "Netherlands",
-      "short-name": "NED",
-      "id": 2,
-      "rank": 9
-    }
-  ]
+  "edition": 1,
+  "content": {
+    "teams": [
+      {
+        "name": "Sweden",
+        "short-name": "SWE",
+        "id": 1,
+        "rank": 5
+      },
+      {
+        "name": "Netherlands",
+        "short-name": "NED",
+        "id": 2,
+        "rank": 9
+      }
+    ]
+  }
 }
