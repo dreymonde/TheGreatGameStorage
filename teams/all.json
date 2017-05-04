@@ -7,7 +7,8 @@
         "short_name": "SWE",
         "id": 1,
         "rank": 5,
-        "badge_url": "https://upload.wikimedia.org/wikipedia/en/3/35/Sweden_national_football_team_logo.png"
+        // "badge_url": "https://upload.wikimedia.org/wikipedia/en/3/35/Sweden_national_football_team_logo.png"
+        "badge_url": "https://upload.wikimedia.org/wikipedia/en/7/77/Russian_Football_Union.png"
       },
       {
         "name": "Netherlands",
