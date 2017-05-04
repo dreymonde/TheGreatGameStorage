@@ -1,28 +1,35 @@
 {
-  "edition": 3,
-  "content": {
-    "teams": [
+  "content" : {
+    "teams" : [
       {
-        "name": "Sweden",
-        "short_name": "SWE",
-        "id": 1,
-        "rank": 5,
-        "badge_url": "https://upload.wikimedia.org/wikipedia/en/3/35/Sweden_national_football_team_logo.png"
+        "name" : "Germany",
+        "id" : 3,
+        "short_name" : "GER",
+        "rank" : 1,
+        "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
       },
       {
-        "name": "Netherlands",
-        "short_name": "NED",
-        "id": 2,
-        "rank": 9,
-         "badge_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Royal_Netherlands_Football_Association_Logo.svg/428px-Royal_Netherlands_Football_Association_Logo.svg.png"
+        "name" : "Sweden",
+        "id" : 1,
+        "short_name" : "SWE",
+        "rank" : 5,
+        "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/35\/Sweden_national_football_team_logo.png"
       },
       {
-        "name": "Germany",
-        "short_name": "GER",
-        "id": 3,
-        "rank": 1,
-        "badge_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/DFBWomen.svg/401px-DFBWomen.svg.png"
+        "name" : "Netherlands",
+        "id" : 2,
+        "short_name" : "NED",
+        "rank" : 9,
+        "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/a\/a1\/Royal_Netherlands_Football_Association_Logo.svg\/428px-Royal_Netherlands_Football_Association_Logo.svg.png"
+      },
+      {
+        "name" : "Russia",
+        "id" : 4,
+        "short_name" : "RUS",
+        "rank" : 15,
+        "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/77\/Russian_Football_Union.png"
       }
     ]
-  }
+  },
+  "edition" : 10
 }

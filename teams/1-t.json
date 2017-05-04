@@ -1,0 +1,10 @@
+{
+  "content" : {
+    "name" : "Sweden",
+    "id" : 1,
+    "short_name" : "SWE",
+    "rank" : 5,
+    "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/35\/Sweden_national_football_team_logo.png"
+  },
+  "edition" : 10
+}
