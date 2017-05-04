@@ -27,7 +27,7 @@
         "id" : 6,
         "short_name" : "FRA",
         "rank" : 2,
-        "badge_url" : "http:\/\/vignette1.wikia.nocookie.net\/logopedia\/images\/d\/d5\/FFF_logo_%28border%29.png"
+        "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/96\/Le_nouveau_logo_FFF.png"
       },
       {
         "name" : "Norway",
@@ -115,5 +115,5 @@
       }
     ]
   },
-  "edition" : 21
+  "edition" : 22
 }
