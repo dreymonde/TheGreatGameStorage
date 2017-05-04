@@ -6,42 +6,42 @@
         "id" : 13,
         "short_name" : "DEN",
         "rank" : 12,
-        "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
+        "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
       },
       {
         "name" : "Iceland",
         "id" : 11,
         "short_name" : "ISL",
         "rank" : 10,
-        "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
+        "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a5\/Iceland_FA.png"
       },
       {
         "name" : "Belgium",
         "id" : 15,
         "short_name" : "BEL",
         "rank" : 14,
-        "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
+        "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/f\/f5\/Belgium_urbsfa.png"
       },
       {
-        "name" : "Framce",
+        "name" : "France",
         "id" : 6,
         "short_name" : "FRA",
         "rank" : 2,
-        "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
+        "badge_url" : "http:\/\/vignette1.wikia.nocookie.net\/logopedia\/images\/d\/d5\/FFF_logo_%28border%29.png"
       },
       {
         "name" : "Norway",
         "id" : 8,
         "short_name" : "NOR",
         "rank" : 4,
-        "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
+        "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
       },
       {
         "name" : "Portugal",
         "id" : 16,
         "short_name" : "POR",
         "rank" : 23,
-        "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
+        "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/5f\/Portuguese_Football_Federation.svg\/359px-Portuguese_Football_Federation.svg.png"
       },
       {
         "name" : "Sweden",
@@ -55,7 +55,7 @@
         "id" : 12,
         "short_name" : "SCO",
         "rank" : 11,
-        "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
+        "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/8\/8f\/Scotland_national_football_team_logo.svg\/480px-Scotland_national_football_team_logo.svg.png"
       },
       {
         "name" : "Russia",
@@ -69,7 +69,7 @@
         "id" : 14,
         "short_name" : "AUT",
         "rank" : 13,
-        "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
+        "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/14\/%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg\/640px-%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg.png"
       },
       {
         "name" : "Germany",
@@ -90,21 +90,21 @@
         "id" : 10,
         "short_name" : "SUI",
         "rank" : 7,
-        "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
+        "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/53\/SFV_Logo.svg\/640px-SFV_Logo.svg.png"
       },
       {
         "name" : "England",
         "id" : 7,
         "short_name" : "ENG",
         "rank" : 3,
-        "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
+        "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/38\/England_crest_2009.svg\/403px-England_crest_2009.svg.png"
       },
       {
         "name" : "Spain",
         "id" : 9,
         "short_name" : "ESP",
         "rank" : 6,
-        "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
+        "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/31\/Spain_National_Football_Team_badge.png"
       },
       {
         "name" : "Netherlands",
@@ -115,5 +115,5 @@
       }
     ]
   },
-  "edition" : 17
+  "edition" : 21
 }
