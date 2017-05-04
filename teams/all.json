@@ -2,6 +2,13 @@
   "content" : {
     "teams" : [
       {
+        "name" : "Italy",
+        "id" : 5,
+        "short_name" : "ITA",
+        "rank" : 8,
+        "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
+      },
+      {
         "name" : "Germany",
         "id" : 3,
         "short_name" : "GER",
@@ -31,5 +38,5 @@
       }
     ]
   },
-  "edition" : 9
+  "edition" : 10
 }
