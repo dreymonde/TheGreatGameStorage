@@ -1,37 +1,40 @@
 {
-  "group" : {
-    "id" : 3,
-    "title" : "Group C",
-    "teams" : [
-      {
-        "points" : 0,
-        "name" : "France",
-        "id" : 6,
-        "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/96\/Le_nouveau_logo_FFF.png"
-      },
-      {
-        "points" : 0,
-        "name" : "Iceland",
-        "id" : 11,
-        "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a5\/Iceland_FA.png"
-      },
-      {
-        "points" : 0,
-        "name" : "Austria",
-        "id" : 14,
-        "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/14\/%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg\/640px-%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg.png"
-      },
-      {
-        "points" : 0,
-        "name" : "Switzerland",
-        "id" : 10,
-        "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/53\/SFV_Logo.svg\/640px-SFV_Logo.svg.png"
-      }
-    ]
+  "content" : {
+    "group" : {
+      "id" : 3,
+      "title" : "Group C",
+      "teams" : [
+        {
+          "points" : 0,
+          "name" : "France",
+          "id" : 6,
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/96\/Le_nouveau_logo_FFF.png"
+        },
+        {
+          "points" : 0,
+          "name" : "Iceland",
+          "id" : 11,
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a5\/Iceland_FA.png"
+        },
+        {
+          "points" : 0,
+          "name" : "Austria",
+          "id" : 14,
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/14\/%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg\/640px-%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg.png"
+        },
+        {
+          "points" : 0,
+          "name" : "Switzerland",
+          "id" : 10,
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/53\/SFV_Logo.svg\/640px-SFV_Logo.svg.png"
+        }
+      ]
+    },
+    "name" : "France",
+    "id" : 6,
+    "short_name" : "FRA",
+    "rank" : 2,
+    "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/96\/Le_nouveau_logo_FFF.png"
   },
-  "name" : "France",
-  "id" : 6,
-  "short_name" : "FRA",
-  "rank" : 2,
-  "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/96\/Le_nouveau_logo_FFF.png"
+  "edition" : 23
 }
