@@ -6,6 +6,38 @@
     "id": 1,
     "rank": 5,
     "badge_url": "https://upload.wikimedia.org/wikipedia/en/3/35/Sweden_national_football_team_logo.png",
-    "description": "Sweden women's national football team (Swedish: Damlandslaget) officially represents Sweden in women's association football (soccer). Sweden won the European Competition for Women's Football in 1984, a success the team has not managed to repeat, it has however won one World Cup-silver (2003) as well as three European Championship-silvers (1987, 1995, 2001). The team has participated in six Olympic Games, seven World Cups, as well as nine European Championships. Sweden won the bronze medal at the 2011 FIFA Women's World Cup."
+    "group": {
+      "title": "Group B",
+      "teams": [
+        {
+          "id": 3,
+          "position": 1,
+          "name": "Germany",
+          "points": 0,
+          "badge_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/DFBWomen.svg/401px-DFBWomen.svg.png",
+        },
+        {
+          "id": 1,
+          "position": 2,
+          "name": "Sweden",
+          "points": 0,
+          "badge_url": "https://upload.wikimedia.org/wikipedia/en/3/35/Sweden_national_football_team_logo.png",
+        },
+        {
+          "id": 4,
+          "position": 3,
+          "name": "Italy",
+          "points": 0,
+          "badge_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/DFBWomen.svg/401px-DFBWomen.svg.png",
+        },
+        {
+          "id": 5,
+          "position": 4,
+          "name": "Russia",
+          "points": 0,
+          "badge_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/DFBWomen.svg/401px-DFBWomen.svg.png",
+        }
+      ]
+    }
   }
 }
