@@ -1,124 +1,127 @@
 {
-  "groups" : [
-    {
-      "id" : 3,
-      "title" : "Group C",
-      "teams" : [
-        {
-          "points" : 0,
-          "name" : "France",
-          "id" : 6,
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/96\/Le_nouveau_logo_FFF.png"
-        },
-        {
-          "points" : 0,
-          "name" : "Iceland",
-          "id" : 11,
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a5\/Iceland_FA.png"
-        },
-        {
-          "points" : 0,
-          "name" : "Austria",
-          "id" : 14,
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/14\/%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg\/640px-%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg.png"
-        },
-        {
-          "points" : 0,
-          "name" : "Switzerland",
-          "id" : 10,
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/53\/SFV_Logo.svg\/640px-SFV_Logo.svg.png"
-        }
-      ]
-    },
-    {
-      "id" : 1,
-      "title" : "Group A",
-      "teams" : [
-        {
-          "points" : 0,
-          "name" : "Netherlands",
-          "id" : 2,
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/a\/a1\/Royal_Netherlands_Football_Association_Logo.svg\/428px-Royal_Netherlands_Football_Association_Logo.svg.png"
-        },
-        {
-          "points" : 0,
-          "name" : "Norway",
-          "id" : 8,
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
-        },
-        {
-          "points" : 0,
-          "name" : "Denmark",
-          "id" : 13,
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
-        },
-        {
-          "points" : 0,
-          "name" : "Belgium",
-          "id" : 15,
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/f\/f5\/Belgium_urbsfa.png"
-        }
-      ]
-    },
-    {
-      "id" : 2,
-      "title" : "Group B",
-      "teams" : [
-        {
-          "points" : 0,
-          "name" : "Germany",
-          "id" : 3,
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
-        },
-        {
-          "points" : 0,
-          "name" : "Sweden",
-          "id" : 1,
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/35\/Sweden_national_football_team_logo.png"
-        },
-        {
-          "points" : 0,
-          "name" : "Italy",
-          "id" : 5,
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
-        },
-        {
-          "points" : 0,
-          "name" : "Russia",
-          "id" : 4,
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/77\/Russian_Football_Union.png"
-        }
-      ]
-    },
-    {
-      "id" : 4,
-      "title" : "Group D",
-      "teams" : [
-        {
-          "points" : 0,
-          "name" : "England",
-          "id" : 7,
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/38\/England_crest_2009.svg\/403px-England_crest_2009.svg.png"
-        },
-        {
-          "points" : 0,
-          "name" : "Scotland",
-          "id" : 12,
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/8\/8f\/Scotland_national_football_team_logo.svg\/480px-Scotland_national_football_team_logo.svg.png"
-        },
-        {
-          "points" : 0,
-          "name" : "Spain",
-          "id" : 9,
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/31\/Spain_National_Football_Team_badge.png"
-        },
-        {
-          "points" : 0,
-          "name" : "Portugal",
-          "id" : 16,
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/5f\/Portuguese_Football_Federation.svg\/359px-Portuguese_Football_Federation.svg.png"
-        }
-      ]
-    }
-  ]
+  "content" : {
+    "groups" : [
+      {
+        "id" : 3,
+        "title" : "Group C",
+        "teams" : [
+          {
+            "points" : 0,
+            "name" : "France",
+            "id" : 6,
+            "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/96\/Le_nouveau_logo_FFF.png"
+          },
+          {
+            "points" : 0,
+            "name" : "Iceland",
+            "id" : 11,
+            "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a5\/Iceland_FA.png"
+          },
+          {
+            "points" : 0,
+            "name" : "Austria",
+            "id" : 14,
+            "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/14\/%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg\/640px-%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg.png"
+          },
+          {
+            "points" : 0,
+            "name" : "Switzerland",
+            "id" : 10,
+            "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/53\/SFV_Logo.svg\/640px-SFV_Logo.svg.png"
+          }
+        ]
+      },
+      {
+        "id" : 1,
+        "title" : "Group A",
+        "teams" : [
+          {
+            "points" : 0,
+            "name" : "Netherlands",
+            "id" : 2,
+            "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/a\/a1\/Royal_Netherlands_Football_Association_Logo.svg\/428px-Royal_Netherlands_Football_Association_Logo.svg.png"
+          },
+          {
+            "points" : 0,
+            "name" : "Norway",
+            "id" : 8,
+            "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
+          },
+          {
+            "points" : 0,
+            "name" : "Denmark",
+            "id" : 13,
+            "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
+          },
+          {
+            "points" : 0,
+            "name" : "Belgium",
+            "id" : 15,
+            "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/f\/f5\/Belgium_urbsfa.png"
+          }
+        ]
+      },
+      {
+        "id" : 2,
+        "title" : "Group B",
+        "teams" : [
+          {
+            "points" : 0,
+            "name" : "Germany",
+            "id" : 3,
+            "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
+          },
+          {
+            "points" : 0,
+            "name" : "Sweden",
+            "id" : 1,
+            "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/35\/Sweden_national_football_team_logo.png"
+          },
+          {
+            "points" : 0,
+            "name" : "Italy",
+            "id" : 5,
+            "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
+          },
+          {
+            "points" : 0,
+            "name" : "Russia",
+            "id" : 4,
+            "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/77\/Russian_Football_Union.png"
+          }
+        ]
+      },
+      {
+        "id" : 4,
+        "title" : "Group D",
+        "teams" : [
+          {
+            "points" : 0,
+            "name" : "England",
+            "id" : 7,
+            "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/38\/England_crest_2009.svg\/403px-England_crest_2009.svg.png"
+          },
+          {
+            "points" : 0,
+            "name" : "Scotland",
+            "id" : 12,
+            "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/8\/8f\/Scotland_national_football_team_logo.svg\/480px-Scotland_national_football_team_logo.svg.png"
+          },
+          {
+            "points" : 0,
+            "name" : "Spain",
+            "id" : 9,
+            "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/31\/Spain_National_Football_Team_badge.png"
+          },
+          {
+            "points" : 0,
+            "name" : "Portugal",
+            "id" : 16,
+            "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/5f\/Portuguese_Football_Federation.svg\/359px-Portuguese_Football_Federation.svg.png"
+          }
+        ]
+      }
+    ]
+  },
+  "edition" : 25
 }
