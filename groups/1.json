@@ -40,6 +40,10 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
         },
         "id" : 9,
+        "score" : {
+          "away" : 0,
+          "home" : 1
+        },
         "away" : {
           "id" : 15,
           "name" : "Belgium",
@@ -121,5 +125,5 @@
     ],
     "id" : 1
   },
-  "edition" : 32
+  "edition" : 33
 }
