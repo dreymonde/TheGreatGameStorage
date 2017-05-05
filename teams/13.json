@@ -1,84 +1,87 @@
 {
-  "name" : "Denmark",
-  "matches" : [
-    {
-      "date" : 1500230700,
-      "location" : "De Vijverberg, Doetinchem",
-      "home" : {
-        "id" : 13,
-        "name" : "Denmark",
-        "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
-      },
-      "id" : 2,
-      "away" : {
-        "id" : 15,
-        "name" : "Belgium",
-        "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/f\/f5\/Belgium_urbsfa.png"
-      }
-    },
-    {
-      "date" : 1500576300,
-      "location" : "Sparta Stadion Het Kasteel, Rotterdam",
-      "home" : {
+  "content" : {
+    "name" : "Denmark",
+    "matches" : [
+      {
+        "date" : 1500230700,
+        "location" : "De Vijverberg, Doetinchem",
+        "home" : {
+          "id" : 13,
+          "name" : "Denmark",
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
+        },
         "id" : 2,
-        "name" : "Netherlands",
-        "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/a\/a1\/Royal_Netherlands_Football_Association_Logo.svg\/428px-Royal_Netherlands_Football_Association_Logo.svg.png"
+        "away" : {
+          "id" : 15,
+          "name" : "Belgium",
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/f\/f5\/Belgium_urbsfa.png"
+        }
       },
-      "id" : 10,
-      "away" : {
-        "id" : 13,
-        "name" : "Denmark",
-        "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
+      {
+        "date" : 1500576300,
+        "location" : "Sparta Stadion Het Kasteel, Rotterdam",
+        "home" : {
+          "id" : 2,
+          "name" : "Netherlands",
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/a\/a1\/Royal_Netherlands_Football_Association_Logo.svg\/428px-Royal_Netherlands_Football_Association_Logo.svg.png"
+        },
+        "id" : 10,
+        "away" : {
+          "id" : 13,
+          "name" : "Denmark",
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
+        }
+      },
+      {
+        "date" : 1500921900,
+        "location" : "De Adelaarshorst, Deventer",
+        "home" : {
+          "id" : 8,
+          "name" : "Norway",
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
+        },
+        "id" : 18,
+        "away" : {
+          "id" : 13,
+          "name" : "Denmark",
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
+        }
       }
+    ],
+    "id" : 13,
+    "short_name" : "DEN",
+    "rank" : 12,
+    "group" : {
+      "id" : 1,
+      "title" : "Group A",
+      "teams" : [
+        {
+          "points" : 0,
+          "name" : "Netherlands",
+          "id" : 2,
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/a\/a1\/Royal_Netherlands_Football_Association_Logo.svg\/428px-Royal_Netherlands_Football_Association_Logo.svg.png"
+        },
+        {
+          "points" : 0,
+          "name" : "Norway",
+          "id" : 8,
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
+        },
+        {
+          "points" : 0,
+          "name" : "Denmark",
+          "id" : 13,
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
+        },
+        {
+          "points" : 0,
+          "name" : "Belgium",
+          "id" : 15,
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/f\/f5\/Belgium_urbsfa.png"
+        }
+      ]
     },
-    {
-      "date" : 1500921900,
-      "location" : "De Adelaarshorst, Deventer",
-      "home" : {
-        "id" : 8,
-        "name" : "Norway",
-        "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
-      },
-      "id" : 18,
-      "away" : {
-        "id" : 13,
-        "name" : "Denmark",
-        "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
-      }
-    }
-  ],
-  "id" : 13,
-  "short_name" : "DEN",
-  "rank" : 12,
-  "group" : {
-    "id" : 1,
-    "title" : "Group A",
-    "teams" : [
-      {
-        "points" : 0,
-        "name" : "Netherlands",
-        "id" : 2,
-        "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/a\/a1\/Royal_Netherlands_Football_Association_Logo.svg\/428px-Royal_Netherlands_Football_Association_Logo.svg.png"
-      },
-      {
-        "points" : 0,
-        "name" : "Norway",
-        "id" : 8,
-        "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
-      },
-      {
-        "points" : 0,
-        "name" : "Denmark",
-        "id" : 13,
-        "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
-      },
-      {
-        "points" : 0,
-        "name" : "Belgium",
-        "id" : 15,
-        "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/f\/f5\/Belgium_urbsfa.png"
-      }
-    ]
+    "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
   },
-  "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
+  "edition" : 29
 }
