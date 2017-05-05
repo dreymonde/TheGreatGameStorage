@@ -1,6 +1,8 @@
 {
   "content" : {
-    "id" : 2,
+    "matches" : [
+
+    ],
     "title" : "Group B",
     "teams" : [
       {
@@ -27,7 +29,8 @@
         "id" : 4,
         "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/77\/Russian_Football_Union.png"
       }
-    ]
+    ],
+    "id" : 2
   },
-  "edition" : 26
+  "edition" : 27
 }

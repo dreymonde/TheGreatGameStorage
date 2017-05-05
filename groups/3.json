@@ -1,6 +1,8 @@
 {
   "content" : {
-    "id" : 3,
+    "matches" : [
+
+    ],
     "title" : "Group C",
     "teams" : [
       {
@@ -27,7 +29,8 @@
         "id" : 10,
         "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/53\/SFV_Logo.svg\/640px-SFV_Logo.svg.png"
       }
-    ]
+    ],
+    "id" : 3
   },
-  "edition" : 26
+  "edition" : 27
 }
