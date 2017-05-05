@@ -1,0 +1,30 @@
+{
+  "id" : 4,
+  "title" : "Group D",
+  "teams" : [
+    {
+      "points" : 0,
+      "name" : "England",
+      "id" : 7,
+      "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/38\/England_crest_2009.svg\/403px-England_crest_2009.svg.png"
+    },
+    {
+      "points" : 0,
+      "name" : "Scotland",
+      "id" : 12,
+      "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/8\/8f\/Scotland_national_football_team_logo.svg\/480px-Scotland_national_football_team_logo.svg.png"
+    },
+    {
+      "points" : 0,
+      "name" : "Spain",
+      "id" : 9,
+      "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/31\/Spain_National_Football_Team_badge.png"
+    },
+    {
+      "points" : 0,
+      "name" : "Portugal",
+      "id" : 16,
+      "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/5f\/Portuguese_Football_Federation.svg\/359px-Portuguese_Football_Federation.svg.png"
+    }
+  ]
+}
