@@ -47,18 +47,18 @@
         }
       },
       {
-        "date" : 1500662700,
-        "location" : "Koning Willem II Stadion, Tilburg",
+        "date" : 1500749100,
+        "location" : "Stadion Galgenwaard, Utrecht",
         "home" : {
-          "id" : 3,
-          "name" : "Germany",
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
+          "id" : 6,
+          "name" : "France",
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/96\/Le_nouveau_logo_FFF.png"
         },
         "id" : 12,
         "away" : {
-          "id" : 5,
-          "name" : "Italy",
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
+          "id" : 14,
+          "name" : "Austria",
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/14\/%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg\/640px-%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg.png"
         }
       },
       {
@@ -121,5 +121,5 @@
     ],
     "id" : 2
   },
-  "edition" : 40
+  "edition" : 41
 }
