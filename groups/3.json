@@ -54,7 +54,7 @@
           "name" : "France",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/96\/Le_nouveau_logo_FFF.png"
         },
-        "id" : 12,
+        "id" : 14,
         "away" : {
           "id" : 14,
           "name" : "Austria",
@@ -69,7 +69,7 @@
           "name" : "Switzerland",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/53\/SFV_Logo.svg\/640px-SFV_Logo.svg.png"
         },
-        "id" : 22,
+        "id" : 21,
         "away" : {
           "id" : 6,
           "name" : "France",
@@ -84,7 +84,7 @@
           "name" : "Iceland",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a5\/Iceland_FA.png"
         },
-        "id" : 21,
+        "id" : 22,
         "away" : {
           "id" : 14,
           "name" : "Austria",
@@ -121,5 +121,5 @@
     ],
     "id" : 3
   },
-  "edition" : 42
+  "edition" : 43
 }

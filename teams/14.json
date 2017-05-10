@@ -25,7 +25,7 @@
           "name" : "France",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/96\/Le_nouveau_logo_FFF.png"
         },
-        "id" : 12,
+        "id" : 14,
         "away" : {
           "id" : 14,
           "name" : "Austria",
@@ -40,7 +40,7 @@
           "name" : "Iceland",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a5\/Iceland_FA.png"
         },
-        "id" : 21,
+        "id" : 22,
         "away" : {
           "id" : 14,
           "name" : "Austria",
@@ -83,5 +83,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/14\/%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg\/640px-%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg.png"
   },
-  "edition" : 42
+  "edition" : 43
 }
