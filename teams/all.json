@@ -4,7 +4,7 @@
       {
         "name" : "Denmark",
         "id" : 13,
-        "short_name" : "DNE",
+        "short_name" : "DEN",
         "rank" : 12,
         "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
       },
@@ -115,5 +115,5 @@
       }
     ]
   },
-  "edition" : 45
+  "edition" : 46
 }
