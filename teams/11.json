@@ -6,14 +6,16 @@
         "date" : 1500403500,
         "location" : "Koning Willem II Stadion, Tilburg",
         "home" : {
-          "id" : 6,
           "name" : "France",
+          "id" : 6,
+          "short_name" : "FRA",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/96\/Le_nouveau_logo_FFF.png"
         },
         "id" : 6,
         "away" : {
-          "id" : 11,
           "name" : "Iceland",
+          "id" : 11,
+          "short_name" : "ISL",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a5\/Iceland_FA.png"
         }
       },
@@ -21,14 +23,16 @@
         "date" : 1500739200,
         "location" : "De Vijverberg, Doetinchem",
         "home" : {
-          "id" : 11,
           "name" : "Iceland",
+          "id" : 11,
+          "short_name" : "ISL",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a5\/Iceland_FA.png"
         },
         "id" : 13,
         "away" : {
-          "id" : 10,
           "name" : "Switzerland",
+          "id" : 10,
+          "short_name" : "SUI",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/53\/SFV_Logo.svg\/640px-SFV_Logo.svg.png"
         }
       },
@@ -36,14 +40,16 @@
         "date" : 1501094700,
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "home" : {
-          "id" : 11,
           "name" : "Iceland",
+          "id" : 11,
+          "short_name" : "ISL",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a5\/Iceland_FA.png"
         },
         "id" : 22,
         "away" : {
-          "id" : 14,
           "name" : "Austria",
+          "id" : 14,
+          "short_name" : "AUT",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/14\/%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg\/640px-%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg.png"
         }
       }
@@ -59,29 +65,33 @@
           "points" : 0,
           "name" : "France",
           "id" : 6,
+          "short_name" : "FRA",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/96\/Le_nouveau_logo_FFF.png"
         },
         {
           "points" : 0,
           "name" : "Iceland",
           "id" : 11,
+          "short_name" : "ISL",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a5\/Iceland_FA.png"
         },
         {
           "points" : 0,
           "name" : "Austria",
           "id" : 14,
+          "short_name" : "AUT",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/14\/%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg\/640px-%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg.png"
         },
         {
           "points" : 0,
           "name" : "Switzerland",
           "id" : 10,
+          "short_name" : "SUI",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/53\/SFV_Logo.svg\/640px-SFV_Logo.svg.png"
         }
       ]
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a5\/Iceland_FA.png"
   },
-  "edition" : 49
+  "edition" : 50
 }

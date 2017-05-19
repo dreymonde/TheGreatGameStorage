@@ -6,14 +6,16 @@
         "date" : 1500307200,
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "home" : {
-          "id" : 5,
           "name" : "Italy",
+          "id" : 5,
+          "short_name" : "ITA",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
         },
         "id" : 3,
         "away" : {
-          "id" : 4,
           "name" : "Russia",
+          "id" : 4,
+          "short_name" : "RUS",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/77\/Russian_Football_Union.png"
         }
       },
@@ -21,14 +23,16 @@
         "date" : 1500662700,
         "location" : "Koning Willem II Stadion, Tilburg",
         "home" : {
-          "id" : 3,
           "name" : "Germany",
+          "id" : 3,
+          "short_name" : "GER",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
         },
         "id" : 12,
         "away" : {
-          "id" : 5,
           "name" : "Italy",
+          "id" : 5,
+          "short_name" : "ITA",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
         }
       },
@@ -36,14 +40,16 @@
         "date" : 1501008300,
         "location" : "De Vijverberg, Doetinchem",
         "home" : {
-          "id" : 1,
           "name" : "Sweden",
+          "id" : 1,
+          "short_name" : "SWE",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/35\/Sweden_national_football_team_logo.png"
         },
         "id" : 20,
         "away" : {
-          "id" : 5,
           "name" : "Italy",
+          "id" : 5,
+          "short_name" : "ITA",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
         }
       }
@@ -59,29 +65,33 @@
           "points" : 0,
           "name" : "Germany",
           "id" : 3,
+          "short_name" : "GER",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
         },
         {
           "points" : 3,
           "name" : "Sweden",
           "id" : 1,
+          "short_name" : "SWE",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/35\/Sweden_national_football_team_logo.png"
         },
         {
           "points" : 3,
           "name" : "Italy",
           "id" : 5,
+          "short_name" : "ITA",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
         },
         {
           "points" : 0,
           "name" : "Russia",
           "id" : 4,
+          "short_name" : "RUS",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/77\/Russian_Football_Union.png"
         }
       ]
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
   },
-  "edition" : 49
+  "edition" : 50
 }
