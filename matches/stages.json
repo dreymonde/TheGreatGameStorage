@@ -132,10 +132,6 @@
               "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/38\/England_crest_2009.svg\/403px-England_crest_2009.svg.png"
             },
             "id" : 8,
-            "score" : {
-              "away" : 0,
-              "home" : 1
-            },
             "away" : {
               "id" : 12,
               "name" : "Scotland",
@@ -156,10 +152,6 @@
               "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
             },
             "id" : 9,
-            "score" : {
-              "away" : 0,
-              "home" : 1
-            },
             "away" : {
               "id" : 15,
               "name" : "Belgium",
@@ -265,10 +257,6 @@
               "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/8\/8f\/Scotland_national_football_team_logo.svg\/480px-Scotland_national_football_team_logo.svg.png"
             },
             "id" : 15,
-            "score" : {
-              "away" : 0,
-              "home" : 0
-            },
             "away" : {
               "id" : 16,
               "name" : "Portugal",
@@ -435,5 +423,5 @@
       }
     ]
   },
-  "edition" : 48
+  "edition" : 49
 }

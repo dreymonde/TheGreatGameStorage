@@ -11,10 +11,6 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/38\/England_crest_2009.svg\/403px-England_crest_2009.svg.png"
         },
         "id" : 8,
-        "score" : {
-          "away" : 0,
-          "home" : 1
-        },
         "away" : {
           "id" : 12,
           "name" : "Scotland",
@@ -87,5 +83,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/38\/England_crest_2009.svg\/403px-England_crest_2009.svg.png"
   },
-  "edition" : 48
+  "edition" : 49
 }
