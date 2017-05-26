@@ -96,10 +96,6 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/96\/Le_nouveau_logo_FFF.png"
         },
         "id" : 6,
-        "score" : {
-          "away" : 1,
-          "home" : 3
-        },
         "away" : {
           "name" : "Iceland",
           "id" : 11,
@@ -415,5 +411,5 @@
       }
     ]
   },
-  "edition" : 51
+  "edition" : 52
 }
