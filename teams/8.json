@@ -3,7 +3,7 @@
     "name" : "Norway",
     "matches" : [
       {
-        "date" : 1494604800,
+        "date" : 1495296000,
         "location" : "Stadion Galgenwaard, Utrecht",
         "home" : {
           "name" : "Netherlands",
@@ -20,7 +20,7 @@
         }
       },
       {
-        "date" : 1494950400,
+        "date" : 1495641600,
         "location" : "Rat Verlegh Stadion, Breda",
         "home" : {
           "name" : "Norway",
@@ -37,7 +37,7 @@
         }
       },
       {
-        "date" : 1495305900,
+        "date" : 1495997100,
         "location" : "De Adelaarshorst, Deventer",
         "home" : {
           "name" : "Norway",
@@ -93,5 +93,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
   },
-  "edition" : 55
+  "edition" : 56
 }
