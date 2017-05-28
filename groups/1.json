@@ -2,7 +2,7 @@
   "content" : {
     "matches" : [
       {
-        "date" : 1495296000,
+        "date" : 1500220800,
         "location" : "Stadion Galgenwaard, Utrecht",
         "home" : {
           "name" : "Netherlands",
@@ -19,7 +19,7 @@
         }
       },
       {
-        "date" : 1495305900,
+        "date" : 1500230700,
         "location" : "De Vijverberg, Doetinchem",
         "home" : {
           "name" : "Denmark",
@@ -36,7 +36,7 @@
         }
       },
       {
-        "date" : 1495641600,
+        "date" : 1500566400,
         "location" : "Rat Verlegh Stadion, Breda",
         "home" : {
           "name" : "Norway",
@@ -53,7 +53,7 @@
         }
       },
       {
-        "date" : 1495651500,
+        "date" : 1500576300,
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "home" : {
           "name" : "Netherlands",
@@ -70,7 +70,7 @@
         }
       },
       {
-        "date" : 1495997100,
+        "date" : 1500921900,
         "location" : "Koning Willem II Stadion, Tilburg",
         "home" : {
           "name" : "Belgium",
@@ -87,7 +87,7 @@
         }
       },
       {
-        "date" : 1495997100,
+        "date" : 1500921900,
         "location" : "De Adelaarshorst, Deventer",
         "home" : {
           "name" : "Norway",
@@ -137,5 +137,5 @@
     ],
     "id" : 1
   },
-  "edition" : 56
+  "edition" : 57
 }
