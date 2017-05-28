@@ -3,7 +3,7 @@
     "name" : "Denmark",
     "matches" : [
       {
-        "date" : 1500230700,
+        "date" : 1494614700,
         "location" : "De Vijverberg, Doetinchem",
         "home" : {
           "name" : "Denmark",
@@ -20,7 +20,7 @@
         }
       },
       {
-        "date" : 1500576300,
+        "date" : 1494960300,
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "home" : {
           "name" : "Netherlands",
@@ -37,7 +37,7 @@
         }
       },
       {
-        "date" : 1500921900,
+        "date" : 1495305900,
         "location" : "De Adelaarshorst, Deventer",
         "home" : {
           "name" : "Norway",
@@ -93,5 +93,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
   },
-  "edition" : 54
+  "edition" : 55
 }

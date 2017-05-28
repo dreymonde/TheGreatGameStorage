@@ -3,7 +3,7 @@
     "name" : "Portugal",
     "matches" : [
       {
-        "date" : 1500480000,
+        "date" : 1494864000,
         "location" : "De Vijverberg, Doetinchem",
         "home" : {
           "name" : "Spain",
@@ -20,7 +20,7 @@
         }
       },
       {
-        "date" : 1500825600,
+        "date" : 1495209600,
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "home" : {
           "name" : "Scotland",
@@ -37,7 +37,7 @@
         }
       },
       {
-        "date" : 1501181100,
+        "date" : 1495565100,
         "location" : "Koning Willem II Stadion, Tilburg",
         "home" : {
           "name" : "Portugal",
@@ -93,5 +93,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/5f\/Portuguese_Football_Federation.svg\/359px-Portuguese_Football_Federation.svg.png"
   },
-  "edition" : 54
+  "edition" : 55
 }

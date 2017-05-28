@@ -3,7 +3,7 @@
     "name" : "Iceland",
     "matches" : [
       {
-        "date" : 1500403500,
+        "date" : 1494787500,
         "location" : "Koning Willem II Stadion, Tilburg",
         "home" : {
           "name" : "France",
@@ -20,7 +20,7 @@
         }
       },
       {
-        "date" : 1500739200,
+        "date" : 1495123200,
         "location" : "De Vijverberg, Doetinchem",
         "home" : {
           "name" : "Iceland",
@@ -37,7 +37,7 @@
         }
       },
       {
-        "date" : 1501094700,
+        "date" : 1495478700,
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "home" : {
           "name" : "Iceland",
@@ -93,5 +93,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a5\/Iceland_FA.png"
   },
-  "edition" : 54
+  "edition" : 55
 }

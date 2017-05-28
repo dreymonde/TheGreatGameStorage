@@ -2,7 +2,7 @@
   "content" : {
     "matches" : [
       {
-        "date" : 1500393600,
+        "date" : 1494777600,
         "location" : "De Adelaarshorst, Deventer",
         "home" : {
           "name" : "Austria",
@@ -19,7 +19,7 @@
         }
       },
       {
-        "date" : 1500403500,
+        "date" : 1494787500,
         "location" : "Koning Willem II Stadion, Tilburg",
         "home" : {
           "name" : "France",
@@ -36,7 +36,7 @@
         }
       },
       {
-        "date" : 1500739200,
+        "date" : 1495123200,
         "location" : "De Vijverberg, Doetinchem",
         "home" : {
           "name" : "Iceland",
@@ -53,7 +53,7 @@
         }
       },
       {
-        "date" : 1500749100,
+        "date" : 1495133100,
         "location" : "Stadion Galgenwaard, Utrecht",
         "home" : {
           "name" : "France",
@@ -70,7 +70,7 @@
         }
       },
       {
-        "date" : 1501094700,
+        "date" : 1495478700,
         "location" : "Rat Verlegh Stadion, Breda",
         "home" : {
           "name" : "Switzerland",
@@ -87,7 +87,7 @@
         }
       },
       {
-        "date" : 1501094700,
+        "date" : 1495478700,
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "home" : {
           "name" : "Iceland",
@@ -137,5 +137,5 @@
     ],
     "id" : 3
   },
-  "edition" : 54
+  "edition" : 55
 }

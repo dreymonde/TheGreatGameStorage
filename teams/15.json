@@ -3,7 +3,7 @@
     "name" : "Belgium",
     "matches" : [
       {
-        "date" : 1500230700,
+        "date" : 1494614700,
         "location" : "De Vijverberg, Doetinchem",
         "home" : {
           "name" : "Denmark",
@@ -20,7 +20,7 @@
         }
       },
       {
-        "date" : 1500566400,
+        "date" : 1494950400,
         "location" : "Rat Verlegh Stadion, Breda",
         "home" : {
           "name" : "Norway",
@@ -37,7 +37,7 @@
         }
       },
       {
-        "date" : 1500921900,
+        "date" : 1495305900,
         "location" : "Koning Willem II Stadion, Tilburg",
         "home" : {
           "name" : "Belgium",
@@ -93,5 +93,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/f\/f5\/Belgium_urbsfa.png"
   },
-  "edition" : 54
+  "edition" : 55
 }

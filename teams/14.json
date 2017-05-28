@@ -3,7 +3,7 @@
     "name" : "Austria",
     "matches" : [
       {
-        "date" : 1500393600,
+        "date" : 1494777600,
         "location" : "De Adelaarshorst, Deventer",
         "home" : {
           "name" : "Austria",
@@ -20,7 +20,7 @@
         }
       },
       {
-        "date" : 1500749100,
+        "date" : 1495133100,
         "location" : "Stadion Galgenwaard, Utrecht",
         "home" : {
           "name" : "France",
@@ -37,7 +37,7 @@
         }
       },
       {
-        "date" : 1501094700,
+        "date" : 1495478700,
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "home" : {
           "name" : "Iceland",
@@ -93,5 +93,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/14\/%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg\/640px-%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg.png"
   },
-  "edition" : 54
+  "edition" : 55
 }
