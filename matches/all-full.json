@@ -9,14 +9,14 @@
         },
         "id" : 1,
         "stage_title" : "Group A, leg 1",
-        "endDate" : 1496146500,
+        "endDate" : 1496157300,
         "away" : {
           "name" : "Norway",
           "id" : 8,
           "short_name" : "NOR",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
         },
-        "date" : 1496140200,
+        "date" : 1496151000,
         "home" : {
           "name" : "Netherlands",
           "id" : 2,
@@ -31,7 +31,7 @@
           },
           {
             "type" : "goalHome",
-            "text" : "Nederlands goes first!",
+            "text" : "Holland scores!",
             "minute" : 14
           },
           {
@@ -41,8 +41,8 @@
           },
           {
             "type" : "goalHome",
-            "text" : "Takes the lead again!",
-            "minute" : 31
+            "text" : "Oranges lead again",
+            "minute" : 39
           }
         ]
       },
@@ -554,5 +554,5 @@
       }
     ]
   },
-  "edition" : 73
+  "edition" : 74
 }
