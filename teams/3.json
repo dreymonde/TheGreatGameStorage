@@ -3,7 +3,7 @@
     "name" : "Germany",
     "matches" : [
       {
-        "date" : 1500317100,
+        "date" : 1495392300,
         "location" : "Rat Verlegh Stadion, Breda",
         "home" : {
           "name" : "Germany",
@@ -12,6 +12,10 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
         },
         "id" : 4,
+        "score" : {
+          "away" : 1,
+          "home" : 1
+        },
         "away" : {
           "name" : "Sweden",
           "id" : 1,
@@ -20,7 +24,7 @@
         }
       },
       {
-        "date" : 1500662700,
+        "date" : 1495737900,
         "location" : "Koning Willem II Stadion, Tilburg",
         "home" : {
           "name" : "Germany",
@@ -29,6 +33,10 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
         },
         "id" : 12,
+        "score" : {
+          "away" : 2,
+          "home" : 7
+        },
         "away" : {
           "name" : "Italy",
           "id" : 5,
@@ -37,7 +45,7 @@
         }
       },
       {
-        "date" : 1501008300,
+        "date" : 1496083500,
         "location" : "Stadion Galgenwaard, Utrecht",
         "home" : {
           "name" : "Russia",
@@ -46,6 +54,10 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/77\/Russian_Football_Union.png"
         },
         "id" : 19,
+        "score" : {
+          "away" : 1,
+          "home" : 6
+        },
         "away" : {
           "name" : "Germany",
           "id" : 3,
@@ -93,5 +105,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
   },
-  "edition" : 59
+  "edition" : 60
 }

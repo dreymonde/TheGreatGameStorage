@@ -3,7 +3,7 @@
     "name" : "Belgium",
     "matches" : [
       {
-        "date" : 1500230700,
+        "date" : 1495305900,
         "location" : "De Vijverberg, Doetinchem",
         "home" : {
           "name" : "Denmark",
@@ -12,6 +12,10 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
         },
         "id" : 2,
+        "score" : {
+          "away" : 8,
+          "home" : 5
+        },
         "away" : {
           "name" : "Belgium",
           "id" : 15,
@@ -20,7 +24,7 @@
         }
       },
       {
-        "date" : 1500566400,
+        "date" : 1495641600,
         "location" : "Rat Verlegh Stadion, Breda",
         "home" : {
           "name" : "Norway",
@@ -29,6 +33,10 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
         },
         "id" : 9,
+        "score" : {
+          "away" : 5,
+          "home" : 1
+        },
         "away" : {
           "name" : "Belgium",
           "id" : 15,
@@ -37,7 +45,7 @@
         }
       },
       {
-        "date" : 1500921900,
+        "date" : 1495997100,
         "location" : "Koning Willem II Stadion, Tilburg",
         "home" : {
           "name" : "Belgium",
@@ -46,6 +54,10 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/f\/f5\/Belgium_urbsfa.png"
         },
         "id" : 17,
+        "score" : {
+          "away" : 3,
+          "home" : 3
+        },
         "away" : {
           "name" : "Netherlands",
           "id" : 2,
@@ -93,5 +105,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/f\/f5\/Belgium_urbsfa.png"
   },
-  "edition" : 59
+  "edition" : 60
 }

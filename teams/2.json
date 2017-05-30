@@ -3,7 +3,7 @@
     "name" : "Netherlands",
     "matches" : [
       {
-        "date" : 1500220800,
+        "date" : 1495296000,
         "location" : "Stadion Galgenwaard, Utrecht",
         "home" : {
           "name" : "Netherlands",
@@ -12,6 +12,10 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/a\/a1\/Royal_Netherlands_Football_Association_Logo.svg\/428px-Royal_Netherlands_Football_Association_Logo.svg.png"
         },
         "id" : 1,
+        "score" : {
+          "away" : 9,
+          "home" : 0
+        },
         "away" : {
           "name" : "Norway",
           "id" : 8,
@@ -20,7 +24,7 @@
         }
       },
       {
-        "date" : 1500576300,
+        "date" : 1495651500,
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "home" : {
           "name" : "Netherlands",
@@ -29,6 +33,10 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/a\/a1\/Royal_Netherlands_Football_Association_Logo.svg\/428px-Royal_Netherlands_Football_Association_Logo.svg.png"
         },
         "id" : 10,
+        "score" : {
+          "away" : 9,
+          "home" : 5
+        },
         "away" : {
           "name" : "Denmark",
           "id" : 13,
@@ -37,7 +45,7 @@
         }
       },
       {
-        "date" : 1500921900,
+        "date" : 1495997100,
         "location" : "Koning Willem II Stadion, Tilburg",
         "home" : {
           "name" : "Belgium",
@@ -46,6 +54,10 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/f\/f5\/Belgium_urbsfa.png"
         },
         "id" : 17,
+        "score" : {
+          "away" : 3,
+          "home" : 3
+        },
         "away" : {
           "name" : "Netherlands",
           "id" : 2,
@@ -93,5 +105,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/a\/a1\/Royal_Netherlands_Football_Association_Logo.svg\/428px-Royal_Netherlands_Football_Association_Logo.svg.png"
   },
-  "edition" : 59
+  "edition" : 60
 }

@@ -3,7 +3,7 @@
     "name" : "Russia",
     "matches" : [
       {
-        "date" : 1500307200,
+        "date" : 1495382400,
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "home" : {
           "name" : "Italy",
@@ -12,6 +12,10 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
         },
         "id" : 3,
+        "score" : {
+          "away" : 9,
+          "home" : 5
+        },
         "away" : {
           "name" : "Russia",
           "id" : 4,
@@ -20,7 +24,7 @@
         }
       },
       {
-        "date" : 1500652800,
+        "date" : 1495728000,
         "location" : "De Adelaarshorst, Deventer",
         "home" : {
           "name" : "Sweden",
@@ -29,6 +33,10 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/35\/Sweden_national_football_team_logo.png"
         },
         "id" : 11,
+        "score" : {
+          "away" : 8,
+          "home" : 9
+        },
         "away" : {
           "name" : "Russia",
           "id" : 4,
@@ -37,7 +45,7 @@
         }
       },
       {
-        "date" : 1501008300,
+        "date" : 1496083500,
         "location" : "Stadion Galgenwaard, Utrecht",
         "home" : {
           "name" : "Russia",
@@ -46,6 +54,10 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/77\/Russian_Football_Union.png"
         },
         "id" : 19,
+        "score" : {
+          "away" : 1,
+          "home" : 6
+        },
         "away" : {
           "name" : "Germany",
           "id" : 3,
@@ -93,5 +105,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/77\/Russian_Football_Union.png"
   },
-  "edition" : 59
+  "edition" : 60
 }

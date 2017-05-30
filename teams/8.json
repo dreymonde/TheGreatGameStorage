@@ -3,7 +3,7 @@
     "name" : "Norway",
     "matches" : [
       {
-        "date" : 1500220800,
+        "date" : 1495296000,
         "location" : "Stadion Galgenwaard, Utrecht",
         "home" : {
           "name" : "Netherlands",
@@ -12,6 +12,10 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/a\/a1\/Royal_Netherlands_Football_Association_Logo.svg\/428px-Royal_Netherlands_Football_Association_Logo.svg.png"
         },
         "id" : 1,
+        "score" : {
+          "away" : 9,
+          "home" : 0
+        },
         "away" : {
           "name" : "Norway",
           "id" : 8,
@@ -20,7 +24,7 @@
         }
       },
       {
-        "date" : 1500566400,
+        "date" : 1495641600,
         "location" : "Rat Verlegh Stadion, Breda",
         "home" : {
           "name" : "Norway",
@@ -29,6 +33,10 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
         },
         "id" : 9,
+        "score" : {
+          "away" : 5,
+          "home" : 1
+        },
         "away" : {
           "name" : "Belgium",
           "id" : 15,
@@ -37,7 +45,7 @@
         }
       },
       {
-        "date" : 1500921900,
+        "date" : 1495997100,
         "location" : "De Adelaarshorst, Deventer",
         "home" : {
           "name" : "Norway",
@@ -46,6 +54,10 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
         },
         "id" : 18,
+        "score" : {
+          "away" : 8,
+          "home" : 5
+        },
         "away" : {
           "name" : "Denmark",
           "id" : 13,
@@ -93,5 +105,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
   },
-  "edition" : 59
+  "edition" : 60
 }

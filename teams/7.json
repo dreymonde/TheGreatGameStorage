@@ -3,7 +3,7 @@
     "name" : "England",
     "matches" : [
       {
-        "date" : 1500489900,
+        "date" : 1495565100,
         "location" : "Stadion Galgenwaard, Utrecht",
         "home" : {
           "name" : "England",
@@ -12,6 +12,10 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/38\/England_crest_2009.svg\/403px-England_crest_2009.svg.png"
         },
         "id" : 8,
+        "score" : {
+          "away" : 0,
+          "home" : 0
+        },
         "away" : {
           "name" : "Scotland",
           "id" : 12,
@@ -20,7 +24,7 @@
         }
       },
       {
-        "date" : 1500835500,
+        "date" : 1495910700,
         "location" : "Rat Verlegh Stadion, Breda",
         "home" : {
           "name" : "England",
@@ -29,6 +33,10 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/38\/England_crest_2009.svg\/403px-England_crest_2009.svg.png"
         },
         "id" : 16,
+        "score" : {
+          "away" : 4,
+          "home" : 2
+        },
         "away" : {
           "name" : "Spain",
           "id" : 9,
@@ -37,7 +45,7 @@
         }
       },
       {
-        "date" : 1501181100,
+        "date" : 1496256300,
         "location" : "Koning Willem II Stadion, Tilburg",
         "home" : {
           "name" : "Portugal",
@@ -46,6 +54,10 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/5f\/Portuguese_Football_Federation.svg\/359px-Portuguese_Football_Federation.svg.png"
         },
         "id" : 23,
+        "score" : {
+          "away" : 7,
+          "home" : 7
+        },
         "away" : {
           "name" : "England",
           "id" : 7,
@@ -93,5 +105,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/38\/England_crest_2009.svg\/403px-England_crest_2009.svg.png"
   },
-  "edition" : 59
+  "edition" : 60
 }
