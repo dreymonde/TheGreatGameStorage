@@ -3,8 +3,8 @@
     "name" : "Italy",
     "matches" : [
       {
-        "endDate" : 1502991900,
-        "date" : 1502985600,
+        "endDate" : 1495388700,
+        "date" : 1495382400,
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "home" : {
           "name" : "Italy",
@@ -21,8 +21,8 @@
         }
       },
       {
-        "endDate" : 1503347400,
-        "date" : 1503341100,
+        "endDate" : 1495744200,
+        "date" : 1495737900,
         "location" : "Koning Willem II Stadion, Tilburg",
         "home" : {
           "name" : "Germany",
@@ -39,8 +39,8 @@
         }
       },
       {
-        "endDate" : 1503693000,
-        "date" : 1503686700,
+        "endDate" : 1496089800,
+        "date" : 1496083500,
         "location" : "De Vijverberg, Doetinchem",
         "home" : {
           "name" : "Sweden",
@@ -96,5 +96,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
   },
-  "edition" : 67
+  "edition" : 68
 }

@@ -2,8 +2,8 @@
   "content" : {
     "matches" : [
       {
-        "endDate" : 1503164700,
-        "date" : 1503158400,
+        "endDate" : 1495561500,
+        "date" : 1495555200,
         "location" : "De Vijverberg, Doetinchem",
         "home" : {
           "name" : "Spain",
@@ -20,8 +20,8 @@
         }
       },
       {
-        "endDate" : 1503174600,
-        "date" : 1503168300,
+        "endDate" : 1495571400,
+        "date" : 1495565100,
         "location" : "Stadion Galgenwaard, Utrecht",
         "home" : {
           "name" : "England",
@@ -38,8 +38,8 @@
         }
       },
       {
-        "endDate" : 1503510300,
-        "date" : 1503504000,
+        "endDate" : 1495907100,
+        "date" : 1495900800,
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "home" : {
           "name" : "Scotland",
@@ -56,8 +56,8 @@
         }
       },
       {
-        "endDate" : 1503520200,
-        "date" : 1503513900,
+        "endDate" : 1495917000,
+        "date" : 1495910700,
         "location" : "Rat Verlegh Stadion, Breda",
         "home" : {
           "name" : "England",
@@ -74,8 +74,8 @@
         }
       },
       {
-        "endDate" : 1503865800,
-        "date" : 1503859500,
+        "endDate" : 1496262600,
+        "date" : 1496256300,
         "location" : "Koning Willem II Stadion, Tilburg",
         "home" : {
           "name" : "Portugal",
@@ -92,8 +92,8 @@
         }
       },
       {
-        "endDate" : 1503865800,
-        "date" : 1503859500,
+        "endDate" : 1496262600,
+        "date" : 1496256300,
         "location" : "De Adelaarshorst, Deventer",
         "home" : {
           "name" : "Scotland",
@@ -143,5 +143,5 @@
     ],
     "id" : 4
   },
-  "edition" : 67
+  "edition" : 68
 }
