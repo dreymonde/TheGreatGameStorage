@@ -5,17 +5,17 @@
         "location" : "Stadion Galgenwaard, Utrecht",
         "score" : {
           "away" : 1,
-          "home" : 3
+          "home" : 2
         },
         "id" : 1,
-        "endDate" : 1496137680,
+        "endDate" : 1496146500,
         "away" : {
           "name" : "Norway",
           "id" : 8,
           "short_name" : "NOR",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
         },
-        "date" : 1496131200,
+        "date" : 1496140200,
         "home" : {
           "name" : "Netherlands",
           "id" : 2,
@@ -147,5 +147,5 @@
     ],
     "id" : 1
   },
-  "edition" : 70
+  "edition" : 71
 }
