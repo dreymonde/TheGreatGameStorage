@@ -3,6 +3,7 @@
     "name" : "Iceland",
     "matches" : [
       {
+        "endDate" : 1495485000,
         "date" : 1495478700,
         "location" : "Koning Willem II Stadion, Tilburg",
         "home" : {
@@ -20,6 +21,7 @@
         }
       },
       {
+        "endDate" : 1495820700,
         "date" : 1495814400,
         "location" : "De Vijverberg, Doetinchem",
         "home" : {
@@ -37,6 +39,7 @@
         }
       },
       {
+        "endDate" : 1496176200,
         "date" : 1496169900,
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "home" : {
@@ -93,5 +96,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a5\/Iceland_FA.png"
   },
-  "edition" : 61
+  "edition" : 62
 }

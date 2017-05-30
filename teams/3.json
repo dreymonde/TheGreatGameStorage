@@ -3,6 +3,7 @@
     "name" : "Germany",
     "matches" : [
       {
+        "endDate" : 1495398600,
         "date" : 1495392300,
         "location" : "Rat Verlegh Stadion, Breda",
         "home" : {
@@ -20,6 +21,7 @@
         }
       },
       {
+        "endDate" : 1495744200,
         "date" : 1495737900,
         "location" : "Koning Willem II Stadion, Tilburg",
         "home" : {
@@ -37,6 +39,7 @@
         }
       },
       {
+        "endDate" : 1496089800,
         "date" : 1496083500,
         "location" : "Stadion Galgenwaard, Utrecht",
         "home" : {
@@ -93,5 +96,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
   },
-  "edition" : 61
+  "edition" : 62
 }

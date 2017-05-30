@@ -2,6 +2,7 @@
   "content" : {
     "matches" : [
       {
+        "endDate" : 1495475100,
         "date" : 1495468800,
         "location" : "De Adelaarshorst, Deventer",
         "home" : {
@@ -19,6 +20,7 @@
         }
       },
       {
+        "endDate" : 1495485000,
         "date" : 1495478700,
         "location" : "Koning Willem II Stadion, Tilburg",
         "home" : {
@@ -36,6 +38,7 @@
         }
       },
       {
+        "endDate" : 1495820700,
         "date" : 1495814400,
         "location" : "De Vijverberg, Doetinchem",
         "home" : {
@@ -53,6 +56,7 @@
         }
       },
       {
+        "endDate" : 1495830600,
         "date" : 1495824300,
         "location" : "Stadion Galgenwaard, Utrecht",
         "home" : {
@@ -70,6 +74,7 @@
         }
       },
       {
+        "endDate" : 1496176200,
         "date" : 1496169900,
         "location" : "Rat Verlegh Stadion, Breda",
         "home" : {
@@ -87,6 +92,7 @@
         }
       },
       {
+        "endDate" : 1496176200,
         "date" : 1496169900,
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "home" : {
@@ -137,5 +143,5 @@
     ],
     "id" : 3
   },
-  "edition" : 61
+  "edition" : 62
 }

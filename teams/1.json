@@ -3,6 +3,7 @@
     "name" : "Sweden",
     "matches" : [
       {
+        "endDate" : 1495398600,
         "date" : 1495392300,
         "location" : "Rat Verlegh Stadion, Breda",
         "home" : {
@@ -20,6 +21,7 @@
         }
       },
       {
+        "endDate" : 1495734300,
         "date" : 1495728000,
         "location" : "De Adelaarshorst, Deventer",
         "home" : {
@@ -37,6 +39,7 @@
         }
       },
       {
+        "endDate" : 1496089800,
         "date" : 1496083500,
         "location" : "De Vijverberg, Doetinchem",
         "home" : {
@@ -93,5 +96,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/35\/Sweden_national_football_team_logo.png"
   },
-  "edition" : 61
+  "edition" : 62
 }

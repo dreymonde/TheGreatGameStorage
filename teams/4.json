@@ -3,6 +3,7 @@
     "name" : "Russia",
     "matches" : [
       {
+        "endDate" : 1495388700,
         "date" : 1495382400,
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "home" : {
@@ -20,6 +21,7 @@
         }
       },
       {
+        "endDate" : 1495734300,
         "date" : 1495728000,
         "location" : "De Adelaarshorst, Deventer",
         "home" : {
@@ -37,6 +39,7 @@
         }
       },
       {
+        "endDate" : 1496089800,
         "date" : 1496083500,
         "location" : "Stadion Galgenwaard, Utrecht",
         "home" : {
@@ -93,5 +96,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/77\/Russian_Football_Union.png"
   },
-  "edition" : 61
+  "edition" : 62
 }

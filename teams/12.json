@@ -3,6 +3,7 @@
     "name" : "Scotland",
     "matches" : [
       {
+        "endDate" : 1495571400,
         "date" : 1495565100,
         "location" : "Stadion Galgenwaard, Utrecht",
         "home" : {
@@ -20,6 +21,7 @@
         }
       },
       {
+        "endDate" : 1495907100,
         "date" : 1495900800,
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "home" : {
@@ -37,6 +39,7 @@
         }
       },
       {
+        "endDate" : 1496262600,
         "date" : 1496256300,
         "location" : "De Adelaarshorst, Deventer",
         "home" : {
@@ -93,5 +96,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/8\/8f\/Scotland_national_football_team_logo.svg\/480px-Scotland_national_football_team_logo.svg.png"
   },
-  "edition" : 61
+  "edition" : 62
 }

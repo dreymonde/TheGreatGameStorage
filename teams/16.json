@@ -3,6 +3,7 @@
     "name" : "Portugal",
     "matches" : [
       {
+        "endDate" : 1495561500,
         "date" : 1495555200,
         "location" : "De Vijverberg, Doetinchem",
         "home" : {
@@ -20,6 +21,7 @@
         }
       },
       {
+        "endDate" : 1495907100,
         "date" : 1495900800,
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "home" : {
@@ -37,6 +39,7 @@
         }
       },
       {
+        "endDate" : 1496262600,
         "date" : 1496256300,
         "location" : "Koning Willem II Stadion, Tilburg",
         "home" : {
@@ -93,5 +96,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/5f\/Portuguese_Football_Federation.svg\/359px-Portuguese_Football_Federation.svg.png"
   },
-  "edition" : 61
+  "edition" : 62
 }

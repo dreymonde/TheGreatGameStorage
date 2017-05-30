@@ -3,6 +3,7 @@
     "name" : "Denmark",
     "matches" : [
       {
+        "endDate" : 1495312200,
         "date" : 1495305900,
         "location" : "De Vijverberg, Doetinchem",
         "home" : {
@@ -20,6 +21,7 @@
         }
       },
       {
+        "endDate" : 1495657800,
         "date" : 1495651500,
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "home" : {
@@ -37,6 +39,7 @@
         }
       },
       {
+        "endDate" : 1496003400,
         "date" : 1495997100,
         "location" : "De Adelaarshorst, Deventer",
         "home" : {
@@ -93,5 +96,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
   },
-  "edition" : 61
+  "edition" : 62
 }
