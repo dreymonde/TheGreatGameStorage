@@ -12,10 +12,6 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/38\/England_crest_2009.svg\/403px-England_crest_2009.svg.png"
         },
         "id" : 8,
-        "score" : {
-          "away" : 0,
-          "home" : 0
-        },
         "away" : {
           "name" : "Scotland",
           "id" : 12,
@@ -33,10 +29,6 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/8\/8f\/Scotland_national_football_team_logo.svg\/480px-Scotland_national_football_team_logo.svg.png"
         },
         "id" : 15,
-        "score" : {
-          "away" : 2,
-          "home" : 5
-        },
         "away" : {
           "name" : "Portugal",
           "id" : 16,
@@ -54,10 +46,6 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/8\/8f\/Scotland_national_football_team_logo.svg\/480px-Scotland_national_football_team_logo.svg.png"
         },
         "id" : 24,
-        "score" : {
-          "away" : 0,
-          "home" : 7
-        },
         "away" : {
           "name" : "Spain",
           "id" : 9,
@@ -105,5 +93,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/8\/8f\/Scotland_national_football_team_logo.svg\/480px-Scotland_national_football_team_logo.svg.png"
   },
-  "edition" : 60
+  "edition" : 61
 }

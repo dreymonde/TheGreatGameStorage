@@ -12,8 +12,8 @@
         },
         "id" : 1,
         "score" : {
-          "away" : 9,
-          "home" : 0
+          "away" : 0,
+          "home" : 1
         },
         "away" : {
           "name" : "Norway",
@@ -32,10 +32,6 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
         },
         "id" : 2,
-        "score" : {
-          "away" : 8,
-          "home" : 5
-        },
         "away" : {
           "name" : "Belgium",
           "id" : 15,
@@ -53,10 +49,6 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
         },
         "id" : 3,
-        "score" : {
-          "away" : 9,
-          "home" : 5
-        },
         "away" : {
           "name" : "Russia",
           "id" : 4,
@@ -74,10 +66,6 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
         },
         "id" : 4,
-        "score" : {
-          "away" : 1,
-          "home" : 1
-        },
         "away" : {
           "name" : "Sweden",
           "id" : 1,
@@ -95,10 +83,6 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/14\/%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg\/640px-%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg.png"
         },
         "id" : 5,
-        "score" : {
-          "away" : 6,
-          "home" : 0
-        },
         "away" : {
           "name" : "Switzerland",
           "id" : 10,
@@ -116,10 +100,6 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/96\/Le_nouveau_logo_FFF.png"
         },
         "id" : 6,
-        "score" : {
-          "away" : 3,
-          "home" : 6
-        },
         "away" : {
           "name" : "Iceland",
           "id" : 11,
@@ -137,10 +117,6 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/31\/Spain_National_Football_Team_badge.png"
         },
         "id" : 7,
-        "score" : {
-          "away" : 5,
-          "home" : 0
-        },
         "away" : {
           "name" : "Portugal",
           "id" : 16,
@@ -158,10 +134,6 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/38\/England_crest_2009.svg\/403px-England_crest_2009.svg.png"
         },
         "id" : 8,
-        "score" : {
-          "away" : 0,
-          "home" : 0
-        },
         "away" : {
           "name" : "Scotland",
           "id" : 12,
@@ -179,10 +151,6 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
         },
         "id" : 9,
-        "score" : {
-          "away" : 5,
-          "home" : 1
-        },
         "away" : {
           "name" : "Belgium",
           "id" : 15,
@@ -200,10 +168,6 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/a\/a1\/Royal_Netherlands_Football_Association_Logo.svg\/428px-Royal_Netherlands_Football_Association_Logo.svg.png"
         },
         "id" : 10,
-        "score" : {
-          "away" : 9,
-          "home" : 5
-        },
         "away" : {
           "name" : "Denmark",
           "id" : 13,
@@ -221,10 +185,6 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/35\/Sweden_national_football_team_logo.png"
         },
         "id" : 11,
-        "score" : {
-          "away" : 8,
-          "home" : 9
-        },
         "away" : {
           "name" : "Russia",
           "id" : 4,
@@ -242,10 +202,6 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
         },
         "id" : 12,
-        "score" : {
-          "away" : 2,
-          "home" : 7
-        },
         "away" : {
           "name" : "Italy",
           "id" : 5,
@@ -263,10 +219,6 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a5\/Iceland_FA.png"
         },
         "id" : 13,
-        "score" : {
-          "away" : 5,
-          "home" : 2
-        },
         "away" : {
           "name" : "Switzerland",
           "id" : 10,
@@ -284,10 +236,6 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/96\/Le_nouveau_logo_FFF.png"
         },
         "id" : 14,
-        "score" : {
-          "away" : 1,
-          "home" : 0
-        },
         "away" : {
           "name" : "Austria",
           "id" : 14,
@@ -305,10 +253,6 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/8\/8f\/Scotland_national_football_team_logo.svg\/480px-Scotland_national_football_team_logo.svg.png"
         },
         "id" : 15,
-        "score" : {
-          "away" : 2,
-          "home" : 5
-        },
         "away" : {
           "name" : "Portugal",
           "id" : 16,
@@ -326,10 +270,6 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/38\/England_crest_2009.svg\/403px-England_crest_2009.svg.png"
         },
         "id" : 16,
-        "score" : {
-          "away" : 4,
-          "home" : 2
-        },
         "away" : {
           "name" : "Spain",
           "id" : 9,
@@ -347,10 +287,6 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/f\/f5\/Belgium_urbsfa.png"
         },
         "id" : 17,
-        "score" : {
-          "away" : 3,
-          "home" : 3
-        },
         "away" : {
           "name" : "Netherlands",
           "id" : 2,
@@ -368,10 +304,6 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
         },
         "id" : 18,
-        "score" : {
-          "away" : 8,
-          "home" : 5
-        },
         "away" : {
           "name" : "Denmark",
           "id" : 13,
@@ -389,10 +321,6 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/77\/Russian_Football_Union.png"
         },
         "id" : 19,
-        "score" : {
-          "away" : 1,
-          "home" : 6
-        },
         "away" : {
           "name" : "Germany",
           "id" : 3,
@@ -410,10 +338,6 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/35\/Sweden_national_football_team_logo.png"
         },
         "id" : 20,
-        "score" : {
-          "away" : 0,
-          "home" : 5
-        },
         "away" : {
           "name" : "Italy",
           "id" : 5,
@@ -431,10 +355,6 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/53\/SFV_Logo.svg\/640px-SFV_Logo.svg.png"
         },
         "id" : 21,
-        "score" : {
-          "away" : 7,
-          "home" : 7
-        },
         "away" : {
           "name" : "France",
           "id" : 6,
@@ -452,10 +372,6 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a5\/Iceland_FA.png"
         },
         "id" : 22,
-        "score" : {
-          "away" : 0,
-          "home" : 5
-        },
         "away" : {
           "name" : "Austria",
           "id" : 14,
@@ -473,10 +389,6 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/5f\/Portuguese_Football_Federation.svg\/359px-Portuguese_Football_Federation.svg.png"
         },
         "id" : 23,
-        "score" : {
-          "away" : 7,
-          "home" : 7
-        },
         "away" : {
           "name" : "England",
           "id" : 7,
@@ -494,10 +406,6 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/8\/8f\/Scotland_national_football_team_logo.svg\/480px-Scotland_national_football_team_logo.svg.png"
         },
         "id" : 24,
-        "score" : {
-          "away" : 0,
-          "home" : 7
-        },
         "away" : {
           "name" : "Spain",
           "id" : 9,
@@ -507,5 +415,5 @@
       }
     ]
   },
-  "edition" : 60
+  "edition" : 61
 }

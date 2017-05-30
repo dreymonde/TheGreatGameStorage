@@ -12,10 +12,6 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
         },
         "id" : 2,
-        "score" : {
-          "away" : 8,
-          "home" : 5
-        },
         "away" : {
           "name" : "Belgium",
           "id" : 15,
@@ -33,10 +29,6 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
         },
         "id" : 9,
-        "score" : {
-          "away" : 5,
-          "home" : 1
-        },
         "away" : {
           "name" : "Belgium",
           "id" : 15,
@@ -54,10 +46,6 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/f\/f5\/Belgium_urbsfa.png"
         },
         "id" : 17,
-        "score" : {
-          "away" : 3,
-          "home" : 3
-        },
         "away" : {
           "name" : "Netherlands",
           "id" : 2,
@@ -105,5 +93,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/f\/f5\/Belgium_urbsfa.png"
   },
-  "edition" : 60
+  "edition" : 61
 }

@@ -13,8 +13,8 @@
         },
         "id" : 1,
         "score" : {
-          "away" : 9,
-          "home" : 0
+          "away" : 0,
+          "home" : 1
         },
         "away" : {
           "name" : "Norway",
@@ -33,10 +33,6 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
         },
         "id" : 9,
-        "score" : {
-          "away" : 5,
-          "home" : 1
-        },
         "away" : {
           "name" : "Belgium",
           "id" : 15,
@@ -54,10 +50,6 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
         },
         "id" : 18,
-        "score" : {
-          "away" : 8,
-          "home" : 5
-        },
         "away" : {
           "name" : "Denmark",
           "id" : 13,
@@ -105,5 +97,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
   },
-  "edition" : 60
+  "edition" : 61
 }

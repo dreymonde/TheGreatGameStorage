@@ -12,10 +12,6 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
         },
         "id" : 4,
-        "score" : {
-          "away" : 1,
-          "home" : 1
-        },
         "away" : {
           "name" : "Sweden",
           "id" : 1,
@@ -33,10 +29,6 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
         },
         "id" : 12,
-        "score" : {
-          "away" : 2,
-          "home" : 7
-        },
         "away" : {
           "name" : "Italy",
           "id" : 5,
@@ -54,10 +46,6 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/77\/Russian_Football_Union.png"
         },
         "id" : 19,
-        "score" : {
-          "away" : 1,
-          "home" : 6
-        },
         "away" : {
           "name" : "Germany",
           "id" : 3,
@@ -105,5 +93,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
   },
-  "edition" : 60
+  "edition" : 61
 }

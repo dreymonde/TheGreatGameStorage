@@ -12,10 +12,6 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/96\/Le_nouveau_logo_FFF.png"
         },
         "id" : 6,
-        "score" : {
-          "away" : 3,
-          "home" : 6
-        },
         "away" : {
           "name" : "Iceland",
           "id" : 11,
@@ -33,10 +29,6 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/96\/Le_nouveau_logo_FFF.png"
         },
         "id" : 14,
-        "score" : {
-          "away" : 1,
-          "home" : 0
-        },
         "away" : {
           "name" : "Austria",
           "id" : 14,
@@ -54,10 +46,6 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/53\/SFV_Logo.svg\/640px-SFV_Logo.svg.png"
         },
         "id" : 21,
-        "score" : {
-          "away" : 7,
-          "home" : 7
-        },
         "away" : {
           "name" : "France",
           "id" : 6,
@@ -105,5 +93,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/96\/Le_nouveau_logo_FFF.png"
   },
-  "edition" : 60
+  "edition" : 61
 }
