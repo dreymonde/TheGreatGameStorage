@@ -3,8 +3,8 @@
     "name" : "Switzerland",
     "matches" : [
       {
-        "endDate" : 1495475100,
-        "date" : 1495468800,
+        "endDate" : 1503078300,
+        "date" : 1503072000,
         "location" : "De Adelaarshorst, Deventer",
         "home" : {
           "name" : "Austria",
@@ -21,8 +21,8 @@
         }
       },
       {
-        "endDate" : 1495820700,
-        "date" : 1495814400,
+        "endDate" : 1503423900,
+        "date" : 1503417600,
         "location" : "De Vijverberg, Doetinchem",
         "home" : {
           "name" : "Iceland",
@@ -39,8 +39,8 @@
         }
       },
       {
-        "endDate" : 1496176200,
-        "date" : 1496169900,
+        "endDate" : 1503779400,
+        "date" : 1503773100,
         "location" : "Rat Verlegh Stadion, Breda",
         "home" : {
           "name" : "Switzerland",
@@ -96,5 +96,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/53\/SFV_Logo.svg\/640px-SFV_Logo.svg.png"
   },
-  "edition" : 65
+  "edition" : 66
 }

@@ -24,8 +24,8 @@
         }
       },
       {
-        "endDate" : 1495312200,
-        "date" : 1495305900,
+        "endDate" : 1502915400,
+        "date" : 1502909100,
         "location" : "De Vijverberg, Doetinchem",
         "home" : {
           "name" : "Denmark",
@@ -42,8 +42,8 @@
         }
       },
       {
-        "endDate" : 1495388700,
-        "date" : 1495382400,
+        "endDate" : 1502991900,
+        "date" : 1502985600,
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "home" : {
           "name" : "Italy",
@@ -60,8 +60,8 @@
         }
       },
       {
-        "endDate" : 1495398600,
-        "date" : 1495392300,
+        "endDate" : 1503001800,
+        "date" : 1502995500,
         "location" : "Rat Verlegh Stadion, Breda",
         "home" : {
           "name" : "Germany",
@@ -78,8 +78,8 @@
         }
       },
       {
-        "endDate" : 1495475100,
-        "date" : 1495468800,
+        "endDate" : 1503078300,
+        "date" : 1503072000,
         "location" : "De Adelaarshorst, Deventer",
         "home" : {
           "name" : "Austria",
@@ -96,8 +96,8 @@
         }
       },
       {
-        "endDate" : 1495485000,
-        "date" : 1495478700,
+        "endDate" : 1503088200,
+        "date" : 1503081900,
         "location" : "Koning Willem II Stadion, Tilburg",
         "home" : {
           "name" : "France",
@@ -114,8 +114,8 @@
         }
       },
       {
-        "endDate" : 1495561500,
-        "date" : 1495555200,
+        "endDate" : 1503164700,
+        "date" : 1503158400,
         "location" : "De Vijverberg, Doetinchem",
         "home" : {
           "name" : "Spain",
@@ -132,8 +132,8 @@
         }
       },
       {
-        "endDate" : 1495571400,
-        "date" : 1495565100,
+        "endDate" : 1503174600,
+        "date" : 1503168300,
         "location" : "Stadion Galgenwaard, Utrecht",
         "home" : {
           "name" : "England",
@@ -150,8 +150,8 @@
         }
       },
       {
-        "endDate" : 1495647900,
-        "date" : 1495641600,
+        "endDate" : 1503251100,
+        "date" : 1503244800,
         "location" : "Rat Verlegh Stadion, Breda",
         "home" : {
           "name" : "Norway",
@@ -168,8 +168,8 @@
         }
       },
       {
-        "endDate" : 1495657800,
-        "date" : 1495651500,
+        "endDate" : 1503261000,
+        "date" : 1503254700,
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "home" : {
           "name" : "Netherlands",
@@ -186,8 +186,8 @@
         }
       },
       {
-        "endDate" : 1495734300,
-        "date" : 1495728000,
+        "endDate" : 1503337500,
+        "date" : 1503331200,
         "location" : "De Adelaarshorst, Deventer",
         "home" : {
           "name" : "Sweden",
@@ -204,8 +204,8 @@
         }
       },
       {
-        "endDate" : 1495744200,
-        "date" : 1495737900,
+        "endDate" : 1503347400,
+        "date" : 1503341100,
         "location" : "Koning Willem II Stadion, Tilburg",
         "home" : {
           "name" : "Germany",
@@ -222,8 +222,8 @@
         }
       },
       {
-        "endDate" : 1495820700,
-        "date" : 1495814400,
+        "endDate" : 1503423900,
+        "date" : 1503417600,
         "location" : "De Vijverberg, Doetinchem",
         "home" : {
           "name" : "Iceland",
@@ -240,8 +240,8 @@
         }
       },
       {
-        "endDate" : 1495830600,
-        "date" : 1495824300,
+        "endDate" : 1503433800,
+        "date" : 1503427500,
         "location" : "Stadion Galgenwaard, Utrecht",
         "home" : {
           "name" : "France",
@@ -258,8 +258,8 @@
         }
       },
       {
-        "endDate" : 1495907100,
-        "date" : 1495900800,
+        "endDate" : 1503510300,
+        "date" : 1503504000,
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "home" : {
           "name" : "Scotland",
@@ -276,8 +276,8 @@
         }
       },
       {
-        "endDate" : 1495917000,
-        "date" : 1495910700,
+        "endDate" : 1503520200,
+        "date" : 1503513900,
         "location" : "Rat Verlegh Stadion, Breda",
         "home" : {
           "name" : "England",
@@ -294,8 +294,8 @@
         }
       },
       {
-        "endDate" : 1496003400,
-        "date" : 1495997100,
+        "endDate" : 1503606600,
+        "date" : 1503600300,
         "location" : "Koning Willem II Stadion, Tilburg",
         "home" : {
           "name" : "Belgium",
@@ -312,8 +312,8 @@
         }
       },
       {
-        "endDate" : 1496003400,
-        "date" : 1495997100,
+        "endDate" : 1503606600,
+        "date" : 1503600300,
         "location" : "De Adelaarshorst, Deventer",
         "home" : {
           "name" : "Norway",
@@ -330,8 +330,8 @@
         }
       },
       {
-        "endDate" : 1496089800,
-        "date" : 1496083500,
+        "endDate" : 1503693000,
+        "date" : 1503686700,
         "location" : "Stadion Galgenwaard, Utrecht",
         "home" : {
           "name" : "Russia",
@@ -348,8 +348,8 @@
         }
       },
       {
-        "endDate" : 1496089800,
-        "date" : 1496083500,
+        "endDate" : 1503693000,
+        "date" : 1503686700,
         "location" : "De Vijverberg, Doetinchem",
         "home" : {
           "name" : "Sweden",
@@ -366,8 +366,8 @@
         }
       },
       {
-        "endDate" : 1496176200,
-        "date" : 1496169900,
+        "endDate" : 1503779400,
+        "date" : 1503773100,
         "location" : "Rat Verlegh Stadion, Breda",
         "home" : {
           "name" : "Switzerland",
@@ -384,8 +384,8 @@
         }
       },
       {
-        "endDate" : 1496176200,
-        "date" : 1496169900,
+        "endDate" : 1503779400,
+        "date" : 1503773100,
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "home" : {
           "name" : "Iceland",
@@ -402,8 +402,8 @@
         }
       },
       {
-        "endDate" : 1496262600,
-        "date" : 1496256300,
+        "endDate" : 1503865800,
+        "date" : 1503859500,
         "location" : "Koning Willem II Stadion, Tilburg",
         "home" : {
           "name" : "Portugal",
@@ -420,8 +420,8 @@
         }
       },
       {
-        "endDate" : 1496262600,
-        "date" : 1496256300,
+        "endDate" : 1503865800,
+        "date" : 1503859500,
         "location" : "De Adelaarshorst, Deventer",
         "home" : {
           "name" : "Scotland",
@@ -439,5 +439,5 @@
       }
     ]
   },
-  "edition" : 65
+  "edition" : 66
 }

@@ -3,8 +3,8 @@
     "name" : "Russia",
     "matches" : [
       {
-        "endDate" : 1495388700,
-        "date" : 1495382400,
+        "endDate" : 1502991900,
+        "date" : 1502985600,
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "home" : {
           "name" : "Italy",
@@ -21,8 +21,8 @@
         }
       },
       {
-        "endDate" : 1495734300,
-        "date" : 1495728000,
+        "endDate" : 1503337500,
+        "date" : 1503331200,
         "location" : "De Adelaarshorst, Deventer",
         "home" : {
           "name" : "Sweden",
@@ -39,8 +39,8 @@
         }
       },
       {
-        "endDate" : 1496089800,
-        "date" : 1496083500,
+        "endDate" : 1503693000,
+        "date" : 1503686700,
         "location" : "Stadion Galgenwaard, Utrecht",
         "home" : {
           "name" : "Russia",
@@ -96,5 +96,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/77\/Russian_Football_Union.png"
   },
-  "edition" : 65
+  "edition" : 66
 }

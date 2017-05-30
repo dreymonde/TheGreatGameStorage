@@ -25,8 +25,8 @@
         }
       },
       {
-        "endDate" : 1495647900,
-        "date" : 1495641600,
+        "endDate" : 1503251100,
+        "date" : 1503244800,
         "location" : "Rat Verlegh Stadion, Breda",
         "home" : {
           "name" : "Norway",
@@ -43,8 +43,8 @@
         }
       },
       {
-        "endDate" : 1496003400,
-        "date" : 1495997100,
+        "endDate" : 1503606600,
+        "date" : 1503600300,
         "location" : "De Adelaarshorst, Deventer",
         "home" : {
           "name" : "Norway",
@@ -100,5 +100,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
   },
-  "edition" : 65
+  "edition" : 66
 }

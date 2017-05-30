@@ -3,8 +3,8 @@
     "name" : "France",
     "matches" : [
       {
-        "endDate" : 1495485000,
-        "date" : 1495478700,
+        "endDate" : 1503088200,
+        "date" : 1503081900,
         "location" : "Koning Willem II Stadion, Tilburg",
         "home" : {
           "name" : "France",
@@ -21,8 +21,8 @@
         }
       },
       {
-        "endDate" : 1495830600,
-        "date" : 1495824300,
+        "endDate" : 1503433800,
+        "date" : 1503427500,
         "location" : "Stadion Galgenwaard, Utrecht",
         "home" : {
           "name" : "France",
@@ -39,8 +39,8 @@
         }
       },
       {
-        "endDate" : 1496176200,
-        "date" : 1496169900,
+        "endDate" : 1503779400,
+        "date" : 1503773100,
         "location" : "Rat Verlegh Stadion, Breda",
         "home" : {
           "name" : "Switzerland",
@@ -96,5 +96,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/96\/Le_nouveau_logo_FFF.png"
   },
-  "edition" : 65
+  "edition" : 66
 }
