@@ -4,11 +4,11 @@
       {
         "location" : "Stadion Galgenwaard, Utrecht",
         "score" : {
-          "away" : 1,
+          "away" : 2,
           "home" : 2
         },
         "id" : 1,
-        "endDate" : 1496232300,
+        "endDate" : 1496232480,
         "away" : {
           "name" : "Norway",
           "id" : 8,
@@ -439,5 +439,5 @@
       }
     ]
   },
-  "edition" : 96
+  "edition" : 97
 }
