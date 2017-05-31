@@ -5,7 +5,7 @@
       {
         "location" : "Stadion Galgenwaard, Utrecht",
         "score" : {
-          "away" : 2,
+          "away" : 1,
           "home" : 2
         },
         "id" : 1,
@@ -100,5 +100,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/a\/a1\/Royal_Netherlands_Football_Association_Logo.svg\/428px-Royal_Netherlands_Football_Association_Logo.svg.png"
   },
-  "edition" : 93
+  "edition" : 94
 }
