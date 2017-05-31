@@ -1,7 +1,7 @@
 {
   "location" : "Stadion Galgenwaard, Utrecht",
   "score" : {
-    "away" : 1,
+    "away" : 2,
     "home" : 2
   },
   "id" : 1,
@@ -40,6 +40,11 @@
       "type" : "goalHome",
       "text" : "Oranges lead again",
       "minute" : 39
+    },
+    {
+      "type" : "goalAway",
+      "text" : "What a!",
+      "minute" : 41
     }
   ]
 }
