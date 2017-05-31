@@ -5,7 +5,7 @@
         "location" : "Stadion Galgenwaard, Utrecht",
         "score" : {
           "away" : 2,
-          "home" : 2
+          "home" : 3
         },
         "id" : 1,
         "stage_title" : "Group A, leg 1",
@@ -48,6 +48,11 @@
             "type" : "goalAway",
             "text" : "What a!",
             "minute" : 41
+          },
+          {
+            "type" : "goalHome",
+            "text" : "It could be it",
+            "minute" : 69
           },
           {
             "type" : "end",
@@ -564,5 +569,5 @@
       }
     ]
   },
-  "edition" : 99
+  "edition" : 100
 }
