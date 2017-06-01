@@ -6,16 +6,16 @@
         "date" : 1495468800,
         "location" : "De Adelaarshorst, Deventer",
         "home" : {
-          "name" : "Austria",
+          "name" : "FC Newport",
           "id" : 14,
-          "short_name" : "AUT",
+          "short_name" : "NWP",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/14\/%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg\/640px-%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg.png"
         },
         "id" : 5,
         "away" : {
-          "name" : "Switzerland",
+          "name" : "Club sportif Monterrey",
           "id" : 10,
-          "short_name" : "SUI",
+          "short_name" : "MON",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/53\/SFV_Logo.svg\/640px-SFV_Logo.svg.png"
         }
       },
@@ -24,16 +24,16 @@
         "date" : 1495478700,
         "location" : "Koning Willem II Stadion, Tilburg",
         "home" : {
-          "name" : "France",
+          "name" : "Cordoba 1921",
           "id" : 6,
           "short_name" : "FRA",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/96\/Le_nouveau_logo_FFF.png"
         },
         "id" : 6,
         "away" : {
-          "name" : "Iceland",
+          "name" : "Sentrum Centrale",
           "id" : 11,
-          "short_name" : "ISL",
+          "short_name" : "SEN",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a5\/Iceland_FA.png"
         }
       },
@@ -42,16 +42,16 @@
         "date" : 1495814400,
         "location" : "De Vijverberg, Doetinchem",
         "home" : {
-          "name" : "Iceland",
+          "name" : "Sentrum Centrale",
           "id" : 11,
-          "short_name" : "ISL",
+          "short_name" : "SEN",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a5\/Iceland_FA.png"
         },
         "id" : 13,
         "away" : {
-          "name" : "Switzerland",
+          "name" : "Club sportif Monterrey",
           "id" : 10,
-          "short_name" : "SUI",
+          "short_name" : "MON",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/53\/SFV_Logo.svg\/640px-SFV_Logo.svg.png"
         }
       },
@@ -60,16 +60,16 @@
         "date" : 1495824300,
         "location" : "Stadion Galgenwaard, Utrecht",
         "home" : {
-          "name" : "France",
+          "name" : "Cordoba 1921",
           "id" : 6,
           "short_name" : "FRA",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/96\/Le_nouveau_logo_FFF.png"
         },
         "id" : 14,
         "away" : {
-          "name" : "Austria",
+          "name" : "FC Newport",
           "id" : 14,
-          "short_name" : "AUT",
+          "short_name" : "NWP",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/14\/%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg\/640px-%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg.png"
         }
       },
@@ -78,14 +78,14 @@
         "date" : 1496169900,
         "location" : "Rat Verlegh Stadion, Breda",
         "home" : {
-          "name" : "Switzerland",
+          "name" : "Club sportif Monterrey",
           "id" : 10,
-          "short_name" : "SUI",
+          "short_name" : "MON",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/53\/SFV_Logo.svg\/640px-SFV_Logo.svg.png"
         },
         "id" : 21,
         "away" : {
-          "name" : "France",
+          "name" : "Cordoba 1921",
           "id" : 6,
           "short_name" : "FRA",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/96\/Le_nouveau_logo_FFF.png"
@@ -96,16 +96,16 @@
         "date" : 1496169900,
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "home" : {
-          "name" : "Iceland",
+          "name" : "Sentrum Centrale",
           "id" : 11,
-          "short_name" : "ISL",
+          "short_name" : "SEN",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a5\/Iceland_FA.png"
         },
         "id" : 22,
         "away" : {
-          "name" : "Austria",
+          "name" : "FC Newport",
           "id" : 14,
-          "short_name" : "AUT",
+          "short_name" : "NWP",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/14\/%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg\/640px-%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg.png"
         }
       }
@@ -114,34 +114,34 @@
     "teams" : [
       {
         "points" : 0,
-        "name" : "France",
+        "name" : "Cordoba 1921",
         "id" : 6,
         "short_name" : "FRA",
         "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/96\/Le_nouveau_logo_FFF.png"
       },
       {
         "points" : 0,
-        "name" : "Iceland",
+        "name" : "Sentrum Centrale",
         "id" : 11,
-        "short_name" : "ISL",
+        "short_name" : "SEN",
         "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a5\/Iceland_FA.png"
       },
       {
         "points" : 0,
-        "name" : "Austria",
+        "name" : "FC Newport",
         "id" : 14,
-        "short_name" : "AUT",
+        "short_name" : "NWP",
         "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/14\/%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg\/640px-%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg.png"
       },
       {
         "points" : 0,
-        "name" : "Switzerland",
+        "name" : "Club sportif Monterrey",
         "id" : 10,
-        "short_name" : "SUI",
+        "short_name" : "MON",
         "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/53\/SFV_Logo.svg\/640px-SFV_Logo.svg.png"
       }
     ],
     "id" : 3
   },
-  "edition" : 100
+  "edition" : 101
 }

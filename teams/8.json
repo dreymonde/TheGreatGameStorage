@@ -1,6 +1,6 @@
 {
   "content" : {
-    "name" : "Norway",
+    "name" : "Swiss SKA",
     "matches" : [
       {
         "location" : "Stadion Galgenwaard, Utrecht",
@@ -11,16 +11,16 @@
         "id" : 1,
         "endDate" : 1496232480,
         "away" : {
-          "name" : "Norway",
+          "name" : "Swiss SKA",
           "id" : 8,
-          "short_name" : "NOR",
+          "short_name" : "SWI",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
         },
         "date" : 1496226000,
         "home" : {
-          "name" : "Netherlands",
+          "name" : "Amber Logistics",
           "id" : 2,
-          "short_name" : "NED",
+          "short_name" : "AMB",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/a\/a1\/Royal_Netherlands_Football_Association_Logo.svg\/428px-Royal_Netherlands_Football_Association_Logo.svg.png"
         }
       },
@@ -29,16 +29,16 @@
         "date" : 1495641600,
         "location" : "Rat Verlegh Stadion, Breda",
         "home" : {
-          "name" : "Norway",
+          "name" : "Swiss SKA",
           "id" : 8,
-          "short_name" : "NOR",
+          "short_name" : "SWI",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
         },
         "id" : 9,
         "away" : {
-          "name" : "Belgium",
+          "name" : "Warhaus Liege",
           "id" : 15,
-          "short_name" : "BEL",
+          "short_name" : "LIE",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/f\/f5\/Belgium_urbsfa.png"
         }
       },
@@ -47,22 +47,22 @@
         "date" : 1495997100,
         "location" : "De Adelaarshorst, Deventer",
         "home" : {
-          "name" : "Norway",
+          "name" : "Swiss SKA",
           "id" : 8,
-          "short_name" : "NOR",
+          "short_name" : "SWI",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
         },
         "id" : 18,
         "away" : {
-          "name" : "Denmark",
+          "name" : "Team Independent",
           "id" : 13,
-          "short_name" : "DEN",
+          "short_name" : "IND",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
         }
       }
     ],
     "id" : 8,
-    "short_name" : "NOR",
+    "short_name" : "SWI",
     "rank" : 4,
     "group" : {
       "id" : 1,
@@ -70,35 +70,35 @@
       "teams" : [
         {
           "points" : 0,
-          "name" : "Netherlands",
+          "name" : "Amber Logistics",
           "id" : 2,
-          "short_name" : "NED",
+          "short_name" : "AMB",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/a\/a1\/Royal_Netherlands_Football_Association_Logo.svg\/428px-Royal_Netherlands_Football_Association_Logo.svg.png"
         },
         {
           "points" : 0,
-          "name" : "Norway",
+          "name" : "Swiss SKA",
           "id" : 8,
-          "short_name" : "NOR",
+          "short_name" : "SWI",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
         },
         {
           "points" : 0,
-          "name" : "Denmark",
+          "name" : "Team Independent",
           "id" : 13,
-          "short_name" : "DEN",
+          "short_name" : "IND",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
         },
         {
           "points" : 0,
-          "name" : "Belgium",
+          "name" : "Warhaus Liege",
           "id" : 15,
-          "short_name" : "BEL",
+          "short_name" : "LIE",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/f\/f5\/Belgium_urbsfa.png"
         }
       ]
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
   },
-  "edition" : 100
+  "edition" : 101
 }

@@ -1,22 +1,22 @@
 {
   "content" : {
-    "name" : "Italy",
+    "name" : "TR Skiff",
     "matches" : [
       {
         "endDate" : 1495388700,
         "date" : 1495382400,
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "home" : {
-          "name" : "Italy",
+          "name" : "TR Skiff",
           "id" : 5,
-          "short_name" : "ITA",
+          "short_name" : "SKF",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
         },
         "id" : 3,
         "away" : {
-          "name" : "Russia",
+          "name" : "SC Guardians",
           "id" : 4,
-          "short_name" : "RUS",
+          "short_name" : "GDS",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/77\/Russian_Football_Union.png"
         }
       },
@@ -25,16 +25,16 @@
         "date" : 1495737900,
         "location" : "Koning Willem II Stadion, Tilburg",
         "home" : {
-          "name" : "Germany",
+          "name" : "Yulios",
           "id" : 3,
-          "short_name" : "GER",
+          "short_name" : "YAL",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
         },
         "id" : 12,
         "away" : {
-          "name" : "Italy",
+          "name" : "TR Skiff",
           "id" : 5,
-          "short_name" : "ITA",
+          "short_name" : "SKF",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
         }
       },
@@ -43,22 +43,22 @@
         "date" : 1496083500,
         "location" : "De Vijverberg, Doetinchem",
         "home" : {
-          "name" : "Sweden",
+          "name" : "Grenadiers",
           "id" : 1,
-          "short_name" : "SWE",
+          "short_name" : "GRD",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/35\/Sweden_national_football_team_logo.png"
         },
         "id" : 20,
         "away" : {
-          "name" : "Italy",
+          "name" : "TR Skiff",
           "id" : 5,
-          "short_name" : "ITA",
+          "short_name" : "SKF",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
         }
       }
     ],
     "id" : 5,
-    "short_name" : "ITA",
+    "short_name" : "SKF",
     "rank" : 8,
     "group" : {
       "id" : 2,
@@ -66,35 +66,35 @@
       "teams" : [
         {
           "points" : 0,
-          "name" : "Germany",
+          "name" : "Yulios",
           "id" : 3,
-          "short_name" : "GER",
+          "short_name" : "YAL",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
         },
         {
           "points" : 3,
-          "name" : "Sweden",
+          "name" : "Grenadiers",
           "id" : 1,
-          "short_name" : "SWE",
+          "short_name" : "GRD",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/35\/Sweden_national_football_team_logo.png"
         },
         {
           "points" : 3,
-          "name" : "Italy",
+          "name" : "TR Skiff",
           "id" : 5,
-          "short_name" : "ITA",
+          "short_name" : "SKF",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
         },
         {
           "points" : 0,
-          "name" : "Russia",
+          "name" : "SC Guardians",
           "id" : 4,
-          "short_name" : "RUS",
+          "short_name" : "GDS",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/77\/Russian_Football_Union.png"
         }
       ]
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
   },
-  "edition" : 100
+  "edition" : 101
 }
