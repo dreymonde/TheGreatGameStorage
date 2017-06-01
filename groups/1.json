@@ -8,14 +8,14 @@
           "home" : 3
         },
         "id" : 1,
-        "endDate" : 1496232480,
+        "endDate" : 1496297280,
         "away" : {
           "name" : "Swiss SKA",
           "id" : 8,
           "short_name" : "SWI",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
         },
-        "date" : 1496226000,
+        "date" : 1496290800,
         "home" : {
           "name" : "Amber Logistics",
           "id" : 2,
@@ -24,8 +24,8 @@
         }
       },
       {
-        "endDate" : 1495312200,
-        "date" : 1495305900,
+        "endDate" : 1495485000,
+        "date" : 1495478700,
         "location" : "De Vijverberg, Doetinchem",
         "home" : {
           "name" : "Team Independent",
@@ -42,8 +42,8 @@
         }
       },
       {
-        "endDate" : 1495647900,
-        "date" : 1495641600,
+        "endDate" : 1495820700,
+        "date" : 1495814400,
         "location" : "Rat Verlegh Stadion, Breda",
         "home" : {
           "name" : "Swiss SKA",
@@ -60,8 +60,8 @@
         }
       },
       {
-        "endDate" : 1495657800,
-        "date" : 1495651500,
+        "endDate" : 1495830600,
+        "date" : 1495824300,
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "home" : {
           "name" : "Amber Logistics",
@@ -78,8 +78,8 @@
         }
       },
       {
-        "endDate" : 1496003400,
-        "date" : 1495997100,
+        "endDate" : 1496176200,
+        "date" : 1496169900,
         "location" : "Koning Willem II Stadion, Tilburg",
         "home" : {
           "name" : "Warhaus Liege",
@@ -96,8 +96,8 @@
         }
       },
       {
-        "endDate" : 1496003400,
-        "date" : 1495997100,
+        "endDate" : 1496176200,
+        "date" : 1496169900,
         "location" : "De Adelaarshorst, Deventer",
         "home" : {
           "name" : "Swiss SKA",
@@ -147,5 +147,5 @@
     ],
     "id" : 1
   },
-  "edition" : 102
+  "edition" : 103
 }

@@ -3,8 +3,8 @@
     "name" : "TR Skiff",
     "matches" : [
       {
-        "endDate" : 1495388700,
-        "date" : 1495382400,
+        "endDate" : 1495561500,
+        "date" : 1495555200,
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "home" : {
           "name" : "TR Skiff",
@@ -21,8 +21,8 @@
         }
       },
       {
-        "endDate" : 1495744200,
-        "date" : 1495737900,
+        "endDate" : 1495917000,
+        "date" : 1495910700,
         "location" : "Koning Willem II Stadion, Tilburg",
         "home" : {
           "name" : "Yulios",
@@ -39,8 +39,8 @@
         }
       },
       {
-        "endDate" : 1496089800,
-        "date" : 1496083500,
+        "endDate" : 1496262600,
+        "date" : 1496256300,
         "location" : "De Vijverberg, Doetinchem",
         "home" : {
           "name" : "Grenadiers",
@@ -96,5 +96,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
   },
-  "edition" : 102
+  "edition" : 103
 }

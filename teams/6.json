@@ -3,8 +3,8 @@
     "name" : "Cordoba 1921",
     "matches" : [
       {
-        "endDate" : 1495485000,
-        "date" : 1495478700,
+        "endDate" : 1495657800,
+        "date" : 1495651500,
         "location" : "Koning Willem II Stadion, Tilburg",
         "home" : {
           "name" : "Cordoba 1921",
@@ -21,8 +21,8 @@
         }
       },
       {
-        "endDate" : 1495830600,
-        "date" : 1495824300,
+        "endDate" : 1496003400,
+        "date" : 1495997100,
         "location" : "Stadion Galgenwaard, Utrecht",
         "home" : {
           "name" : "Cordoba 1921",
@@ -39,8 +39,8 @@
         }
       },
       {
-        "endDate" : 1496176200,
-        "date" : 1496169900,
+        "endDate" : 1496349000,
+        "date" : 1496342700,
         "location" : "Rat Verlegh Stadion, Breda",
         "home" : {
           "name" : "Club sportif Monterrey",
@@ -96,5 +96,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/96\/Le_nouveau_logo_FFF.png"
   },
-  "edition" : 102
+  "edition" : 103
 }

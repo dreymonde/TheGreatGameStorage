@@ -10,14 +10,14 @@
               "home" : 3
             },
             "id" : 1,
-            "endDate" : 1496232480,
+            "endDate" : 1496297280,
             "away" : {
               "name" : "Swiss SKA",
               "id" : 8,
               "short_name" : "SWI",
               "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
             },
-            "date" : 1496226000,
+            "date" : 1496290800,
             "home" : {
               "name" : "Amber Logistics",
               "id" : 2,
@@ -26,8 +26,8 @@
             }
           },
           {
-            "endDate" : 1495312200,
-            "date" : 1495305900,
+            "endDate" : 1495485000,
+            "date" : 1495478700,
             "location" : "De Vijverberg, Doetinchem",
             "home" : {
               "name" : "Team Independent",
@@ -49,8 +49,8 @@
       {
         "matches" : [
           {
-            "endDate" : 1495388700,
-            "date" : 1495382400,
+            "endDate" : 1495561500,
+            "date" : 1495555200,
             "location" : "Sparta Stadion Het Kasteel, Rotterdam",
             "home" : {
               "name" : "TR Skiff",
@@ -67,8 +67,8 @@
             }
           },
           {
-            "endDate" : 1495398600,
-            "date" : 1495392300,
+            "endDate" : 1495571400,
+            "date" : 1495565100,
             "location" : "Rat Verlegh Stadion, Breda",
             "home" : {
               "name" : "Yulios",
@@ -90,8 +90,8 @@
       {
         "matches" : [
           {
-            "endDate" : 1495475100,
-            "date" : 1495468800,
+            "endDate" : 1495647900,
+            "date" : 1495641600,
             "location" : "De Adelaarshorst, Deventer",
             "home" : {
               "name" : "FC Newport",
@@ -108,8 +108,8 @@
             }
           },
           {
-            "endDate" : 1495485000,
-            "date" : 1495478700,
+            "endDate" : 1495657800,
+            "date" : 1495651500,
             "location" : "Koning Willem II Stadion, Tilburg",
             "home" : {
               "name" : "Cordoba 1921",
@@ -131,8 +131,8 @@
       {
         "matches" : [
           {
-            "endDate" : 1495561500,
-            "date" : 1495555200,
+            "endDate" : 1495734300,
+            "date" : 1495728000,
             "location" : "De Vijverberg, Doetinchem",
             "home" : {
               "name" : "Union de LaGuardia",
@@ -149,8 +149,8 @@
             }
           },
           {
-            "endDate" : 1495571400,
-            "date" : 1495565100,
+            "endDate" : 1495744200,
+            "date" : 1495737900,
             "location" : "Stadion Galgenwaard, Utrecht",
             "home" : {
               "name" : "Tervik FC",
@@ -172,8 +172,8 @@
       {
         "matches" : [
           {
-            "endDate" : 1495647900,
-            "date" : 1495641600,
+            "endDate" : 1495820700,
+            "date" : 1495814400,
             "location" : "Rat Verlegh Stadion, Breda",
             "home" : {
               "name" : "Swiss SKA",
@@ -190,8 +190,8 @@
             }
           },
           {
-            "endDate" : 1495657800,
-            "date" : 1495651500,
+            "endDate" : 1495830600,
+            "date" : 1495824300,
             "location" : "Sparta Stadion Het Kasteel, Rotterdam",
             "home" : {
               "name" : "Amber Logistics",
@@ -213,8 +213,8 @@
       {
         "matches" : [
           {
-            "endDate" : 1495734300,
-            "date" : 1495728000,
+            "endDate" : 1495907100,
+            "date" : 1495900800,
             "location" : "De Adelaarshorst, Deventer",
             "home" : {
               "name" : "Grenadiers",
@@ -231,8 +231,8 @@
             }
           },
           {
-            "endDate" : 1495744200,
-            "date" : 1495737900,
+            "endDate" : 1495917000,
+            "date" : 1495910700,
             "location" : "Koning Willem II Stadion, Tilburg",
             "home" : {
               "name" : "Yulios",
@@ -254,8 +254,8 @@
       {
         "matches" : [
           {
-            "endDate" : 1495820700,
-            "date" : 1495814400,
+            "endDate" : 1495993500,
+            "date" : 1495987200,
             "location" : "De Vijverberg, Doetinchem",
             "home" : {
               "name" : "Sentrum Centrale",
@@ -272,8 +272,8 @@
             }
           },
           {
-            "endDate" : 1495830600,
-            "date" : 1495824300,
+            "endDate" : 1496003400,
+            "date" : 1495997100,
             "location" : "Stadion Galgenwaard, Utrecht",
             "home" : {
               "name" : "Cordoba 1921",
@@ -295,8 +295,8 @@
       {
         "matches" : [
           {
-            "endDate" : 1495907100,
-            "date" : 1495900800,
+            "endDate" : 1496079900,
+            "date" : 1496073600,
             "location" : "Sparta Stadion Het Kasteel, Rotterdam",
             "home" : {
               "name" : "Dynamo Pyabnicka",
@@ -313,8 +313,8 @@
             }
           },
           {
-            "endDate" : 1495917000,
-            "date" : 1495910700,
+            "endDate" : 1496089800,
+            "date" : 1496083500,
             "location" : "Rat Verlegh Stadion, Breda",
             "home" : {
               "name" : "Tervik FC",
@@ -336,8 +336,8 @@
       {
         "matches" : [
           {
-            "endDate" : 1496003400,
-            "date" : 1495997100,
+            "endDate" : 1496176200,
+            "date" : 1496169900,
             "location" : "Koning Willem II Stadion, Tilburg",
             "home" : {
               "name" : "Warhaus Liege",
@@ -354,8 +354,8 @@
             }
           },
           {
-            "endDate" : 1496003400,
-            "date" : 1495997100,
+            "endDate" : 1496176200,
+            "date" : 1496169900,
             "location" : "De Adelaarshorst, Deventer",
             "home" : {
               "name" : "Swiss SKA",
@@ -377,8 +377,8 @@
       {
         "matches" : [
           {
-            "endDate" : 1496089800,
-            "date" : 1496083500,
+            "endDate" : 1496262600,
+            "date" : 1496256300,
             "location" : "Stadion Galgenwaard, Utrecht",
             "home" : {
               "name" : "SC Guardians",
@@ -395,8 +395,8 @@
             }
           },
           {
-            "endDate" : 1496089800,
-            "date" : 1496083500,
+            "endDate" : 1496262600,
+            "date" : 1496256300,
             "location" : "De Vijverberg, Doetinchem",
             "home" : {
               "name" : "Grenadiers",
@@ -418,8 +418,8 @@
       {
         "matches" : [
           {
-            "endDate" : 1496176200,
-            "date" : 1496169900,
+            "endDate" : 1496349000,
+            "date" : 1496342700,
             "location" : "Rat Verlegh Stadion, Breda",
             "home" : {
               "name" : "Club sportif Monterrey",
@@ -436,8 +436,8 @@
             }
           },
           {
-            "endDate" : 1496176200,
-            "date" : 1496169900,
+            "endDate" : 1496349000,
+            "date" : 1496342700,
             "location" : "Sparta Stadion Het Kasteel, Rotterdam",
             "home" : {
               "name" : "Sentrum Centrale",
@@ -459,8 +459,8 @@
       {
         "matches" : [
           {
-            "endDate" : 1496262600,
-            "date" : 1496256300,
+            "endDate" : 1496435400,
+            "date" : 1496429100,
             "location" : "Koning Willem II Stadion, Tilburg",
             "home" : {
               "name" : "Hirundo National",
@@ -477,8 +477,8 @@
             }
           },
           {
-            "endDate" : 1496262600,
-            "date" : 1496256300,
+            "endDate" : 1496435400,
+            "date" : 1496429100,
             "location" : "De Adelaarshorst, Deventer",
             "home" : {
               "name" : "Dynamo Pyabnicka",
@@ -499,5 +499,5 @@
       }
     ]
   },
-  "edition" : 102
+  "edition" : 103
 }

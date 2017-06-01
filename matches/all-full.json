@@ -9,14 +9,14 @@
         },
         "id" : 1,
         "stage_title" : "Group A, leg 1",
-        "endDate" : 1496232480,
+        "endDate" : 1496297280,
         "away" : {
           "name" : "Swiss SKA",
           "id" : 8,
           "short_name" : "SWI",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
         },
-        "date" : 1496226000,
+        "date" : 1496290800,
         "home" : {
           "name" : "Amber Logistics",
           "id" : 2,
@@ -65,14 +65,14 @@
         "location" : "De Vijverberg, Doetinchem",
         "id" : 2,
         "stage_title" : "Group A, leg 1",
-        "endDate" : 1495312200,
+        "endDate" : 1495485000,
         "away" : {
           "name" : "Warhaus Liege",
           "id" : 15,
           "short_name" : "LIE",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/f\/f5\/Belgium_urbsfa.png"
         },
-        "date" : 1495305900,
+        "date" : 1495478700,
         "home" : {
           "name" : "Team Independent",
           "id" : 13,
@@ -87,14 +87,14 @@
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "id" : 3,
         "stage_title" : "Group B, leg 1",
-        "endDate" : 1495388700,
+        "endDate" : 1495561500,
         "away" : {
           "name" : "SC Guardians",
           "id" : 4,
           "short_name" : "GDS",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/77\/Russian_Football_Union.png"
         },
-        "date" : 1495382400,
+        "date" : 1495555200,
         "home" : {
           "name" : "TR Skiff",
           "id" : 5,
@@ -109,14 +109,14 @@
         "location" : "Rat Verlegh Stadion, Breda",
         "id" : 4,
         "stage_title" : "Group B, leg 1",
-        "endDate" : 1495398600,
+        "endDate" : 1495571400,
         "away" : {
           "name" : "Grenadiers",
           "id" : 1,
           "short_name" : "GRD",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/35\/Sweden_national_football_team_logo.png"
         },
-        "date" : 1495392300,
+        "date" : 1495565100,
         "home" : {
           "name" : "Yulios",
           "id" : 3,
@@ -131,14 +131,14 @@
         "location" : "De Adelaarshorst, Deventer",
         "id" : 5,
         "stage_title" : "Group C, leg 1",
-        "endDate" : 1495475100,
+        "endDate" : 1495647900,
         "away" : {
           "name" : "Club sportif Monterrey",
           "id" : 10,
           "short_name" : "MON",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/53\/SFV_Logo.svg\/640px-SFV_Logo.svg.png"
         },
-        "date" : 1495468800,
+        "date" : 1495641600,
         "home" : {
           "name" : "FC Newport",
           "id" : 14,
@@ -153,14 +153,14 @@
         "location" : "Koning Willem II Stadion, Tilburg",
         "id" : 6,
         "stage_title" : "Group C, leg 1",
-        "endDate" : 1495485000,
+        "endDate" : 1495657800,
         "away" : {
           "name" : "Sentrum Centrale",
           "id" : 11,
           "short_name" : "SEN",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a5\/Iceland_FA.png"
         },
-        "date" : 1495478700,
+        "date" : 1495651500,
         "home" : {
           "name" : "Cordoba 1921",
           "id" : 6,
@@ -175,14 +175,14 @@
         "location" : "De Vijverberg, Doetinchem",
         "id" : 7,
         "stage_title" : "Group D, leg 1",
-        "endDate" : 1495561500,
+        "endDate" : 1495734300,
         "away" : {
           "name" : "Hirundo National",
           "id" : 16,
           "short_name" : "HIR",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/5f\/Portuguese_Football_Federation.svg\/359px-Portuguese_Football_Federation.svg.png"
         },
-        "date" : 1495555200,
+        "date" : 1495728000,
         "home" : {
           "name" : "Union de LaGuardia",
           "id" : 9,
@@ -197,14 +197,14 @@
         "location" : "Stadion Galgenwaard, Utrecht",
         "id" : 8,
         "stage_title" : "Group D, leg 1",
-        "endDate" : 1495571400,
+        "endDate" : 1495744200,
         "away" : {
           "name" : "Dynamo Pyabnicka",
           "id" : 12,
           "short_name" : "DPA",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/8\/8f\/Scotland_national_football_team_logo.svg\/480px-Scotland_national_football_team_logo.svg.png"
         },
-        "date" : 1495565100,
+        "date" : 1495737900,
         "home" : {
           "name" : "Tervik FC",
           "id" : 7,
@@ -219,14 +219,14 @@
         "location" : "Rat Verlegh Stadion, Breda",
         "id" : 9,
         "stage_title" : "Group A, leg 2",
-        "endDate" : 1495647900,
+        "endDate" : 1495820700,
         "away" : {
           "name" : "Warhaus Liege",
           "id" : 15,
           "short_name" : "LIE",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/f\/f5\/Belgium_urbsfa.png"
         },
-        "date" : 1495641600,
+        "date" : 1495814400,
         "home" : {
           "name" : "Swiss SKA",
           "id" : 8,
@@ -241,14 +241,14 @@
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "id" : 10,
         "stage_title" : "Group A, leg 2",
-        "endDate" : 1495657800,
+        "endDate" : 1495830600,
         "away" : {
           "name" : "Team Independent",
           "id" : 13,
           "short_name" : "IND",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
         },
-        "date" : 1495651500,
+        "date" : 1495824300,
         "home" : {
           "name" : "Amber Logistics",
           "id" : 2,
@@ -263,14 +263,14 @@
         "location" : "De Adelaarshorst, Deventer",
         "id" : 11,
         "stage_title" : "Group B, leg 2",
-        "endDate" : 1495734300,
+        "endDate" : 1495907100,
         "away" : {
           "name" : "SC Guardians",
           "id" : 4,
           "short_name" : "GDS",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/77\/Russian_Football_Union.png"
         },
-        "date" : 1495728000,
+        "date" : 1495900800,
         "home" : {
           "name" : "Grenadiers",
           "id" : 1,
@@ -285,14 +285,14 @@
         "location" : "Koning Willem II Stadion, Tilburg",
         "id" : 12,
         "stage_title" : "Group B, leg 2",
-        "endDate" : 1495744200,
+        "endDate" : 1495917000,
         "away" : {
           "name" : "TR Skiff",
           "id" : 5,
           "short_name" : "SKF",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
         },
-        "date" : 1495737900,
+        "date" : 1495910700,
         "home" : {
           "name" : "Yulios",
           "id" : 3,
@@ -307,14 +307,14 @@
         "location" : "De Vijverberg, Doetinchem",
         "id" : 13,
         "stage_title" : "Group C, leg 2",
-        "endDate" : 1495820700,
+        "endDate" : 1495993500,
         "away" : {
           "name" : "Club sportif Monterrey",
           "id" : 10,
           "short_name" : "MON",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/53\/SFV_Logo.svg\/640px-SFV_Logo.svg.png"
         },
-        "date" : 1495814400,
+        "date" : 1495987200,
         "home" : {
           "name" : "Sentrum Centrale",
           "id" : 11,
@@ -329,14 +329,14 @@
         "location" : "Stadion Galgenwaard, Utrecht",
         "id" : 14,
         "stage_title" : "Group C, leg 2",
-        "endDate" : 1495830600,
+        "endDate" : 1496003400,
         "away" : {
           "name" : "FC Newport",
           "id" : 14,
           "short_name" : "NWP",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/14\/%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg\/640px-%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg.png"
         },
-        "date" : 1495824300,
+        "date" : 1495997100,
         "home" : {
           "name" : "Cordoba 1921",
           "id" : 6,
@@ -351,14 +351,14 @@
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "id" : 15,
         "stage_title" : "Group D, leg 2",
-        "endDate" : 1495907100,
+        "endDate" : 1496079900,
         "away" : {
           "name" : "Hirundo National",
           "id" : 16,
           "short_name" : "HIR",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/5f\/Portuguese_Football_Federation.svg\/359px-Portuguese_Football_Federation.svg.png"
         },
-        "date" : 1495900800,
+        "date" : 1496073600,
         "home" : {
           "name" : "Dynamo Pyabnicka",
           "id" : 12,
@@ -373,14 +373,14 @@
         "location" : "Rat Verlegh Stadion, Breda",
         "id" : 16,
         "stage_title" : "Group D, leg 2",
-        "endDate" : 1495917000,
+        "endDate" : 1496089800,
         "away" : {
           "name" : "Union de LaGuardia",
           "id" : 9,
           "short_name" : "LAG",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/31\/Spain_National_Football_Team_badge.png"
         },
-        "date" : 1495910700,
+        "date" : 1496083500,
         "home" : {
           "name" : "Tervik FC",
           "id" : 7,
@@ -395,14 +395,14 @@
         "location" : "Koning Willem II Stadion, Tilburg",
         "id" : 17,
         "stage_title" : "Group A, leg 3",
-        "endDate" : 1496003400,
+        "endDate" : 1496176200,
         "away" : {
           "name" : "Amber Logistics",
           "id" : 2,
           "short_name" : "AMB",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/a\/a1\/Royal_Netherlands_Football_Association_Logo.svg\/428px-Royal_Netherlands_Football_Association_Logo.svg.png"
         },
-        "date" : 1495997100,
+        "date" : 1496169900,
         "home" : {
           "name" : "Warhaus Liege",
           "id" : 15,
@@ -417,14 +417,14 @@
         "location" : "De Adelaarshorst, Deventer",
         "id" : 18,
         "stage_title" : "Group A, leg 3",
-        "endDate" : 1496003400,
+        "endDate" : 1496176200,
         "away" : {
           "name" : "Team Independent",
           "id" : 13,
           "short_name" : "IND",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
         },
-        "date" : 1495997100,
+        "date" : 1496169900,
         "home" : {
           "name" : "Swiss SKA",
           "id" : 8,
@@ -439,14 +439,14 @@
         "location" : "Stadion Galgenwaard, Utrecht",
         "id" : 19,
         "stage_title" : "Group B, leg 3",
-        "endDate" : 1496089800,
+        "endDate" : 1496262600,
         "away" : {
           "name" : "Yulios",
           "id" : 3,
           "short_name" : "YAL",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
         },
-        "date" : 1496083500,
+        "date" : 1496256300,
         "home" : {
           "name" : "SC Guardians",
           "id" : 4,
@@ -461,14 +461,14 @@
         "location" : "De Vijverberg, Doetinchem",
         "id" : 20,
         "stage_title" : "Group B, leg 3",
-        "endDate" : 1496089800,
+        "endDate" : 1496262600,
         "away" : {
           "name" : "TR Skiff",
           "id" : 5,
           "short_name" : "SKF",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
         },
-        "date" : 1496083500,
+        "date" : 1496256300,
         "home" : {
           "name" : "Grenadiers",
           "id" : 1,
@@ -483,14 +483,14 @@
         "location" : "Rat Verlegh Stadion, Breda",
         "id" : 21,
         "stage_title" : "Group C, leg 3",
-        "endDate" : 1496176200,
+        "endDate" : 1496349000,
         "away" : {
           "name" : "Cordoba 1921",
           "id" : 6,
           "short_name" : "FRA",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/96\/Le_nouveau_logo_FFF.png"
         },
-        "date" : 1496169900,
+        "date" : 1496342700,
         "home" : {
           "name" : "Club sportif Monterrey",
           "id" : 10,
@@ -505,14 +505,14 @@
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "id" : 22,
         "stage_title" : "Group C, leg 3",
-        "endDate" : 1496176200,
+        "endDate" : 1496349000,
         "away" : {
           "name" : "FC Newport",
           "id" : 14,
           "short_name" : "NWP",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/14\/%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg\/640px-%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg.png"
         },
-        "date" : 1496169900,
+        "date" : 1496342700,
         "home" : {
           "name" : "Sentrum Centrale",
           "id" : 11,
@@ -527,14 +527,14 @@
         "location" : "Koning Willem II Stadion, Tilburg",
         "id" : 23,
         "stage_title" : "Group D, leg 3",
-        "endDate" : 1496262600,
+        "endDate" : 1496435400,
         "away" : {
           "name" : "Tervik FC",
           "id" : 7,
           "short_name" : "TER",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/38\/England_crest_2009.svg\/403px-England_crest_2009.svg.png"
         },
-        "date" : 1496256300,
+        "date" : 1496429100,
         "home" : {
           "name" : "Hirundo National",
           "id" : 16,
@@ -549,14 +549,14 @@
         "location" : "De Adelaarshorst, Deventer",
         "id" : 24,
         "stage_title" : "Group D, leg 3",
-        "endDate" : 1496262600,
+        "endDate" : 1496435400,
         "away" : {
           "name" : "Union de LaGuardia",
           "id" : 9,
           "short_name" : "LAG",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/31\/Spain_National_Football_Team_badge.png"
         },
-        "date" : 1496256300,
+        "date" : 1496429100,
         "home" : {
           "name" : "Dynamo Pyabnicka",
           "id" : 12,
@@ -569,5 +569,5 @@
       }
     ]
   },
-  "edition" : 102
+  "edition" : 103
 }

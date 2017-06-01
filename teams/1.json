@@ -3,8 +3,8 @@
     "name" : "Grenadiers",
     "matches" : [
       {
-        "endDate" : 1495398600,
-        "date" : 1495392300,
+        "endDate" : 1495571400,
+        "date" : 1495565100,
         "location" : "Rat Verlegh Stadion, Breda",
         "home" : {
           "name" : "Yulios",
@@ -21,8 +21,8 @@
         }
       },
       {
-        "endDate" : 1495734300,
-        "date" : 1495728000,
+        "endDate" : 1495907100,
+        "date" : 1495900800,
         "location" : "De Adelaarshorst, Deventer",
         "home" : {
           "name" : "Grenadiers",
@@ -39,8 +39,8 @@
         }
       },
       {
-        "endDate" : 1496089800,
-        "date" : 1496083500,
+        "endDate" : 1496262600,
+        "date" : 1496256300,
         "location" : "De Vijverberg, Doetinchem",
         "home" : {
           "name" : "Grenadiers",
@@ -96,5 +96,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/35\/Sweden_national_football_team_logo.png"
   },
-  "edition" : 102
+  "edition" : 103
 }

@@ -3,8 +3,8 @@
     "name" : "Union de LaGuardia",
     "matches" : [
       {
-        "endDate" : 1495561500,
-        "date" : 1495555200,
+        "endDate" : 1495734300,
+        "date" : 1495728000,
         "location" : "De Vijverberg, Doetinchem",
         "home" : {
           "name" : "Union de LaGuardia",
@@ -21,8 +21,8 @@
         }
       },
       {
-        "endDate" : 1495917000,
-        "date" : 1495910700,
+        "endDate" : 1496089800,
+        "date" : 1496083500,
         "location" : "Rat Verlegh Stadion, Breda",
         "home" : {
           "name" : "Tervik FC",
@@ -39,8 +39,8 @@
         }
       },
       {
-        "endDate" : 1496262600,
-        "date" : 1496256300,
+        "endDate" : 1496435400,
+        "date" : 1496429100,
         "location" : "De Adelaarshorst, Deventer",
         "home" : {
           "name" : "Dynamo Pyabnicka",
@@ -96,5 +96,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/31\/Spain_National_Football_Team_badge.png"
   },
-  "edition" : 102
+  "edition" : 103
 }

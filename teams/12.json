@@ -3,8 +3,8 @@
     "name" : "Dynamo Pyabnicka",
     "matches" : [
       {
-        "endDate" : 1495571400,
-        "date" : 1495565100,
+        "endDate" : 1495744200,
+        "date" : 1495737900,
         "location" : "Stadion Galgenwaard, Utrecht",
         "home" : {
           "name" : "Tervik FC",
@@ -21,8 +21,8 @@
         }
       },
       {
-        "endDate" : 1495907100,
-        "date" : 1495900800,
+        "endDate" : 1496079900,
+        "date" : 1496073600,
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "home" : {
           "name" : "Dynamo Pyabnicka",
@@ -39,8 +39,8 @@
         }
       },
       {
-        "endDate" : 1496262600,
-        "date" : 1496256300,
+        "endDate" : 1496435400,
+        "date" : 1496429100,
         "location" : "De Adelaarshorst, Deventer",
         "home" : {
           "name" : "Dynamo Pyabnicka",
@@ -96,5 +96,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/8\/8f\/Scotland_national_football_team_logo.svg\/480px-Scotland_national_football_team_logo.svg.png"
   },
-  "edition" : 102
+  "edition" : 103
 }

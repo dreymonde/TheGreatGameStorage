@@ -3,8 +3,8 @@
     "name" : "Sentrum Centrale",
     "matches" : [
       {
-        "endDate" : 1495485000,
-        "date" : 1495478700,
+        "endDate" : 1495657800,
+        "date" : 1495651500,
         "location" : "Koning Willem II Stadion, Tilburg",
         "home" : {
           "name" : "Cordoba 1921",
@@ -21,8 +21,8 @@
         }
       },
       {
-        "endDate" : 1495820700,
-        "date" : 1495814400,
+        "endDate" : 1495993500,
+        "date" : 1495987200,
         "location" : "De Vijverberg, Doetinchem",
         "home" : {
           "name" : "Sentrum Centrale",
@@ -39,8 +39,8 @@
         }
       },
       {
-        "endDate" : 1496176200,
-        "date" : 1496169900,
+        "endDate" : 1496349000,
+        "date" : 1496342700,
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "home" : {
           "name" : "Sentrum Centrale",
@@ -96,5 +96,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a5\/Iceland_FA.png"
   },
-  "edition" : 102
+  "edition" : 103
 }

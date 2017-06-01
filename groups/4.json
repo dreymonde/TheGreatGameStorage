@@ -2,8 +2,8 @@
   "content" : {
     "matches" : [
       {
-        "endDate" : 1495561500,
-        "date" : 1495555200,
+        "endDate" : 1495734300,
+        "date" : 1495728000,
         "location" : "De Vijverberg, Doetinchem",
         "home" : {
           "name" : "Union de LaGuardia",
@@ -20,8 +20,8 @@
         }
       },
       {
-        "endDate" : 1495571400,
-        "date" : 1495565100,
+        "endDate" : 1495744200,
+        "date" : 1495737900,
         "location" : "Stadion Galgenwaard, Utrecht",
         "home" : {
           "name" : "Tervik FC",
@@ -38,8 +38,8 @@
         }
       },
       {
-        "endDate" : 1495907100,
-        "date" : 1495900800,
+        "endDate" : 1496079900,
+        "date" : 1496073600,
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "home" : {
           "name" : "Dynamo Pyabnicka",
@@ -56,8 +56,8 @@
         }
       },
       {
-        "endDate" : 1495917000,
-        "date" : 1495910700,
+        "endDate" : 1496089800,
+        "date" : 1496083500,
         "location" : "Rat Verlegh Stadion, Breda",
         "home" : {
           "name" : "Tervik FC",
@@ -74,8 +74,8 @@
         }
       },
       {
-        "endDate" : 1496262600,
-        "date" : 1496256300,
+        "endDate" : 1496435400,
+        "date" : 1496429100,
         "location" : "Koning Willem II Stadion, Tilburg",
         "home" : {
           "name" : "Hirundo National",
@@ -92,8 +92,8 @@
         }
       },
       {
-        "endDate" : 1496262600,
-        "date" : 1496256300,
+        "endDate" : 1496435400,
+        "date" : 1496429100,
         "location" : "De Adelaarshorst, Deventer",
         "home" : {
           "name" : "Dynamo Pyabnicka",
@@ -143,5 +143,5 @@
     ],
     "id" : 4
   },
-  "edition" : 102
+  "edition" : 103
 }

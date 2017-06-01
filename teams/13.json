@@ -3,8 +3,8 @@
     "name" : "Team Independent",
     "matches" : [
       {
-        "endDate" : 1495312200,
-        "date" : 1495305900,
+        "endDate" : 1495485000,
+        "date" : 1495478700,
         "location" : "De Vijverberg, Doetinchem",
         "home" : {
           "name" : "Team Independent",
@@ -21,8 +21,8 @@
         }
       },
       {
-        "endDate" : 1495657800,
-        "date" : 1495651500,
+        "endDate" : 1495830600,
+        "date" : 1495824300,
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "home" : {
           "name" : "Amber Logistics",
@@ -39,8 +39,8 @@
         }
       },
       {
-        "endDate" : 1496003400,
-        "date" : 1495997100,
+        "endDate" : 1496176200,
+        "date" : 1496169900,
         "location" : "De Adelaarshorst, Deventer",
         "home" : {
           "name" : "Swiss SKA",
@@ -96,5 +96,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
   },
-  "edition" : 102
+  "edition" : 103
 }

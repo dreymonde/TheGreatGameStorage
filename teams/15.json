@@ -3,8 +3,8 @@
     "name" : "Warhaus Liege",
     "matches" : [
       {
-        "endDate" : 1495312200,
-        "date" : 1495305900,
+        "endDate" : 1495485000,
+        "date" : 1495478700,
         "location" : "De Vijverberg, Doetinchem",
         "home" : {
           "name" : "Team Independent",
@@ -21,8 +21,8 @@
         }
       },
       {
-        "endDate" : 1495647900,
-        "date" : 1495641600,
+        "endDate" : 1495820700,
+        "date" : 1495814400,
         "location" : "Rat Verlegh Stadion, Breda",
         "home" : {
           "name" : "Swiss SKA",
@@ -39,8 +39,8 @@
         }
       },
       {
-        "endDate" : 1496003400,
-        "date" : 1495997100,
+        "endDate" : 1496176200,
+        "date" : 1496169900,
         "location" : "Koning Willem II Stadion, Tilburg",
         "home" : {
           "name" : "Warhaus Liege",
@@ -96,5 +96,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/f\/f5\/Belgium_urbsfa.png"
   },
-  "edition" : 102
+  "edition" : 103
 }

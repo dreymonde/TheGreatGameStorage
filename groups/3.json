@@ -2,8 +2,8 @@
   "content" : {
     "matches" : [
       {
-        "endDate" : 1495475100,
-        "date" : 1495468800,
+        "endDate" : 1495647900,
+        "date" : 1495641600,
         "location" : "De Adelaarshorst, Deventer",
         "home" : {
           "name" : "FC Newport",
@@ -20,8 +20,8 @@
         }
       },
       {
-        "endDate" : 1495485000,
-        "date" : 1495478700,
+        "endDate" : 1495657800,
+        "date" : 1495651500,
         "location" : "Koning Willem II Stadion, Tilburg",
         "home" : {
           "name" : "Cordoba 1921",
@@ -38,8 +38,8 @@
         }
       },
       {
-        "endDate" : 1495820700,
-        "date" : 1495814400,
+        "endDate" : 1495993500,
+        "date" : 1495987200,
         "location" : "De Vijverberg, Doetinchem",
         "home" : {
           "name" : "Sentrum Centrale",
@@ -56,8 +56,8 @@
         }
       },
       {
-        "endDate" : 1495830600,
-        "date" : 1495824300,
+        "endDate" : 1496003400,
+        "date" : 1495997100,
         "location" : "Stadion Galgenwaard, Utrecht",
         "home" : {
           "name" : "Cordoba 1921",
@@ -74,8 +74,8 @@
         }
       },
       {
-        "endDate" : 1496176200,
-        "date" : 1496169900,
+        "endDate" : 1496349000,
+        "date" : 1496342700,
         "location" : "Rat Verlegh Stadion, Breda",
         "home" : {
           "name" : "Club sportif Monterrey",
@@ -92,8 +92,8 @@
         }
       },
       {
-        "endDate" : 1496176200,
-        "date" : 1496169900,
+        "endDate" : 1496349000,
+        "date" : 1496342700,
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "home" : {
           "name" : "Sentrum Centrale",
@@ -143,5 +143,5 @@
     ],
     "id" : 3
   },
-  "edition" : 102
+  "edition" : 103
 }

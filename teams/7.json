@@ -3,8 +3,8 @@
     "name" : "Tervik FC",
     "matches" : [
       {
-        "endDate" : 1495571400,
-        "date" : 1495565100,
+        "endDate" : 1495744200,
+        "date" : 1495737900,
         "location" : "Stadion Galgenwaard, Utrecht",
         "home" : {
           "name" : "Tervik FC",
@@ -21,8 +21,8 @@
         }
       },
       {
-        "endDate" : 1495917000,
-        "date" : 1495910700,
+        "endDate" : 1496089800,
+        "date" : 1496083500,
         "location" : "Rat Verlegh Stadion, Breda",
         "home" : {
           "name" : "Tervik FC",
@@ -39,8 +39,8 @@
         }
       },
       {
-        "endDate" : 1496262600,
-        "date" : 1496256300,
+        "endDate" : 1496435400,
+        "date" : 1496429100,
         "location" : "Koning Willem II Stadion, Tilburg",
         "home" : {
           "name" : "Hirundo National",
@@ -96,5 +96,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/38\/England_crest_2009.svg\/403px-England_crest_2009.svg.png"
   },
-  "edition" : 102
+  "edition" : 103
 }

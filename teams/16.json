@@ -3,8 +3,8 @@
     "name" : "Hirundo National",
     "matches" : [
       {
-        "endDate" : 1495561500,
-        "date" : 1495555200,
+        "endDate" : 1495734300,
+        "date" : 1495728000,
         "location" : "De Vijverberg, Doetinchem",
         "home" : {
           "name" : "Union de LaGuardia",
@@ -21,8 +21,8 @@
         }
       },
       {
-        "endDate" : 1495907100,
-        "date" : 1495900800,
+        "endDate" : 1496079900,
+        "date" : 1496073600,
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "home" : {
           "name" : "Dynamo Pyabnicka",
@@ -39,8 +39,8 @@
         }
       },
       {
-        "endDate" : 1496262600,
-        "date" : 1496256300,
+        "endDate" : 1496435400,
+        "date" : 1496429100,
         "location" : "Koning Willem II Stadion, Tilburg",
         "home" : {
           "name" : "Hirundo National",
@@ -96,5 +96,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/5f\/Portuguese_Football_Federation.svg\/359px-Portuguese_Football_Federation.svg.png"
   },
-  "edition" : 102
+  "edition" : 103
 }

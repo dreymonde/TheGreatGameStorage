@@ -3,8 +3,8 @@
     "name" : "Club sportif Monterrey",
     "matches" : [
       {
-        "endDate" : 1495475100,
-        "date" : 1495468800,
+        "endDate" : 1495647900,
+        "date" : 1495641600,
         "location" : "De Adelaarshorst, Deventer",
         "home" : {
           "name" : "FC Newport",
@@ -21,8 +21,8 @@
         }
       },
       {
-        "endDate" : 1495820700,
-        "date" : 1495814400,
+        "endDate" : 1495993500,
+        "date" : 1495987200,
         "location" : "De Vijverberg, Doetinchem",
         "home" : {
           "name" : "Sentrum Centrale",
@@ -39,8 +39,8 @@
         }
       },
       {
-        "endDate" : 1496176200,
-        "date" : 1496169900,
+        "endDate" : 1496349000,
+        "date" : 1496342700,
         "location" : "Rat Verlegh Stadion, Breda",
         "home" : {
           "name" : "Club sportif Monterrey",
@@ -96,5 +96,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/53\/SFV_Logo.svg\/640px-SFV_Logo.svg.png"
   },
-  "edition" : 102
+  "edition" : 103
 }
