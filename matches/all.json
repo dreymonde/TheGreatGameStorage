@@ -4,440 +4,440 @@
       {
         "location" : "Stadion Galgenwaard, Utrecht",
         "score" : {
-          "away" : 2,
-          "home" : 3
+          "away" : 0,
+          "home" : 1
         },
         "id" : 1,
-        "endDate" : 1496297280,
+        "endDate" : 1495302300,
         "away" : {
-          "name" : "Swiss SKA",
+          "name" : "Norway",
           "id" : 8,
-          "short_name" : "SWI",
+          "short_name" : "NOR",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
         },
-        "date" : 1496290800,
+        "date" : 1495296000,
         "home" : {
-          "name" : "Amber Logistics",
+          "name" : "Netherlands",
           "id" : 2,
-          "short_name" : "AMB",
+          "short_name" : "NED",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/a\/a1\/Royal_Netherlands_Football_Association_Logo.svg\/428px-Royal_Netherlands_Football_Association_Logo.svg.png"
+        }
+      },
+      {
+        "endDate" : 1495312200,
+        "date" : 1495305900,
+        "location" : "De Vijverberg, Doetinchem",
+        "home" : {
+          "name" : "Denmark",
+          "id" : 13,
+          "short_name" : "DEN",
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
+        },
+        "id" : 2,
+        "away" : {
+          "name" : "Belgium",
+          "id" : 15,
+          "short_name" : "BEL",
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/f\/f5\/Belgium_urbsfa.png"
+        }
+      },
+      {
+        "endDate" : 1495388700,
+        "date" : 1495382400,
+        "location" : "Sparta Stadion Het Kasteel, Rotterdam",
+        "home" : {
+          "name" : "Italy",
+          "id" : 5,
+          "short_name" : "ITA",
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
+        },
+        "id" : 3,
+        "away" : {
+          "name" : "Russia",
+          "id" : 4,
+          "short_name" : "RUS",
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/77\/Russian_Football_Union.png"
+        }
+      },
+      {
+        "endDate" : 1495398600,
+        "date" : 1495392300,
+        "location" : "Rat Verlegh Stadion, Breda",
+        "home" : {
+          "name" : "Germany",
+          "id" : 3,
+          "short_name" : "GER",
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
+        },
+        "id" : 4,
+        "away" : {
+          "name" : "Sweden",
+          "id" : 1,
+          "short_name" : "SWE",
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/35\/Sweden_national_football_team_logo.png"
+        }
+      },
+      {
+        "endDate" : 1495475100,
+        "date" : 1495468800,
+        "location" : "De Adelaarshorst, Deventer",
+        "home" : {
+          "name" : "Austria",
+          "id" : 14,
+          "short_name" : "AUT",
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/14\/%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg\/640px-%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg.png"
+        },
+        "id" : 5,
+        "away" : {
+          "name" : "Switzerland",
+          "id" : 10,
+          "short_name" : "SUI",
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/53\/SFV_Logo.svg\/640px-SFV_Logo.svg.png"
         }
       },
       {
         "endDate" : 1495485000,
         "date" : 1495478700,
-        "location" : "De Vijverberg, Doetinchem",
-        "home" : {
-          "name" : "Team Independent",
-          "id" : 13,
-          "short_name" : "IND",
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
-        },
-        "id" : 2,
-        "away" : {
-          "name" : "Warhaus Liege",
-          "id" : 15,
-          "short_name" : "LIE",
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/f\/f5\/Belgium_urbsfa.png"
-        }
-      },
-      {
-        "endDate" : 1495561500,
-        "date" : 1495555200,
-        "location" : "Sparta Stadion Het Kasteel, Rotterdam",
-        "home" : {
-          "name" : "TR Skiff",
-          "id" : 5,
-          "short_name" : "SKF",
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
-        },
-        "id" : 3,
-        "away" : {
-          "name" : "SC Guardians",
-          "id" : 4,
-          "short_name" : "GDS",
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/77\/Russian_Football_Union.png"
-        }
-      },
-      {
-        "endDate" : 1495571400,
-        "date" : 1495565100,
-        "location" : "Rat Verlegh Stadion, Breda",
-        "home" : {
-          "name" : "Yulios",
-          "id" : 3,
-          "short_name" : "YAL",
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
-        },
-        "id" : 4,
-        "away" : {
-          "name" : "Grenadiers",
-          "id" : 1,
-          "short_name" : "GRD",
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/35\/Sweden_national_football_team_logo.png"
-        }
-      },
-      {
-        "endDate" : 1495647900,
-        "date" : 1495641600,
-        "location" : "De Adelaarshorst, Deventer",
-        "home" : {
-          "name" : "FC Newport",
-          "id" : 14,
-          "short_name" : "NWP",
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/14\/%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg\/640px-%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg.png"
-        },
-        "id" : 5,
-        "away" : {
-          "name" : "Club sportif Monterrey",
-          "id" : 10,
-          "short_name" : "MON",
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/53\/SFV_Logo.svg\/640px-SFV_Logo.svg.png"
-        }
-      },
-      {
-        "endDate" : 1495657800,
-        "date" : 1495651500,
         "location" : "Koning Willem II Stadion, Tilburg",
         "home" : {
-          "name" : "Cordoba 1921",
+          "name" : "France",
           "id" : 6,
           "short_name" : "FRA",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/96\/Le_nouveau_logo_FFF.png"
         },
         "id" : 6,
         "away" : {
-          "name" : "Sentrum Centrale",
+          "name" : "Iceland",
           "id" : 11,
-          "short_name" : "SEN",
+          "short_name" : "ISL",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a5\/Iceland_FA.png"
+        }
+      },
+      {
+        "endDate" : 1495561500,
+        "date" : 1495555200,
+        "location" : "De Vijverberg, Doetinchem",
+        "home" : {
+          "name" : "Spain",
+          "id" : 9,
+          "short_name" : "ESP",
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/31\/Spain_National_Football_Team_badge.png"
+        },
+        "id" : 7,
+        "away" : {
+          "name" : "Portugal",
+          "id" : 16,
+          "short_name" : "POR",
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/5f\/Portuguese_Football_Federation.svg\/359px-Portuguese_Football_Federation.svg.png"
+        }
+      },
+      {
+        "endDate" : 1495571400,
+        "date" : 1495565100,
+        "location" : "Stadion Galgenwaard, Utrecht",
+        "home" : {
+          "name" : "England",
+          "id" : 7,
+          "short_name" : "ENG",
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/38\/England_crest_2009.svg\/403px-England_crest_2009.svg.png"
+        },
+        "id" : 8,
+        "away" : {
+          "name" : "Scotland",
+          "id" : 12,
+          "short_name" : "SCO",
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/8\/8f\/Scotland_national_football_team_logo.svg\/480px-Scotland_national_football_team_logo.svg.png"
+        }
+      },
+      {
+        "endDate" : 1495647900,
+        "date" : 1495641600,
+        "location" : "Rat Verlegh Stadion, Breda",
+        "home" : {
+          "name" : "Norway",
+          "id" : 8,
+          "short_name" : "NOR",
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
+        },
+        "id" : 9,
+        "away" : {
+          "name" : "Belgium",
+          "id" : 15,
+          "short_name" : "BEL",
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/f\/f5\/Belgium_urbsfa.png"
+        }
+      },
+      {
+        "endDate" : 1495657800,
+        "date" : 1495651500,
+        "location" : "Sparta Stadion Het Kasteel, Rotterdam",
+        "home" : {
+          "name" : "Netherlands",
+          "id" : 2,
+          "short_name" : "NED",
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/a\/a1\/Royal_Netherlands_Football_Association_Logo.svg\/428px-Royal_Netherlands_Football_Association_Logo.svg.png"
+        },
+        "id" : 10,
+        "away" : {
+          "name" : "Denmark",
+          "id" : 13,
+          "short_name" : "DEN",
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
         }
       },
       {
         "endDate" : 1495734300,
         "date" : 1495728000,
-        "location" : "De Vijverberg, Doetinchem",
+        "location" : "De Adelaarshorst, Deventer",
         "home" : {
-          "name" : "Union de LaGuardia",
-          "id" : 9,
-          "short_name" : "LAG",
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/31\/Spain_National_Football_Team_badge.png"
+          "name" : "Sweden",
+          "id" : 1,
+          "short_name" : "SWE",
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/35\/Sweden_national_football_team_logo.png"
         },
-        "id" : 7,
+        "id" : 11,
         "away" : {
-          "name" : "Hirundo National",
-          "id" : 16,
-          "short_name" : "HIR",
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/5f\/Portuguese_Football_Federation.svg\/359px-Portuguese_Football_Federation.svg.png"
+          "name" : "Russia",
+          "id" : 4,
+          "short_name" : "RUS",
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/77\/Russian_Football_Union.png"
         }
       },
       {
         "endDate" : 1495744200,
         "date" : 1495737900,
-        "location" : "Stadion Galgenwaard, Utrecht",
+        "location" : "Koning Willem II Stadion, Tilburg",
         "home" : {
-          "name" : "Tervik FC",
-          "id" : 7,
-          "short_name" : "TER",
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/38\/England_crest_2009.svg\/403px-England_crest_2009.svg.png"
+          "name" : "Germany",
+          "id" : 3,
+          "short_name" : "GER",
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
         },
-        "id" : 8,
+        "id" : 12,
         "away" : {
-          "name" : "Dynamo Pyabnicka",
-          "id" : 12,
-          "short_name" : "DPA",
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/8\/8f\/Scotland_national_football_team_logo.svg\/480px-Scotland_national_football_team_logo.svg.png"
+          "name" : "Italy",
+          "id" : 5,
+          "short_name" : "ITA",
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
         }
       },
       {
         "endDate" : 1495820700,
         "date" : 1495814400,
-        "location" : "Rat Verlegh Stadion, Breda",
+        "location" : "De Vijverberg, Doetinchem",
         "home" : {
-          "name" : "Swiss SKA",
-          "id" : 8,
-          "short_name" : "SWI",
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
+          "name" : "Iceland",
+          "id" : 11,
+          "short_name" : "ISL",
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a5\/Iceland_FA.png"
         },
-        "id" : 9,
+        "id" : 13,
         "away" : {
-          "name" : "Warhaus Liege",
-          "id" : 15,
-          "short_name" : "LIE",
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/f\/f5\/Belgium_urbsfa.png"
+          "name" : "Switzerland",
+          "id" : 10,
+          "short_name" : "SUI",
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/53\/SFV_Logo.svg\/640px-SFV_Logo.svg.png"
         }
       },
       {
         "endDate" : 1495830600,
         "date" : 1495824300,
-        "location" : "Sparta Stadion Het Kasteel, Rotterdam",
-        "home" : {
-          "name" : "Amber Logistics",
-          "id" : 2,
-          "short_name" : "AMB",
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/a\/a1\/Royal_Netherlands_Football_Association_Logo.svg\/428px-Royal_Netherlands_Football_Association_Logo.svg.png"
-        },
-        "id" : 10,
-        "away" : {
-          "name" : "Team Independent",
-          "id" : 13,
-          "short_name" : "IND",
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
-        }
-      },
-      {
-        "endDate" : 1495907100,
-        "date" : 1495900800,
-        "location" : "De Adelaarshorst, Deventer",
-        "home" : {
-          "name" : "Grenadiers",
-          "id" : 1,
-          "short_name" : "GRD",
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/35\/Sweden_national_football_team_logo.png"
-        },
-        "id" : 11,
-        "away" : {
-          "name" : "SC Guardians",
-          "id" : 4,
-          "short_name" : "GDS",
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/77\/Russian_Football_Union.png"
-        }
-      },
-      {
-        "endDate" : 1495917000,
-        "date" : 1495910700,
-        "location" : "Koning Willem II Stadion, Tilburg",
-        "home" : {
-          "name" : "Yulios",
-          "id" : 3,
-          "short_name" : "YAL",
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
-        },
-        "id" : 12,
-        "away" : {
-          "name" : "TR Skiff",
-          "id" : 5,
-          "short_name" : "SKF",
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
-        }
-      },
-      {
-        "endDate" : 1495993500,
-        "date" : 1495987200,
-        "location" : "De Vijverberg, Doetinchem",
-        "home" : {
-          "name" : "Sentrum Centrale",
-          "id" : 11,
-          "short_name" : "SEN",
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a5\/Iceland_FA.png"
-        },
-        "id" : 13,
-        "away" : {
-          "name" : "Club sportif Monterrey",
-          "id" : 10,
-          "short_name" : "MON",
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/53\/SFV_Logo.svg\/640px-SFV_Logo.svg.png"
-        }
-      },
-      {
-        "endDate" : 1496003400,
-        "date" : 1495997100,
         "location" : "Stadion Galgenwaard, Utrecht",
         "home" : {
-          "name" : "Cordoba 1921",
+          "name" : "France",
           "id" : 6,
           "short_name" : "FRA",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/96\/Le_nouveau_logo_FFF.png"
         },
         "id" : 14,
         "away" : {
-          "name" : "FC Newport",
+          "name" : "Austria",
           "id" : 14,
-          "short_name" : "NWP",
+          "short_name" : "AUT",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/14\/%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg\/640px-%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg.png"
         }
       },
       {
-        "endDate" : 1496079900,
-        "date" : 1496073600,
+        "endDate" : 1495907100,
+        "date" : 1495900800,
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "home" : {
-          "name" : "Dynamo Pyabnicka",
+          "name" : "Scotland",
           "id" : 12,
-          "short_name" : "DPA",
+          "short_name" : "SCO",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/8\/8f\/Scotland_national_football_team_logo.svg\/480px-Scotland_national_football_team_logo.svg.png"
         },
         "id" : 15,
         "away" : {
-          "name" : "Hirundo National",
+          "name" : "Portugal",
           "id" : 16,
-          "short_name" : "HIR",
+          "short_name" : "POR",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/5f\/Portuguese_Football_Federation.svg\/359px-Portuguese_Football_Federation.svg.png"
+        }
+      },
+      {
+        "endDate" : 1495917000,
+        "date" : 1495910700,
+        "location" : "Rat Verlegh Stadion, Breda",
+        "home" : {
+          "name" : "England",
+          "id" : 7,
+          "short_name" : "ENG",
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/38\/England_crest_2009.svg\/403px-England_crest_2009.svg.png"
+        },
+        "id" : 16,
+        "away" : {
+          "name" : "Spain",
+          "id" : 9,
+          "short_name" : "ESP",
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/31\/Spain_National_Football_Team_badge.png"
+        }
+      },
+      {
+        "endDate" : 1496003400,
+        "date" : 1495997100,
+        "location" : "Koning Willem II Stadion, Tilburg",
+        "home" : {
+          "name" : "Belgium",
+          "id" : 15,
+          "short_name" : "BEL",
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/f\/f5\/Belgium_urbsfa.png"
+        },
+        "id" : 17,
+        "away" : {
+          "name" : "Netherlands",
+          "id" : 2,
+          "short_name" : "NED",
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/a\/a1\/Royal_Netherlands_Football_Association_Logo.svg\/428px-Royal_Netherlands_Football_Association_Logo.svg.png"
+        }
+      },
+      {
+        "endDate" : 1496003400,
+        "date" : 1495997100,
+        "location" : "De Adelaarshorst, Deventer",
+        "home" : {
+          "name" : "Norway",
+          "id" : 8,
+          "short_name" : "NOR",
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
+        },
+        "id" : 18,
+        "away" : {
+          "name" : "Denmark",
+          "id" : 13,
+          "short_name" : "DEN",
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
         }
       },
       {
         "endDate" : 1496089800,
         "date" : 1496083500,
-        "location" : "Rat Verlegh Stadion, Breda",
-        "home" : {
-          "name" : "Tervik FC",
-          "id" : 7,
-          "short_name" : "TER",
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/38\/England_crest_2009.svg\/403px-England_crest_2009.svg.png"
-        },
-        "id" : 16,
-        "away" : {
-          "name" : "Union de LaGuardia",
-          "id" : 9,
-          "short_name" : "LAG",
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/31\/Spain_National_Football_Team_badge.png"
-        }
-      },
-      {
-        "endDate" : 1496176200,
-        "date" : 1496169900,
-        "location" : "Koning Willem II Stadion, Tilburg",
-        "home" : {
-          "name" : "Warhaus Liege",
-          "id" : 15,
-          "short_name" : "LIE",
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/f\/f5\/Belgium_urbsfa.png"
-        },
-        "id" : 17,
-        "away" : {
-          "name" : "Amber Logistics",
-          "id" : 2,
-          "short_name" : "AMB",
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/a\/a1\/Royal_Netherlands_Football_Association_Logo.svg\/428px-Royal_Netherlands_Football_Association_Logo.svg.png"
-        }
-      },
-      {
-        "endDate" : 1496176200,
-        "date" : 1496169900,
-        "location" : "De Adelaarshorst, Deventer",
-        "home" : {
-          "name" : "Swiss SKA",
-          "id" : 8,
-          "short_name" : "SWI",
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
-        },
-        "id" : 18,
-        "away" : {
-          "name" : "Team Independent",
-          "id" : 13,
-          "short_name" : "IND",
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
-        }
-      },
-      {
-        "endDate" : 1496262600,
-        "date" : 1496256300,
         "location" : "Stadion Galgenwaard, Utrecht",
         "home" : {
-          "name" : "SC Guardians",
+          "name" : "Russia",
           "id" : 4,
-          "short_name" : "GDS",
+          "short_name" : "RUS",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/77\/Russian_Football_Union.png"
         },
         "id" : 19,
         "away" : {
-          "name" : "Yulios",
+          "name" : "Germany",
           "id" : 3,
-          "short_name" : "YAL",
+          "short_name" : "GER",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
         }
       },
       {
-        "endDate" : 1496262600,
-        "date" : 1496256300,
+        "endDate" : 1496089800,
+        "date" : 1496083500,
         "location" : "De Vijverberg, Doetinchem",
         "home" : {
-          "name" : "Grenadiers",
+          "name" : "Sweden",
           "id" : 1,
-          "short_name" : "GRD",
+          "short_name" : "SWE",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/35\/Sweden_national_football_team_logo.png"
         },
         "id" : 20,
         "away" : {
-          "name" : "TR Skiff",
+          "name" : "Italy",
           "id" : 5,
-          "short_name" : "SKF",
+          "short_name" : "ITA",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
         }
       },
       {
-        "endDate" : 1496349000,
-        "date" : 1496342700,
+        "endDate" : 1496176200,
+        "date" : 1496169900,
         "location" : "Rat Verlegh Stadion, Breda",
         "home" : {
-          "name" : "Club sportif Monterrey",
+          "name" : "Switzerland",
           "id" : 10,
-          "short_name" : "MON",
+          "short_name" : "SUI",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/53\/SFV_Logo.svg\/640px-SFV_Logo.svg.png"
         },
         "id" : 21,
         "away" : {
-          "name" : "Cordoba 1921",
+          "name" : "France",
           "id" : 6,
           "short_name" : "FRA",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/96\/Le_nouveau_logo_FFF.png"
         }
       },
       {
-        "endDate" : 1496349000,
-        "date" : 1496342700,
+        "endDate" : 1496176200,
+        "date" : 1496169900,
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "home" : {
-          "name" : "Sentrum Centrale",
+          "name" : "Iceland",
           "id" : 11,
-          "short_name" : "SEN",
+          "short_name" : "ISL",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a5\/Iceland_FA.png"
         },
         "id" : 22,
         "away" : {
-          "name" : "FC Newport",
+          "name" : "Austria",
           "id" : 14,
-          "short_name" : "NWP",
+          "short_name" : "AUT",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/14\/%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg\/640px-%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg.png"
         }
       },
       {
-        "endDate" : 1496435400,
-        "date" : 1496429100,
+        "endDate" : 1496262600,
+        "date" : 1496256300,
         "location" : "Koning Willem II Stadion, Tilburg",
         "home" : {
-          "name" : "Hirundo National",
+          "name" : "Portugal",
           "id" : 16,
-          "short_name" : "HIR",
+          "short_name" : "POR",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/5f\/Portuguese_Football_Federation.svg\/359px-Portuguese_Football_Federation.svg.png"
         },
         "id" : 23,
         "away" : {
-          "name" : "Tervik FC",
+          "name" : "England",
           "id" : 7,
-          "short_name" : "TER",
+          "short_name" : "ENG",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/38\/England_crest_2009.svg\/403px-England_crest_2009.svg.png"
         }
       },
       {
-        "endDate" : 1496435400,
-        "date" : 1496429100,
+        "endDate" : 1496262600,
+        "date" : 1496256300,
         "location" : "De Adelaarshorst, Deventer",
         "home" : {
-          "name" : "Dynamo Pyabnicka",
+          "name" : "Scotland",
           "id" : 12,
-          "short_name" : "DPA",
+          "short_name" : "SCO",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/8\/8f\/Scotland_national_football_team_logo.svg\/480px-Scotland_national_football_team_logo.svg.png"
         },
         "id" : 24,
         "away" : {
-          "name" : "Union de LaGuardia",
+          "name" : "Spain",
           "id" : 9,
-          "short_name" : "LAG",
+          "short_name" : "ESP",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/31\/Spain_National_Football_Team_badge.png"
         }
       }
     ]
   },
-  "edition" : 103
+  "edition" : 104
 }

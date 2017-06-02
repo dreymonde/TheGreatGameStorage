@@ -1,64 +1,64 @@
 {
   "content" : {
-    "name" : "Tervik FC",
+    "name" : "England",
     "matches" : [
       {
-        "endDate" : 1495744200,
-        "date" : 1495737900,
+        "endDate" : 1495571400,
+        "date" : 1495565100,
         "location" : "Stadion Galgenwaard, Utrecht",
         "home" : {
-          "name" : "Tervik FC",
+          "name" : "England",
           "id" : 7,
-          "short_name" : "TER",
+          "short_name" : "ENG",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/38\/England_crest_2009.svg\/403px-England_crest_2009.svg.png"
         },
         "id" : 8,
         "away" : {
-          "name" : "Dynamo Pyabnicka",
+          "name" : "Scotland",
           "id" : 12,
-          "short_name" : "DPA",
+          "short_name" : "SCO",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/8\/8f\/Scotland_national_football_team_logo.svg\/480px-Scotland_national_football_team_logo.svg.png"
         }
       },
       {
-        "endDate" : 1496089800,
-        "date" : 1496083500,
+        "endDate" : 1495917000,
+        "date" : 1495910700,
         "location" : "Rat Verlegh Stadion, Breda",
         "home" : {
-          "name" : "Tervik FC",
+          "name" : "England",
           "id" : 7,
-          "short_name" : "TER",
+          "short_name" : "ENG",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/38\/England_crest_2009.svg\/403px-England_crest_2009.svg.png"
         },
         "id" : 16,
         "away" : {
-          "name" : "Union de LaGuardia",
+          "name" : "Spain",
           "id" : 9,
-          "short_name" : "LAG",
+          "short_name" : "ESP",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/31\/Spain_National_Football_Team_badge.png"
         }
       },
       {
-        "endDate" : 1496435400,
-        "date" : 1496429100,
+        "endDate" : 1496262600,
+        "date" : 1496256300,
         "location" : "Koning Willem II Stadion, Tilburg",
         "home" : {
-          "name" : "Hirundo National",
+          "name" : "Portugal",
           "id" : 16,
-          "short_name" : "HIR",
+          "short_name" : "POR",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/5f\/Portuguese_Football_Federation.svg\/359px-Portuguese_Football_Federation.svg.png"
         },
         "id" : 23,
         "away" : {
-          "name" : "Tervik FC",
+          "name" : "England",
           "id" : 7,
-          "short_name" : "TER",
+          "short_name" : "ENG",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/38\/England_crest_2009.svg\/403px-England_crest_2009.svg.png"
         }
       }
     ],
     "id" : 7,
-    "short_name" : "TER",
+    "short_name" : "ENG",
     "rank" : 3,
     "group" : {
       "id" : 4,
@@ -66,35 +66,35 @@
       "teams" : [
         {
           "points" : 0,
-          "name" : "Tervik FC",
+          "name" : "England",
           "id" : 7,
-          "short_name" : "TER",
+          "short_name" : "ENG",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/38\/England_crest_2009.svg\/403px-England_crest_2009.svg.png"
         },
         {
           "points" : 0,
-          "name" : "Dynamo Pyabnicka",
+          "name" : "Scotland",
           "id" : 12,
-          "short_name" : "DPA",
+          "short_name" : "SCO",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/8\/8f\/Scotland_national_football_team_logo.svg\/480px-Scotland_national_football_team_logo.svg.png"
         },
         {
           "points" : 0,
-          "name" : "Union de LaGuardia",
+          "name" : "Spain",
           "id" : 9,
-          "short_name" : "LAG",
+          "short_name" : "ESP",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/31\/Spain_National_Football_Team_badge.png"
         },
         {
           "points" : 0,
-          "name" : "Hirundo National",
+          "name" : "Portugal",
           "id" : 16,
-          "short_name" : "HIR",
+          "short_name" : "POR",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/5f\/Portuguese_Football_Federation.svg\/359px-Portuguese_Football_Federation.svg.png"
         }
       ]
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/38\/England_crest_2009.svg\/403px-England_crest_2009.svg.png"
   },
-  "edition" : 103
+  "edition" : 104
 }

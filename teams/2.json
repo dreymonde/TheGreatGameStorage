@@ -1,68 +1,68 @@
 {
   "content" : {
-    "name" : "Amber Logistics",
+    "name" : "Netherlands",
     "matches" : [
       {
         "location" : "Stadion Galgenwaard, Utrecht",
         "score" : {
-          "away" : 2,
-          "home" : 3
+          "away" : 0,
+          "home" : 1
         },
         "id" : 1,
-        "endDate" : 1496297280,
+        "endDate" : 1495302300,
         "away" : {
-          "name" : "Swiss SKA",
+          "name" : "Norway",
           "id" : 8,
-          "short_name" : "SWI",
+          "short_name" : "NOR",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
         },
-        "date" : 1496290800,
+        "date" : 1495296000,
         "home" : {
-          "name" : "Amber Logistics",
+          "name" : "Netherlands",
           "id" : 2,
-          "short_name" : "AMB",
+          "short_name" : "NED",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/a\/a1\/Royal_Netherlands_Football_Association_Logo.svg\/428px-Royal_Netherlands_Football_Association_Logo.svg.png"
         }
       },
       {
-        "endDate" : 1495830600,
-        "date" : 1495824300,
+        "endDate" : 1495657800,
+        "date" : 1495651500,
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "home" : {
-          "name" : "Amber Logistics",
+          "name" : "Netherlands",
           "id" : 2,
-          "short_name" : "AMB",
+          "short_name" : "NED",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/a\/a1\/Royal_Netherlands_Football_Association_Logo.svg\/428px-Royal_Netherlands_Football_Association_Logo.svg.png"
         },
         "id" : 10,
         "away" : {
-          "name" : "Team Independent",
+          "name" : "Denmark",
           "id" : 13,
-          "short_name" : "IND",
+          "short_name" : "DEN",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
         }
       },
       {
-        "endDate" : 1496176200,
-        "date" : 1496169900,
+        "endDate" : 1496003400,
+        "date" : 1495997100,
         "location" : "Koning Willem II Stadion, Tilburg",
         "home" : {
-          "name" : "Warhaus Liege",
+          "name" : "Belgium",
           "id" : 15,
-          "short_name" : "LIE",
+          "short_name" : "BEL",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/f\/f5\/Belgium_urbsfa.png"
         },
         "id" : 17,
         "away" : {
-          "name" : "Amber Logistics",
+          "name" : "Netherlands",
           "id" : 2,
-          "short_name" : "AMB",
+          "short_name" : "NED",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/a\/a1\/Royal_Netherlands_Football_Association_Logo.svg\/428px-Royal_Netherlands_Football_Association_Logo.svg.png"
         }
       }
     ],
     "id" : 2,
-    "short_name" : "AMB",
+    "short_name" : "NED",
     "rank" : 9,
     "group" : {
       "id" : 1,
@@ -70,35 +70,35 @@
       "teams" : [
         {
           "points" : 0,
-          "name" : "Amber Logistics",
+          "name" : "Netherlands",
           "id" : 2,
-          "short_name" : "AMB",
+          "short_name" : "NED",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/a\/a1\/Royal_Netherlands_Football_Association_Logo.svg\/428px-Royal_Netherlands_Football_Association_Logo.svg.png"
         },
         {
           "points" : 0,
-          "name" : "Swiss SKA",
+          "name" : "Norway",
           "id" : 8,
-          "short_name" : "SWI",
+          "short_name" : "NOR",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
         },
         {
           "points" : 0,
-          "name" : "Team Independent",
+          "name" : "Denmark",
           "id" : 13,
-          "short_name" : "IND",
+          "short_name" : "DEN",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
         },
         {
           "points" : 0,
-          "name" : "Warhaus Liege",
+          "name" : "Belgium",
           "id" : 15,
-          "short_name" : "LIE",
+          "short_name" : "BEL",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/f\/f5\/Belgium_urbsfa.png"
         }
       ]
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/a\/a1\/Royal_Netherlands_Football_Association_Logo.svg\/428px-Royal_Netherlands_Football_Association_Logo.svg.png"
   },
-  "edition" : 103
+  "edition" : 104
 }

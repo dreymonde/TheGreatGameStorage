@@ -1,64 +1,64 @@
 {
   "content" : {
-    "name" : "SC Guardians",
+    "name" : "Russia",
     "matches" : [
       {
-        "endDate" : 1495561500,
-        "date" : 1495555200,
+        "endDate" : 1495388700,
+        "date" : 1495382400,
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "home" : {
-          "name" : "TR Skiff",
+          "name" : "Italy",
           "id" : 5,
-          "short_name" : "SKF",
+          "short_name" : "ITA",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
         },
         "id" : 3,
         "away" : {
-          "name" : "SC Guardians",
+          "name" : "Russia",
           "id" : 4,
-          "short_name" : "GDS",
+          "short_name" : "RUS",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/77\/Russian_Football_Union.png"
         }
       },
       {
-        "endDate" : 1495907100,
-        "date" : 1495900800,
+        "endDate" : 1495734300,
+        "date" : 1495728000,
         "location" : "De Adelaarshorst, Deventer",
         "home" : {
-          "name" : "Grenadiers",
+          "name" : "Sweden",
           "id" : 1,
-          "short_name" : "GRD",
+          "short_name" : "SWE",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/35\/Sweden_national_football_team_logo.png"
         },
         "id" : 11,
         "away" : {
-          "name" : "SC Guardians",
+          "name" : "Russia",
           "id" : 4,
-          "short_name" : "GDS",
+          "short_name" : "RUS",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/77\/Russian_Football_Union.png"
         }
       },
       {
-        "endDate" : 1496262600,
-        "date" : 1496256300,
+        "endDate" : 1496089800,
+        "date" : 1496083500,
         "location" : "Stadion Galgenwaard, Utrecht",
         "home" : {
-          "name" : "SC Guardians",
+          "name" : "Russia",
           "id" : 4,
-          "short_name" : "GDS",
+          "short_name" : "RUS",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/77\/Russian_Football_Union.png"
         },
         "id" : 19,
         "away" : {
-          "name" : "Yulios",
+          "name" : "Germany",
           "id" : 3,
-          "short_name" : "YAL",
+          "short_name" : "GER",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
         }
       }
     ],
     "id" : 4,
-    "short_name" : "GDS",
+    "short_name" : "RUS",
     "rank" : 15,
     "group" : {
       "id" : 2,
@@ -66,35 +66,35 @@
       "teams" : [
         {
           "points" : 0,
-          "name" : "Yulios",
+          "name" : "Germany",
           "id" : 3,
-          "short_name" : "YAL",
+          "short_name" : "GER",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
         },
         {
           "points" : 3,
-          "name" : "Grenadiers",
+          "name" : "Sweden",
           "id" : 1,
-          "short_name" : "GRD",
+          "short_name" : "SWE",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/35\/Sweden_national_football_team_logo.png"
         },
         {
           "points" : 3,
-          "name" : "TR Skiff",
+          "name" : "Italy",
           "id" : 5,
-          "short_name" : "SKF",
+          "short_name" : "ITA",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
         },
         {
           "points" : 0,
-          "name" : "SC Guardians",
+          "name" : "Russia",
           "id" : 4,
-          "short_name" : "GDS",
+          "short_name" : "RUS",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/77\/Russian_Football_Union.png"
         }
       ]
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/77\/Russian_Football_Union.png"
   },
-  "edition" : 103
+  "edition" : 104
 }
