@@ -3,8 +3,8 @@
     "name" : "Sweden",
     "matches" : [
       {
-        "endDate" : 1495398600,
-        "date" : 1495392300,
+        "endDate" : 1500323400,
+        "date" : 1500317100,
         "location" : "Rat Verlegh Stadion, Breda",
         "home" : {
           "name" : "Germany",
@@ -21,8 +21,8 @@
         }
       },
       {
-        "endDate" : 1495734300,
-        "date" : 1495728000,
+        "endDate" : 1500659100,
+        "date" : 1500652800,
         "location" : "De Adelaarshorst, Deventer",
         "home" : {
           "name" : "Sweden",
@@ -39,8 +39,8 @@
         }
       },
       {
-        "endDate" : 1496089800,
-        "date" : 1496083500,
+        "endDate" : 1501014600,
+        "date" : 1501008300,
         "location" : "De Vijverberg, Doetinchem",
         "home" : {
           "name" : "Sweden",
@@ -96,5 +96,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/35\/Sweden_national_football_team_logo.png"
   },
-  "edition" : 107
+  "edition" : 108
 }

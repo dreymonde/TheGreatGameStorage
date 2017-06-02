@@ -2,8 +2,8 @@
   "content" : {
     "matches" : [
       {
-        "endDate" : 1495388700,
-        "date" : 1495382400,
+        "endDate" : 1500313500,
+        "date" : 1500307200,
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "home" : {
           "name" : "Italy",
@@ -20,8 +20,8 @@
         }
       },
       {
-        "endDate" : 1495398600,
-        "date" : 1495392300,
+        "endDate" : 1500323400,
+        "date" : 1500317100,
         "location" : "Rat Verlegh Stadion, Breda",
         "home" : {
           "name" : "Germany",
@@ -38,8 +38,8 @@
         }
       },
       {
-        "endDate" : 1495734300,
-        "date" : 1495728000,
+        "endDate" : 1500659100,
+        "date" : 1500652800,
         "location" : "De Adelaarshorst, Deventer",
         "home" : {
           "name" : "Sweden",
@@ -56,8 +56,8 @@
         }
       },
       {
-        "endDate" : 1495744200,
-        "date" : 1495737900,
+        "endDate" : 1500669000,
+        "date" : 1500662700,
         "location" : "Koning Willem II Stadion, Tilburg",
         "home" : {
           "name" : "Germany",
@@ -74,8 +74,8 @@
         }
       },
       {
-        "endDate" : 1496089800,
-        "date" : 1496083500,
+        "endDate" : 1501014600,
+        "date" : 1501008300,
         "location" : "Stadion Galgenwaard, Utrecht",
         "home" : {
           "name" : "Russia",
@@ -92,8 +92,8 @@
         }
       },
       {
-        "endDate" : 1496089800,
-        "date" : 1496083500,
+        "endDate" : 1501014600,
+        "date" : 1501008300,
         "location" : "De Vijverberg, Doetinchem",
         "home" : {
           "name" : "Sweden",
@@ -143,5 +143,5 @@
     ],
     "id" : 2
   },
-  "edition" : 107
+  "edition" : 108
 }

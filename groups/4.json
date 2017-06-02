@@ -2,8 +2,8 @@
   "content" : {
     "matches" : [
       {
-        "endDate" : 1495561500,
-        "date" : 1495555200,
+        "endDate" : 1500486300,
+        "date" : 1500480000,
         "location" : "De Vijverberg, Doetinchem",
         "home" : {
           "name" : "Spain",
@@ -20,8 +20,8 @@
         }
       },
       {
-        "endDate" : 1495571400,
-        "date" : 1495565100,
+        "endDate" : 1500496200,
+        "date" : 1500489900,
         "location" : "Stadion Galgenwaard, Utrecht",
         "home" : {
           "name" : "England",
@@ -38,8 +38,8 @@
         }
       },
       {
-        "endDate" : 1495907100,
-        "date" : 1495900800,
+        "endDate" : 1500831900,
+        "date" : 1500825600,
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "home" : {
           "name" : "Scotland",
@@ -56,8 +56,8 @@
         }
       },
       {
-        "endDate" : 1495917000,
-        "date" : 1495910700,
+        "endDate" : 1500841800,
+        "date" : 1500835500,
         "location" : "Rat Verlegh Stadion, Breda",
         "home" : {
           "name" : "England",
@@ -74,8 +74,8 @@
         }
       },
       {
-        "endDate" : 1496262600,
-        "date" : 1496256300,
+        "endDate" : 1501187400,
+        "date" : 1501181100,
         "location" : "Koning Willem II Stadion, Tilburg",
         "home" : {
           "name" : "Portugal",
@@ -92,25 +92,21 @@
         }
       },
       {
+        "endDate" : 1501187400,
+        "date" : 1501181100,
         "location" : "De Adelaarshorst, Deventer",
-        "score" : {
-          "away" : 0,
-          "home" : 0
-        },
-        "id" : 24,
-        "endDate" : 1496262600,
-        "away" : {
-          "name" : "Spain",
-          "id" : 9,
-          "short_name" : "ESP",
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/31\/Spain_National_Football_Team_badge.png"
-        },
-        "date" : 1496256300,
         "home" : {
           "name" : "Scotland",
           "id" : 12,
           "short_name" : "SCO",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/8\/8f\/Scotland_national_football_team_logo.svg\/480px-Scotland_national_football_team_logo.svg.png"
+        },
+        "id" : 24,
+        "away" : {
+          "name" : "Spain",
+          "id" : 9,
+          "short_name" : "ESP",
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/31\/Spain_National_Football_Team_badge.png"
         }
       }
     ],
@@ -147,5 +143,5 @@
     ],
     "id" : 4
   },
-  "edition" : 107
+  "edition" : 108
 }
