@@ -420,24 +420,28 @@
         }
       },
       {
-        "endDate" : 1496262600,
-        "date" : 1496256300,
         "location" : "De Adelaarshorst, Deventer",
-        "home" : {
-          "name" : "Scotland",
-          "id" : 12,
-          "short_name" : "SCO",
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/8\/8f\/Scotland_national_football_team_logo.svg\/480px-Scotland_national_football_team_logo.svg.png"
+        "score" : {
+          "away" : 0,
+          "home" : 0
         },
         "id" : 24,
+        "endDate" : 1496262600,
         "away" : {
           "name" : "Spain",
           "id" : 9,
           "short_name" : "ESP",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/31\/Spain_National_Football_Team_badge.png"
+        },
+        "date" : 1496256300,
+        "home" : {
+          "name" : "Scotland",
+          "id" : 12,
+          "short_name" : "SCO",
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/8\/8f\/Scotland_national_football_team_logo.svg\/480px-Scotland_national_football_team_logo.svg.png"
         }
       }
     ]
   },
-  "edition" : 106
+  "edition" : 107
 }
