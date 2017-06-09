@@ -4,7 +4,7 @@
       {
         "location" : "Stadion Galgenwaard, Utrecht",
         "score" : {
-          "away" : 0,
+          "away" : 1,
           "home" : 1
         },
         "id" : 1,
@@ -33,6 +33,11 @@
             "type" : "goalHome",
             "text" : "Nederlands goes first!",
             "minute" : 14
+          },
+          {
+            "type" : "goalAway",
+            "text" : "",
+            "minute" : 23
           }
         ]
       },
@@ -544,5 +549,5 @@
       }
     ]
   },
-  "edition" : 108
+  "edition" : 109
 }
