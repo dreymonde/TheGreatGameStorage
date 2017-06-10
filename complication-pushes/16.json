@@ -1,0 +1,22 @@
+{
+  "location" : "Rat Verlegh Stadion, Breda",
+  "id" : 16,
+  "stage_title" : "Group D, leg 2",
+  "endDate" : 1500841800,
+  "away" : {
+    "name" : "Spain",
+    "id" : 9,
+    "short_name" : "ESP",
+    "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/31\/Spain_National_Football_Team_badge.png"
+  },
+  "date" : 1500835500,
+  "home" : {
+    "name" : "England",
+    "id" : 7,
+    "short_name" : "ENG",
+    "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/38\/England_crest_2009.svg\/403px-England_crest_2009.svg.png"
+  },
+  "events" : [
+
+  ]
+}
