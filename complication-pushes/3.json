@@ -1,0 +1,22 @@
+{
+  "location" : "Sparta Stadion Het Kasteel, Rotterdam",
+  "id" : 3,
+  "stage_title" : "Group B, leg 1",
+  "endDate" : 1500313500,
+  "away" : {
+    "name" : "Russia",
+    "id" : 4,
+    "short_name" : "RUS",
+    "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/77\/Russian_Football_Union.png"
+  },
+  "date" : 1500307200,
+  "home" : {
+    "name" : "Italy",
+    "id" : 5,
+    "short_name" : "ITA",
+    "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
+  },
+  "events" : [
+
+  ]
+}
