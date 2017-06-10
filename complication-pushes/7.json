@@ -1,0 +1,22 @@
+{
+  "location" : "De Vijverberg, Doetinchem",
+  "id" : 7,
+  "stage_title" : "Group D, leg 1",
+  "endDate" : 1500486300,
+  "away" : {
+    "name" : "Portugal",
+    "id" : 16,
+    "short_name" : "POR",
+    "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/5f\/Portuguese_Football_Federation.svg\/359px-Portuguese_Football_Federation.svg.png"
+  },
+  "date" : 1500480000,
+  "home" : {
+    "name" : "Spain",
+    "id" : 9,
+    "short_name" : "ESP",
+    "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/31\/Spain_National_Football_Team_badge.png"
+  },
+  "events" : [
+
+  ]
+}
