@@ -1,0 +1,22 @@
+{
+  "location" : "Rat Verlegh Stadion, Breda",
+  "id" : 4,
+  "stage_title" : "Group B, leg 1",
+  "endDate" : 1500323400,
+  "away" : {
+    "name" : "Sweden",
+    "id" : 1,
+    "short_name" : "SWE",
+    "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/35\/Sweden_national_football_team_logo.png"
+  },
+  "date" : 1500317100,
+  "home" : {
+    "name" : "Germany",
+    "id" : 3,
+    "short_name" : "GER",
+    "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
+  },
+  "events" : [
+
+  ]
+}
