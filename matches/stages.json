@@ -688,8 +688,39 @@
           }
         ],
         "title" : "Group D, leg 3"
+      },
+      {
+        "matches" : [
+          {
+            "endDate" : 1501353900,
+            "date" : 1501347600,
+            "location" : "Sparta Stadion Het Kasteel, Rotterdam",
+            "home" : {
+              "name" : "Group A winner",
+              "id" : -1,
+              "short_name" : "WA",
+              "badges" : {
+                "flag" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png",
+                "large" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+              },
+              "badge_url" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+            },
+            "id" : 25,
+            "away" : {
+              "name" : "Group B runner-up",
+              "id" : -2,
+              "short_name" : "RB",
+              "badges" : {
+                "flag" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png",
+                "large" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+              },
+              "badge_url" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+            }
+          }
+        ],
+        "title" : "Quarter-Finals, Day 1"
       }
     ]
   },
-  "edition" : 200
+  "edition" : 202
 }

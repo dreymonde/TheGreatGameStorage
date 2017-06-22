@@ -738,8 +738,38 @@
         "events" : [
 
         ]
+      },
+      {
+        "location" : "Sparta Stadion Het Kasteel, Rotterdam",
+        "id" : 25,
+        "stage_title" : "Quarter-Finals, Day 1",
+        "endDate" : 1501353900,
+        "away" : {
+          "name" : "Group B runner-up",
+          "id" : -2,
+          "short_name" : "RB",
+          "badges" : {
+            "flag" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png",
+            "large" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+          },
+          "badge_url" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+        },
+        "date" : 1501347600,
+        "home" : {
+          "name" : "Group A winner",
+          "id" : -1,
+          "short_name" : "WA",
+          "badges" : {
+            "flag" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png",
+            "large" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+          },
+          "badge_url" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+        },
+        "events" : [
+
+        ]
       }
     ]
   },
-  "edition" : 200
+  "edition" : 202
 }
