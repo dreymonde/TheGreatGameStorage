@@ -33,6 +33,11 @@
         },
         "events" : [
           {
+            "type" : "info",
+            "text" : "The UEFA Women Euro 2017 is about to start in one day",
+            "minute" : -1
+          },
+          {
             "type" : "start",
             "text" : "",
             "minute" : 0
@@ -801,5 +806,5 @@
       }
     ]
   },
-  "edition" : 206
+  "edition" : 207
 }
