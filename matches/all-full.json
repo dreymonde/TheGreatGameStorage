@@ -740,7 +740,7 @@
         ]
       },
       {
-        "location" : "Sparta Stadion Het Kasteel, Rotterdam",
+        "location" : "De Vijverberg, Doetinchem",
         "id" : 25,
         "stage_title" : "Quarter-Finals, Day 1",
         "endDate" : 1501353900,
@@ -768,8 +768,38 @@
         "events" : [
 
         ]
+      },
+      {
+        "location" : "Sparta Stadion Het Kasteel, Rotterdam",
+        "id" : 26,
+        "stage_title" : "Quarter-Finals, Day 1",
+        "endDate" : 1501360200,
+        "away" : {
+          "name" : "Group A runner-up",
+          "id" : -4,
+          "short_name" : "RA",
+          "badges" : {
+            "flag" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png",
+            "large" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+          },
+          "badge_url" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+        },
+        "date" : 1501353900,
+        "home" : {
+          "name" : "Group B winner",
+          "id" : -3,
+          "short_name" : "WB",
+          "badges" : {
+            "flag" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png",
+            "large" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+          },
+          "badge_url" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+        },
+        "events" : [
+
+        ]
       }
     ]
   },
-  "edition" : 202
+  "edition" : 203
 }
