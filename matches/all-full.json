@@ -742,7 +742,7 @@
       {
         "location" : "De Vijverberg, Doetinchem",
         "id" : 25,
-        "stage_title" : "Quarter-Finals, Day 1\nJuly, 29",
+        "stage_title" : "Quarter-Finals, Day 1\nJuly 29",
         "endDate" : 1501353900,
         "away" : {
           "name" : "Group B runner-up",
@@ -772,7 +772,7 @@
       {
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "id" : 26,
-        "stage_title" : "Quarter-Finals, Day 1\nJuly, 29",
+        "stage_title" : "Quarter-Finals, Day 1\nJuly 29",
         "endDate" : 1501360200,
         "away" : {
           "name" : "Group A runner-up",
@@ -801,5 +801,5 @@
       }
     ]
   },
-  "edition" : 204
+  "edition" : 205
 }
