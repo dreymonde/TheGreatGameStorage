@@ -5,7 +5,6 @@
     "stage_title" : "Group A, leg 3",
     "endDate" : 1500928200,
     "away" : {
-      "summary" : "This is Denmark",
       "name" : "Denmark",
       "id" : 13,
       "short_name" : "DEN",
@@ -17,7 +16,6 @@
     },
     "date" : 1500921900,
     "home" : {
-      "summary" : "This is Norway",
       "name" : "Norway",
       "id" : 8,
       "short_name" : "NOR",
@@ -31,5 +29,5 @@
 
     ]
   },
-  "edition" : 209
+  "edition" : 210
 }

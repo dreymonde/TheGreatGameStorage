@@ -5,7 +5,6 @@
     "stage_title" : "Group A, leg 2",
     "endDate" : 1500582600,
     "away" : {
-      "summary" : "This is Denmark",
       "name" : "Denmark",
       "id" : 13,
       "short_name" : "DEN",
@@ -17,7 +16,6 @@
     },
     "date" : 1500576300,
     "home" : {
-      "summary" : "This is NED",
       "name" : "Netherlands",
       "id" : 2,
       "short_name" : "NED",
@@ -31,5 +29,5 @@
 
     ]
   },
-  "edition" : 209
+  "edition" : 210
 }

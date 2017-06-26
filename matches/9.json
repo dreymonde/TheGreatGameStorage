@@ -5,7 +5,6 @@
     "stage_title" : "Group A, leg 2",
     "endDate" : 1500572700,
     "away" : {
-      "summary" : "This is Belgium",
       "name" : "Belgium",
       "id" : 15,
       "short_name" : "BEL",
@@ -17,7 +16,6 @@
     },
     "date" : 1500566400,
     "home" : {
-      "summary" : "This is Norway",
       "name" : "Norway",
       "id" : 8,
       "short_name" : "NOR",
@@ -31,5 +29,5 @@
 
     ]
   },
-  "edition" : 209
+  "edition" : 210
 }

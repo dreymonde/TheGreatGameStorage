@@ -8,7 +8,6 @@
         "date" : 1500393600,
         "location" : "De Adelaarshorst, Deventer",
         "home" : {
-          "summary" : "This is Austria",
           "name" : "Austria",
           "id" : 14,
           "short_name" : "AUT",
@@ -20,7 +19,6 @@
         },
         "id" : 5,
         "away" : {
-          "summary" : "This is SUI",
           "name" : "Switzerland",
           "id" : 10,
           "short_name" : "SUI",
@@ -36,7 +34,6 @@
         "date" : 1500739200,
         "location" : "De Vijverberg, Doetinchem",
         "home" : {
-          "summary" : "This is Iceland",
           "name" : "Iceland",
           "id" : 11,
           "short_name" : "ISL",
@@ -48,7 +45,6 @@
         },
         "id" : 13,
         "away" : {
-          "summary" : "This is SUI",
           "name" : "Switzerland",
           "id" : 10,
           "short_name" : "SUI",
@@ -64,7 +60,6 @@
         "date" : 1501094700,
         "location" : "Rat Verlegh Stadion, Breda",
         "home" : {
-          "summary" : "This is SUI",
           "name" : "Switzerland",
           "id" : 10,
           "short_name" : "SUI",
@@ -76,7 +71,6 @@
         },
         "id" : 21,
         "away" : {
-          "summary" : "This is France",
           "name" : "France",
           "id" : 6,
           "short_name" : "FRA",
@@ -100,9 +94,8 @@
       "title" : "Group C",
       "teams" : [
         {
-          "summary" : "This is France",
-          "name" : "France",
           "points" : 0,
+          "name" : "France",
           "id" : 6,
           "short_name" : "FRA",
           "badges" : {
@@ -112,9 +105,8 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/96\/Le_nouveau_logo_FFF.png"
         },
         {
-          "summary" : "This is Iceland",
-          "name" : "Iceland",
           "points" : 0,
+          "name" : "Iceland",
           "id" : 11,
           "short_name" : "ISL",
           "badges" : {
@@ -124,9 +116,8 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a5\/Iceland_FA.png"
         },
         {
-          "summary" : "This is Austria",
-          "name" : "Austria",
           "points" : 0,
+          "name" : "Austria",
           "id" : 14,
           "short_name" : "AUT",
           "badges" : {
@@ -136,9 +127,8 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/14\/%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg\/640px-%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg.png"
         },
         {
-          "summary" : "This is SUI",
-          "name" : "Switzerland",
           "points" : 0,
+          "name" : "Switzerland",
           "id" : 10,
           "short_name" : "SUI",
           "badges" : {
@@ -151,5 +141,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/53\/SFV_Logo.svg\/640px-SFV_Logo.svg.png"
   },
-  "edition" : 209
+  "edition" : 210
 }

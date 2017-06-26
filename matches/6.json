@@ -5,7 +5,6 @@
     "stage_title" : "Group C, leg 1",
     "endDate" : 1500409800,
     "away" : {
-      "summary" : "This is Iceland",
       "name" : "Iceland",
       "id" : 11,
       "short_name" : "ISL",
@@ -17,7 +16,6 @@
     },
     "date" : 1500403500,
     "home" : {
-      "summary" : "This is France",
       "name" : "France",
       "id" : 6,
       "short_name" : "FRA",
@@ -31,5 +29,5 @@
 
     ]
   },
-  "edition" : 209
+  "edition" : 210
 }

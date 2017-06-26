@@ -6,9 +6,8 @@
         "title" : "Group A",
         "teams" : [
           {
-            "summary" : "This is NED",
-            "name" : "Netherlands",
             "points" : 0,
+            "name" : "Netherlands",
             "id" : 2,
             "short_name" : "NED",
             "badges" : {
@@ -18,9 +17,8 @@
             "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/a\/a1\/Royal_Netherlands_Football_Association_Logo.svg\/428px-Royal_Netherlands_Football_Association_Logo.svg.png"
           },
           {
-            "summary" : "This is Norway",
-            "name" : "Norway",
             "points" : 0,
+            "name" : "Norway",
             "id" : 8,
             "short_name" : "NOR",
             "badges" : {
@@ -30,9 +28,8 @@
             "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
           },
           {
-            "summary" : "This is Denmark",
-            "name" : "Denmark",
             "points" : 0,
+            "name" : "Denmark",
             "id" : 13,
             "short_name" : "DEN",
             "badges" : {
@@ -42,9 +39,8 @@
             "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
           },
           {
-            "summary" : "This is Belgium",
-            "name" : "Belgium",
             "points" : 0,
+            "name" : "Belgium",
             "id" : 15,
             "short_name" : "BEL",
             "badges" : {
@@ -60,9 +56,8 @@
         "title" : "Group B",
         "teams" : [
           {
-            "summary" : "This is Germany",
-            "name" : "Germany",
             "points" : 0,
+            "name" : "Germany",
             "id" : 3,
             "short_name" : "GER",
             "badges" : {
@@ -72,9 +67,8 @@
             "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
           },
           {
-            "summary" : "This is Sweden",
-            "name" : "Sweden",
             "points" : 3,
+            "name" : "Sweden",
             "id" : 1,
             "short_name" : "SWE",
             "badges" : {
@@ -84,9 +78,8 @@
             "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/35\/Sweden_national_football_team_logo.png"
           },
           {
-            "summary" : "This is Italy",
-            "name" : "Italy",
             "points" : 3,
+            "name" : "Italy",
             "id" : 5,
             "short_name" : "ITA",
             "badges" : {
@@ -96,9 +89,8 @@
             "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
           },
           {
-            "summary" : "This is Russia",
-            "name" : "Russia",
             "points" : 0,
+            "name" : "Russia",
             "id" : 4,
             "short_name" : "RUS",
             "badges" : {
@@ -114,9 +106,8 @@
         "title" : "Group C",
         "teams" : [
           {
-            "summary" : "This is France",
-            "name" : "France",
             "points" : 0,
+            "name" : "France",
             "id" : 6,
             "short_name" : "FRA",
             "badges" : {
@@ -126,9 +117,8 @@
             "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/96\/Le_nouveau_logo_FFF.png"
           },
           {
-            "summary" : "This is Iceland",
-            "name" : "Iceland",
             "points" : 0,
+            "name" : "Iceland",
             "id" : 11,
             "short_name" : "ISL",
             "badges" : {
@@ -138,9 +128,8 @@
             "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a5\/Iceland_FA.png"
           },
           {
-            "summary" : "This is Austria",
-            "name" : "Austria",
             "points" : 0,
+            "name" : "Austria",
             "id" : 14,
             "short_name" : "AUT",
             "badges" : {
@@ -150,9 +139,8 @@
             "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/14\/%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg\/640px-%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg.png"
           },
           {
-            "summary" : "This is SUI",
-            "name" : "Switzerland",
             "points" : 0,
+            "name" : "Switzerland",
             "id" : 10,
             "short_name" : "SUI",
             "badges" : {
@@ -168,9 +156,8 @@
         "title" : "Group D",
         "teams" : [
           {
-            "summary" : "This is England",
-            "name" : "England",
             "points" : 0,
+            "name" : "England",
             "id" : 7,
             "short_name" : "ENG",
             "badges" : {
@@ -180,9 +167,8 @@
             "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/38\/England_crest_2009.svg\/403px-England_crest_2009.svg.png"
           },
           {
-            "summary" : "This is Scotland",
-            "name" : "Scotland",
             "points" : 0,
+            "name" : "Scotland",
             "id" : 12,
             "short_name" : "SCO",
             "badges" : {
@@ -192,9 +178,8 @@
             "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/8\/8f\/Scotland_national_football_team_logo.svg\/480px-Scotland_national_football_team_logo.svg.png"
           },
           {
-            "summary" : "This is Spain",
-            "name" : "Spain",
             "points" : 0,
+            "name" : "Spain",
             "id" : 9,
             "short_name" : "ESP",
             "badges" : {
@@ -204,9 +189,8 @@
             "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/31\/Spain_National_Football_Team_badge.png"
           },
           {
-            "summary" : "This is Portugal",
-            "name" : "Portugal",
             "points" : 0,
+            "name" : "Portugal",
             "id" : 16,
             "short_name" : "POR",
             "badges" : {
@@ -219,5 +203,5 @@
       }
     ]
   },
-  "edition" : 209
+  "edition" : 210
 }

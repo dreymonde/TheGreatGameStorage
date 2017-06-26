@@ -5,7 +5,6 @@
     "stage_title" : "Group C, leg 1",
     "endDate" : 1500399900,
     "away" : {
-      "summary" : "This is SUI",
       "name" : "Switzerland",
       "id" : 10,
       "short_name" : "SUI",
@@ -17,7 +16,6 @@
     },
     "date" : 1500393600,
     "home" : {
-      "summary" : "This is Austria",
       "name" : "Austria",
       "id" : 14,
       "short_name" : "AUT",
@@ -31,5 +29,5 @@
 
     ]
   },
-  "edition" : 209
+  "edition" : 210
 }

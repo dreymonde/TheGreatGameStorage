@@ -5,7 +5,6 @@
     "stage_title" : "Group D, leg 3",
     "endDate" : 1501187400,
     "away" : {
-      "summary" : "This is Spain",
       "name" : "Spain",
       "id" : 9,
       "short_name" : "ESP",
@@ -17,7 +16,6 @@
     },
     "date" : 1501181100,
     "home" : {
-      "summary" : "This is Scotland",
       "name" : "Scotland",
       "id" : 12,
       "short_name" : "SCO",
@@ -31,5 +29,5 @@
 
     ]
   },
-  "edition" : 209
+  "edition" : 210
 }

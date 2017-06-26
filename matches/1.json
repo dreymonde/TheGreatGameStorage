@@ -9,7 +9,6 @@
     "stage_title" : "Group A, leg 1",
     "endDate" : 1500227100,
     "away" : {
-      "summary" : "This is Norway",
       "name" : "Norway",
       "id" : 8,
       "short_name" : "NOR",
@@ -21,7 +20,6 @@
     },
     "date" : 1500220800,
     "home" : {
-      "summary" : "This is NED",
       "name" : "Netherlands",
       "id" : 2,
       "short_name" : "NED",
@@ -54,5 +52,5 @@
       }
     ]
   },
-  "edition" : 209
+  "edition" : 210
 }

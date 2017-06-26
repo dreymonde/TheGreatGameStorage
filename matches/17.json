@@ -5,7 +5,6 @@
     "stage_title" : "Group A, leg 3",
     "endDate" : 1500928200,
     "away" : {
-      "summary" : "This is NED",
       "name" : "Netherlands",
       "id" : 2,
       "short_name" : "NED",
@@ -17,7 +16,6 @@
     },
     "date" : 1500921900,
     "home" : {
-      "summary" : "This is Belgium",
       "name" : "Belgium",
       "id" : 15,
       "short_name" : "BEL",
@@ -31,5 +29,5 @@
 
     ]
   },
-  "edition" : 209
+  "edition" : 210
 }

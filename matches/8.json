@@ -5,7 +5,6 @@
     "stage_title" : "Group D, leg 1",
     "endDate" : 1500496200,
     "away" : {
-      "summary" : "This is Scotland",
       "name" : "Scotland",
       "id" : 12,
       "short_name" : "SCO",
@@ -17,7 +16,6 @@
     },
     "date" : 1500489900,
     "home" : {
-      "summary" : "This is England",
       "name" : "England",
       "id" : 7,
       "short_name" : "ENG",
@@ -31,5 +29,5 @@
 
     ]
   },
-  "edition" : 209
+  "edition" : 210
 }

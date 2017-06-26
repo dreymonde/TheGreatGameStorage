@@ -5,7 +5,6 @@
     "stage_title" : "Group C, leg 2",
     "endDate" : 1500745500,
     "away" : {
-      "summary" : "This is SUI",
       "name" : "Switzerland",
       "id" : 10,
       "short_name" : "SUI",
@@ -17,7 +16,6 @@
     },
     "date" : 1500739200,
     "home" : {
-      "summary" : "This is Iceland",
       "name" : "Iceland",
       "id" : 11,
       "short_name" : "ISL",
@@ -31,5 +29,5 @@
 
     ]
   },
-  "edition" : 209
+  "edition" : 210
 }
