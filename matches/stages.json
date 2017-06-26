@@ -12,6 +12,7 @@
             "id" : 1,
             "endDate" : 1500227100,
             "away" : {
+              "summary" : "This is Norway",
               "name" : "Norway",
               "id" : 8,
               "short_name" : "NOR",
@@ -23,6 +24,7 @@
             },
             "date" : 1500220800,
             "home" : {
+              "summary" : "This is NED",
               "name" : "Netherlands",
               "id" : 2,
               "short_name" : "NED",
@@ -38,6 +40,7 @@
             "date" : 1500230700,
             "location" : "De Vijverberg, Doetinchem",
             "home" : {
+              "summary" : "This is Denmark",
               "name" : "Denmark",
               "id" : 13,
               "short_name" : "DEN",
@@ -49,6 +52,7 @@
             },
             "id" : 2,
             "away" : {
+              "summary" : "This is Belgium",
               "name" : "Belgium",
               "id" : 15,
               "short_name" : "BEL",
@@ -69,6 +73,7 @@
             "date" : 1500307200,
             "location" : "Sparta Stadion Het Kasteel, Rotterdam",
             "home" : {
+              "summary" : "This is Italy",
               "name" : "Italy",
               "id" : 5,
               "short_name" : "ITA",
@@ -80,6 +85,7 @@
             },
             "id" : 3,
             "away" : {
+              "summary" : "This is Russia",
               "name" : "Russia",
               "id" : 4,
               "short_name" : "RUS",
@@ -95,6 +101,7 @@
             "date" : 1500317100,
             "location" : "Rat Verlegh Stadion, Breda",
             "home" : {
+              "summary" : "This is Germany",
               "name" : "Germany",
               "id" : 3,
               "short_name" : "GER",
@@ -106,6 +113,7 @@
             },
             "id" : 4,
             "away" : {
+              "summary" : "This is Sweden",
               "name" : "Sweden",
               "id" : 1,
               "short_name" : "SWE",
@@ -126,6 +134,7 @@
             "date" : 1500393600,
             "location" : "De Adelaarshorst, Deventer",
             "home" : {
+              "summary" : "This is Austria",
               "name" : "Austria",
               "id" : 14,
               "short_name" : "AUT",
@@ -137,6 +146,7 @@
             },
             "id" : 5,
             "away" : {
+              "summary" : "This is SUI",
               "name" : "Switzerland",
               "id" : 10,
               "short_name" : "SUI",
@@ -152,6 +162,7 @@
             "date" : 1500403500,
             "location" : "Koning Willem II Stadion, Tilburg",
             "home" : {
+              "summary" : "This is France",
               "name" : "France",
               "id" : 6,
               "short_name" : "FRA",
@@ -163,6 +174,7 @@
             },
             "id" : 6,
             "away" : {
+              "summary" : "This is Iceland",
               "name" : "Iceland",
               "id" : 11,
               "short_name" : "ISL",
@@ -183,6 +195,7 @@
             "date" : 1500480000,
             "location" : "De Vijverberg, Doetinchem",
             "home" : {
+              "summary" : "This is Spain",
               "name" : "Spain",
               "id" : 9,
               "short_name" : "ESP",
@@ -194,6 +207,7 @@
             },
             "id" : 7,
             "away" : {
+              "summary" : "This is Portugal",
               "name" : "Portugal",
               "id" : 16,
               "short_name" : "POR",
@@ -209,6 +223,7 @@
             "date" : 1500489900,
             "location" : "Stadion Galgenwaard, Utrecht",
             "home" : {
+              "summary" : "This is England",
               "name" : "England",
               "id" : 7,
               "short_name" : "ENG",
@@ -220,6 +235,7 @@
             },
             "id" : 8,
             "away" : {
+              "summary" : "This is Scotland",
               "name" : "Scotland",
               "id" : 12,
               "short_name" : "SCO",
@@ -240,6 +256,7 @@
             "date" : 1500566400,
             "location" : "Rat Verlegh Stadion, Breda",
             "home" : {
+              "summary" : "This is Norway",
               "name" : "Norway",
               "id" : 8,
               "short_name" : "NOR",
@@ -251,6 +268,7 @@
             },
             "id" : 9,
             "away" : {
+              "summary" : "This is Belgium",
               "name" : "Belgium",
               "id" : 15,
               "short_name" : "BEL",
@@ -266,6 +284,7 @@
             "date" : 1500576300,
             "location" : "Sparta Stadion Het Kasteel, Rotterdam",
             "home" : {
+              "summary" : "This is NED",
               "name" : "Netherlands",
               "id" : 2,
               "short_name" : "NED",
@@ -277,6 +296,7 @@
             },
             "id" : 10,
             "away" : {
+              "summary" : "This is Denmark",
               "name" : "Denmark",
               "id" : 13,
               "short_name" : "DEN",
@@ -297,6 +317,7 @@
             "date" : 1500652800,
             "location" : "De Adelaarshorst, Deventer",
             "home" : {
+              "summary" : "This is Sweden",
               "name" : "Sweden",
               "id" : 1,
               "short_name" : "SWE",
@@ -308,6 +329,7 @@
             },
             "id" : 11,
             "away" : {
+              "summary" : "This is Russia",
               "name" : "Russia",
               "id" : 4,
               "short_name" : "RUS",
@@ -323,6 +345,7 @@
             "date" : 1500662700,
             "location" : "Koning Willem II Stadion, Tilburg",
             "home" : {
+              "summary" : "This is Germany",
               "name" : "Germany",
               "id" : 3,
               "short_name" : "GER",
@@ -334,6 +357,7 @@
             },
             "id" : 12,
             "away" : {
+              "summary" : "This is Italy",
               "name" : "Italy",
               "id" : 5,
               "short_name" : "ITA",
@@ -354,6 +378,7 @@
             "date" : 1500739200,
             "location" : "De Vijverberg, Doetinchem",
             "home" : {
+              "summary" : "This is Iceland",
               "name" : "Iceland",
               "id" : 11,
               "short_name" : "ISL",
@@ -365,6 +390,7 @@
             },
             "id" : 13,
             "away" : {
+              "summary" : "This is SUI",
               "name" : "Switzerland",
               "id" : 10,
               "short_name" : "SUI",
@@ -380,6 +406,7 @@
             "date" : 1500749100,
             "location" : "Stadion Galgenwaard, Utrecht",
             "home" : {
+              "summary" : "This is France",
               "name" : "France",
               "id" : 6,
               "short_name" : "FRA",
@@ -391,6 +418,7 @@
             },
             "id" : 14,
             "away" : {
+              "summary" : "This is Austria",
               "name" : "Austria",
               "id" : 14,
               "short_name" : "AUT",
@@ -411,6 +439,7 @@
             "date" : 1500825600,
             "location" : "Sparta Stadion Het Kasteel, Rotterdam",
             "home" : {
+              "summary" : "This is Scotland",
               "name" : "Scotland",
               "id" : 12,
               "short_name" : "SCO",
@@ -422,6 +451,7 @@
             },
             "id" : 15,
             "away" : {
+              "summary" : "This is Portugal",
               "name" : "Portugal",
               "id" : 16,
               "short_name" : "POR",
@@ -437,6 +467,7 @@
             "date" : 1500835500,
             "location" : "Rat Verlegh Stadion, Breda",
             "home" : {
+              "summary" : "This is England",
               "name" : "England",
               "id" : 7,
               "short_name" : "ENG",
@@ -448,6 +479,7 @@
             },
             "id" : 16,
             "away" : {
+              "summary" : "This is Spain",
               "name" : "Spain",
               "id" : 9,
               "short_name" : "ESP",
@@ -468,6 +500,7 @@
             "date" : 1500921900,
             "location" : "Koning Willem II Stadion, Tilburg",
             "home" : {
+              "summary" : "This is Belgium",
               "name" : "Belgium",
               "id" : 15,
               "short_name" : "BEL",
@@ -479,6 +512,7 @@
             },
             "id" : 17,
             "away" : {
+              "summary" : "This is NED",
               "name" : "Netherlands",
               "id" : 2,
               "short_name" : "NED",
@@ -494,6 +528,7 @@
             "date" : 1500921900,
             "location" : "De Adelaarshorst, Deventer",
             "home" : {
+              "summary" : "This is Norway",
               "name" : "Norway",
               "id" : 8,
               "short_name" : "NOR",
@@ -505,6 +540,7 @@
             },
             "id" : 18,
             "away" : {
+              "summary" : "This is Denmark",
               "name" : "Denmark",
               "id" : 13,
               "short_name" : "DEN",
@@ -525,6 +561,7 @@
             "date" : 1501008300,
             "location" : "Stadion Galgenwaard, Utrecht",
             "home" : {
+              "summary" : "This is Russia",
               "name" : "Russia",
               "id" : 4,
               "short_name" : "RUS",
@@ -536,6 +573,7 @@
             },
             "id" : 19,
             "away" : {
+              "summary" : "This is Germany",
               "name" : "Germany",
               "id" : 3,
               "short_name" : "GER",
@@ -551,6 +589,7 @@
             "date" : 1501008300,
             "location" : "De Vijverberg, Doetinchem",
             "home" : {
+              "summary" : "This is Sweden",
               "name" : "Sweden",
               "id" : 1,
               "short_name" : "SWE",
@@ -562,6 +601,7 @@
             },
             "id" : 20,
             "away" : {
+              "summary" : "This is Italy",
               "name" : "Italy",
               "id" : 5,
               "short_name" : "ITA",
@@ -582,6 +622,7 @@
             "date" : 1501094700,
             "location" : "Rat Verlegh Stadion, Breda",
             "home" : {
+              "summary" : "This is SUI",
               "name" : "Switzerland",
               "id" : 10,
               "short_name" : "SUI",
@@ -593,6 +634,7 @@
             },
             "id" : 21,
             "away" : {
+              "summary" : "This is France",
               "name" : "France",
               "id" : 6,
               "short_name" : "FRA",
@@ -608,6 +650,7 @@
             "date" : 1501094700,
             "location" : "Sparta Stadion Het Kasteel, Rotterdam",
             "home" : {
+              "summary" : "This is Iceland",
               "name" : "Iceland",
               "id" : 11,
               "short_name" : "ISL",
@@ -619,6 +662,7 @@
             },
             "id" : 22,
             "away" : {
+              "summary" : "This is Austria",
               "name" : "Austria",
               "id" : 14,
               "short_name" : "AUT",
@@ -639,6 +683,7 @@
             "date" : 1501181100,
             "location" : "Koning Willem II Stadion, Tilburg",
             "home" : {
+              "summary" : "This is Portugal",
               "name" : "Portugal",
               "id" : 16,
               "short_name" : "POR",
@@ -650,6 +695,7 @@
             },
             "id" : 23,
             "away" : {
+              "summary" : "This is England",
               "name" : "England",
               "id" : 7,
               "short_name" : "ENG",
@@ -665,6 +711,7 @@
             "date" : 1501181100,
             "location" : "De Adelaarshorst, Deventer",
             "home" : {
+              "summary" : "This is Scotland",
               "name" : "Scotland",
               "id" : 12,
               "short_name" : "SCO",
@@ -676,6 +723,7 @@
             },
             "id" : 24,
             "away" : {
+              "summary" : "This is Spain",
               "name" : "Spain",
               "id" : 9,
               "short_name" : "ESP",
@@ -696,6 +744,7 @@
             "date" : 1501347600,
             "location" : "De Vijverberg, Doetinchem",
             "home" : {
+              "summary" : "",
               "name" : "Group A winner",
               "id" : -1,
               "short_name" : "WA",
@@ -707,6 +756,7 @@
             },
             "id" : 25,
             "away" : {
+              "summary" : "",
               "name" : "Group B runner-up",
               "id" : -2,
               "short_name" : "RB",
@@ -722,6 +772,7 @@
             "date" : 1501353900,
             "location" : "Sparta Stadion Het Kasteel, Rotterdam",
             "home" : {
+              "summary" : "",
               "name" : "Group B winner",
               "id" : -3,
               "short_name" : "WB",
@@ -733,6 +784,7 @@
             },
             "id" : 26,
             "away" : {
+              "summary" : "",
               "name" : "Group A runner-up",
               "id" : -4,
               "short_name" : "RA",
@@ -748,5 +800,5 @@
       }
     ]
   },
-  "edition" : 207
+  "edition" : 208
 }

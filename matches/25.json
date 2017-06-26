@@ -5,6 +5,7 @@
     "stage_title" : "Quarter-Finals, Day 1\nJuly 29",
     "endDate" : 1501353900,
     "away" : {
+      "summary" : "",
       "name" : "Group B runner-up",
       "id" : -2,
       "short_name" : "RB",
@@ -16,6 +17,7 @@
     },
     "date" : 1501347600,
     "home" : {
+      "summary" : "",
       "name" : "Group A winner",
       "id" : -1,
       "short_name" : "WA",
@@ -29,5 +31,5 @@
 
     ]
   },
-  "edition" : 207
+  "edition" : 208
 }

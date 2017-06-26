@@ -5,6 +5,7 @@
     "stage_title" : "Group B, leg 3",
     "endDate" : 1501014600,
     "away" : {
+      "summary" : "This is Italy",
       "name" : "Italy",
       "id" : 5,
       "short_name" : "ITA",
@@ -16,6 +17,7 @@
     },
     "date" : 1501008300,
     "home" : {
+      "summary" : "This is Sweden",
       "name" : "Sweden",
       "id" : 1,
       "short_name" : "SWE",
@@ -29,5 +31,5 @@
 
     ]
   },
-  "edition" : 207
+  "edition" : 208
 }

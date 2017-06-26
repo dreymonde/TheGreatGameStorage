@@ -5,6 +5,7 @@
     "stage_title" : "Group B, leg 1",
     "endDate" : 1500323400,
     "away" : {
+      "summary" : "This is Sweden",
       "name" : "Sweden",
       "id" : 1,
       "short_name" : "SWE",
@@ -16,6 +17,7 @@
     },
     "date" : 1500317100,
     "home" : {
+      "summary" : "This is Germany",
       "name" : "Germany",
       "id" : 3,
       "short_name" : "GER",
@@ -29,5 +31,5 @@
 
     ]
   },
-  "edition" : 207
+  "edition" : 208
 }

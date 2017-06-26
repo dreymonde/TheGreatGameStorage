@@ -5,6 +5,7 @@
     "stage_title" : "Group B, leg 1",
     "endDate" : 1500313500,
     "away" : {
+      "summary" : "This is Russia",
       "name" : "Russia",
       "id" : 4,
       "short_name" : "RUS",
@@ -16,6 +17,7 @@
     },
     "date" : 1500307200,
     "home" : {
+      "summary" : "This is Italy",
       "name" : "Italy",
       "id" : 5,
       "short_name" : "ITA",
@@ -29,5 +31,5 @@
 
     ]
   },
-  "edition" : 207
+  "edition" : 208
 }

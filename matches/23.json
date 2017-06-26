@@ -5,6 +5,7 @@
     "stage_title" : "Group D, leg 3",
     "endDate" : 1501187400,
     "away" : {
+      "summary" : "This is England",
       "name" : "England",
       "id" : 7,
       "short_name" : "ENG",
@@ -16,6 +17,7 @@
     },
     "date" : 1501181100,
     "home" : {
+      "summary" : "This is Portugal",
       "name" : "Portugal",
       "id" : 16,
       "short_name" : "POR",
@@ -29,5 +31,5 @@
 
     ]
   },
-  "edition" : 207
+  "edition" : 208
 }

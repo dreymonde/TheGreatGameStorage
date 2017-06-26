@@ -5,6 +5,7 @@
     "stage_title" : "Group B, leg 2",
     "endDate" : 1500659100,
     "away" : {
+      "summary" : "This is Russia",
       "name" : "Russia",
       "id" : 4,
       "short_name" : "RUS",
@@ -16,6 +17,7 @@
     },
     "date" : 1500652800,
     "home" : {
+      "summary" : "This is Sweden",
       "name" : "Sweden",
       "id" : 1,
       "short_name" : "SWE",
@@ -29,5 +31,5 @@
 
     ]
   },
-  "edition" : 207
+  "edition" : 208
 }

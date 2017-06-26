@@ -2,182 +2,198 @@
   "content" : {
     "teams" : [
       {
+        "summary" : "This is Denmark",
+        "name" : "Denmark",
+        "id" : 13,
         "badges" : {
           "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/9c\/Flag_of_Denmark.svg\/634px-Flag_of_Denmark.svg.png",
           "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
         },
-        "name" : "Denmark",
-        "id" : 13,
         "short_name" : "DEN",
         "rank" : 12,
         "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
       },
       {
+        "summary" : "This is Iceland",
+        "name" : "Iceland",
+        "id" : 11,
         "badges" : {
           "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/ce\/Flag_of_Iceland.svg\/640px-Flag_of_Iceland.svg.png",
           "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a5\/Iceland_FA.png"
         },
-        "name" : "Iceland",
-        "id" : 11,
         "short_name" : "ISL",
         "rank" : 10,
         "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a5\/Iceland_FA.png"
       },
       {
+        "summary" : "This is Belgium",
+        "name" : "Belgium",
+        "id" : 15,
         "badges" : {
           "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/6\/65\/Flag_of_Belgium.svg\/692px-Flag_of_Belgium.svg.png",
           "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/f\/f5\/Belgium_urbsfa.png"
         },
-        "name" : "Belgium",
-        "id" : 15,
         "short_name" : "BEL",
         "rank" : 14,
         "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/f\/f5\/Belgium_urbsfa.png"
       },
       {
+        "summary" : "This is France",
+        "name" : "France",
+        "id" : 6,
         "badges" : {
           "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/c\/c3\/Flag_of_France.svg\/640px-Flag_of_France.svg.png",
           "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/96\/Le_nouveau_logo_FFF.png"
         },
-        "name" : "France",
-        "id" : 6,
         "short_name" : "FRA",
         "rank" : 2,
         "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/96\/Le_nouveau_logo_FFF.png"
       },
       {
+        "summary" : "This is Norway",
+        "name" : "Norway",
+        "id" : 8,
         "badges" : {
           "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/d9\/Flag_of_Norway.svg\/640px-Flag_of_Norway.svg.png",
           "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
         },
-        "name" : "Norway",
-        "id" : 8,
         "short_name" : "NOR",
         "rank" : 4,
         "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
       },
       {
+        "summary" : "This is Portugal",
+        "name" : "Portugal",
+        "id" : 16,
         "badges" : {
           "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/5c\/Flag_of_Portugal.svg\/640px-Flag_of_Portugal.svg.png",
           "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/5f\/Portuguese_Football_Federation.svg\/359px-Portuguese_Football_Federation.svg.png"
         },
-        "name" : "Portugal",
-        "id" : 16,
         "short_name" : "POR",
         "rank" : 23,
         "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/5f\/Portuguese_Football_Federation.svg\/359px-Portuguese_Football_Federation.svg.png"
       },
       {
+        "summary" : "This is Sweden",
+        "name" : "Sweden",
+        "id" : 1,
         "badges" : {
           "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4c\/Flag_of_Sweden.svg\/640px-Flag_of_Sweden.svg.png",
           "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/35\/Sweden_national_football_team_logo.png"
         },
-        "name" : "Sweden",
-        "id" : 1,
         "short_name" : "SWE",
         "rank" : 5,
         "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/35\/Sweden_national_football_team_logo.png"
       },
       {
+        "summary" : "This is Scotland",
+        "name" : "Scotland",
+        "id" : 12,
         "badges" : {
           "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/1\/10\/Flag_of_Scotland.svg\/800px-Flag_of_Scotland.svg.png",
           "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/8\/8f\/Scotland_national_football_team_logo.svg\/480px-Scotland_national_football_team_logo.svg.png"
         },
-        "name" : "Scotland",
-        "id" : 12,
         "short_name" : "SCO",
         "rank" : 11,
         "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/8\/8f\/Scotland_national_football_team_logo.svg\/480px-Scotland_national_football_team_logo.svg.png"
       },
       {
+        "summary" : "This is Russia",
+        "name" : "Russia",
+        "id" : 4,
         "badges" : {
           "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/f\/f3\/Flag_of_Russia.svg\/640px-Flag_of_Russia.svg.png",
           "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/77\/Russian_Football_Union.png"
         },
-        "name" : "Russia",
-        "id" : 4,
         "short_name" : "RUS",
         "rank" : 15,
         "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/77\/Russian_Football_Union.png"
       },
       {
+        "summary" : "This is Austria",
+        "name" : "Austria",
+        "id" : 14,
         "badges" : {
           "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/88\/Flag_of_Austria_%28state%29.svg\/640px-Flag_of_Austria_%28state%29.svg.png",
           "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/14\/%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg\/640px-%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg.png"
         },
-        "name" : "Austria",
-        "id" : 14,
         "short_name" : "AUT",
         "rank" : 13,
         "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/14\/%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg\/640px-%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg.png"
       },
       {
+        "summary" : "This is Germany",
+        "name" : "Germany",
+        "id" : 3,
         "badges" : {
           "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/b\/ba\/Flag_of_Germany.svg\/800px-Flag_of_Germany.svg.png",
           "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
         },
-        "name" : "Germany",
-        "id" : 3,
         "short_name" : "GER",
         "rank" : 1,
         "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
       },
       {
+        "summary" : "This is Italy",
+        "name" : "Italy",
+        "id" : 5,
         "badges" : {
           "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/0\/03\/Flag_of_Italy.svg\/640px-Flag_of_Italy.svg.png",
           "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
         },
-        "name" : "Italy",
-        "id" : 5,
         "short_name" : "ITA",
         "rank" : 8,
         "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
       },
       {
+        "summary" : "This is SUI",
+        "name" : "Switzerland",
+        "id" : 10,
         "badges" : {
           "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/92\/Civil_Ensign_of_Switzerland_%28Pantone%29.svg\/640px-Civil_Ensign_of_Switzerland_%28Pantone%29.svg.png",
           "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/53\/SFV_Logo.svg\/640px-SFV_Logo.svg.png"
         },
-        "name" : "Switzerland",
-        "id" : 10,
         "short_name" : "SUI",
         "rank" : 7,
         "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/53\/SFV_Logo.svg\/640px-SFV_Logo.svg.png"
       },
       {
+        "summary" : "This is England",
+        "name" : "England",
+        "id" : 7,
         "badges" : {
           "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/b\/be\/Flag_of_England.svg\/800px-Flag_of_England.svg.png",
           "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/38\/England_crest_2009.svg\/403px-England_crest_2009.svg.png"
         },
-        "name" : "England",
-        "id" : 7,
         "short_name" : "ENG",
         "rank" : 3,
         "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/38\/England_crest_2009.svg\/403px-England_crest_2009.svg.png"
       },
       {
+        "summary" : "This is Spain",
+        "name" : "Spain",
+        "id" : 9,
         "badges" : {
           "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/9a\/Flag_of_Spain.svg\/640px-Flag_of_Spain.svg.png",
           "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/31\/Spain_National_Football_Team_badge.png"
         },
-        "name" : "Spain",
-        "id" : 9,
         "short_name" : "ESP",
         "rank" : 6,
         "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/31\/Spain_National_Football_Team_badge.png"
       },
       {
+        "summary" : "This is NED",
+        "name" : "Netherlands",
+        "id" : 2,
         "badges" : {
           "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/20\/Flag_of_the_Netherlands.svg\/640px-Flag_of_the_Netherlands.svg.png",
           "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/a\/a1\/Royal_Netherlands_Football_Association_Logo.svg\/428px-Royal_Netherlands_Football_Association_Logo.svg.png"
         },
-        "name" : "Netherlands",
-        "id" : 2,
         "short_name" : "NED",
         "rank" : 9,
         "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/a\/a1\/Royal_Netherlands_Football_Association_Logo.svg\/428px-Royal_Netherlands_Football_Association_Logo.svg.png"
       }
     ]
   },
-  "edition" : 207
+  "edition" : 208
 }

@@ -5,6 +5,7 @@
     "stage_title" : "Group D, leg 2",
     "endDate" : 1500841800,
     "away" : {
+      "summary" : "This is Spain",
       "name" : "Spain",
       "id" : 9,
       "short_name" : "ESP",
@@ -16,6 +17,7 @@
     },
     "date" : 1500835500,
     "home" : {
+      "summary" : "This is England",
       "name" : "England",
       "id" : 7,
       "short_name" : "ENG",
@@ -29,5 +31,5 @@
 
     ]
   },
-  "edition" : 207
+  "edition" : 208
 }

@@ -5,6 +5,7 @@
     "stage_title" : "Group B, leg 3",
     "endDate" : 1501014600,
     "away" : {
+      "summary" : "This is Germany",
       "name" : "Germany",
       "id" : 3,
       "short_name" : "GER",
@@ -16,6 +17,7 @@
     },
     "date" : 1501008300,
     "home" : {
+      "summary" : "This is Russia",
       "name" : "Russia",
       "id" : 4,
       "short_name" : "RUS",
@@ -29,5 +31,5 @@
 
     ]
   },
-  "edition" : 207
+  "edition" : 208
 }

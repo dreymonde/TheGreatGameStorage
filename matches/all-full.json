@@ -11,6 +11,7 @@
         "stage_title" : "Group A, leg 1",
         "endDate" : 1500227100,
         "away" : {
+          "summary" : "This is Norway",
           "name" : "Norway",
           "id" : 8,
           "short_name" : "NOR",
@@ -22,6 +23,7 @@
         },
         "date" : 1500220800,
         "home" : {
+          "summary" : "This is NED",
           "name" : "Netherlands",
           "id" : 2,
           "short_name" : "NED",
@@ -60,6 +62,7 @@
         "stage_title" : "Group A, leg 1",
         "endDate" : 1500237000,
         "away" : {
+          "summary" : "This is Belgium",
           "name" : "Belgium",
           "id" : 15,
           "short_name" : "BEL",
@@ -71,6 +74,7 @@
         },
         "date" : 1500230700,
         "home" : {
+          "summary" : "This is Denmark",
           "name" : "Denmark",
           "id" : 13,
           "short_name" : "DEN",
@@ -90,6 +94,7 @@
         "stage_title" : "Group B, leg 1",
         "endDate" : 1500313500,
         "away" : {
+          "summary" : "This is Russia",
           "name" : "Russia",
           "id" : 4,
           "short_name" : "RUS",
@@ -101,6 +106,7 @@
         },
         "date" : 1500307200,
         "home" : {
+          "summary" : "This is Italy",
           "name" : "Italy",
           "id" : 5,
           "short_name" : "ITA",
@@ -120,6 +126,7 @@
         "stage_title" : "Group B, leg 1",
         "endDate" : 1500323400,
         "away" : {
+          "summary" : "This is Sweden",
           "name" : "Sweden",
           "id" : 1,
           "short_name" : "SWE",
@@ -131,6 +138,7 @@
         },
         "date" : 1500317100,
         "home" : {
+          "summary" : "This is Germany",
           "name" : "Germany",
           "id" : 3,
           "short_name" : "GER",
@@ -150,6 +158,7 @@
         "stage_title" : "Group C, leg 1",
         "endDate" : 1500399900,
         "away" : {
+          "summary" : "This is SUI",
           "name" : "Switzerland",
           "id" : 10,
           "short_name" : "SUI",
@@ -161,6 +170,7 @@
         },
         "date" : 1500393600,
         "home" : {
+          "summary" : "This is Austria",
           "name" : "Austria",
           "id" : 14,
           "short_name" : "AUT",
@@ -180,6 +190,7 @@
         "stage_title" : "Group C, leg 1",
         "endDate" : 1500409800,
         "away" : {
+          "summary" : "This is Iceland",
           "name" : "Iceland",
           "id" : 11,
           "short_name" : "ISL",
@@ -191,6 +202,7 @@
         },
         "date" : 1500403500,
         "home" : {
+          "summary" : "This is France",
           "name" : "France",
           "id" : 6,
           "short_name" : "FRA",
@@ -210,6 +222,7 @@
         "stage_title" : "Group D, leg 1",
         "endDate" : 1500486300,
         "away" : {
+          "summary" : "This is Portugal",
           "name" : "Portugal",
           "id" : 16,
           "short_name" : "POR",
@@ -221,6 +234,7 @@
         },
         "date" : 1500480000,
         "home" : {
+          "summary" : "This is Spain",
           "name" : "Spain",
           "id" : 9,
           "short_name" : "ESP",
@@ -240,6 +254,7 @@
         "stage_title" : "Group D, leg 1",
         "endDate" : 1500496200,
         "away" : {
+          "summary" : "This is Scotland",
           "name" : "Scotland",
           "id" : 12,
           "short_name" : "SCO",
@@ -251,6 +266,7 @@
         },
         "date" : 1500489900,
         "home" : {
+          "summary" : "This is England",
           "name" : "England",
           "id" : 7,
           "short_name" : "ENG",
@@ -270,6 +286,7 @@
         "stage_title" : "Group A, leg 2",
         "endDate" : 1500572700,
         "away" : {
+          "summary" : "This is Belgium",
           "name" : "Belgium",
           "id" : 15,
           "short_name" : "BEL",
@@ -281,6 +298,7 @@
         },
         "date" : 1500566400,
         "home" : {
+          "summary" : "This is Norway",
           "name" : "Norway",
           "id" : 8,
           "short_name" : "NOR",
@@ -300,6 +318,7 @@
         "stage_title" : "Group A, leg 2",
         "endDate" : 1500582600,
         "away" : {
+          "summary" : "This is Denmark",
           "name" : "Denmark",
           "id" : 13,
           "short_name" : "DEN",
@@ -311,6 +330,7 @@
         },
         "date" : 1500576300,
         "home" : {
+          "summary" : "This is NED",
           "name" : "Netherlands",
           "id" : 2,
           "short_name" : "NED",
@@ -330,6 +350,7 @@
         "stage_title" : "Group B, leg 2",
         "endDate" : 1500659100,
         "away" : {
+          "summary" : "This is Russia",
           "name" : "Russia",
           "id" : 4,
           "short_name" : "RUS",
@@ -341,6 +362,7 @@
         },
         "date" : 1500652800,
         "home" : {
+          "summary" : "This is Sweden",
           "name" : "Sweden",
           "id" : 1,
           "short_name" : "SWE",
@@ -360,6 +382,7 @@
         "stage_title" : "Group B, leg 2",
         "endDate" : 1500669000,
         "away" : {
+          "summary" : "This is Italy",
           "name" : "Italy",
           "id" : 5,
           "short_name" : "ITA",
@@ -371,6 +394,7 @@
         },
         "date" : 1500662700,
         "home" : {
+          "summary" : "This is Germany",
           "name" : "Germany",
           "id" : 3,
           "short_name" : "GER",
@@ -390,6 +414,7 @@
         "stage_title" : "Group C, leg 2",
         "endDate" : 1500745500,
         "away" : {
+          "summary" : "This is SUI",
           "name" : "Switzerland",
           "id" : 10,
           "short_name" : "SUI",
@@ -401,6 +426,7 @@
         },
         "date" : 1500739200,
         "home" : {
+          "summary" : "This is Iceland",
           "name" : "Iceland",
           "id" : 11,
           "short_name" : "ISL",
@@ -420,6 +446,7 @@
         "stage_title" : "Group C, leg 2",
         "endDate" : 1500755400,
         "away" : {
+          "summary" : "This is Austria",
           "name" : "Austria",
           "id" : 14,
           "short_name" : "AUT",
@@ -431,6 +458,7 @@
         },
         "date" : 1500749100,
         "home" : {
+          "summary" : "This is France",
           "name" : "France",
           "id" : 6,
           "short_name" : "FRA",
@@ -450,6 +478,7 @@
         "stage_title" : "Group D, leg 2",
         "endDate" : 1500831900,
         "away" : {
+          "summary" : "This is Portugal",
           "name" : "Portugal",
           "id" : 16,
           "short_name" : "POR",
@@ -461,6 +490,7 @@
         },
         "date" : 1500825600,
         "home" : {
+          "summary" : "This is Scotland",
           "name" : "Scotland",
           "id" : 12,
           "short_name" : "SCO",
@@ -480,6 +510,7 @@
         "stage_title" : "Group D, leg 2",
         "endDate" : 1500841800,
         "away" : {
+          "summary" : "This is Spain",
           "name" : "Spain",
           "id" : 9,
           "short_name" : "ESP",
@@ -491,6 +522,7 @@
         },
         "date" : 1500835500,
         "home" : {
+          "summary" : "This is England",
           "name" : "England",
           "id" : 7,
           "short_name" : "ENG",
@@ -510,6 +542,7 @@
         "stage_title" : "Group A, leg 3",
         "endDate" : 1500928200,
         "away" : {
+          "summary" : "This is NED",
           "name" : "Netherlands",
           "id" : 2,
           "short_name" : "NED",
@@ -521,6 +554,7 @@
         },
         "date" : 1500921900,
         "home" : {
+          "summary" : "This is Belgium",
           "name" : "Belgium",
           "id" : 15,
           "short_name" : "BEL",
@@ -540,6 +574,7 @@
         "stage_title" : "Group A, leg 3",
         "endDate" : 1500928200,
         "away" : {
+          "summary" : "This is Denmark",
           "name" : "Denmark",
           "id" : 13,
           "short_name" : "DEN",
@@ -551,6 +586,7 @@
         },
         "date" : 1500921900,
         "home" : {
+          "summary" : "This is Norway",
           "name" : "Norway",
           "id" : 8,
           "short_name" : "NOR",
@@ -570,6 +606,7 @@
         "stage_title" : "Group B, leg 3",
         "endDate" : 1501014600,
         "away" : {
+          "summary" : "This is Germany",
           "name" : "Germany",
           "id" : 3,
           "short_name" : "GER",
@@ -581,6 +618,7 @@
         },
         "date" : 1501008300,
         "home" : {
+          "summary" : "This is Russia",
           "name" : "Russia",
           "id" : 4,
           "short_name" : "RUS",
@@ -600,6 +638,7 @@
         "stage_title" : "Group B, leg 3",
         "endDate" : 1501014600,
         "away" : {
+          "summary" : "This is Italy",
           "name" : "Italy",
           "id" : 5,
           "short_name" : "ITA",
@@ -611,6 +650,7 @@
         },
         "date" : 1501008300,
         "home" : {
+          "summary" : "This is Sweden",
           "name" : "Sweden",
           "id" : 1,
           "short_name" : "SWE",
@@ -630,6 +670,7 @@
         "stage_title" : "Group C, leg 3",
         "endDate" : 1501101000,
         "away" : {
+          "summary" : "This is France",
           "name" : "France",
           "id" : 6,
           "short_name" : "FRA",
@@ -641,6 +682,7 @@
         },
         "date" : 1501094700,
         "home" : {
+          "summary" : "This is SUI",
           "name" : "Switzerland",
           "id" : 10,
           "short_name" : "SUI",
@@ -660,6 +702,7 @@
         "stage_title" : "Group C, leg 3",
         "endDate" : 1501101000,
         "away" : {
+          "summary" : "This is Austria",
           "name" : "Austria",
           "id" : 14,
           "short_name" : "AUT",
@@ -671,6 +714,7 @@
         },
         "date" : 1501094700,
         "home" : {
+          "summary" : "This is Iceland",
           "name" : "Iceland",
           "id" : 11,
           "short_name" : "ISL",
@@ -690,6 +734,7 @@
         "stage_title" : "Group D, leg 3",
         "endDate" : 1501187400,
         "away" : {
+          "summary" : "This is England",
           "name" : "England",
           "id" : 7,
           "short_name" : "ENG",
@@ -701,6 +746,7 @@
         },
         "date" : 1501181100,
         "home" : {
+          "summary" : "This is Portugal",
           "name" : "Portugal",
           "id" : 16,
           "short_name" : "POR",
@@ -720,6 +766,7 @@
         "stage_title" : "Group D, leg 3",
         "endDate" : 1501187400,
         "away" : {
+          "summary" : "This is Spain",
           "name" : "Spain",
           "id" : 9,
           "short_name" : "ESP",
@@ -731,6 +778,7 @@
         },
         "date" : 1501181100,
         "home" : {
+          "summary" : "This is Scotland",
           "name" : "Scotland",
           "id" : 12,
           "short_name" : "SCO",
@@ -750,6 +798,7 @@
         "stage_title" : "Quarter-Finals, Day 1\nJuly 29",
         "endDate" : 1501353900,
         "away" : {
+          "summary" : "",
           "name" : "Group B runner-up",
           "id" : -2,
           "short_name" : "RB",
@@ -761,6 +810,7 @@
         },
         "date" : 1501347600,
         "home" : {
+          "summary" : "",
           "name" : "Group A winner",
           "id" : -1,
           "short_name" : "WA",
@@ -780,6 +830,7 @@
         "stage_title" : "Quarter-Finals, Day 1\nJuly 29",
         "endDate" : 1501360200,
         "away" : {
+          "summary" : "",
           "name" : "Group A runner-up",
           "id" : -4,
           "short_name" : "RA",
@@ -791,6 +842,7 @@
         },
         "date" : 1501353900,
         "home" : {
+          "summary" : "",
           "name" : "Group B winner",
           "id" : -3,
           "short_name" : "WB",
@@ -806,5 +858,5 @@
       }
     ]
   },
-  "edition" : 207
+  "edition" : 208
 }

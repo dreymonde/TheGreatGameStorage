@@ -5,6 +5,7 @@
     "stage_title" : "Group D, leg 2",
     "endDate" : 1500831900,
     "away" : {
+      "summary" : "This is Portugal",
       "name" : "Portugal",
       "id" : 16,
       "short_name" : "POR",
@@ -16,6 +17,7 @@
     },
     "date" : 1500825600,
     "home" : {
+      "summary" : "This is Scotland",
       "name" : "Scotland",
       "id" : 12,
       "short_name" : "SCO",
@@ -29,5 +31,5 @@
 
     ]
   },
-  "edition" : 207
+  "edition" : 208
 }

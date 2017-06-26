@@ -5,6 +5,7 @@
     "stage_title" : "Group C, leg 2",
     "endDate" : 1500755400,
     "away" : {
+      "summary" : "This is Austria",
       "name" : "Austria",
       "id" : 14,
       "short_name" : "AUT",
@@ -16,6 +17,7 @@
     },
     "date" : 1500749100,
     "home" : {
+      "summary" : "This is France",
       "name" : "France",
       "id" : 6,
       "short_name" : "FRA",
@@ -29,5 +31,5 @@
 
     ]
   },
-  "edition" : 207
+  "edition" : 208
 }

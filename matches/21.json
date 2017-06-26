@@ -5,6 +5,7 @@
     "stage_title" : "Group C, leg 3",
     "endDate" : 1501101000,
     "away" : {
+      "summary" : "This is France",
       "name" : "France",
       "id" : 6,
       "short_name" : "FRA",
@@ -16,6 +17,7 @@
     },
     "date" : 1501094700,
     "home" : {
+      "summary" : "This is SUI",
       "name" : "Switzerland",
       "id" : 10,
       "short_name" : "SUI",
@@ -29,5 +31,5 @@
 
     ]
   },
-  "edition" : 207
+  "edition" : 208
 }

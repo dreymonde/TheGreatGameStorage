@@ -5,6 +5,7 @@
     "stage_title" : "Group D, leg 1",
     "endDate" : 1500486300,
     "away" : {
+      "summary" : "This is Portugal",
       "name" : "Portugal",
       "id" : 16,
       "short_name" : "POR",
@@ -16,6 +17,7 @@
     },
     "date" : 1500480000,
     "home" : {
+      "summary" : "This is Spain",
       "name" : "Spain",
       "id" : 9,
       "short_name" : "ESP",
@@ -29,5 +31,5 @@
 
     ]
   },
-  "edition" : 207
+  "edition" : 208
 }

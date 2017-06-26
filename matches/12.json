@@ -5,6 +5,7 @@
     "stage_title" : "Group B, leg 2",
     "endDate" : 1500669000,
     "away" : {
+      "summary" : "This is Italy",
       "name" : "Italy",
       "id" : 5,
       "short_name" : "ITA",
@@ -16,6 +17,7 @@
     },
     "date" : 1500662700,
     "home" : {
+      "summary" : "This is Germany",
       "name" : "Germany",
       "id" : 3,
       "short_name" : "GER",
@@ -29,5 +31,5 @@
 
     ]
   },
-  "edition" : 207
+  "edition" : 208
 }
