@@ -10,9 +10,9 @@
       "short_name" : "FRA",
       "badges" : {
         "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/c\/c3\/Flag_of_France.svg\/640px-Flag_of_France.svg.png",
-        "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/c\/c3\/Flag_of_France.svg\/640px-Flag_of_France.svg.png"
+        "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/96\/Le_nouveau_logo_FFF.png"
       },
-      "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/c\/c3\/Flag_of_France.svg\/640px-Flag_of_France.svg.png"
+      "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/96\/Le_nouveau_logo_FFF.png"
     },
     "date" : 1501094700,
     "home" : {
@@ -21,9 +21,9 @@
       "short_name" : "SUI",
       "badges" : {
         "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/92\/Civil_Ensign_of_Switzerland_%28Pantone%29.svg\/640px-Civil_Ensign_of_Switzerland_%28Pantone%29.svg.png",
-        "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/92\/Civil_Ensign_of_Switzerland_%28Pantone%29.svg\/640px-Civil_Ensign_of_Switzerland_%28Pantone%29.svg.png"
+        "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/53\/SFV_Logo.svg\/640px-SFV_Logo.svg.png"
       },
-      "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/92\/Civil_Ensign_of_Switzerland_%28Pantone%29.svg\/640px-Civil_Ensign_of_Switzerland_%28Pantone%29.svg.png"
+      "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/53\/SFV_Logo.svg\/640px-SFV_Logo.svg.png"
     },
     "events" : [
       {
@@ -34,5 +34,5 @@
       }
     ]
   },
-  "edition" : 223
+  "edition" : 224
 }

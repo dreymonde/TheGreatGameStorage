@@ -10,9 +10,9 @@
       "short_name" : "ITA",
       "badges" : {
         "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/0\/03\/Flag_of_Italy.svg\/640px-Flag_of_Italy.svg.png",
-        "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/0\/03\/Flag_of_Italy.svg\/640px-Flag_of_Italy.svg.png"
+        "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
       },
-      "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/0\/03\/Flag_of_Italy.svg\/640px-Flag_of_Italy.svg.png"
+      "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
     },
     "date" : 1500662700,
     "home" : {
@@ -21,9 +21,9 @@
       "short_name" : "GER",
       "badges" : {
         "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/b\/ba\/Flag_of_Germany.svg\/800px-Flag_of_Germany.svg.png",
-        "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/b\/ba\/Flag_of_Germany.svg\/800px-Flag_of_Germany.svg.png"
+        "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
       },
-      "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/b\/ba\/Flag_of_Germany.svg\/800px-Flag_of_Germany.svg.png"
+      "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
     },
     "events" : [
       {
@@ -34,5 +34,5 @@
       }
     ]
   },
-  "edition" : 223
+  "edition" : 224
 }
