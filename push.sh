@@ -10,6 +10,7 @@ git add -A
 git commit -m "New edition"
 git push origin master
 
+cd content
 cd complication-pushes
 
 for file in *.json
@@ -18,4 +19,5 @@ echo $file
 ruby ../../Pusher/pusher.rb "$file"
 done
 
+cd ..
 cd ..
