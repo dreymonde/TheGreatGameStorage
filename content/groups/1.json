@@ -8,7 +8,7 @@
           "home" : 1
         },
         "id" : 1,
-        "endDate" : 1498586400,
+        "endDate" : 1498600800,
         "away" : {
           "name" : "Norway",
           "id" : 8,
@@ -19,7 +19,7 @@
           },
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
         },
-        "date" : 1498581000,
+        "date" : 1498595400,
         "home" : {
           "name" : "Netherlands",
           "id" : 2,
@@ -211,5 +211,5 @@
     ],
     "id" : 1
   },
-  "edition" : 226
+  "edition" : 227
 }
