@@ -9,7 +9,7 @@
         },
         "id" : 1,
         "stage_title" : "Group A, leg 1",
-        "endDate" : 1500226200,
+        "endDate" : 1498601700,
         "away" : {
           "name" : "Norway",
           "id" : 8,
@@ -20,7 +20,7 @@
           },
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
         },
-        "date" : 1500220800,
+        "date" : 1498596300,
         "home" : {
           "name" : "Netherlands",
           "id" : 2,
@@ -959,5 +959,5 @@
       }
     ]
   },
-  "edition" : 233
+  "edition" : 234
 }
