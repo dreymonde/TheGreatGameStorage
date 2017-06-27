@@ -26,8 +26,13 @@
       "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/31\/Spain_National_Football_Team_badge.png"
     },
     "events" : [
-
+      {
+        "match_minute" : -100,
+        "type" : "info",
+        "text" : "Location: De Vijverberg, Doetinchem",
+        "real_minute" : -100
+      }
     ]
   },
-  "edition" : 212
+  "edition" : 213
 }

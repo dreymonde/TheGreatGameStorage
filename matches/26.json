@@ -26,8 +26,13 @@
       "badge_url" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
     },
     "events" : [
-
+      {
+        "match_minute" : -100,
+        "type" : "info",
+        "text" : "Location: Sparta Stadion Het Kasteel, Rotterdam",
+        "real_minute" : -100
+      }
     ]
   },
-  "edition" : 212
+  "edition" : 213
 }

@@ -26,8 +26,13 @@
       "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a5\/Iceland_FA.png"
     },
     "events" : [
-
+      {
+        "match_minute" : -100,
+        "type" : "info",
+        "text" : "Location: Sparta Stadion Het Kasteel, Rotterdam",
+        "real_minute" : -100
+      }
     ]
   },
-  "edition" : 212
+  "edition" : 213
 }

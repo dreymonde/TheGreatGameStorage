@@ -26,8 +26,13 @@
       "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/38\/England_crest_2009.svg\/403px-England_crest_2009.svg.png"
     },
     "events" : [
-
+      {
+        "match_minute" : -100,
+        "type" : "info",
+        "text" : "Location: Rat Verlegh Stadion, Breda",
+        "real_minute" : -100
+      }
     ]
   },
-  "edition" : 212
+  "edition" : 213
 }

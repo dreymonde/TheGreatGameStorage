@@ -26,8 +26,13 @@
       "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
     },
     "events" : [
-
+      {
+        "match_minute" : -100,
+        "type" : "info",
+        "text" : "Location: Koning Willem II Stadion, Tilburg",
+        "real_minute" : -100
+      }
     ]
   },
-  "edition" : 212
+  "edition" : 213
 }

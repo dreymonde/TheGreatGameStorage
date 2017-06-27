@@ -26,8 +26,13 @@
       "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
     },
     "events" : [
-
+      {
+        "match_minute" : -100,
+        "type" : "info",
+        "text" : "Location: Rat Verlegh Stadion, Breda",
+        "real_minute" : -100
+      }
     ]
   },
-  "edition" : 212
+  "edition" : 213
 }

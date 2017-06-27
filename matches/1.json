@@ -31,6 +31,12 @@
     },
     "events" : [
       {
+        "match_minute" : -100,
+        "type" : "info",
+        "text" : "Location: Stadion Galgenwaard, Utrecht",
+        "real_minute" : -100
+      },
+      {
         "match_minute" : -1,
         "type" : "info",
         "text" : "The UEFA Women Euro 2017 is about to start in one day",
@@ -56,5 +62,5 @@
       }
     ]
   },
-  "edition" : 212
+  "edition" : 213
 }
