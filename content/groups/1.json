@@ -6,25 +6,25 @@
         "date" : 1498671900,
         "location" : "Stadion Galgenwaard, Utrecht",
         "home" : {
-          "name" : "Netherlands",
-          "id" : 2,
-          "short_name" : "NED",
+          "name" : "Sweden",
+          "id" : 1,
+          "short_name" : "SWE",
           "badges" : {
-            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/20\/Flag_of_the_Netherlands.svg\/640px-Flag_of_the_Netherlands.svg.png",
-            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/a\/a1\/Royal_Netherlands_Football_Association_Logo.svg\/428px-Royal_Netherlands_Football_Association_Logo.svg.png"
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4c\/Flag_of_Sweden.svg\/640px-Flag_of_Sweden.svg.png",
+            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/35\/Sweden_national_football_team_logo.png"
           },
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/a\/a1\/Royal_Netherlands_Football_Association_Logo.svg\/428px-Royal_Netherlands_Football_Association_Logo.svg.png"
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/35\/Sweden_national_football_team_logo.png"
         },
         "id" : 1,
         "away" : {
-          "name" : "Norway",
-          "id" : 8,
-          "short_name" : "NOR",
+          "name" : "Russia",
+          "id" : 4,
+          "short_name" : "RUS",
           "badges" : {
-            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/d9\/Flag_of_Norway.svg\/640px-Flag_of_Norway.svg.png",
-            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/f\/f3\/Flag_of_Russia.svg\/640px-Flag_of_Russia.svg.png",
+            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/77\/Russian_Football_Union.png"
           },
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/77\/Russian_Football_Union.png"
         }
       },
       {
@@ -207,5 +207,5 @@
     ],
     "id" : 1
   },
-  "edition" : 231
+  "edition" : 232
 }
