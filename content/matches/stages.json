@@ -4,8 +4,8 @@
       {
         "matches" : [
           {
-            "endDate" : 1498600800,
-            "date" : 1498595400,
+            "endDate" : 1500226200,
+            "date" : 1500220800,
             "location" : "Stadion Galgenwaard, Utrecht",
             "home" : {
               "name" : "Netherlands",
@@ -744,5 +744,5 @@
       }
     ]
   },
-  "edition" : 228
+  "edition" : 229
 }

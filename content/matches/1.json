@@ -3,7 +3,7 @@
     "location" : "Stadion Galgenwaard, Utrecht",
     "id" : 1,
     "stage_title" : "Group A, leg 1",
-    "endDate" : 1498600800,
+    "endDate" : 1500226200,
     "away" : {
       "name" : "Norway",
       "id" : 8,
@@ -14,7 +14,7 @@
       },
       "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
     },
-    "date" : 1498595400,
+    "date" : 1500220800,
     "home" : {
       "name" : "Netherlands",
       "id" : 2,
@@ -40,5 +40,5 @@
       }
     ]
   },
-  "edition" : 228
+  "edition" : 229
 }
