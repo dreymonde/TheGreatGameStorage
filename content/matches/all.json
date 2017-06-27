@@ -2,24 +2,9 @@
   "content" : {
     "matches" : [
       {
+        "endDate" : 1500226200,
+        "date" : 1500220800,
         "location" : "Stadion Galgenwaard, Utrecht",
-        "score" : {
-          "away" : 1,
-          "home" : 2
-        },
-        "id" : 1,
-        "endDate" : 1498601700,
-        "away" : {
-          "name" : "Norway",
-          "id" : 8,
-          "short_name" : "NOR",
-          "badges" : {
-            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/d9\/Flag_of_Norway.svg\/640px-Flag_of_Norway.svg.png",
-            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
-          },
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
-        },
-        "date" : 1498596300,
         "home" : {
           "name" : "Netherlands",
           "id" : 2,
@@ -29,6 +14,17 @@
             "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/a\/a1\/Royal_Netherlands_Football_Association_Logo.svg\/428px-Royal_Netherlands_Football_Association_Logo.svg.png"
           },
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/a\/a1\/Royal_Netherlands_Football_Association_Logo.svg\/428px-Royal_Netherlands_Football_Association_Logo.svg.png"
+        },
+        "id" : 1,
+        "away" : {
+          "name" : "Norway",
+          "id" : 8,
+          "short_name" : "NOR",
+          "badges" : {
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/d9\/Flag_of_Norway.svg\/640px-Flag_of_Norway.svg.png",
+            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
+          },
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
         }
       },
       {
@@ -683,5 +679,5 @@
       }
     ]
   },
-  "edition" : 235
+  "edition" : 236
 }

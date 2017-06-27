@@ -3,13 +3,9 @@
     "matches" : [
       {
         "location" : "Stadion Galgenwaard, Utrecht",
-        "score" : {
-          "away" : 1,
-          "home" : 2
-        },
         "id" : 1,
         "stage_title" : "Group A, leg 1",
-        "endDate" : 1498601700,
+        "endDate" : 1500226200,
         "away" : {
           "name" : "Norway",
           "id" : 8,
@@ -20,7 +16,7 @@
           },
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
         },
-        "date" : 1498596300,
+        "date" : 1500220800,
         "home" : {
           "name" : "Netherlands",
           "id" : 2,
@@ -43,42 +39,6 @@
             "type" : "info",
             "text" : "The UEFA Women Euro 2017 is about to start in one day",
             "real_minute" : -1
-          },
-          {
-            "match_minute" : 0,
-            "type" : "start",
-            "text" : "",
-            "real_minute" : 0
-          },
-          {
-            "match_minute" : 14,
-            "type" : "goal_home",
-            "text" : "The first goal of this tournament!",
-            "real_minute" : 14
-          },
-          {
-            "match_minute" : 23,
-            "type" : "goal_away",
-            "text" : "The score is now even",
-            "real_minute" : 23
-          },
-          {
-            "match_minute" : 46,
-            "type" : "halftime_start",
-            "text" : "",
-            "real_minute" : 46
-          },
-          {
-            "match_minute" : 45,
-            "type" : "halftime_end",
-            "text" : "",
-            "real_minute" : 66
-          },
-          {
-            "match_minute" : 51,
-            "type" : "goal_home",
-            "text" : "Home team takes the lead!",
-            "real_minute" : 72
           }
         ]
       },
@@ -959,5 +919,5 @@
       }
     ]
   },
-  "edition" : 235
+  "edition" : 236
 }
