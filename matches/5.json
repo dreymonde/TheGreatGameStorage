@@ -3,7 +3,7 @@
     "location" : "De Adelaarshorst, Deventer",
     "id" : 5,
     "stage_title" : "Group C, leg 1",
-    "endDate" : 1500399900,
+    "endDate" : 1500399000,
     "away" : {
       "name" : "Switzerland",
       "id" : 10,
@@ -29,5 +29,5 @@
 
     ]
   },
-  "edition" : 211
+  "edition" : 212
 }

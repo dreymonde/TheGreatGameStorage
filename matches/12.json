@@ -3,7 +3,7 @@
     "location" : "Koning Willem II Stadion, Tilburg",
     "id" : 12,
     "stage_title" : "Group B, leg 2",
-    "endDate" : 1500669000,
+    "endDate" : 1500668100,
     "away" : {
       "name" : "Italy",
       "id" : 5,
@@ -29,5 +29,5 @@
 
     ]
   },
-  "edition" : 211
+  "edition" : 212
 }

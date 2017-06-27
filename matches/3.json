@@ -3,7 +3,7 @@
     "location" : "Sparta Stadion Het Kasteel, Rotterdam",
     "id" : 3,
     "stage_title" : "Group B, leg 1",
-    "endDate" : 1500313500,
+    "endDate" : 1500312600,
     "away" : {
       "name" : "Russia",
       "id" : 4,
@@ -29,5 +29,5 @@
 
     ]
   },
-  "edition" : 211
+  "edition" : 212
 }

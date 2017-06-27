@@ -9,7 +9,7 @@
         },
         "id" : 1,
         "stage_title" : "Group A, leg 1",
-        "endDate" : 1500227100,
+        "endDate" : 1500226200,
         "away" : {
           "name" : "Norway",
           "id" : 8,
@@ -33,24 +33,28 @@
         },
         "events" : [
           {
+            "match_minute" : -1,
             "type" : "info",
             "text" : "The UEFA Women Euro 2017 is about to start in one day",
-            "minute" : -1
+            "real_minute" : -1
           },
           {
+            "match_minute" : 0,
             "type" : "start",
             "text" : "",
-            "minute" : 0
+            "real_minute" : 0
           },
           {
-            "type" : "goalHome",
+            "match_minute" : 14,
+            "type" : "goal_home",
             "text" : "Nederlands goes first!",
-            "minute" : 14
+            "real_minute" : 14
           },
           {
-            "type" : "goalAway",
+            "match_minute" : 23,
+            "type" : "goal_away",
             "text" : "",
-            "minute" : 23
+            "real_minute" : 23
           }
         ]
       },
@@ -58,7 +62,7 @@
         "location" : "De Vijverberg, Doetinchem",
         "id" : 2,
         "stage_title" : "Group A, leg 1",
-        "endDate" : 1500237000,
+        "endDate" : 1500236100,
         "away" : {
           "name" : "Belgium",
           "id" : 15,
@@ -88,7 +92,7 @@
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "id" : 3,
         "stage_title" : "Group B, leg 1",
-        "endDate" : 1500313500,
+        "endDate" : 1500312600,
         "away" : {
           "name" : "Russia",
           "id" : 4,
@@ -118,7 +122,7 @@
         "location" : "Rat Verlegh Stadion, Breda",
         "id" : 4,
         "stage_title" : "Group B, leg 1",
-        "endDate" : 1500323400,
+        "endDate" : 1500322500,
         "away" : {
           "name" : "Sweden",
           "id" : 1,
@@ -148,7 +152,7 @@
         "location" : "De Adelaarshorst, Deventer",
         "id" : 5,
         "stage_title" : "Group C, leg 1",
-        "endDate" : 1500399900,
+        "endDate" : 1500399000,
         "away" : {
           "name" : "Switzerland",
           "id" : 10,
@@ -178,7 +182,7 @@
         "location" : "Koning Willem II Stadion, Tilburg",
         "id" : 6,
         "stage_title" : "Group C, leg 1",
-        "endDate" : 1500409800,
+        "endDate" : 1500408900,
         "away" : {
           "name" : "Iceland",
           "id" : 11,
@@ -208,7 +212,7 @@
         "location" : "De Vijverberg, Doetinchem",
         "id" : 7,
         "stage_title" : "Group D, leg 1",
-        "endDate" : 1500486300,
+        "endDate" : 1500485400,
         "away" : {
           "name" : "Portugal",
           "id" : 16,
@@ -238,7 +242,7 @@
         "location" : "Stadion Galgenwaard, Utrecht",
         "id" : 8,
         "stage_title" : "Group D, leg 1",
-        "endDate" : 1500496200,
+        "endDate" : 1500495300,
         "away" : {
           "name" : "Scotland",
           "id" : 12,
@@ -268,7 +272,7 @@
         "location" : "Rat Verlegh Stadion, Breda",
         "id" : 9,
         "stage_title" : "Group A, leg 2",
-        "endDate" : 1500572700,
+        "endDate" : 1500571800,
         "away" : {
           "name" : "Belgium",
           "id" : 15,
@@ -298,7 +302,7 @@
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "id" : 10,
         "stage_title" : "Group A, leg 2",
-        "endDate" : 1500582600,
+        "endDate" : 1500581700,
         "away" : {
           "name" : "Denmark",
           "id" : 13,
@@ -328,7 +332,7 @@
         "location" : "De Adelaarshorst, Deventer",
         "id" : 11,
         "stage_title" : "Group B, leg 2",
-        "endDate" : 1500659100,
+        "endDate" : 1500658200,
         "away" : {
           "name" : "Russia",
           "id" : 4,
@@ -358,7 +362,7 @@
         "location" : "Koning Willem II Stadion, Tilburg",
         "id" : 12,
         "stage_title" : "Group B, leg 2",
-        "endDate" : 1500669000,
+        "endDate" : 1500668100,
         "away" : {
           "name" : "Italy",
           "id" : 5,
@@ -388,7 +392,7 @@
         "location" : "De Vijverberg, Doetinchem",
         "id" : 13,
         "stage_title" : "Group C, leg 2",
-        "endDate" : 1500745500,
+        "endDate" : 1500744600,
         "away" : {
           "name" : "Switzerland",
           "id" : 10,
@@ -418,7 +422,7 @@
         "location" : "Stadion Galgenwaard, Utrecht",
         "id" : 14,
         "stage_title" : "Group C, leg 2",
-        "endDate" : 1500755400,
+        "endDate" : 1500754500,
         "away" : {
           "name" : "Austria",
           "id" : 14,
@@ -448,7 +452,7 @@
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "id" : 15,
         "stage_title" : "Group D, leg 2",
-        "endDate" : 1500831900,
+        "endDate" : 1500831000,
         "away" : {
           "name" : "Portugal",
           "id" : 16,
@@ -478,7 +482,7 @@
         "location" : "Rat Verlegh Stadion, Breda",
         "id" : 16,
         "stage_title" : "Group D, leg 2",
-        "endDate" : 1500841800,
+        "endDate" : 1500840900,
         "away" : {
           "name" : "Spain",
           "id" : 9,
@@ -508,7 +512,7 @@
         "location" : "Koning Willem II Stadion, Tilburg",
         "id" : 17,
         "stage_title" : "Group A, leg 3",
-        "endDate" : 1500928200,
+        "endDate" : 1500927300,
         "away" : {
           "name" : "Netherlands",
           "id" : 2,
@@ -538,7 +542,7 @@
         "location" : "De Adelaarshorst, Deventer",
         "id" : 18,
         "stage_title" : "Group A, leg 3",
-        "endDate" : 1500928200,
+        "endDate" : 1500927300,
         "away" : {
           "name" : "Denmark",
           "id" : 13,
@@ -568,7 +572,7 @@
         "location" : "Stadion Galgenwaard, Utrecht",
         "id" : 19,
         "stage_title" : "Group B, leg 3",
-        "endDate" : 1501014600,
+        "endDate" : 1501013700,
         "away" : {
           "name" : "Germany",
           "id" : 3,
@@ -598,7 +602,7 @@
         "location" : "De Vijverberg, Doetinchem",
         "id" : 20,
         "stage_title" : "Group B, leg 3",
-        "endDate" : 1501014600,
+        "endDate" : 1501013700,
         "away" : {
           "name" : "Italy",
           "id" : 5,
@@ -628,7 +632,7 @@
         "location" : "Rat Verlegh Stadion, Breda",
         "id" : 21,
         "stage_title" : "Group C, leg 3",
-        "endDate" : 1501101000,
+        "endDate" : 1501100100,
         "away" : {
           "name" : "France",
           "id" : 6,
@@ -658,7 +662,7 @@
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "id" : 22,
         "stage_title" : "Group C, leg 3",
-        "endDate" : 1501101000,
+        "endDate" : 1501100100,
         "away" : {
           "name" : "Austria",
           "id" : 14,
@@ -688,7 +692,7 @@
         "location" : "Koning Willem II Stadion, Tilburg",
         "id" : 23,
         "stage_title" : "Group D, leg 3",
-        "endDate" : 1501187400,
+        "endDate" : 1501186500,
         "away" : {
           "name" : "England",
           "id" : 7,
@@ -718,7 +722,7 @@
         "location" : "De Adelaarshorst, Deventer",
         "id" : 24,
         "stage_title" : "Group D, leg 3",
-        "endDate" : 1501187400,
+        "endDate" : 1501186500,
         "away" : {
           "name" : "Spain",
           "id" : 9,
@@ -748,7 +752,7 @@
         "location" : "De Vijverberg, Doetinchem",
         "id" : 25,
         "stage_title" : "Quarter-Finals, Day 1\nJuly 29",
-        "endDate" : 1501353900,
+        "endDate" : 1501353000,
         "away" : {
           "name" : "Group B runner-up",
           "id" : -2,
@@ -778,7 +782,7 @@
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "id" : 26,
         "stage_title" : "Quarter-Finals, Day 1\nJuly 29",
-        "endDate" : 1501360200,
+        "endDate" : 1501359300,
         "away" : {
           "name" : "Group A runner-up",
           "id" : -4,
@@ -806,5 +810,5 @@
       }
     ]
   },
-  "edition" : 211
+  "edition" : 212
 }

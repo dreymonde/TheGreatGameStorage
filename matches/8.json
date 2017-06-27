@@ -3,7 +3,7 @@
     "location" : "Stadion Galgenwaard, Utrecht",
     "id" : 8,
     "stage_title" : "Group D, leg 1",
-    "endDate" : 1500496200,
+    "endDate" : 1500495300,
     "away" : {
       "name" : "Scotland",
       "id" : 12,
@@ -29,5 +29,5 @@
 
     ]
   },
-  "edition" : 211
+  "edition" : 212
 }

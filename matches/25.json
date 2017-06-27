@@ -3,7 +3,7 @@
     "location" : "De Vijverberg, Doetinchem",
     "id" : 25,
     "stage_title" : "Quarter-Finals, Day 1\nJuly 29",
-    "endDate" : 1501353900,
+    "endDate" : 1501353000,
     "away" : {
       "name" : "Group B runner-up",
       "id" : -2,
@@ -29,5 +29,5 @@
 
     ]
   },
-  "edition" : 211
+  "edition" : 212
 }

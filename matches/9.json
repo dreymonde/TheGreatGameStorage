@@ -3,7 +3,7 @@
     "location" : "Rat Verlegh Stadion, Breda",
     "id" : 9,
     "stage_title" : "Group A, leg 2",
-    "endDate" : 1500572700,
+    "endDate" : 1500571800,
     "away" : {
       "name" : "Belgium",
       "id" : 15,
@@ -29,5 +29,5 @@
 
     ]
   },
-  "edition" : 211
+  "edition" : 212
 }

@@ -4,7 +4,7 @@
     "name" : "Austria",
     "matches" : [
       {
-        "endDate" : 1500399900,
+        "endDate" : 1500399000,
         "date" : 1500393600,
         "location" : "De Adelaarshorst, Deventer",
         "home" : {
@@ -30,7 +30,7 @@
         }
       },
       {
-        "endDate" : 1500755400,
+        "endDate" : 1500754500,
         "date" : 1500749100,
         "location" : "Stadion Galgenwaard, Utrecht",
         "home" : {
@@ -56,7 +56,7 @@
         }
       },
       {
-        "endDate" : 1501101000,
+        "endDate" : 1501100100,
         "date" : 1501094700,
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "home" : {
@@ -141,5 +141,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/14\/%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg\/640px-%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg.png"
   },
-  "edition" : 211
+  "edition" : 212
 }

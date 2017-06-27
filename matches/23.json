@@ -3,7 +3,7 @@
     "location" : "Koning Willem II Stadion, Tilburg",
     "id" : 23,
     "stage_title" : "Group D, leg 3",
-    "endDate" : 1501187400,
+    "endDate" : 1501186500,
     "away" : {
       "name" : "England",
       "id" : 7,
@@ -29,5 +29,5 @@
 
     ]
   },
-  "edition" : 211
+  "edition" : 212
 }

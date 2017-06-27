@@ -3,7 +3,7 @@
     "location" : "De Adelaarshorst, Deventer",
     "id" : 18,
     "stage_title" : "Group A, leg 3",
-    "endDate" : 1500928200,
+    "endDate" : 1500927300,
     "away" : {
       "name" : "Denmark",
       "id" : 13,
@@ -29,5 +29,5 @@
 
     ]
   },
-  "edition" : 211
+  "edition" : 212
 }

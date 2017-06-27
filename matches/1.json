@@ -7,7 +7,7 @@
     },
     "id" : 1,
     "stage_title" : "Group A, leg 1",
-    "endDate" : 1500227100,
+    "endDate" : 1500226200,
     "away" : {
       "name" : "Norway",
       "id" : 8,
@@ -31,26 +31,30 @@
     },
     "events" : [
       {
+        "match_minute" : -1,
         "type" : "info",
         "text" : "The UEFA Women Euro 2017 is about to start in one day",
-        "minute" : -1
+        "real_minute" : -1
       },
       {
+        "match_minute" : 0,
         "type" : "start",
         "text" : "",
-        "minute" : 0
+        "real_minute" : 0
       },
       {
-        "type" : "goalHome",
+        "match_minute" : 14,
+        "type" : "goal_home",
         "text" : "Nederlands goes first!",
-        "minute" : 14
+        "real_minute" : 14
       },
       {
-        "type" : "goalAway",
+        "match_minute" : 23,
+        "type" : "goal_away",
         "text" : "",
-        "minute" : 23
+        "real_minute" : 23
       }
     ]
   },
-  "edition" : 211
+  "edition" : 212
 }

@@ -3,7 +3,7 @@
     "location" : "Rat Verlegh Stadion, Breda",
     "id" : 16,
     "stage_title" : "Group D, leg 2",
-    "endDate" : 1500841800,
+    "endDate" : 1500840900,
     "away" : {
       "name" : "Spain",
       "id" : 9,
@@ -29,5 +29,5 @@
 
     ]
   },
-  "edition" : 211
+  "edition" : 212
 }

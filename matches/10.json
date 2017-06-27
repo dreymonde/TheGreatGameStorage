@@ -3,7 +3,7 @@
     "location" : "Sparta Stadion Het Kasteel, Rotterdam",
     "id" : 10,
     "stage_title" : "Group A, leg 2",
-    "endDate" : 1500582600,
+    "endDate" : 1500581700,
     "away" : {
       "name" : "Denmark",
       "id" : 13,
@@ -29,5 +29,5 @@
 
     ]
   },
-  "edition" : 211
+  "edition" : 212
 }

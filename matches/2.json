@@ -3,7 +3,7 @@
     "location" : "De Vijverberg, Doetinchem",
     "id" : 2,
     "stage_title" : "Group A, leg 1",
-    "endDate" : 1500237000,
+    "endDate" : 1500236100,
     "away" : {
       "name" : "Belgium",
       "id" : 15,
@@ -29,5 +29,5 @@
 
     ]
   },
-  "edition" : 211
+  "edition" : 212
 }

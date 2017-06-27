@@ -3,7 +3,7 @@
     "location" : "Rat Verlegh Stadion, Breda",
     "id" : 21,
     "stage_title" : "Group C, leg 3",
-    "endDate" : 1501101000,
+    "endDate" : 1501100100,
     "away" : {
       "name" : "France",
       "id" : 6,
@@ -29,5 +29,5 @@
 
     ]
   },
-  "edition" : 211
+  "edition" : 212
 }

@@ -3,7 +3,7 @@
     "location" : "De Vijverberg, Doetinchem",
     "id" : 7,
     "stage_title" : "Group D, leg 1",
-    "endDate" : 1500486300,
+    "endDate" : 1500485400,
     "away" : {
       "name" : "Portugal",
       "id" : 16,
@@ -29,5 +29,5 @@
 
     ]
   },
-  "edition" : 211
+  "edition" : 212
 }
