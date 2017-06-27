@@ -105,7 +105,7 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
         },
         {
-          "points" : 3,
+          "points" : 0,
           "name" : "Sweden",
           "id" : 1,
           "short_name" : "SWE",
@@ -116,7 +116,7 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/35\/Sweden_national_football_team_logo.png"
         },
         {
-          "points" : 3,
+          "points" : 0,
           "name" : "Italy",
           "id" : 5,
           "short_name" : "ITA",
@@ -141,5 +141,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
   },
-  "edition" : 218
+  "edition" : 219
 }
