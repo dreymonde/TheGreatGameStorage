@@ -1,0 +1,38 @@
+{
+  "content" : {
+    "location" : "De Adelaarshorst, Deventer",
+    "id" : 18,
+    "stage_title" : "Group A, leg 3",
+    "endDate" : 1500927300,
+    "away" : {
+      "name" : "Denmark",
+      "id" : 13,
+      "short_name" : "DEN",
+      "badges" : {
+        "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/9c\/Flag_of_Denmark.svg\/634px-Flag_of_Denmark.svg.png",
+        "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
+      },
+      "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
+    },
+    "date" : 1500921900,
+    "home" : {
+      "name" : "Norway",
+      "id" : 8,
+      "short_name" : "NOR",
+      "badges" : {
+        "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/d9\/Flag_of_Norway.svg\/640px-Flag_of_Norway.svg.png",
+        "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
+      },
+      "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
+    },
+    "events" : [
+      {
+        "match_minute" : -100,
+        "type" : "info",
+        "text" : "Location: De Adelaarshorst, Deventer",
+        "real_minute" : -100
+      }
+    ]
+  },
+  "edition" : 214
+}

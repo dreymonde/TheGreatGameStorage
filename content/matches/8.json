@@ -1,0 +1,38 @@
+{
+  "content" : {
+    "location" : "Stadion Galgenwaard, Utrecht",
+    "id" : 8,
+    "stage_title" : "Group D, leg 1",
+    "endDate" : 1500495300,
+    "away" : {
+      "name" : "Scotland",
+      "id" : 12,
+      "short_name" : "SCO",
+      "badges" : {
+        "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/1\/10\/Flag_of_Scotland.svg\/800px-Flag_of_Scotland.svg.png",
+        "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/8\/8f\/Scotland_national_football_team_logo.svg\/480px-Scotland_national_football_team_logo.svg.png"
+      },
+      "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/8\/8f\/Scotland_national_football_team_logo.svg\/480px-Scotland_national_football_team_logo.svg.png"
+    },
+    "date" : 1500489900,
+    "home" : {
+      "name" : "England",
+      "id" : 7,
+      "short_name" : "ENG",
+      "badges" : {
+        "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/b\/be\/Flag_of_England.svg\/800px-Flag_of_England.svg.png",
+        "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/38\/England_crest_2009.svg\/403px-England_crest_2009.svg.png"
+      },
+      "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/38\/England_crest_2009.svg\/403px-England_crest_2009.svg.png"
+    },
+    "events" : [
+      {
+        "match_minute" : -100,
+        "type" : "info",
+        "text" : "Location: Stadion Galgenwaard, Utrecht",
+        "real_minute" : -100
+      }
+    ]
+  },
+  "edition" : 214
+}

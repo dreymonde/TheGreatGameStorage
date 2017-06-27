@@ -1,0 +1,211 @@
+{
+  "content" : {
+    "matches" : [
+      {
+        "endDate" : 1500485400,
+        "date" : 1500480000,
+        "location" : "De Vijverberg, Doetinchem",
+        "home" : {
+          "name" : "Spain",
+          "id" : 9,
+          "short_name" : "ESP",
+          "badges" : {
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/9a\/Flag_of_Spain.svg\/640px-Flag_of_Spain.svg.png",
+            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/31\/Spain_National_Football_Team_badge.png"
+          },
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/31\/Spain_National_Football_Team_badge.png"
+        },
+        "id" : 7,
+        "away" : {
+          "name" : "Portugal",
+          "id" : 16,
+          "short_name" : "POR",
+          "badges" : {
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/5c\/Flag_of_Portugal.svg\/640px-Flag_of_Portugal.svg.png",
+            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/5f\/Portuguese_Football_Federation.svg\/359px-Portuguese_Football_Federation.svg.png"
+          },
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/5f\/Portuguese_Football_Federation.svg\/359px-Portuguese_Football_Federation.svg.png"
+        }
+      },
+      {
+        "endDate" : 1500495300,
+        "date" : 1500489900,
+        "location" : "Stadion Galgenwaard, Utrecht",
+        "home" : {
+          "name" : "England",
+          "id" : 7,
+          "short_name" : "ENG",
+          "badges" : {
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/b\/be\/Flag_of_England.svg\/800px-Flag_of_England.svg.png",
+            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/38\/England_crest_2009.svg\/403px-England_crest_2009.svg.png"
+          },
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/38\/England_crest_2009.svg\/403px-England_crest_2009.svg.png"
+        },
+        "id" : 8,
+        "away" : {
+          "name" : "Scotland",
+          "id" : 12,
+          "short_name" : "SCO",
+          "badges" : {
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/1\/10\/Flag_of_Scotland.svg\/800px-Flag_of_Scotland.svg.png",
+            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/8\/8f\/Scotland_national_football_team_logo.svg\/480px-Scotland_national_football_team_logo.svg.png"
+          },
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/8\/8f\/Scotland_national_football_team_logo.svg\/480px-Scotland_national_football_team_logo.svg.png"
+        }
+      },
+      {
+        "endDate" : 1500831000,
+        "date" : 1500825600,
+        "location" : "Sparta Stadion Het Kasteel, Rotterdam",
+        "home" : {
+          "name" : "Scotland",
+          "id" : 12,
+          "short_name" : "SCO",
+          "badges" : {
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/1\/10\/Flag_of_Scotland.svg\/800px-Flag_of_Scotland.svg.png",
+            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/8\/8f\/Scotland_national_football_team_logo.svg\/480px-Scotland_national_football_team_logo.svg.png"
+          },
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/8\/8f\/Scotland_national_football_team_logo.svg\/480px-Scotland_national_football_team_logo.svg.png"
+        },
+        "id" : 15,
+        "away" : {
+          "name" : "Portugal",
+          "id" : 16,
+          "short_name" : "POR",
+          "badges" : {
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/5c\/Flag_of_Portugal.svg\/640px-Flag_of_Portugal.svg.png",
+            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/5f\/Portuguese_Football_Federation.svg\/359px-Portuguese_Football_Federation.svg.png"
+          },
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/5f\/Portuguese_Football_Federation.svg\/359px-Portuguese_Football_Federation.svg.png"
+        }
+      },
+      {
+        "endDate" : 1500840900,
+        "date" : 1500835500,
+        "location" : "Rat Verlegh Stadion, Breda",
+        "home" : {
+          "name" : "England",
+          "id" : 7,
+          "short_name" : "ENG",
+          "badges" : {
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/b\/be\/Flag_of_England.svg\/800px-Flag_of_England.svg.png",
+            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/38\/England_crest_2009.svg\/403px-England_crest_2009.svg.png"
+          },
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/38\/England_crest_2009.svg\/403px-England_crest_2009.svg.png"
+        },
+        "id" : 16,
+        "away" : {
+          "name" : "Spain",
+          "id" : 9,
+          "short_name" : "ESP",
+          "badges" : {
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/9a\/Flag_of_Spain.svg\/640px-Flag_of_Spain.svg.png",
+            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/31\/Spain_National_Football_Team_badge.png"
+          },
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/31\/Spain_National_Football_Team_badge.png"
+        }
+      },
+      {
+        "endDate" : 1501186500,
+        "date" : 1501181100,
+        "location" : "Koning Willem II Stadion, Tilburg",
+        "home" : {
+          "name" : "Portugal",
+          "id" : 16,
+          "short_name" : "POR",
+          "badges" : {
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/5c\/Flag_of_Portugal.svg\/640px-Flag_of_Portugal.svg.png",
+            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/5f\/Portuguese_Football_Federation.svg\/359px-Portuguese_Football_Federation.svg.png"
+          },
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/5f\/Portuguese_Football_Federation.svg\/359px-Portuguese_Football_Federation.svg.png"
+        },
+        "id" : 23,
+        "away" : {
+          "name" : "England",
+          "id" : 7,
+          "short_name" : "ENG",
+          "badges" : {
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/b\/be\/Flag_of_England.svg\/800px-Flag_of_England.svg.png",
+            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/38\/England_crest_2009.svg\/403px-England_crest_2009.svg.png"
+          },
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/38\/England_crest_2009.svg\/403px-England_crest_2009.svg.png"
+        }
+      },
+      {
+        "endDate" : 1501186500,
+        "date" : 1501181100,
+        "location" : "De Adelaarshorst, Deventer",
+        "home" : {
+          "name" : "Scotland",
+          "id" : 12,
+          "short_name" : "SCO",
+          "badges" : {
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/1\/10\/Flag_of_Scotland.svg\/800px-Flag_of_Scotland.svg.png",
+            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/8\/8f\/Scotland_national_football_team_logo.svg\/480px-Scotland_national_football_team_logo.svg.png"
+          },
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/8\/8f\/Scotland_national_football_team_logo.svg\/480px-Scotland_national_football_team_logo.svg.png"
+        },
+        "id" : 24,
+        "away" : {
+          "name" : "Spain",
+          "id" : 9,
+          "short_name" : "ESP",
+          "badges" : {
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/9a\/Flag_of_Spain.svg\/640px-Flag_of_Spain.svg.png",
+            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/31\/Spain_National_Football_Team_badge.png"
+          },
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/31\/Spain_National_Football_Team_badge.png"
+        }
+      }
+    ],
+    "title" : "Group D",
+    "teams" : [
+      {
+        "points" : 0,
+        "name" : "England",
+        "id" : 7,
+        "short_name" : "ENG",
+        "badges" : {
+          "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/b\/be\/Flag_of_England.svg\/800px-Flag_of_England.svg.png",
+          "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/38\/England_crest_2009.svg\/403px-England_crest_2009.svg.png"
+        },
+        "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/38\/England_crest_2009.svg\/403px-England_crest_2009.svg.png"
+      },
+      {
+        "points" : 0,
+        "name" : "Scotland",
+        "id" : 12,
+        "short_name" : "SCO",
+        "badges" : {
+          "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/1\/10\/Flag_of_Scotland.svg\/800px-Flag_of_Scotland.svg.png",
+          "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/8\/8f\/Scotland_national_football_team_logo.svg\/480px-Scotland_national_football_team_logo.svg.png"
+        },
+        "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/8\/8f\/Scotland_national_football_team_logo.svg\/480px-Scotland_national_football_team_logo.svg.png"
+      },
+      {
+        "points" : 0,
+        "name" : "Spain",
+        "id" : 9,
+        "short_name" : "ESP",
+        "badges" : {
+          "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/9a\/Flag_of_Spain.svg\/640px-Flag_of_Spain.svg.png",
+          "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/31\/Spain_National_Football_Team_badge.png"
+        },
+        "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/31\/Spain_National_Football_Team_badge.png"
+      },
+      {
+        "points" : 0,
+        "name" : "Portugal",
+        "id" : 16,
+        "short_name" : "POR",
+        "badges" : {
+          "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/5c\/Flag_of_Portugal.svg\/640px-Flag_of_Portugal.svg.png",
+          "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/5f\/Portuguese_Football_Federation.svg\/359px-Portuguese_Football_Federation.svg.png"
+        },
+        "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/5f\/Portuguese_Football_Federation.svg\/359px-Portuguese_Football_Federation.svg.png"
+      }
+    ],
+    "id" : 4
+  },
+  "edition" : 214
+}

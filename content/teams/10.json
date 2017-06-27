@@ -1,0 +1,145 @@
+{
+  "content" : {
+    "summary" : "This is SUI",
+    "name" : "Switzerland",
+    "matches" : [
+      {
+        "endDate" : 1500399000,
+        "date" : 1500393600,
+        "location" : "De Adelaarshorst, Deventer",
+        "home" : {
+          "name" : "Austria",
+          "id" : 14,
+          "short_name" : "AUT",
+          "badges" : {
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/88\/Flag_of_Austria_%28state%29.svg\/640px-Flag_of_Austria_%28state%29.svg.png",
+            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/14\/%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg\/640px-%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg.png"
+          },
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/14\/%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg\/640px-%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg.png"
+        },
+        "id" : 5,
+        "away" : {
+          "name" : "Switzerland",
+          "id" : 10,
+          "short_name" : "SUI",
+          "badges" : {
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/92\/Civil_Ensign_of_Switzerland_%28Pantone%29.svg\/640px-Civil_Ensign_of_Switzerland_%28Pantone%29.svg.png",
+            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/53\/SFV_Logo.svg\/640px-SFV_Logo.svg.png"
+          },
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/53\/SFV_Logo.svg\/640px-SFV_Logo.svg.png"
+        }
+      },
+      {
+        "endDate" : 1500744600,
+        "date" : 1500739200,
+        "location" : "De Vijverberg, Doetinchem",
+        "home" : {
+          "name" : "Iceland",
+          "id" : 11,
+          "short_name" : "ISL",
+          "badges" : {
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/ce\/Flag_of_Iceland.svg\/640px-Flag_of_Iceland.svg.png",
+            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a5\/Iceland_FA.png"
+          },
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a5\/Iceland_FA.png"
+        },
+        "id" : 13,
+        "away" : {
+          "name" : "Switzerland",
+          "id" : 10,
+          "short_name" : "SUI",
+          "badges" : {
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/92\/Civil_Ensign_of_Switzerland_%28Pantone%29.svg\/640px-Civil_Ensign_of_Switzerland_%28Pantone%29.svg.png",
+            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/53\/SFV_Logo.svg\/640px-SFV_Logo.svg.png"
+          },
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/53\/SFV_Logo.svg\/640px-SFV_Logo.svg.png"
+        }
+      },
+      {
+        "endDate" : 1501100100,
+        "date" : 1501094700,
+        "location" : "Rat Verlegh Stadion, Breda",
+        "home" : {
+          "name" : "Switzerland",
+          "id" : 10,
+          "short_name" : "SUI",
+          "badges" : {
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/92\/Civil_Ensign_of_Switzerland_%28Pantone%29.svg\/640px-Civil_Ensign_of_Switzerland_%28Pantone%29.svg.png",
+            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/53\/SFV_Logo.svg\/640px-SFV_Logo.svg.png"
+          },
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/53\/SFV_Logo.svg\/640px-SFV_Logo.svg.png"
+        },
+        "id" : 21,
+        "away" : {
+          "name" : "France",
+          "id" : 6,
+          "short_name" : "FRA",
+          "badges" : {
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/c\/c3\/Flag_of_France.svg\/640px-Flag_of_France.svg.png",
+            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/96\/Le_nouveau_logo_FFF.png"
+          },
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/96\/Le_nouveau_logo_FFF.png"
+        }
+      }
+    ],
+    "id" : 10,
+    "short_name" : "SUI",
+    "badges" : {
+      "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/92\/Civil_Ensign_of_Switzerland_%28Pantone%29.svg\/640px-Civil_Ensign_of_Switzerland_%28Pantone%29.svg.png",
+      "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/53\/SFV_Logo.svg\/640px-SFV_Logo.svg.png"
+    },
+    "rank" : 7,
+    "group" : {
+      "id" : 3,
+      "title" : "Group C",
+      "teams" : [
+        {
+          "points" : 0,
+          "name" : "France",
+          "id" : 6,
+          "short_name" : "FRA",
+          "badges" : {
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/c\/c3\/Flag_of_France.svg\/640px-Flag_of_France.svg.png",
+            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/96\/Le_nouveau_logo_FFF.png"
+          },
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/96\/Le_nouveau_logo_FFF.png"
+        },
+        {
+          "points" : 0,
+          "name" : "Iceland",
+          "id" : 11,
+          "short_name" : "ISL",
+          "badges" : {
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/ce\/Flag_of_Iceland.svg\/640px-Flag_of_Iceland.svg.png",
+            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a5\/Iceland_FA.png"
+          },
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a5\/Iceland_FA.png"
+        },
+        {
+          "points" : 0,
+          "name" : "Austria",
+          "id" : 14,
+          "short_name" : "AUT",
+          "badges" : {
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/88\/Flag_of_Austria_%28state%29.svg\/640px-Flag_of_Austria_%28state%29.svg.png",
+            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/14\/%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg\/640px-%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg.png"
+          },
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/14\/%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg\/640px-%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg.png"
+        },
+        {
+          "points" : 0,
+          "name" : "Switzerland",
+          "id" : 10,
+          "short_name" : "SUI",
+          "badges" : {
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/92\/Civil_Ensign_of_Switzerland_%28Pantone%29.svg\/640px-Civil_Ensign_of_Switzerland_%28Pantone%29.svg.png",
+            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/53\/SFV_Logo.svg\/640px-SFV_Logo.svg.png"
+          },
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/53\/SFV_Logo.svg\/640px-SFV_Logo.svg.png"
+        }
+      ]
+    },
+    "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/53\/SFV_Logo.svg\/640px-SFV_Logo.svg.png"
+  },
+  "edition" : 214
+}
