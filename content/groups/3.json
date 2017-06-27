@@ -10,10 +10,10 @@
           "id" : 14,
           "short_name" : "AUT",
           "badges" : {
-            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/88\/Flag_of_Austria_%28state%29.svg\/640px-Flag_of_Austria_%28state%29.svg.png",
-            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/88\/Flag_of_Austria_%28state%29.svg\/640px-Flag_of_Austria_%28state%29.svg.png"
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/41\/Flag_of_Austria.svg\/640px-Flag_of_Austria.svg.png",
+            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/41\/Flag_of_Austria.svg\/640px-Flag_of_Austria.svg.png"
           },
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/88\/Flag_of_Austria_%28state%29.svg\/640px-Flag_of_Austria_%28state%29.svg.png"
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/41\/Flag_of_Austria.svg\/640px-Flag_of_Austria.svg.png"
         },
         "id" : 5,
         "away" : {
@@ -99,10 +99,10 @@
           "id" : 14,
           "short_name" : "AUT",
           "badges" : {
-            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/88\/Flag_of_Austria_%28state%29.svg\/640px-Flag_of_Austria_%28state%29.svg.png",
-            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/88\/Flag_of_Austria_%28state%29.svg\/640px-Flag_of_Austria_%28state%29.svg.png"
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/41\/Flag_of_Austria.svg\/640px-Flag_of_Austria.svg.png",
+            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/41\/Flag_of_Austria.svg\/640px-Flag_of_Austria.svg.png"
           },
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/88\/Flag_of_Austria_%28state%29.svg\/640px-Flag_of_Austria_%28state%29.svg.png"
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/41\/Flag_of_Austria.svg\/640px-Flag_of_Austria.svg.png"
         }
       },
       {
@@ -151,10 +151,10 @@
           "id" : 14,
           "short_name" : "AUT",
           "badges" : {
-            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/88\/Flag_of_Austria_%28state%29.svg\/640px-Flag_of_Austria_%28state%29.svg.png",
-            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/88\/Flag_of_Austria_%28state%29.svg\/640px-Flag_of_Austria_%28state%29.svg.png"
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/41\/Flag_of_Austria.svg\/640px-Flag_of_Austria.svg.png",
+            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/41\/Flag_of_Austria.svg\/640px-Flag_of_Austria.svg.png"
           },
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/88\/Flag_of_Austria_%28state%29.svg\/640px-Flag_of_Austria_%28state%29.svg.png"
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/41\/Flag_of_Austria.svg\/640px-Flag_of_Austria.svg.png"
         }
       }
     ],
@@ -188,10 +188,10 @@
         "id" : 14,
         "short_name" : "AUT",
         "badges" : {
-          "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/88\/Flag_of_Austria_%28state%29.svg\/640px-Flag_of_Austria_%28state%29.svg.png",
-          "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/88\/Flag_of_Austria_%28state%29.svg\/640px-Flag_of_Austria_%28state%29.svg.png"
+          "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/41\/Flag_of_Austria.svg\/640px-Flag_of_Austria.svg.png",
+          "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/41\/Flag_of_Austria.svg\/640px-Flag_of_Austria.svg.png"
         },
-        "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/88\/Flag_of_Austria_%28state%29.svg\/640px-Flag_of_Austria_%28state%29.svg.png"
+        "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/41\/Flag_of_Austria.svg\/640px-Flag_of_Austria.svg.png"
       },
       {
         "points" : 0,
@@ -207,5 +207,5 @@
     ],
     "id" : 3
   },
-  "edition" : 220
+  "edition" : 221
 }
