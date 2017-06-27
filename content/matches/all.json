@@ -626,8 +626,8 @@
         }
       },
       {
-        "endDate" : 1501353000,
-        "date" : 1501347600,
+        "endDate" : 1501349400,
+        "date" : 1501344000,
         "location" : "De Vijverberg, Doetinchem",
         "home" : {
           "name" : "Group A winner",
@@ -679,5 +679,5 @@
       }
     ]
   },
-  "edition" : 216
+  "edition" : 217
 }

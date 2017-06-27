@@ -3,7 +3,7 @@
     "location" : "De Vijverberg, Doetinchem",
     "id" : 25,
     "stage_title" : "Quarter-Finals, Day 1",
-    "endDate" : 1501353000,
+    "endDate" : 1501349400,
     "away" : {
       "name" : "Group B runner-up",
       "id" : -2,
@@ -14,7 +14,7 @@
       },
       "badge_url" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
     },
-    "date" : 1501347600,
+    "date" : 1501344000,
     "home" : {
       "name" : "Group A winner",
       "id" : -1,
@@ -34,5 +34,5 @@
       }
     ]
   },
-  "edition" : 216
+  "edition" : 217
 }
