@@ -16,7 +16,7 @@ cd complication-pushes
 for file in *.json
 do
 echo $file
-ruby ../../Pusher/pusher.rb "$file"
+ruby ../../../Pusher/pusher.rb "$file"
 done
 
 cd ..
