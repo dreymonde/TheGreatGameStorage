@@ -1,6 +1,6 @@
 {
   "content" : {
-    "summary" : "This is Germany",
+    "summary" : "Deutschland",
     "name" : "Germany",
     "matches" : [
       {
@@ -141,5 +141,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
   },
-  "edition" : 242
+  "edition" : 243
 }

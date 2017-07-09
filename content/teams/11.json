@@ -1,6 +1,6 @@
 {
   "content" : {
-    "summary" : "This is Iceland",
+    "summary" : "Ísland",
     "name" : "Iceland",
     "matches" : [
       {
@@ -141,5 +141,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a5\/Iceland_FA.png"
   },
-  "edition" : 242
+  "edition" : 243
 }

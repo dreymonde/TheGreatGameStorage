@@ -1,6 +1,6 @@
 {
   "content" : {
-    "summary" : "This is Norway",
+    "summary" : "Norge",
     "name" : "Norway",
     "matches" : [
       {
@@ -141,5 +141,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
   },
-  "edition" : 242
+  "edition" : 243
 }
