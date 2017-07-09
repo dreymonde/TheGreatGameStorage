@@ -1,24 +1,24 @@
 {
   "content" : {
-    "location" : "De Vijverberg, Doetinchem",
-    "id" : 25,
-    "stage_title" : "Quarter-finals, Day 1",
-    "endDate" : 1501349400,
+    "location" : "Rat Verlegh Stadion, Breda",
+    "id" : 29,
+    "stage_title" : "Semi-finals",
+    "endDate" : 1501781400,
     "away" : {
-      "name" : "Group B runner-up",
-      "id" : -2,
-      "short_name" : "RB",
+      "name" : "Quarter-final 3 winner",
+      "id" : -10,
+      "short_name" : "QF3",
       "badges" : {
         "flag" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png",
         "large" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
       },
       "badge_url" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
     },
-    "date" : 1501344000,
+    "date" : 1501776000,
     "home" : {
-      "name" : "Group A winner",
-      "id" : -1,
-      "short_name" : "WA",
+      "name" : "Quarter-final 2 winner",
+      "id" : -9,
+      "short_name" : "QF2",
       "badges" : {
         "flag" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png",
         "large" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
@@ -29,7 +29,7 @@
       {
         "match_minute" : -100,
         "type" : "info",
-        "text" : "Location: De Vijverberg, Doetinchem",
+        "text" : "Location: Rat Verlegh Stadion, Breda",
         "real_minute" : -100
       }
     ]

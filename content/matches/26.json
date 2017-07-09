@@ -2,7 +2,7 @@
   "content" : {
     "location" : "Sparta Stadion Het Kasteel, Rotterdam",
     "id" : 26,
-    "stage_title" : "Quarter-Finals, Day 1",
+    "stage_title" : "Quarter-finals, Day 1",
     "endDate" : 1501359300,
     "away" : {
       "name" : "Group A runner-up",
@@ -34,5 +34,5 @@
       }
     ]
   },
-  "edition" : 244
+  "edition" : 245
 }

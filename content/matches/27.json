@@ -1,24 +1,24 @@
 {
   "content" : {
-    "location" : "De Vijverberg, Doetinchem",
-    "id" : 25,
-    "stage_title" : "Quarter-finals, Day 1",
-    "endDate" : 1501349400,
+    "location" : "Koning Willem II Stadion, Tilburg",
+    "id" : 27,
+    "stage_title" : "Quarter-finals, Day 2",
+    "endDate" : 1501435800,
     "away" : {
-      "name" : "Group B runner-up",
-      "id" : -2,
-      "short_name" : "RB",
+      "name" : "Group D runner-up",
+      "id" : -6,
+      "short_name" : "RD",
       "badges" : {
         "flag" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png",
         "large" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
       },
       "badge_url" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
     },
-    "date" : 1501344000,
+    "date" : 1501430400,
     "home" : {
-      "name" : "Group A winner",
-      "id" : -1,
-      "short_name" : "WA",
+      "name" : "Group C winner",
+      "id" : -5,
+      "short_name" : "WC",
       "badges" : {
         "flag" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png",
         "large" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
@@ -29,7 +29,7 @@
       {
         "match_minute" : -100,
         "type" : "info",
-        "text" : "Location: De Vijverberg, Doetinchem",
+        "text" : "Location: Koning Willem II Stadion, Tilburg",
         "real_minute" : -100
       }
     ]

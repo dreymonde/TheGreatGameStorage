@@ -740,9 +740,154 @@
             }
           }
         ],
-        "title" : "Quarter-Finals, Day 1"
+        "title" : "Quarter-finals, Day 1"
+      },
+      {
+        "matches" : [
+          {
+            "endDate" : 1501435800,
+            "date" : 1501430400,
+            "location" : "Koning Willem II Stadion, Tilburg",
+            "home" : {
+              "name" : "Group C winner",
+              "id" : -5,
+              "short_name" : "WC",
+              "badges" : {
+                "flag" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png",
+                "large" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+              },
+              "badge_url" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+            },
+            "id" : 27,
+            "away" : {
+              "name" : "Group D runner-up",
+              "id" : -6,
+              "short_name" : "RD",
+              "badges" : {
+                "flag" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png",
+                "large" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+              },
+              "badge_url" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+            }
+          },
+          {
+            "endDate" : 1501445700,
+            "date" : 1501440300,
+            "location" : "De Adelaarshorst, Deventer",
+            "home" : {
+              "name" : "Group D winner",
+              "id" : -7,
+              "short_name" : "WD",
+              "badges" : {
+                "flag" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png",
+                "large" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+              },
+              "badge_url" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+            },
+            "id" : 28,
+            "away" : {
+              "name" : "Group C runner-up",
+              "id" : -8,
+              "short_name" : "RC",
+              "badges" : {
+                "flag" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png",
+                "large" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+              },
+              "badge_url" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+            }
+          }
+        ],
+        "title" : "Quarter-finals, Day 2"
+      },
+      {
+        "matches" : [
+          {
+            "endDate" : 1501781400,
+            "date" : 1501776000,
+            "location" : "Rat Verlegh Stadion, Breda",
+            "home" : {
+              "name" : "Quarter-final 2 winner",
+              "id" : -9,
+              "short_name" : "QF2",
+              "badges" : {
+                "flag" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png",
+                "large" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+              },
+              "badge_url" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+            },
+            "id" : 29,
+            "away" : {
+              "name" : "Quarter-final 3 winner",
+              "id" : -10,
+              "short_name" : "QF3",
+              "badges" : {
+                "flag" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png",
+                "large" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+              },
+              "badge_url" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+            }
+          },
+          {
+            "endDate" : 1501791300,
+            "date" : 1501785900,
+            "location" : "De Grolsch Veste, Enschede",
+            "home" : {
+              "name" : "Quarter-final 1 winner",
+              "id" : -11,
+              "short_name" : "QF1",
+              "badges" : {
+                "flag" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png",
+                "large" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+              },
+              "badge_url" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+            },
+            "id" : 30,
+            "away" : {
+              "name" : "Quarter-final 4 winner",
+              "id" : -12,
+              "short_name" : "QF4",
+              "badges" : {
+                "flag" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png",
+                "large" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+              },
+              "badge_url" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+            }
+          }
+        ],
+        "title" : "Semi-finals"
+      },
+      {
+        "matches" : [
+          {
+            "endDate" : 1502037000,
+            "date" : 1502031600,
+            "location" : "De Grolsch Veste, Enschede",
+            "home" : {
+              "name" : "Semi-final 1 winner",
+              "id" : -13,
+              "short_name" : "SF1",
+              "badges" : {
+                "flag" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png",
+                "large" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+              },
+              "badge_url" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+            },
+            "id" : 31,
+            "away" : {
+              "name" : "Semi-final 2 winner",
+              "id" : -14,
+              "short_name" : "SF2",
+              "badges" : {
+                "flag" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png",
+                "large" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+              },
+              "badge_url" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+            }
+          }
+        ],
+        "title" : "Final"
       }
     ]
   },
-  "edition" : 244
+  "edition" : 245
 }

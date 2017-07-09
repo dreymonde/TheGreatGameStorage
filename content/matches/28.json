@@ -1,24 +1,24 @@
 {
   "content" : {
-    "location" : "De Vijverberg, Doetinchem",
-    "id" : 25,
-    "stage_title" : "Quarter-finals, Day 1",
-    "endDate" : 1501349400,
+    "location" : "De Adelaarshorst, Deventer",
+    "id" : 28,
+    "stage_title" : "Quarter-finals, Day 2",
+    "endDate" : 1501445700,
     "away" : {
-      "name" : "Group B runner-up",
-      "id" : -2,
-      "short_name" : "RB",
+      "name" : "Group C runner-up",
+      "id" : -8,
+      "short_name" : "RC",
       "badges" : {
         "flag" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png",
         "large" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
       },
       "badge_url" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
     },
-    "date" : 1501344000,
+    "date" : 1501440300,
     "home" : {
-      "name" : "Group A winner",
-      "id" : -1,
-      "short_name" : "WA",
+      "name" : "Group D winner",
+      "id" : -7,
+      "short_name" : "WD",
       "badges" : {
         "flag" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png",
         "large" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
@@ -29,7 +29,7 @@
       {
         "match_minute" : -100,
         "type" : "info",
-        "text" : "Location: De Vijverberg, Doetinchem",
+        "text" : "Location: De Adelaarshorst, Deventer",
         "real_minute" : -100
       }
     ]
