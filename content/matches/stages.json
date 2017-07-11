@@ -24,9 +24,9 @@
               "short_name" : "NOR",
               "badges" : {
                 "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/d9\/Flag_of_Norway.svg\/640px-Flag_of_Norway.svg.png",
-                "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
+                "large" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/norway.png"
               },
-              "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
+              "badge_url" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/norway.png"
             }
           },
           {
@@ -241,9 +241,9 @@
               "short_name" : "NOR",
               "badges" : {
                 "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/d9\/Flag_of_Norway.svg\/640px-Flag_of_Norway.svg.png",
-                "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
+                "large" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/norway.png"
               },
-              "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
+              "badge_url" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/norway.png"
             },
             "id" : 9,
             "away" : {
@@ -495,9 +495,9 @@
               "short_name" : "NOR",
               "badges" : {
                 "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/d9\/Flag_of_Norway.svg\/640px-Flag_of_Norway.svg.png",
-                "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
+                "large" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/norway.png"
               },
-              "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
+              "badge_url" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/norway.png"
             },
             "id" : 18,
             "away" : {
@@ -889,5 +889,5 @@
       }
     ]
   },
-  "edition" : 246
+  "edition" : 247
 }

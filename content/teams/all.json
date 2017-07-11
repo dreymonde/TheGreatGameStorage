@@ -37,13 +37,13 @@
       {
         "badges" : {
           "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/d9\/Flag_of_Norway.svg\/640px-Flag_of_Norway.svg.png",
-          "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
+          "large" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/norway.png"
         },
         "name" : "Norway",
         "id" : 8,
         "short_name" : "NOR",
         "rank" : 4,
-        "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/Norges_Fotballforbund_-_Norway_Norge.png"
+        "badge_url" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/norway.png"
       },
       {
         "badges" : {
@@ -179,5 +179,5 @@
       }
     ]
   },
-  "edition" : 246
+  "edition" : 247
 }
