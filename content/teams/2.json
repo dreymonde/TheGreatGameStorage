@@ -24,9 +24,9 @@
           "short_name" : "NOR",
           "badges" : {
             "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/d9\/Flag_of_Norway.svg\/640px-Flag_of_Norway.svg.png",
-            "large" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/norway.png"
+            "large" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/norway-fx.png"
           },
-          "badge_url" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/norway.png"
+          "badge_url" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/norway-fx.png"
         }
       },
       {
@@ -111,9 +111,9 @@
           "short_name" : "NOR",
           "badges" : {
             "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/d9\/Flag_of_Norway.svg\/640px-Flag_of_Norway.svg.png",
-            "large" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/norway.png"
+            "large" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/norway-fx.png"
           },
-          "badge_url" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/norway.png"
+          "badge_url" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/norway-fx.png"
         },
         {
           "points" : 0,
@@ -141,5 +141,5 @@
     },
     "badge_url" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/netherlands.png"
   },
-  "edition" : 248
+  "edition" : 250
 }
