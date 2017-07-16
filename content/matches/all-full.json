@@ -49,6 +49,12 @@
             "type" : "start",
             "text" : "Let the fun begin! Welcome to Euro 2017",
             "real_minute" : 1
+          },
+          {
+            "match_minute" : 46,
+            "type" : "halftime_start",
+            "text" : "Beautiful game so far",
+            "real_minute" : 47
           }
         ]
       },
@@ -1104,5 +1110,5 @@
       }
     ]
   },
-  "edition" : 275
+  "edition" : 276
 }
