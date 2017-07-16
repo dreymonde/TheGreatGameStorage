@@ -78,6 +78,10 @@
       },
       {
         "location" : "De Vijverberg, Doetinchem",
+        "score" : {
+          "away" : 0,
+          "home" : 0
+        },
         "id" : 2,
         "stage_title" : "Group A, leg 1",
         "endDate" : 1500237000,
@@ -108,6 +112,12 @@
             "type" : "info",
             "text" : "Location: De Vijverberg, Doetinchem",
             "real_minute" : -2
+          },
+          {
+            "match_minute" : 0,
+            "type" : "start",
+            "text" : "The game is on!",
+            "real_minute" : 1
           }
         ]
       },
@@ -1128,5 +1138,5 @@
       }
     ]
   },
-  "edition" : 284
+  "edition" : 287
 }
