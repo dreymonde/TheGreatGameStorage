@@ -17,7 +17,7 @@
             "badge_url" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/netherlands.png"
           },
           {
-            "points" : 0,
+            "points" : 3,
             "name" : "Denmark",
             "id" : 13,
             "short_name" : "DEN",
@@ -203,5 +203,5 @@
       }
     ]
   },
-  "edition" : 301
+  "edition" : 304
 }
