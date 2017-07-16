@@ -3,7 +3,7 @@
     "location" : "De Vijverberg, Doetinchem",
     "score" : {
       "away" : 0,
-      "home" : 0
+      "home" : 1
     },
     "id" : 2,
     "stage_title" : "Group A, leg 1",
@@ -41,8 +41,14 @@
         "type" : "start",
         "text" : "The game is on!",
         "real_minute" : 1
+      },
+      {
+        "match_minute" : 6,
+        "type" : "goal_home",
+        "text" : "Quick one for Denmark! Goal by Troelsgaard",
+        "real_minute" : 7
       }
     ]
   },
-  "edition" : 290
+  "edition" : 291
 }
