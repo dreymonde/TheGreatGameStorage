@@ -39,6 +39,12 @@
             "type" : "info",
             "text" : "The UEFA Women Euro 2017 will start July 16",
             "real_minute" : -1
+          },
+          {
+            "match_minute" : -1,
+            "type" : "info",
+            "text" : "Remember, together #WePlayStrong. We're starting in a few minutes.",
+            "real_minute" : -1
           }
         ]
       },
@@ -1094,5 +1100,5 @@
       }
     ]
   },
-  "edition" : 257
+  "edition" : 269
 }

@@ -1,0 +1,41 @@
+{
+  "location" : "Stadion Galgenwaard, Utrecht",
+  "id" : 1,
+  "stage_title" : "Group A, leg 1",
+  "endDate" : 1500227100,
+  "away" : {
+    "name" : "Norway",
+    "id" : 8,
+    "short_name" : "NOR",
+    "badges" : {
+      "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/d9\/Flag_of_Norway.svg\/640px-Flag_of_Norway.svg.png",
+      "large" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/norway-fx.png"
+    },
+    "badge_url" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/norway-fx.png"
+  },
+  "date" : 1500220800,
+  "home" : {
+    "name" : "Netherlands",
+    "id" : 2,
+    "short_name" : "NED",
+    "badges" : {
+      "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/20\/Flag_of_the_Netherlands.svg\/640px-Flag_of_the_Netherlands.svg.png",
+      "large" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/netherlands.png"
+    },
+    "badge_url" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/netherlands.png"
+  },
+  "events" : [
+    {
+      "match_minute" : -2,
+      "type" : "info",
+      "text" : "Location: Stadion Galgenwaard, Utrecht",
+      "real_minute" : -2
+    },
+    {
+      "match_minute" : -1,
+      "type" : "info",
+      "text" : "The UEFA Women Euro 2017 will start July 16",
+      "real_minute" : -1
+    }
+  ]
+}
