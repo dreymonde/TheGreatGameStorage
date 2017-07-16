@@ -3,7 +3,7 @@
     "location" : "Rat Verlegh Stadion, Breda",
     "id" : 4,
     "stage_title" : "Group B, leg 1",
-    "endDate" : 1500322500,
+    "endDate" : 1500323400,
     "away" : {
       "name" : "Sweden",
       "id" : 1,
@@ -34,5 +34,5 @@
       }
     ]
   },
-  "edition" : 250
+  "edition" : 253
 }

@@ -4,7 +4,7 @@
     "name" : "Switzerland",
     "matches" : [
       {
-        "endDate" : 1500399000,
+        "endDate" : 1500399900,
         "date" : 1500393600,
         "location" : "De Adelaarshorst, Deventer",
         "home" : {
@@ -30,7 +30,7 @@
         }
       },
       {
-        "endDate" : 1500744600,
+        "endDate" : 1500745500,
         "date" : 1500739200,
         "location" : "De Vijverberg, Doetinchem",
         "home" : {
@@ -56,7 +56,7 @@
         }
       },
       {
-        "endDate" : 1501100100,
+        "endDate" : 1501101000,
         "date" : 1501094700,
         "location" : "Rat Verlegh Stadion, Breda",
         "home" : {
@@ -141,5 +141,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/53\/SFV_Logo.svg\/640px-SFV_Logo.svg.png"
   },
-  "edition" : 250
+  "edition" : 253
 }

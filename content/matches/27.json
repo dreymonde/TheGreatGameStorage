@@ -3,7 +3,7 @@
     "location" : "Koning Willem II Stadion, Tilburg",
     "id" : 27,
     "stage_title" : "Quarter-finals, Day 2",
-    "endDate" : 1501435800,
+    "endDate" : 1501436700,
     "away" : {
       "name" : "Group D runner-up",
       "id" : -6,
@@ -34,5 +34,5 @@
       }
     ]
   },
-  "edition" : 250
+  "edition" : 253
 }

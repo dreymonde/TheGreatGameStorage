@@ -4,7 +4,7 @@
     "name" : "Norway",
     "matches" : [
       {
-        "endDate" : 1500226200,
+        "endDate" : 1500227100,
         "date" : 1500220800,
         "location" : "Stadion Galgenwaard, Utrecht",
         "home" : {
@@ -30,7 +30,7 @@
         }
       },
       {
-        "endDate" : 1500571800,
+        "endDate" : 1500572700,
         "date" : 1500566400,
         "location" : "Rat Verlegh Stadion, Breda",
         "home" : {
@@ -56,7 +56,7 @@
         }
       },
       {
-        "endDate" : 1500927300,
+        "endDate" : 1500928200,
         "date" : 1500921900,
         "location" : "De Adelaarshorst, Deventer",
         "home" : {
@@ -141,5 +141,5 @@
     },
     "badge_url" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/norway-fx.png"
   },
-  "edition" : 250
+  "edition" : 253
 }

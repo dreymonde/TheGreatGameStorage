@@ -3,7 +3,7 @@
     "location" : "Koning Willem II Stadion, Tilburg",
     "id" : 17,
     "stage_title" : "Group A, leg 3",
-    "endDate" : 1500927300,
+    "endDate" : 1500928200,
     "away" : {
       "name" : "Netherlands",
       "id" : 2,
@@ -34,5 +34,5 @@
       }
     ]
   },
-  "edition" : 250
+  "edition" : 253
 }

@@ -3,7 +3,7 @@
     "location" : "De Vijverberg, Doetinchem",
     "id" : 13,
     "stage_title" : "Group C, leg 2",
-    "endDate" : 1500744600,
+    "endDate" : 1500745500,
     "away" : {
       "name" : "Switzerland",
       "id" : 10,
@@ -34,5 +34,5 @@
       }
     ]
   },
-  "edition" : 250
+  "edition" : 253
 }

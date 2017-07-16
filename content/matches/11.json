@@ -3,7 +3,7 @@
     "location" : "De Adelaarshorst, Deventer",
     "id" : 11,
     "stage_title" : "Group B, leg 2",
-    "endDate" : 1500658200,
+    "endDate" : 1500659100,
     "away" : {
       "name" : "Russia",
       "id" : 4,
@@ -34,5 +34,5 @@
       }
     ]
   },
-  "edition" : 250
+  "edition" : 253
 }

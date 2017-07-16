@@ -3,7 +3,7 @@
     "location" : "Stadion Galgenwaard, Utrecht",
     "id" : 14,
     "stage_title" : "Group C, leg 2",
-    "endDate" : 1500754500,
+    "endDate" : 1500755400,
     "away" : {
       "name" : "Austria",
       "id" : 14,
@@ -34,5 +34,5 @@
       }
     ]
   },
-  "edition" : 250
+  "edition" : 253
 }

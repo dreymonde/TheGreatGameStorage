@@ -3,7 +3,7 @@
     "location" : "De Adelaarshorst, Deventer",
     "id" : 28,
     "stage_title" : "Quarter-finals, Day 2",
-    "endDate" : 1501445700,
+    "endDate" : 1501446600,
     "away" : {
       "name" : "Group C runner-up",
       "id" : -8,
@@ -34,5 +34,5 @@
       }
     ]
   },
-  "edition" : 250
+  "edition" : 253
 }

@@ -3,7 +3,7 @@
     "location" : "Rat Verlegh Stadion, Breda",
     "id" : 29,
     "stage_title" : "Semi-finals",
-    "endDate" : 1501781400,
+    "endDate" : 1501782300,
     "away" : {
       "name" : "Quarter-final 3 winner",
       "id" : -10,
@@ -34,5 +34,5 @@
       }
     ]
   },
-  "edition" : 250
+  "edition" : 253
 }

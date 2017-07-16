@@ -3,7 +3,7 @@
     "location" : "Sparta Stadion Het Kasteel, Rotterdam",
     "id" : 15,
     "stage_title" : "Group D, leg 2",
-    "endDate" : 1500831000,
+    "endDate" : 1500831900,
     "away" : {
       "name" : "Portugal",
       "id" : 16,
@@ -34,5 +34,5 @@
       }
     ]
   },
-  "edition" : 250
+  "edition" : 253
 }

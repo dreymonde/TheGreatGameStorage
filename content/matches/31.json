@@ -3,7 +3,7 @@
     "location" : "De Grolsch Veste, Enschede",
     "id" : 31,
     "stage_title" : "Final",
-    "endDate" : 1502037000,
+    "endDate" : 1502037900,
     "away" : {
       "name" : "Semi-final 2 winner",
       "id" : -14,
@@ -34,5 +34,5 @@
       }
     ]
   },
-  "edition" : 250
+  "edition" : 253
 }

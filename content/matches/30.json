@@ -3,7 +3,7 @@
     "location" : "De Grolsch Veste, Enschede",
     "id" : 30,
     "stage_title" : "Semi-finals",
-    "endDate" : 1501791300,
+    "endDate" : 1501792200,
     "away" : {
       "name" : "Quarter-final 4 winner",
       "id" : -12,
@@ -34,5 +34,5 @@
       }
     ]
   },
-  "edition" : 250
+  "edition" : 253
 }

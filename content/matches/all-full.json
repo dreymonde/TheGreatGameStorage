@@ -5,7 +5,7 @@
         "location" : "Stadion Galgenwaard, Utrecht",
         "id" : 1,
         "stage_title" : "Group A, leg 1",
-        "endDate" : 1500226200,
+        "endDate" : 1500227100,
         "away" : {
           "name" : "Norway",
           "id" : 8,
@@ -46,7 +46,7 @@
         "location" : "De Vijverberg, Doetinchem",
         "id" : 2,
         "stage_title" : "Group A, leg 1",
-        "endDate" : 1500236100,
+        "endDate" : 1500237000,
         "away" : {
           "name" : "Belgium",
           "id" : 15,
@@ -81,7 +81,7 @@
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "id" : 3,
         "stage_title" : "Group B, leg 1",
-        "endDate" : 1500312600,
+        "endDate" : 1500313500,
         "away" : {
           "name" : "Russia",
           "id" : 4,
@@ -116,7 +116,7 @@
         "location" : "Rat Verlegh Stadion, Breda",
         "id" : 4,
         "stage_title" : "Group B, leg 1",
-        "endDate" : 1500322500,
+        "endDate" : 1500323400,
         "away" : {
           "name" : "Sweden",
           "id" : 1,
@@ -151,7 +151,7 @@
         "location" : "De Adelaarshorst, Deventer",
         "id" : 5,
         "stage_title" : "Group C, leg 1",
-        "endDate" : 1500399000,
+        "endDate" : 1500399900,
         "away" : {
           "name" : "Switzerland",
           "id" : 10,
@@ -186,7 +186,7 @@
         "location" : "Koning Willem II Stadion, Tilburg",
         "id" : 6,
         "stage_title" : "Group C, leg 1",
-        "endDate" : 1500408900,
+        "endDate" : 1500409800,
         "away" : {
           "name" : "Iceland",
           "id" : 11,
@@ -221,7 +221,7 @@
         "location" : "De Vijverberg, Doetinchem",
         "id" : 7,
         "stage_title" : "Group D, leg 1",
-        "endDate" : 1500485400,
+        "endDate" : 1500486300,
         "away" : {
           "name" : "Portugal",
           "id" : 16,
@@ -256,7 +256,7 @@
         "location" : "Stadion Galgenwaard, Utrecht",
         "id" : 8,
         "stage_title" : "Group D, leg 1",
-        "endDate" : 1500495300,
+        "endDate" : 1500496200,
         "away" : {
           "name" : "Scotland",
           "id" : 12,
@@ -291,7 +291,7 @@
         "location" : "Rat Verlegh Stadion, Breda",
         "id" : 9,
         "stage_title" : "Group A, leg 2",
-        "endDate" : 1500571800,
+        "endDate" : 1500572700,
         "away" : {
           "name" : "Belgium",
           "id" : 15,
@@ -326,7 +326,7 @@
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "id" : 10,
         "stage_title" : "Group A, leg 2",
-        "endDate" : 1500581700,
+        "endDate" : 1500582600,
         "away" : {
           "name" : "Denmark",
           "id" : 13,
@@ -361,7 +361,7 @@
         "location" : "De Adelaarshorst, Deventer",
         "id" : 11,
         "stage_title" : "Group B, leg 2",
-        "endDate" : 1500658200,
+        "endDate" : 1500659100,
         "away" : {
           "name" : "Russia",
           "id" : 4,
@@ -396,7 +396,7 @@
         "location" : "Koning Willem II Stadion, Tilburg",
         "id" : 12,
         "stage_title" : "Group B, leg 2",
-        "endDate" : 1500668100,
+        "endDate" : 1500669000,
         "away" : {
           "name" : "Italy",
           "id" : 5,
@@ -431,7 +431,7 @@
         "location" : "De Vijverberg, Doetinchem",
         "id" : 13,
         "stage_title" : "Group C, leg 2",
-        "endDate" : 1500744600,
+        "endDate" : 1500745500,
         "away" : {
           "name" : "Switzerland",
           "id" : 10,
@@ -466,7 +466,7 @@
         "location" : "Stadion Galgenwaard, Utrecht",
         "id" : 14,
         "stage_title" : "Group C, leg 2",
-        "endDate" : 1500754500,
+        "endDate" : 1500755400,
         "away" : {
           "name" : "Austria",
           "id" : 14,
@@ -501,7 +501,7 @@
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "id" : 15,
         "stage_title" : "Group D, leg 2",
-        "endDate" : 1500831000,
+        "endDate" : 1500831900,
         "away" : {
           "name" : "Portugal",
           "id" : 16,
@@ -536,7 +536,7 @@
         "location" : "Rat Verlegh Stadion, Breda",
         "id" : 16,
         "stage_title" : "Group D, leg 2",
-        "endDate" : 1500840900,
+        "endDate" : 1500841800,
         "away" : {
           "name" : "Spain",
           "id" : 9,
@@ -571,7 +571,7 @@
         "location" : "Koning Willem II Stadion, Tilburg",
         "id" : 17,
         "stage_title" : "Group A, leg 3",
-        "endDate" : 1500927300,
+        "endDate" : 1500928200,
         "away" : {
           "name" : "Netherlands",
           "id" : 2,
@@ -606,7 +606,7 @@
         "location" : "De Adelaarshorst, Deventer",
         "id" : 18,
         "stage_title" : "Group A, leg 3",
-        "endDate" : 1500927300,
+        "endDate" : 1500928200,
         "away" : {
           "name" : "Denmark",
           "id" : 13,
@@ -641,7 +641,7 @@
         "location" : "Stadion Galgenwaard, Utrecht",
         "id" : 19,
         "stage_title" : "Group B, leg 3",
-        "endDate" : 1501013700,
+        "endDate" : 1501014600,
         "away" : {
           "name" : "Germany",
           "id" : 3,
@@ -676,7 +676,7 @@
         "location" : "De Vijverberg, Doetinchem",
         "id" : 20,
         "stage_title" : "Group B, leg 3",
-        "endDate" : 1501013700,
+        "endDate" : 1501014600,
         "away" : {
           "name" : "Italy",
           "id" : 5,
@@ -711,7 +711,7 @@
         "location" : "Rat Verlegh Stadion, Breda",
         "id" : 21,
         "stage_title" : "Group C, leg 3",
-        "endDate" : 1501100100,
+        "endDate" : 1501101000,
         "away" : {
           "name" : "France",
           "id" : 6,
@@ -746,7 +746,7 @@
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "id" : 22,
         "stage_title" : "Group C, leg 3",
-        "endDate" : 1501100100,
+        "endDate" : 1501101000,
         "away" : {
           "name" : "Austria",
           "id" : 14,
@@ -781,7 +781,7 @@
         "location" : "Koning Willem II Stadion, Tilburg",
         "id" : 23,
         "stage_title" : "Group D, leg 3",
-        "endDate" : 1501186500,
+        "endDate" : 1501187400,
         "away" : {
           "name" : "England",
           "id" : 7,
@@ -816,7 +816,7 @@
         "location" : "De Adelaarshorst, Deventer",
         "id" : 24,
         "stage_title" : "Group D, leg 3",
-        "endDate" : 1501186500,
+        "endDate" : 1501187400,
         "away" : {
           "name" : "Spain",
           "id" : 9,
@@ -851,7 +851,7 @@
         "location" : "De Vijverberg, Doetinchem",
         "id" : 25,
         "stage_title" : "Quarter-finals, Day 1",
-        "endDate" : 1501349400,
+        "endDate" : 1501350300,
         "away" : {
           "name" : "Group B runner-up",
           "id" : -2,
@@ -886,7 +886,7 @@
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "id" : 26,
         "stage_title" : "Quarter-finals, Day 1",
-        "endDate" : 1501359300,
+        "endDate" : 1501360200,
         "away" : {
           "name" : "Group A runner-up",
           "id" : -4,
@@ -921,7 +921,7 @@
         "location" : "Koning Willem II Stadion, Tilburg",
         "id" : 27,
         "stage_title" : "Quarter-finals, Day 2",
-        "endDate" : 1501435800,
+        "endDate" : 1501436700,
         "away" : {
           "name" : "Group D runner-up",
           "id" : -6,
@@ -956,7 +956,7 @@
         "location" : "De Adelaarshorst, Deventer",
         "id" : 28,
         "stage_title" : "Quarter-finals, Day 2",
-        "endDate" : 1501445700,
+        "endDate" : 1501446600,
         "away" : {
           "name" : "Group C runner-up",
           "id" : -8,
@@ -991,7 +991,7 @@
         "location" : "Rat Verlegh Stadion, Breda",
         "id" : 29,
         "stage_title" : "Semi-finals",
-        "endDate" : 1501781400,
+        "endDate" : 1501782300,
         "away" : {
           "name" : "Quarter-final 3 winner",
           "id" : -10,
@@ -1026,7 +1026,7 @@
         "location" : "De Grolsch Veste, Enschede",
         "id" : 30,
         "stage_title" : "Semi-finals",
-        "endDate" : 1501791300,
+        "endDate" : 1501792200,
         "away" : {
           "name" : "Quarter-final 4 winner",
           "id" : -12,
@@ -1061,7 +1061,7 @@
         "location" : "De Grolsch Veste, Enschede",
         "id" : 31,
         "stage_title" : "Final",
-        "endDate" : 1502037000,
+        "endDate" : 1502037900,
         "away" : {
           "name" : "Semi-final 2 winner",
           "id" : -14,
@@ -1094,5 +1094,5 @@
       }
     ]
   },
-  "edition" : 250
+  "edition" : 253
 }

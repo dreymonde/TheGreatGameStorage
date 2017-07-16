@@ -3,7 +3,7 @@
     "location" : "Stadion Galgenwaard, Utrecht",
     "id" : 19,
     "stage_title" : "Group B, leg 3",
-    "endDate" : 1501013700,
+    "endDate" : 1501014600,
     "away" : {
       "name" : "Germany",
       "id" : 3,
@@ -34,5 +34,5 @@
       }
     ]
   },
-  "edition" : 250
+  "edition" : 253
 }

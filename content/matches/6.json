@@ -3,7 +3,7 @@
     "location" : "Koning Willem II Stadion, Tilburg",
     "id" : 6,
     "stage_title" : "Group C, leg 1",
-    "endDate" : 1500408900,
+    "endDate" : 1500409800,
     "away" : {
       "name" : "Iceland",
       "id" : 11,
@@ -34,5 +34,5 @@
       }
     ]
   },
-  "edition" : 250
+  "edition" : 253
 }

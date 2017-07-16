@@ -4,7 +4,7 @@
     "name" : "Spain",
     "matches" : [
       {
-        "endDate" : 1500485400,
+        "endDate" : 1500486300,
         "date" : 1500480000,
         "location" : "De Vijverberg, Doetinchem",
         "home" : {
@@ -30,7 +30,7 @@
         }
       },
       {
-        "endDate" : 1500840900,
+        "endDate" : 1500841800,
         "date" : 1500835500,
         "location" : "Rat Verlegh Stadion, Breda",
         "home" : {
@@ -56,7 +56,7 @@
         }
       },
       {
-        "endDate" : 1501186500,
+        "endDate" : 1501187400,
         "date" : 1501181100,
         "location" : "De Adelaarshorst, Deventer",
         "home" : {
@@ -141,5 +141,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/31\/Spain_National_Football_Team_badge.png"
   },
-  "edition" : 250
+  "edition" : 253
 }
