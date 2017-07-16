@@ -54,7 +54,7 @@
             "match_minute" : 0,
             "type" : "start",
             "text" : "Let the fun begin! Welcome to Euro 2017",
-            "real_minute" : 0
+            "real_minute" : 1
           }
         ]
       },
@@ -1110,5 +1110,5 @@
       }
     ]
   },
-  "edition" : 270
+  "edition" : 274
 }
