@@ -130,6 +130,12 @@
             "type" : "halftime_start",
             "text" : "Halftime. Denmark 1:0 Belgium",
             "real_minute" : 46
+          },
+          {
+            "match_minute" : 45,
+            "type" : "halftime_end",
+            "text" : "Second half is on",
+            "real_minute" : 61
           }
         ]
       },
@@ -1150,5 +1156,5 @@
       }
     ]
   },
-  "edition" : 297
+  "edition" : 299
 }
