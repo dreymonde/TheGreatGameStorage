@@ -55,6 +55,12 @@
             "type" : "halftime_start",
             "text" : "Beautiful game so far",
             "real_minute" : 47
+          },
+          {
+            "match_minute" : 45,
+            "type" : "halftime_end",
+            "text" : "The last 45 minutes will decide",
+            "real_minute" : 64
           }
         ]
       },
@@ -1110,5 +1116,5 @@
       }
     ]
   },
-  "edition" : 276
+  "edition" : 278
 }
