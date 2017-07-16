@@ -7,7 +7,7 @@
     },
     "id" : 2,
     "stage_title" : "Group A, leg 1",
-    "endDate" : 1500237000,
+    "endDate" : 1500237240,
     "away" : {
       "name" : "Belgium",
       "id" : 15,
@@ -59,8 +59,14 @@
         "type" : "halftime_end",
         "text" : "Second half is on",
         "real_minute" : 61
+      },
+      {
+        "match_minute" : 93,
+        "type" : "end",
+        "text" : "Tough win for Denmark",
+        "real_minute" : 109
       }
     ]
   },
-  "edition" : 299
+  "edition" : 301
 }

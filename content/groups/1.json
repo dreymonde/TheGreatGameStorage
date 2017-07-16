@@ -38,7 +38,7 @@
           "home" : 1
         },
         "id" : 2,
-        "endDate" : 1500237000,
+        "endDate" : 1500237240,
         "away" : {
           "name" : "Belgium",
           "id" : 15,
@@ -215,5 +215,5 @@
     ],
     "id" : 1
   },
-  "edition" : 299
+  "edition" : 301
 }
