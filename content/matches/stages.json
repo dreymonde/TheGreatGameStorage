@@ -4,20 +4,13 @@
       {
         "matches" : [
           {
-            "endDate" : 1500227100,
-            "date" : 1500220800,
             "location" : "Stadion Galgenwaard, Utrecht",
-            "home" : {
-              "name" : "Netherlands",
-              "id" : 2,
-              "short_name" : "NED",
-              "badges" : {
-                "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/20\/Flag_of_the_Netherlands.svg\/640px-Flag_of_the_Netherlands.svg.png",
-                "large" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/netherlands.png"
-              },
-              "badge_url" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/netherlands.png"
+            "score" : {
+              "away" : 0,
+              "home" : 0
             },
             "id" : 1,
+            "endDate" : 1500227100,
             "away" : {
               "name" : "Norway",
               "id" : 8,
@@ -27,6 +20,17 @@
                 "large" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/norway-fx.png"
               },
               "badge_url" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/norway-fx.png"
+            },
+            "date" : 1500220800,
+            "home" : {
+              "name" : "Netherlands",
+              "id" : 2,
+              "short_name" : "NED",
+              "badges" : {
+                "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/20\/Flag_of_the_Netherlands.svg\/640px-Flag_of_the_Netherlands.svg.png",
+                "large" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/netherlands.png"
+              },
+              "badge_url" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/netherlands.png"
             }
           },
           {
@@ -889,5 +893,5 @@
       }
     ]
   },
-  "edition" : 269
+  "edition" : 270
 }
