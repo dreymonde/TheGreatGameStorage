@@ -3,7 +3,7 @@
     "location" : "Stadion Galgenwaard, Utrecht",
     "score" : {
       "away" : 0,
-      "home" : 0
+      "home" : 1
     },
     "id" : 1,
     "stage_title" : "Group A, leg 1",
@@ -59,8 +59,14 @@
         "type" : "halftime_end",
         "text" : "Up for the second half",
         "real_minute" : 64
+      },
+      {
+        "match_minute" : 66,
+        "type" : "goal_home",
+        "text" : "What a goal by van de Sanden! Netherlands takes the lead",
+        "real_minute" : 85
       }
     ]
   },
-  "edition" : 280
+  "edition" : 281
 }
