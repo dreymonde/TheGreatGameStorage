@@ -52,6 +52,12 @@
       "type" : "halftime_start",
       "text" : "Beautiful game so far",
       "real_minute" : 47
+    },
+    {
+      "match_minute" : 45,
+      "type" : "halftime_end",
+      "text" : "Up for the second half",
+      "real_minute" : 64
     }
   ]
 }

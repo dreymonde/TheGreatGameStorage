@@ -59,7 +59,7 @@
           {
             "match_minute" : 45,
             "type" : "halftime_end",
-            "text" : "The last 45 minutes will decide",
+            "text" : "Up for the second half",
             "real_minute" : 64
           }
         ]
@@ -1116,5 +1116,5 @@
       }
     ]
   },
-  "edition" : 278
+  "edition" : 280
 }
