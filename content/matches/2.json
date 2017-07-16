@@ -47,8 +47,14 @@
         "type" : "goal_home",
         "text" : "Quick one for Denmark! Goal by Sanne Troelsgaard",
         "real_minute" : 7
+      },
+      {
+        "match_minute" : 45,
+        "type" : "halftime_start",
+        "text" : "Denmark 1:0 Belgium",
+        "real_minute" : 46
       }
     ]
   },
-  "edition" : 294
+  "edition" : 295
 }
