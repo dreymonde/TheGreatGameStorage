@@ -29,10 +29,10 @@
         },
         "events" : [
           {
-            "match_minute" : -100,
+            "match_minute" : -2,
             "type" : "info",
             "text" : "Location: Stadion Galgenwaard, Utrecht",
-            "real_minute" : -100
+            "real_minute" : -2
           },
           {
             "match_minute" : -1,
@@ -70,10 +70,10 @@
         },
         "events" : [
           {
-            "match_minute" : -100,
+            "match_minute" : -2,
             "type" : "info",
             "text" : "Location: De Vijverberg, Doetinchem",
-            "real_minute" : -100
+            "real_minute" : -2
           }
         ]
       },
@@ -105,10 +105,10 @@
         },
         "events" : [
           {
-            "match_minute" : -100,
+            "match_minute" : -2,
             "type" : "info",
             "text" : "Location: Sparta Stadion Het Kasteel, Rotterdam",
-            "real_minute" : -100
+            "real_minute" : -2
           }
         ]
       },
@@ -140,10 +140,10 @@
         },
         "events" : [
           {
-            "match_minute" : -100,
+            "match_minute" : -2,
             "type" : "info",
             "text" : "Location: Rat Verlegh Stadion, Breda",
-            "real_minute" : -100
+            "real_minute" : -2
           }
         ]
       },
@@ -175,10 +175,10 @@
         },
         "events" : [
           {
-            "match_minute" : -100,
+            "match_minute" : -2,
             "type" : "info",
             "text" : "Location: De Adelaarshorst, Deventer",
-            "real_minute" : -100
+            "real_minute" : -2
           }
         ]
       },
@@ -210,10 +210,10 @@
         },
         "events" : [
           {
-            "match_minute" : -100,
+            "match_minute" : -2,
             "type" : "info",
             "text" : "Location: Koning Willem II Stadion, Tilburg",
-            "real_minute" : -100
+            "real_minute" : -2
           }
         ]
       },
@@ -245,10 +245,10 @@
         },
         "events" : [
           {
-            "match_minute" : -100,
+            "match_minute" : -2,
             "type" : "info",
             "text" : "Location: De Vijverberg, Doetinchem",
-            "real_minute" : -100
+            "real_minute" : -2
           }
         ]
       },
@@ -280,10 +280,10 @@
         },
         "events" : [
           {
-            "match_minute" : -100,
+            "match_minute" : -2,
             "type" : "info",
             "text" : "Location: Stadion Galgenwaard, Utrecht",
-            "real_minute" : -100
+            "real_minute" : -2
           }
         ]
       },
@@ -315,10 +315,10 @@
         },
         "events" : [
           {
-            "match_minute" : -100,
+            "match_minute" : -2,
             "type" : "info",
             "text" : "Location: Rat Verlegh Stadion, Breda",
-            "real_minute" : -100
+            "real_minute" : -2
           }
         ]
       },
@@ -350,10 +350,10 @@
         },
         "events" : [
           {
-            "match_minute" : -100,
+            "match_minute" : -2,
             "type" : "info",
             "text" : "Location: Sparta Stadion Het Kasteel, Rotterdam",
-            "real_minute" : -100
+            "real_minute" : -2
           }
         ]
       },
@@ -385,10 +385,10 @@
         },
         "events" : [
           {
-            "match_minute" : -100,
+            "match_minute" : -2,
             "type" : "info",
             "text" : "Location: De Adelaarshorst, Deventer",
-            "real_minute" : -100
+            "real_minute" : -2
           }
         ]
       },
@@ -420,10 +420,10 @@
         },
         "events" : [
           {
-            "match_minute" : -100,
+            "match_minute" : -2,
             "type" : "info",
             "text" : "Location: Koning Willem II Stadion, Tilburg",
-            "real_minute" : -100
+            "real_minute" : -2
           }
         ]
       },
@@ -455,10 +455,10 @@
         },
         "events" : [
           {
-            "match_minute" : -100,
+            "match_minute" : -2,
             "type" : "info",
             "text" : "Location: De Vijverberg, Doetinchem",
-            "real_minute" : -100
+            "real_minute" : -2
           }
         ]
       },
@@ -490,10 +490,10 @@
         },
         "events" : [
           {
-            "match_minute" : -100,
+            "match_minute" : -2,
             "type" : "info",
             "text" : "Location: Stadion Galgenwaard, Utrecht",
-            "real_minute" : -100
+            "real_minute" : -2
           }
         ]
       },
@@ -525,10 +525,10 @@
         },
         "events" : [
           {
-            "match_minute" : -100,
+            "match_minute" : -2,
             "type" : "info",
             "text" : "Location: Sparta Stadion Het Kasteel, Rotterdam",
-            "real_minute" : -100
+            "real_minute" : -2
           }
         ]
       },
@@ -560,10 +560,10 @@
         },
         "events" : [
           {
-            "match_minute" : -100,
+            "match_minute" : -2,
             "type" : "info",
             "text" : "Location: Rat Verlegh Stadion, Breda",
-            "real_minute" : -100
+            "real_minute" : -2
           }
         ]
       },
@@ -595,10 +595,10 @@
         },
         "events" : [
           {
-            "match_minute" : -100,
+            "match_minute" : -2,
             "type" : "info",
             "text" : "Location: Koning Willem II Stadion, Tilburg",
-            "real_minute" : -100
+            "real_minute" : -2
           }
         ]
       },
@@ -630,10 +630,10 @@
         },
         "events" : [
           {
-            "match_minute" : -100,
+            "match_minute" : -2,
             "type" : "info",
             "text" : "Location: De Adelaarshorst, Deventer",
-            "real_minute" : -100
+            "real_minute" : -2
           }
         ]
       },
@@ -665,10 +665,10 @@
         },
         "events" : [
           {
-            "match_minute" : -100,
+            "match_minute" : -2,
             "type" : "info",
             "text" : "Location: Stadion Galgenwaard, Utrecht",
-            "real_minute" : -100
+            "real_minute" : -2
           }
         ]
       },
@@ -700,10 +700,10 @@
         },
         "events" : [
           {
-            "match_minute" : -100,
+            "match_minute" : -2,
             "type" : "info",
             "text" : "Location: De Vijverberg, Doetinchem",
-            "real_minute" : -100
+            "real_minute" : -2
           }
         ]
       },
@@ -735,10 +735,10 @@
         },
         "events" : [
           {
-            "match_minute" : -100,
+            "match_minute" : -2,
             "type" : "info",
             "text" : "Location: Rat Verlegh Stadion, Breda",
-            "real_minute" : -100
+            "real_minute" : -2
           }
         ]
       },
@@ -770,10 +770,10 @@
         },
         "events" : [
           {
-            "match_minute" : -100,
+            "match_minute" : -2,
             "type" : "info",
             "text" : "Location: Sparta Stadion Het Kasteel, Rotterdam",
-            "real_minute" : -100
+            "real_minute" : -2
           }
         ]
       },
@@ -805,10 +805,10 @@
         },
         "events" : [
           {
-            "match_minute" : -100,
+            "match_minute" : -2,
             "type" : "info",
             "text" : "Location: Koning Willem II Stadion, Tilburg",
-            "real_minute" : -100
+            "real_minute" : -2
           }
         ]
       },
@@ -840,10 +840,10 @@
         },
         "events" : [
           {
-            "match_minute" : -100,
+            "match_minute" : -2,
             "type" : "info",
             "text" : "Location: De Adelaarshorst, Deventer",
-            "real_minute" : -100
+            "real_minute" : -2
           }
         ]
       },
@@ -875,10 +875,10 @@
         },
         "events" : [
           {
-            "match_minute" : -100,
+            "match_minute" : -2,
             "type" : "info",
             "text" : "Location: De Vijverberg, Doetinchem",
-            "real_minute" : -100
+            "real_minute" : -2
           }
         ]
       },
@@ -910,10 +910,10 @@
         },
         "events" : [
           {
-            "match_minute" : -100,
+            "match_minute" : -2,
             "type" : "info",
             "text" : "Location: Sparta Stadion Het Kasteel, Rotterdam",
-            "real_minute" : -100
+            "real_minute" : -2
           }
         ]
       },
@@ -945,10 +945,10 @@
         },
         "events" : [
           {
-            "match_minute" : -100,
+            "match_minute" : -2,
             "type" : "info",
             "text" : "Location: Koning Willem II Stadion, Tilburg",
-            "real_minute" : -100
+            "real_minute" : -2
           }
         ]
       },
@@ -980,10 +980,10 @@
         },
         "events" : [
           {
-            "match_minute" : -100,
+            "match_minute" : -2,
             "type" : "info",
             "text" : "Location: De Adelaarshorst, Deventer",
-            "real_minute" : -100
+            "real_minute" : -2
           }
         ]
       },
@@ -1015,10 +1015,10 @@
         },
         "events" : [
           {
-            "match_minute" : -100,
+            "match_minute" : -2,
             "type" : "info",
             "text" : "Location: Rat Verlegh Stadion, Breda",
-            "real_minute" : -100
+            "real_minute" : -2
           }
         ]
       },
@@ -1050,10 +1050,10 @@
         },
         "events" : [
           {
-            "match_minute" : -100,
+            "match_minute" : -2,
             "type" : "info",
             "text" : "Location: De Grolsch Veste, Enschede",
-            "real_minute" : -100
+            "real_minute" : -2
           }
         ]
       },
@@ -1085,14 +1085,14 @@
         },
         "events" : [
           {
-            "match_minute" : -100,
+            "match_minute" : -2,
             "type" : "info",
             "text" : "Location: De Grolsch Veste, Enschede",
-            "real_minute" : -100
+            "real_minute" : -2
           }
         ]
       }
     ]
   },
-  "edition" : 253
+  "edition" : 257
 }

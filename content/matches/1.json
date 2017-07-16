@@ -27,10 +27,10 @@
     },
     "events" : [
       {
-        "match_minute" : -100,
+        "match_minute" : -2,
         "type" : "info",
         "text" : "Location: Stadion Galgenwaard, Utrecht",
-        "real_minute" : -100
+        "real_minute" : -2
       },
       {
         "match_minute" : -1,
@@ -40,5 +40,5 @@
       }
     ]
   },
-  "edition" : 253
+  "edition" : 257
 }

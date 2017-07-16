@@ -27,12 +27,12 @@
     },
     "events" : [
       {
-        "match_minute" : -100,
+        "match_minute" : -2,
         "type" : "info",
         "text" : "Location: Rat Verlegh Stadion, Breda",
-        "real_minute" : -100
+        "real_minute" : -2
       }
     ]
   },
-  "edition" : 253
+  "edition" : 257
 }
