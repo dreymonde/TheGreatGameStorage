@@ -9,7 +9,7 @@
         },
         "id" : 1,
         "stage_title" : "Group A, leg 1",
-        "endDate" : 1500227100,
+        "endDate" : 1500227580,
         "away" : {
           "name" : "Norway",
           "id" : 8,
@@ -67,6 +67,12 @@
             "type" : "goal_home",
             "text" : "What a goal by van de Sanden! Netherlands takes the lead",
             "real_minute" : 85
+          },
+          {
+            "match_minute" : 94,
+            "type" : "end",
+            "text" : "Unexpected, yet fully deserved win for the hosts!",
+            "real_minute" : 113
           }
         ]
       },
@@ -1122,5 +1128,5 @@
       }
     ]
   },
-  "edition" : 281
+  "edition" : 284
 }
