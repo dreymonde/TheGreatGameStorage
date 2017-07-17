@@ -268,6 +268,12 @@
             "type" : "start",
             "text" : "This is gonna be huge. Germany vs Sweden, starting now",
             "real_minute" : 2
+          },
+          {
+            "match_minute" : 46,
+            "type" : "halftime_start",
+            "text" : "Half-time. 0:0 so far",
+            "real_minute" : 46
           }
         ]
       },
@@ -1218,5 +1224,5 @@
       }
     ]
   },
-  "edition" : 327
+  "edition" : 332
 }
