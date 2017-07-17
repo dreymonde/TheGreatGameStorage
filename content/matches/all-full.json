@@ -203,8 +203,14 @@
           {
             "match_minute" : 47,
             "type" : "halftime_start",
-            "text" : "Powerful 45 minutes for the Russian team. They're close to winning their very first match on Euro.",
+            "text" : "Powerful 45 minutes for the Russian team. They're close to winning their very first match on Euros.",
             "real_minute" : 47
+          },
+          {
+            "match_minute" : 45,
+            "type" : "halftime_end",
+            "text" : "Second half is on",
+            "real_minute" : 62
           }
         ]
       },
@@ -1190,5 +1196,5 @@
       }
     ]
   },
-  "edition" : 316
+  "edition" : 318
 }
