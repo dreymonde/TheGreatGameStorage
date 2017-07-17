@@ -4,20 +4,13 @@
     "name" : "Germany",
     "matches" : [
       {
-        "endDate" : 1500323400,
-        "date" : 1500317100,
         "location" : "Rat Verlegh Stadion, Breda",
-        "home" : {
-          "name" : "Germany",
-          "id" : 3,
-          "short_name" : "GER",
-          "badges" : {
-            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/b\/ba\/Flag_of_Germany.svg\/800px-Flag_of_Germany.svg.png",
-            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
-          },
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
+        "score" : {
+          "away" : 0,
+          "home" : 0
         },
         "id" : 4,
+        "endDate" : 1500323400,
         "away" : {
           "name" : "Sweden",
           "id" : 1,
@@ -27,6 +20,17 @@
             "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/35\/Sweden_national_football_team_logo.png"
           },
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/35\/Sweden_national_football_team_logo.png"
+        },
+        "date" : 1500317100,
+        "home" : {
+          "name" : "Germany",
+          "id" : 3,
+          "short_name" : "GER",
+          "badges" : {
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/b\/ba\/Flag_of_Germany.svg\/800px-Flag_of_Germany.svg.png",
+            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
+          },
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
         }
       },
       {
@@ -141,5 +145,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
   },
-  "edition" : 323
+  "edition" : 327
 }
