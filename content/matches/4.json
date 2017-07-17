@@ -7,7 +7,7 @@
     },
     "id" : 4,
     "stage_title" : "Group B, leg 1",
-    "endDate" : 1500323400,
+    "endDate" : 1500323700,
     "away" : {
       "name" : "Sweden",
       "id" : 1,
@@ -53,8 +53,14 @@
         "type" : "halftime_end",
         "text" : "45 minutes to go",
         "real_minute" : 62
+      },
+      {
+        "match_minute" : 93,
+        "type" : "end",
+        "text" : "Full time. 0:0",
+        "real_minute" : 110
       }
     ]
   },
-  "edition" : 336
+  "edition" : 337
 }

@@ -10,7 +10,7 @@
           "home" : 0
         },
         "id" : 4,
-        "endDate" : 1500323400,
+        "endDate" : 1500323700,
         "away" : {
           "name" : "Sweden",
           "id" : 1,
@@ -145,5 +145,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
   },
-  "edition" : 336
+  "edition" : 337
 }

@@ -10,7 +10,7 @@
           "home" : 0
         },
         "id" : 4,
-        "endDate" : 1500323400,
+        "endDate" : 1500323700,
         "away" : {
           "name" : "Sweden",
           "id" : 1,
@@ -145,5 +145,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/35\/Sweden_national_football_team_logo.png"
   },
-  "edition" : 336
+  "edition" : 337
 }

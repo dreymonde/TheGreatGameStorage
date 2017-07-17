@@ -98,7 +98,7 @@
           "home" : 0
         },
         "id" : 4,
-        "endDate" : 1500323400,
+        "endDate" : 1500323700,
         "away" : {
           "name" : "Sweden",
           "id" : 1,
@@ -825,5 +825,5 @@
       }
     ]
   },
-  "edition" : 336
+  "edition" : 337
 }
