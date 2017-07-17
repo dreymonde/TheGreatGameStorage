@@ -148,7 +148,7 @@
       {
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "score" : {
-          "away" : 0,
+          "away" : 1,
           "home" : 0
         },
         "id" : 3,
@@ -187,6 +187,12 @@
             "type" : "start",
             "text" : "Italy and Russia are starting their way on this Euro",
             "real_minute" : 0
+          },
+          {
+            "match_minute" : 9,
+            "type" : "goal_away",
+            "text" : "What a wonderful goal by Danilova!",
+            "real_minute" : 9
           }
         ]
       },
@@ -1172,5 +1178,5 @@
       }
     ]
   },
-  "edition" : 309
+  "edition" : 310
 }

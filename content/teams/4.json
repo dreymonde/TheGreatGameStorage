@@ -6,7 +6,7 @@
       {
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "score" : {
-          "away" : 0,
+          "away" : 1,
           "home" : 0
         },
         "id" : 3,
@@ -145,5 +145,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/77\/Russian_Football_Union.png"
   },
-  "edition" : 309
+  "edition" : 310
 }
