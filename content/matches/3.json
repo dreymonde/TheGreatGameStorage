@@ -2,7 +2,7 @@
   "content" : {
     "location" : "Sparta Stadion Het Kasteel, Rotterdam",
     "score" : {
-      "away" : 1,
+      "away" : 2,
       "home" : 0
     },
     "id" : 3,
@@ -47,8 +47,14 @@
         "type" : "goal_away",
         "text" : "What a wonderful goal by Danilova!",
         "real_minute" : 9
+      },
+      {
+        "match_minute" : 26,
+        "type" : "goal_away",
+        "text" : "Amazing start for Russia! Morozova scores",
+        "real_minute" : 26
       }
     ]
   },
-  "edition" : 310
+  "edition" : 313
 }
