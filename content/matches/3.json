@@ -1,6 +1,10 @@
 {
   "content" : {
     "location" : "Sparta Stadion Het Kasteel, Rotterdam",
+    "score" : {
+      "away" : 0,
+      "home" : 0
+    },
     "id" : 3,
     "stage_title" : "Group B, leg 1",
     "endDate" : 1500313500,
@@ -31,8 +35,14 @@
         "type" : "info",
         "text" : "Location: Sparta Stadion Het Kasteel, Rotterdam",
         "real_minute" : -2
+      },
+      {
+        "match_minute" : 0,
+        "type" : "start",
+        "text" : "Italy and Russia start their way on this Euro",
+        "real_minute" : 0
       }
     ]
   },
-  "edition" : 305
+  "edition" : 306
 }

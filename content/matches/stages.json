@@ -69,20 +69,13 @@
       {
         "matches" : [
           {
-            "endDate" : 1500313500,
-            "date" : 1500307200,
             "location" : "Sparta Stadion Het Kasteel, Rotterdam",
-            "home" : {
-              "name" : "Italy",
-              "id" : 5,
-              "short_name" : "ITA",
-              "badges" : {
-                "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/0\/03\/Flag_of_Italy.svg\/640px-Flag_of_Italy.svg.png",
-                "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
-              },
-              "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
+            "score" : {
+              "away" : 0,
+              "home" : 0
             },
             "id" : 3,
+            "endDate" : 1500313500,
             "away" : {
               "name" : "Russia",
               "id" : 4,
@@ -92,6 +85,17 @@
                 "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/77\/Russian_Football_Union.png"
               },
               "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/77\/Russian_Football_Union.png"
+            },
+            "date" : 1500307200,
+            "home" : {
+              "name" : "Italy",
+              "id" : 5,
+              "short_name" : "ITA",
+              "badges" : {
+                "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/0\/03\/Flag_of_Italy.svg\/640px-Flag_of_Italy.svg.png",
+                "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
+              },
+              "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
             }
           },
           {
@@ -897,5 +901,5 @@
       }
     ]
   },
-  "edition" : 305
+  "edition" : 306
 }
