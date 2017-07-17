@@ -98,6 +98,17 @@
       "title" : "Group B",
       "teams" : [
         {
+          "points" : 3,
+          "name" : "Russia",
+          "id" : 4,
+          "short_name" : "RUS",
+          "badges" : {
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/f\/f3\/Flag_of_Russia.svg\/640px-Flag_of_Russia.svg.png",
+            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/77\/Russian_Football_Union.png"
+          },
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/77\/Russian_Football_Union.png"
+        },
+        {
           "points" : 0,
           "name" : "Germany",
           "id" : 3,
@@ -129,21 +140,10 @@
             "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
           },
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
-        },
-        {
-          "points" : 0,
-          "name" : "Russia",
-          "id" : 4,
-          "short_name" : "RUS",
-          "badges" : {
-            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/f\/f3\/Flag_of_Russia.svg\/640px-Flag_of_Russia.svg.png",
-            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/77\/Russian_Football_Union.png"
-          },
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/77\/Russian_Football_Union.png"
         }
       ]
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/77\/Russian_Football_Union.png"
   },
-  "edition" : 334
+  "edition" : 336
 }
