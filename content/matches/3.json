@@ -7,7 +7,7 @@
     },
     "id" : 3,
     "stage_title" : "Group B, leg 1",
-    "endDate" : 1500313500,
+    "endDate" : 1500313980,
     "away" : {
       "name" : "Russia",
       "id" : 4,
@@ -71,8 +71,14 @@
         "type" : "goal_home",
         "text" : "Italy is back in the game! Goal by Mauro",
         "real_minute" : 104
+      },
+      {
+        "match_minute" : 96,
+        "type" : "end",
+        "text" : "Historic win for Russia",
+        "real_minute" : 113
       }
     ]
   },
-  "edition" : 320
+  "edition" : 323
 }

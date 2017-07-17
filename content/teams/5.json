@@ -10,7 +10,7 @@
           "home" : 1
         },
         "id" : 3,
-        "endDate" : 1500313500,
+        "endDate" : 1500313980,
         "away" : {
           "name" : "Russia",
           "id" : 4,
@@ -145,5 +145,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
   },
-  "edition" : 320
+  "edition" : 323
 }

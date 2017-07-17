@@ -75,7 +75,7 @@
               "home" : 1
             },
             "id" : 3,
-            "endDate" : 1500313500,
+            "endDate" : 1500313980,
             "away" : {
               "name" : "Russia",
               "id" : 4,
@@ -901,5 +901,5 @@
       }
     ]
   },
-  "edition" : 320
+  "edition" : 323
 }
