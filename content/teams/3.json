@@ -109,7 +109,7 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/77\/Russian_Football_Union.png"
         },
         {
-          "points" : 0,
+          "points" : 1,
           "name" : "Germany",
           "id" : 3,
           "short_name" : "GER",
@@ -120,7 +120,7 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
         },
         {
-          "points" : 0,
+          "points" : 1,
           "name" : "Sweden",
           "id" : 1,
           "short_name" : "SWE",
@@ -145,5 +145,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
   },
-  "edition" : 337
+  "edition" : 340
 }
