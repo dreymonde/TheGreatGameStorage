@@ -199,6 +199,12 @@
             "type" : "goal_away",
             "text" : "Amazing start for Russia! Morozova scores",
             "real_minute" : 26
+          },
+          {
+            "match_minute" : 47,
+            "type" : "halftime_start",
+            "text" : "Powerful 45 minutes for the Russian team. They're close to winning their very first match on Euro.",
+            "real_minute" : 47
           }
         ]
       },
@@ -1184,5 +1190,5 @@
       }
     ]
   },
-  "edition" : 313
+  "edition" : 316
 }
