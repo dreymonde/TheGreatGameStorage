@@ -47,8 +47,14 @@
         "type" : "halftime_start",
         "text" : "Half-time. 0:0 so far",
         "real_minute" : 46
+      },
+      {
+        "match_minute" : 45,
+        "type" : "halftime_end",
+        "text" : "45 minutes to go",
+        "real_minute" : 62
       }
     ]
   },
-  "edition" : 332
+  "edition" : 334
 }
