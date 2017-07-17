@@ -7,7 +7,7 @@
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "score" : {
           "away" : 2,
-          "home" : 0
+          "home" : 1
         },
         "id" : 3,
         "endDate" : 1500313500,
@@ -145,5 +145,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
   },
-  "edition" : 318
+  "edition" : 320
 }

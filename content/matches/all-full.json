@@ -149,7 +149,7 @@
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "score" : {
           "away" : 2,
-          "home" : 0
+          "home" : 1
         },
         "id" : 3,
         "stage_title" : "Group B, leg 1",
@@ -211,6 +211,12 @@
             "type" : "halftime_end",
             "text" : "Second half is on",
             "real_minute" : 62
+          },
+          {
+            "match_minute" : 87,
+            "type" : "goal_home",
+            "text" : "Italy is back in the game! Goal by Mauro",
+            "real_minute" : 104
           }
         ]
       },
@@ -1196,5 +1202,5 @@
       }
     ]
   },
-  "edition" : 318
+  "edition" : 320
 }
