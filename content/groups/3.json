@@ -38,7 +38,7 @@
           "home" : 1
         },
         "id" : 6,
-        "endDate" : 1500409800,
+        "endDate" : 1500410340,
         "away" : {
           "name" : "Iceland",
           "id" : 11,
@@ -215,5 +215,5 @@
     ],
     "id" : 3
   },
-  "edition" : 362
+  "edition" : 365
 }

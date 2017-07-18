@@ -366,7 +366,7 @@
         },
         "id" : 6,
         "stage_title" : "Group C, leg 1",
-        "endDate" : 1500409800,
+        "endDate" : 1500410340,
         "away" : {
           "name" : "Iceland",
           "id" : 11,
@@ -418,6 +418,12 @@
             "type" : "goal_home",
             "text" : "Last minutes goal by Le Sommer",
             "real_minute" : 106
+          },
+          {
+            "match_minute" : 94,
+            "type" : "end",
+            "text" : "Full time. Three points goes to France",
+            "real_minute" : 114
           }
         ]
       },
@@ -1298,5 +1304,5 @@
       }
     ]
   },
-  "edition" : 362
+  "edition" : 365
 }
