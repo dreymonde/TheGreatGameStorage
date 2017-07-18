@@ -7,7 +7,7 @@
         "location" : "De Adelaarshorst, Deventer",
         "score" : {
           "away" : 0,
-          "home" : 0
+          "home" : 1
         },
         "id" : 5,
         "endDate" : 1500399900,
@@ -145,5 +145,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/14\/%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg\/640px-%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg.png"
   },
-  "edition" : 341
+  "edition" : 344
 }
