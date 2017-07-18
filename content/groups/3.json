@@ -35,7 +35,7 @@
         "location" : "Koning Willem II Stadion, Tilburg",
         "score" : {
           "away" : 0,
-          "home" : 0
+          "home" : 1
         },
         "id" : 6,
         "endDate" : 1500409800,
@@ -215,5 +215,5 @@
     ],
     "id" : 3
   },
-  "edition" : 360
+  "edition" : 362
 }
