@@ -7,7 +7,7 @@
     },
     "id" : 5,
     "stage_title" : "Group C, leg 1",
-    "endDate" : 1500399900,
+    "endDate" : 1500400380,
     "away" : {
       "name" : "Switzerland",
       "id" : 10,
@@ -59,8 +59,14 @@
         "type" : "halftime_end",
         "text" : "Second half is on",
         "real_minute" : 63
+      },
+      {
+        "match_minute" : 95,
+        "type" : "end",
+        "text" : "First match on Euro, first win on Euro. Congratulations to Austria!",
+        "real_minute" : 113
       }
     ]
   },
-  "edition" : 349
+  "edition" : 351
 }
