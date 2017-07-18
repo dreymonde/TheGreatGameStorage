@@ -53,8 +53,14 @@
         "type" : "halftime_start",
         "text" : "Half-time. Austria is leading, 1:0",
         "real_minute" : 48
+      },
+      {
+        "match_minute" : 45,
+        "type" : "halftime_end",
+        "text" : "Second half is on",
+        "real_minute" : 63
       }
     ]
   },
-  "edition" : 347
+  "edition" : 349
 }

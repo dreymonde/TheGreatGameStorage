@@ -46,6 +46,12 @@
       "type" : "goal_home",
       "text" : "Goal by Burger!",
       "real_minute" : 16
+    },
+    {
+      "match_minute" : 47,
+      "type" : "halftime_start",
+      "text" : "Half-time. Austria is leading, 1:0",
+      "real_minute" : 48
     }
   ]
 }
