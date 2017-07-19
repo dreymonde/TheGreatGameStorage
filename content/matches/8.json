@@ -3,7 +3,7 @@
     "location" : "Stadion Galgenwaard, Utrecht",
     "score" : {
       "away" : 0,
-      "home" : 2
+      "home" : 3
     },
     "id" : 8,
     "stage_title" : "Group D, leg 1",
@@ -53,8 +53,14 @@
         "type" : "goal_home",
         "text" : "Jodie Taylor shoves the ball into the net. 2:0!",
         "real_minute" : 26
+      },
+      {
+        "match_minute" : 32,
+        "type" : "goal_home",
+        "text" : "Wow, that's 3:0! White scores",
+        "real_minute" : 32
       }
     ]
   },
-  "edition" : 393
+  "edition" : 396
 }
