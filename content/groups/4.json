@@ -38,7 +38,7 @@
           "home" : 6
         },
         "id" : 8,
-        "endDate" : 1500496500,
+        "endDate" : 1500496560,
         "away" : {
           "name" : "Scotland",
           "id" : 12,
@@ -215,5 +215,5 @@
     ],
     "id" : 4
   },
-  "edition" : 415
+  "edition" : 416
 }

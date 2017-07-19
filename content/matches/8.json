@@ -7,7 +7,7 @@
     },
     "id" : 8,
     "stage_title" : "Group D, leg 1",
-    "endDate" : 1500496500,
+    "endDate" : 1500496560,
     "away" : {
       "name" : "Scotland",
       "id" : 12,
@@ -85,16 +85,16 @@
         "real_minute" : 103
       },
       {
-        "match_minute" : 93,
+        "match_minute" : 94,
         "type" : "goal_home",
         "text" : "Nobbs, 6:0",
-        "real_minute" : 93
+        "real_minute" : 94
       },
       {
-        "match_minute" : 94,
+        "match_minute" : 95,
         "type" : "end",
         "text" : "England has completely destructed their opponents",
-        "real_minute" : 110
+        "real_minute" : 111
       },
       {
         "match_minute" : -1,
@@ -104,5 +104,5 @@
       }
     ]
   },
-  "edition" : 415
+  "edition" : 416
 }
