@@ -45,10 +45,10 @@
       {
         "match_minute" : 23,
         "type" : "goal_home",
-        "text" : "Goal by Losada after wonderful assist",
+        "text" : "Goal by Losada after a wonderful assist",
         "real_minute" : 24
       }
     ]
   },
-  "edition" : 372
+  "edition" : 375
 }
