@@ -95,8 +95,14 @@
         "type" : "end",
         "text" : "England has completely destructed their opponents",
         "real_minute" : 110
+      },
+      {
+        "match_minute" : -1,
+        "type" : "info",
+        "text" : "Thank you for using this app. This is the end of the first round. See you tomorrow!",
+        "real_minute" : -1
       }
     ]
   },
-  "edition" : 413
+  "edition" : 414
 }
