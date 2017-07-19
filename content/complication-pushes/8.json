@@ -56,8 +56,14 @@
     {
       "match_minute" : 32,
       "type" : "goal_home",
-      "text" : "Wow, that's 3:0! White scores",
+      "text" : "Wow, that's 3:0! Ellen White scores",
       "real_minute" : 32
+    },
+    {
+      "match_minute" : 46,
+      "type" : "halftime_start",
+      "text" : "Half-time whistle. England leads with powerful 3:0 score",
+      "real_minute" : 46
     }
   ]
 }
