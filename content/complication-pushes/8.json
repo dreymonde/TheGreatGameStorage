@@ -64,6 +64,12 @@
       "type" : "halftime_start",
       "text" : "Half-time whistle. England leads with powerful 3:0 score",
       "real_minute" : 46
+    },
+    {
+      "match_minute" : 45,
+      "type" : "halftime_end",
+      "text" : "The second half begins",
+      "real_minute" : 61
     }
   ]
 }
