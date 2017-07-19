@@ -8,7 +8,7 @@
           "home" : 2
         },
         "id" : 7,
-        "endDate" : 1500486300,
+        "endDate" : 1500486600,
         "away" : {
           "name" : "Portugal",
           "id" : 16,
@@ -211,5 +211,5 @@
     ],
     "id" : 4
   },
-  "edition" : 381
+  "edition" : 383
 }
