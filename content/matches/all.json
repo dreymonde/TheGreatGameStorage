@@ -212,20 +212,13 @@
         }
       },
       {
-        "endDate" : 1500496200,
-        "date" : 1500489900,
         "location" : "Stadion Galgenwaard, Utrecht",
-        "home" : {
-          "name" : "England",
-          "id" : 7,
-          "short_name" : "ENG",
-          "badges" : {
-            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/b\/be\/Flag_of_England.svg\/800px-Flag_of_England.svg.png",
-            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/38\/England_crest_2009.svg\/403px-England_crest_2009.svg.png"
-          },
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/38\/England_crest_2009.svg\/403px-England_crest_2009.svg.png"
+        "score" : {
+          "away" : 0,
+          "home" : 0
         },
         "id" : 8,
+        "endDate" : 1500496200,
         "away" : {
           "name" : "Scotland",
           "id" : 12,
@@ -235,6 +228,17 @@
             "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/8\/8f\/Scotland_national_football_team_logo.svg\/480px-Scotland_national_football_team_logo.svg.png"
           },
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/8\/8f\/Scotland_national_football_team_logo.svg\/480px-Scotland_national_football_team_logo.svg.png"
+        },
+        "date" : 1500489900,
+        "home" : {
+          "name" : "England",
+          "id" : 7,
+          "short_name" : "ENG",
+          "badges" : {
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/b\/be\/Flag_of_England.svg\/800px-Flag_of_England.svg.png",
+            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/38\/England_crest_2009.svg\/403px-England_crest_2009.svg.png"
+          },
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/38\/England_crest_2009.svg\/403px-England_crest_2009.svg.png"
         }
       },
       {
@@ -837,5 +841,5 @@
       }
     ]
   },
-  "edition" : 383
+  "edition" : 386
 }

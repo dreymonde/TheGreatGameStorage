@@ -6,7 +6,7 @@
   },
   "id" : 7,
   "stage_title" : "Group D, leg 1",
-  "endDate" : 1500486300,
+  "endDate" : 1500486600,
   "away" : {
     "name" : "Portugal",
     "id" : 16,
@@ -64,6 +64,12 @@
       "type" : "halftime_end",
       "text" : "The second half begins",
       "real_minute" : 62
+    },
+    {
+      "match_minute" : 94,
+      "type" : "end",
+      "text" : "That's it for this game",
+      "real_minute" : 110
     }
   ]
 }
