@@ -57,10 +57,10 @@
       {
         "match_minute" : 32,
         "type" : "goal_home",
-        "text" : "Wow, that's 3:0! White scores",
+        "text" : "Wow, that's 3:0! Ellen White scores",
         "real_minute" : 32
       }
     ]
   },
-  "edition" : 396
+  "edition" : 399
 }
