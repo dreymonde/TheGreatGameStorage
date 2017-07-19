@@ -487,6 +487,12 @@
             "type" : "halftime_start",
             "text" : "After the first half Spain is leading 2:0",
             "real_minute" : 48
+          },
+          {
+            "match_minute" : 45,
+            "type" : "halftime_end",
+            "text" : "The second half begins",
+            "real_minute" : 62
           }
         ]
       },
@@ -1332,5 +1338,5 @@
       }
     ]
   },
-  "edition" : 379
+  "edition" : 381
 }

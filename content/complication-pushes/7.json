@@ -52,6 +52,12 @@
       "type" : "goal_home",
       "text" : "Sampedro doubles the score. 2:0",
       "real_minute" : 43
+    },
+    {
+      "match_minute" : 47,
+      "type" : "halftime_start",
+      "text" : "After the first half Spain is leading 2:0",
+      "real_minute" : 48
     }
   ]
 }
