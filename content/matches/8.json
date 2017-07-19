@@ -85,10 +85,10 @@
         "real_minute" : 103
       },
       {
-        "match_minute" : 94,
+        "match_minute" : 93,
         "type" : "goal_home",
         "text" : "Nobbs, 6:0",
-        "real_minute" : 94
+        "real_minute" : 93
       },
       {
         "match_minute" : 94,
@@ -104,5 +104,5 @@
       }
     ]
   },
-  "edition" : 414
+  "edition" : 415
 }
