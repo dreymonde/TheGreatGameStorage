@@ -736,6 +736,12 @@
             "type" : "halftime_start",
             "text" : "Half time",
             "real_minute" : 45
+          },
+          {
+            "match_minute" : 45,
+            "type" : "halftime_end",
+            "text" : "The teams are ready to continue the game",
+            "real_minute" : 61
           }
         ]
       },
@@ -1476,5 +1482,5 @@
       }
     ]
   },
-  "edition" : 442
+  "edition" : 444
 }
