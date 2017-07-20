@@ -6,7 +6,7 @@
   },
   "id" : 9,
   "stage_title" : "Group A, leg 2",
-  "endDate" : 1500572700,
+  "endDate" : 1500573180,
   "away" : {
     "name" : "Belgium",
     "id" : 15,
@@ -62,8 +62,14 @@
     {
       "match_minute" : 67,
       "type" : "goal_away",
-      "text" : "And here is the second one!",
+      "text" : "And here is the second one! Goal by Cayman",
       "real_minute" : 83
+    },
+    {
+      "match_minute" : 97,
+      "type" : "end",
+      "text" : "Impressive win for Belgium",
+      "real_minute" : 113
     }
   ]
 }

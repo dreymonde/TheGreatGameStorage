@@ -92,20 +92,13 @@
         }
       },
       {
-        "endDate" : 1500582600,
-        "date" : 1500576300,
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
-        "home" : {
-          "name" : "Netherlands",
-          "id" : 2,
-          "short_name" : "NED",
-          "badges" : {
-            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/20\/Flag_of_the_Netherlands.svg\/640px-Flag_of_the_Netherlands.svg.png",
-            "large" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/netherlands.png"
-          },
-          "badge_url" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/netherlands.png"
+        "score" : {
+          "away" : 0,
+          "home" : 0
         },
         "id" : 10,
+        "endDate" : 1500582600,
         "away" : {
           "name" : "Denmark",
           "id" : 13,
@@ -115,6 +108,17 @@
             "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
           },
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
+        },
+        "date" : 1500576300,
+        "home" : {
+          "name" : "Netherlands",
+          "id" : 2,
+          "short_name" : "NED",
+          "badges" : {
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/20\/Flag_of_the_Netherlands.svg\/640px-Flag_of_the_Netherlands.svg.png",
+            "large" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/netherlands.png"
+          },
+          "badge_url" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/netherlands.png"
         }
       },
       {
@@ -219,5 +223,5 @@
     ],
     "id" : 1
   },
-  "edition" : 433
+  "edition" : 436
 }
