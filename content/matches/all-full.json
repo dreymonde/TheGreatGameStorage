@@ -690,7 +690,7 @@
         },
         "id" : 10,
         "stage_title" : "Group A, leg 2",
-        "endDate" : 1500582600,
+        "endDate" : 1500582900,
         "away" : {
           "name" : "Denmark",
           "id" : 13,
@@ -742,6 +742,12 @@
             "type" : "halftime_end",
             "text" : "The teams are ready to continue the game",
             "real_minute" : 61
+          },
+          {
+            "match_minute" : 94,
+            "type" : "end",
+            "text" : "This was a really tense game",
+            "real_minute" : 110
           }
         ]
       },
@@ -1482,5 +1488,5 @@
       }
     ]
   },
-  "edition" : 444
+  "edition" : 446
 }

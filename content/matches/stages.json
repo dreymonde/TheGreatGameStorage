@@ -300,7 +300,7 @@
               "home" : 1
             },
             "id" : 10,
-            "endDate" : 1500582600,
+            "endDate" : 1500582900,
             "away" : {
               "name" : "Denmark",
               "id" : 13,
@@ -929,5 +929,5 @@
       }
     ]
   },
-  "edition" : 444
+  "edition" : 446
 }
