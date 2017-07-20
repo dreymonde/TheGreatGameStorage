@@ -686,7 +686,7 @@
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "score" : {
           "away" : 0,
-          "home" : 0
+          "home" : 1
         },
         "id" : 10,
         "stage_title" : "Group A, leg 2",
@@ -724,6 +724,12 @@
             "type" : "start",
             "text" : "The game is on!",
             "real_minute" : 0
+          },
+          {
+            "match_minute" : 20,
+            "type" : "goal_home",
+            "text" : "Goal from the penalty spot! Spitse is the author",
+            "real_minute" : 20
           }
         ]
       },
@@ -1464,5 +1470,5 @@
       }
     ]
   },
-  "edition" : 436
+  "edition" : 439
 }
