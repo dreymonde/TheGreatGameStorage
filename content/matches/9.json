@@ -63,10 +63,10 @@
       {
         "match_minute" : 67,
         "type" : "goal_away",
-        "text" : "And here is the second one!",
+        "text" : "And here is the second one! Goal by Cayman",
         "real_minute" : 83
       }
     ]
   },
-  "edition" : 428
+  "edition" : 431
 }
