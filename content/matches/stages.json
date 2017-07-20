@@ -270,7 +270,7 @@
               "home" : 0
             },
             "id" : 9,
-            "endDate" : 1500572700,
+            "endDate" : 1500573180,
             "away" : {
               "name" : "Belgium",
               "id" : 15,
@@ -925,5 +925,5 @@
       }
     ]
   },
-  "edition" : 431
+  "edition" : 432
 }
