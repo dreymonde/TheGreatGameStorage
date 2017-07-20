@@ -36,7 +36,7 @@
       {
         "location" : "Rat Verlegh Stadion, Breda",
         "score" : {
-          "away" : 1,
+          "away" : 2,
           "home" : 0
         },
         "id" : 9,
@@ -149,5 +149,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/f\/f5\/Belgium_urbsfa.png"
   },
-  "edition" : 425
+  "edition" : 428
 }

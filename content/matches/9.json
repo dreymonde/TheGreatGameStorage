@@ -2,7 +2,7 @@
   "content" : {
     "location" : "Rat Verlegh Stadion, Breda",
     "score" : {
-      "away" : 1,
+      "away" : 2,
       "home" : 0
     },
     "id" : 9,
@@ -59,8 +59,14 @@
         "type" : "goal_away",
         "text" : "Van Gorp scores!",
         "real_minute" : 75
+      },
+      {
+        "match_minute" : 67,
+        "type" : "goal_away",
+        "text" : "And here is the second one!",
+        "real_minute" : 83
       }
     ]
   },
-  "edition" : 425
+  "edition" : 428
 }
