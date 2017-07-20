@@ -730,6 +730,12 @@
             "type" : "goal_home",
             "text" : "Goal from the penalty spot! Spitse is the author",
             "real_minute" : 20
+          },
+          {
+            "match_minute" : 45,
+            "type" : "halftime_start",
+            "text" : "Half time",
+            "real_minute" : 45
           }
         ]
       },
@@ -1470,5 +1476,5 @@
       }
     ]
   },
-  "edition" : 439
+  "edition" : 442
 }
