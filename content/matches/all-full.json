@@ -649,6 +649,12 @@
             "type" : "start",
             "text" : "Welcome to the round 2!",
             "real_minute" : 1
+          },
+          {
+            "match_minute" : 47,
+            "type" : "halftime_start",
+            "text" : "0:0 after the first half",
+            "real_minute" : 47
           }
         ]
       },
@@ -1424,5 +1430,5 @@
       }
     ]
   },
-  "edition" : 418
+  "edition" : 421
 }
