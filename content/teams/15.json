@@ -34,20 +34,13 @@
         }
       },
       {
-        "endDate" : 1500572700,
-        "date" : 1500566400,
         "location" : "Rat Verlegh Stadion, Breda",
-        "home" : {
-          "name" : "Norway",
-          "id" : 8,
-          "short_name" : "NOR",
-          "badges" : {
-            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/d9\/Flag_of_Norway.svg\/640px-Flag_of_Norway.svg.png",
-            "large" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/norway-fx.png"
-          },
-          "badge_url" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/norway-fx.png"
+        "score" : {
+          "away" : 0,
+          "home" : 0
         },
         "id" : 9,
+        "endDate" : 1500572700,
         "away" : {
           "name" : "Belgium",
           "id" : 15,
@@ -57,6 +50,17 @@
             "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/f\/f5\/Belgium_urbsfa.png"
           },
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/f\/f5\/Belgium_urbsfa.png"
+        },
+        "date" : 1500566400,
+        "home" : {
+          "name" : "Norway",
+          "id" : 8,
+          "short_name" : "NOR",
+          "badges" : {
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/d9\/Flag_of_Norway.svg\/640px-Flag_of_Norway.svg.png",
+            "large" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/norway-fx.png"
+          },
+          "badge_url" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/norway-fx.png"
         }
       },
       {
@@ -145,5 +149,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/f\/f5\/Belgium_urbsfa.png"
   },
-  "edition" : 416
+  "edition" : 418
 }
