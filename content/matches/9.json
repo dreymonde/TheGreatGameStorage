@@ -54,7 +54,7 @@
         "match_minute" : 45,
         "type" : "halftime_end",
         "text" : "The second half is on",
-        "real_minute" : 46
+        "real_minute" : 62
       },
       {
         "match_minute" : 59,
@@ -76,5 +76,5 @@
       }
     ]
   },
-  "edition" : 450
+  "edition" : 451
 }
