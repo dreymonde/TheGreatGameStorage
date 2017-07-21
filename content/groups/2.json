@@ -100,7 +100,7 @@
       {
         "location" : "Koning Willem II Stadion, Tilburg",
         "score" : {
-          "away" : 0,
+          "away" : 1,
           "home" : 1
         },
         "id" : 12,
@@ -239,5 +239,5 @@
     ],
     "id" : 2
   },
-  "edition" : 476
+  "edition" : 480
 }

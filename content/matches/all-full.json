@@ -851,7 +851,7 @@
       {
         "location" : "Koning Willem II Stadion, Tilburg",
         "score" : {
-          "away" : 0,
+          "away" : 1,
           "home" : 1
         },
         "id" : 12,
@@ -898,6 +898,12 @@
             "type" : "goal_home",
             "text" : "Henning scores after an unlucky goalkeeper mistake",
             "real_minute" : 19
+          },
+          {
+            "match_minute" : 29,
+            "type" : "goal_away",
+            "text" : "The score is even! Goal by Mauro",
+            "real_minute" : 29
           }
         ]
       },
@@ -1606,5 +1612,5 @@
       }
     ]
   },
-  "edition" : 476
+  "edition" : 480
 }
