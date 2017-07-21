@@ -11,6 +11,7 @@
         "endDate" : 1500227580,
         "away" : {
           "name" : "Norway",
+          "shortest_name" : "NO",
           "id" : 8,
           "short_name" : "NOR",
           "badges" : {
@@ -22,6 +23,7 @@
         "date" : 1500220800,
         "home" : {
           "name" : "Netherlands",
+          "shortest_name" : "NL",
           "id" : 2,
           "short_name" : "NED",
           "badges" : {
@@ -41,6 +43,7 @@
         "endDate" : 1500237240,
         "away" : {
           "name" : "Belgium",
+          "shortest_name" : "BE",
           "id" : 15,
           "short_name" : "BEL",
           "badges" : {
@@ -52,6 +55,7 @@
         "date" : 1500230700,
         "home" : {
           "name" : "Denmark",
+          "shortest_name" : "DK",
           "id" : 13,
           "short_name" : "DEN",
           "badges" : {
@@ -71,6 +75,7 @@
         "endDate" : 1500313980,
         "away" : {
           "name" : "Russia",
+          "shortest_name" : "RU",
           "id" : 4,
           "short_name" : "RUS",
           "badges" : {
@@ -82,6 +87,7 @@
         "date" : 1500307200,
         "home" : {
           "name" : "Italy",
+          "shortest_name" : "IT",
           "id" : 5,
           "short_name" : "ITA",
           "badges" : {
@@ -101,6 +107,7 @@
         "endDate" : 1500323700,
         "away" : {
           "name" : "Sweden",
+          "shortest_name" : "SE",
           "id" : 1,
           "short_name" : "SWE",
           "badges" : {
@@ -112,6 +119,7 @@
         "date" : 1500317100,
         "home" : {
           "name" : "Germany",
+          "shortest_name" : "DE",
           "id" : 3,
           "short_name" : "GER",
           "badges" : {
@@ -131,6 +139,7 @@
         "endDate" : 1500400380,
         "away" : {
           "name" : "Switzerland",
+          "shortest_name" : "CH",
           "id" : 10,
           "short_name" : "SUI",
           "badges" : {
@@ -142,6 +151,7 @@
         "date" : 1500393600,
         "home" : {
           "name" : "Austria",
+          "shortest_name" : "AT",
           "id" : 14,
           "short_name" : "AUT",
           "badges" : {
@@ -161,6 +171,7 @@
         "endDate" : 1500410340,
         "away" : {
           "name" : "Iceland",
+          "shortest_name" : "IS",
           "id" : 11,
           "short_name" : "ISL",
           "badges" : {
@@ -172,6 +183,7 @@
         "date" : 1500403500,
         "home" : {
           "name" : "France",
+          "shortest_name" : "FR",
           "id" : 6,
           "short_name" : "FRA",
           "badges" : {
@@ -191,6 +203,7 @@
         "endDate" : 1500486600,
         "away" : {
           "name" : "Portugal",
+          "shortest_name" : "PT",
           "id" : 16,
           "short_name" : "POR",
           "badges" : {
@@ -202,6 +215,7 @@
         "date" : 1500480000,
         "home" : {
           "name" : "Spain",
+          "shortest_name" : "ES",
           "id" : 9,
           "short_name" : "ESP",
           "badges" : {
@@ -221,6 +235,7 @@
         "endDate" : 1500496560,
         "away" : {
           "name" : "Scotland",
+          "shortest_name" : "SC",
           "id" : 12,
           "short_name" : "SCO",
           "badges" : {
@@ -232,6 +247,7 @@
         "date" : 1500489900,
         "home" : {
           "name" : "England",
+          "shortest_name" : "EN",
           "id" : 7,
           "short_name" : "ENG",
           "badges" : {
@@ -251,6 +267,7 @@
         "endDate" : 1500573180,
         "away" : {
           "name" : "Belgium",
+          "shortest_name" : "BE",
           "id" : 15,
           "short_name" : "BEL",
           "badges" : {
@@ -262,6 +279,7 @@
         "date" : 1500566400,
         "home" : {
           "name" : "Norway",
+          "shortest_name" : "NO",
           "id" : 8,
           "short_name" : "NOR",
           "badges" : {
@@ -281,6 +299,7 @@
         "endDate" : 1500582900,
         "away" : {
           "name" : "Denmark",
+          "shortest_name" : "DK",
           "id" : 13,
           "short_name" : "DEN",
           "badges" : {
@@ -292,6 +311,7 @@
         "date" : 1500576300,
         "home" : {
           "name" : "Netherlands",
+          "shortest_name" : "NL",
           "id" : 2,
           "short_name" : "NED",
           "badges" : {
@@ -307,6 +327,7 @@
         "location" : "De Adelaarshorst, Deventer",
         "home" : {
           "name" : "Sweden",
+          "shortest_name" : "SE",
           "id" : 1,
           "short_name" : "SWE",
           "badges" : {
@@ -318,6 +339,7 @@
         "id" : 11,
         "away" : {
           "name" : "Russia",
+          "shortest_name" : "RU",
           "id" : 4,
           "short_name" : "RUS",
           "badges" : {
@@ -333,6 +355,7 @@
         "location" : "Koning Willem II Stadion, Tilburg",
         "home" : {
           "name" : "Germany",
+          "shortest_name" : "DE",
           "id" : 3,
           "short_name" : "GER",
           "badges" : {
@@ -344,6 +367,7 @@
         "id" : 12,
         "away" : {
           "name" : "Italy",
+          "shortest_name" : "IT",
           "id" : 5,
           "short_name" : "ITA",
           "badges" : {
@@ -359,6 +383,7 @@
         "location" : "De Vijverberg, Doetinchem",
         "home" : {
           "name" : "Iceland",
+          "shortest_name" : "IS",
           "id" : 11,
           "short_name" : "ISL",
           "badges" : {
@@ -370,6 +395,7 @@
         "id" : 13,
         "away" : {
           "name" : "Switzerland",
+          "shortest_name" : "CH",
           "id" : 10,
           "short_name" : "SUI",
           "badges" : {
@@ -385,6 +411,7 @@
         "location" : "Stadion Galgenwaard, Utrecht",
         "home" : {
           "name" : "France",
+          "shortest_name" : "FR",
           "id" : 6,
           "short_name" : "FRA",
           "badges" : {
@@ -396,6 +423,7 @@
         "id" : 14,
         "away" : {
           "name" : "Austria",
+          "shortest_name" : "AT",
           "id" : 14,
           "short_name" : "AUT",
           "badges" : {
@@ -411,6 +439,7 @@
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "home" : {
           "name" : "Scotland",
+          "shortest_name" : "SC",
           "id" : 12,
           "short_name" : "SCO",
           "badges" : {
@@ -422,6 +451,7 @@
         "id" : 15,
         "away" : {
           "name" : "Portugal",
+          "shortest_name" : "PT",
           "id" : 16,
           "short_name" : "POR",
           "badges" : {
@@ -437,6 +467,7 @@
         "location" : "Rat Verlegh Stadion, Breda",
         "home" : {
           "name" : "England",
+          "shortest_name" : "EN",
           "id" : 7,
           "short_name" : "ENG",
           "badges" : {
@@ -448,6 +479,7 @@
         "id" : 16,
         "away" : {
           "name" : "Spain",
+          "shortest_name" : "ES",
           "id" : 9,
           "short_name" : "ESP",
           "badges" : {
@@ -463,6 +495,7 @@
         "location" : "Koning Willem II Stadion, Tilburg",
         "home" : {
           "name" : "Belgium",
+          "shortest_name" : "BE",
           "id" : 15,
           "short_name" : "BEL",
           "badges" : {
@@ -474,6 +507,7 @@
         "id" : 17,
         "away" : {
           "name" : "Netherlands",
+          "shortest_name" : "NL",
           "id" : 2,
           "short_name" : "NED",
           "badges" : {
@@ -489,6 +523,7 @@
         "location" : "De Adelaarshorst, Deventer",
         "home" : {
           "name" : "Norway",
+          "shortest_name" : "NO",
           "id" : 8,
           "short_name" : "NOR",
           "badges" : {
@@ -500,6 +535,7 @@
         "id" : 18,
         "away" : {
           "name" : "Denmark",
+          "shortest_name" : "DK",
           "id" : 13,
           "short_name" : "DEN",
           "badges" : {
@@ -515,6 +551,7 @@
         "location" : "Stadion Galgenwaard, Utrecht",
         "home" : {
           "name" : "Russia",
+          "shortest_name" : "RU",
           "id" : 4,
           "short_name" : "RUS",
           "badges" : {
@@ -526,6 +563,7 @@
         "id" : 19,
         "away" : {
           "name" : "Germany",
+          "shortest_name" : "DE",
           "id" : 3,
           "short_name" : "GER",
           "badges" : {
@@ -541,6 +579,7 @@
         "location" : "De Vijverberg, Doetinchem",
         "home" : {
           "name" : "Sweden",
+          "shortest_name" : "SE",
           "id" : 1,
           "short_name" : "SWE",
           "badges" : {
@@ -552,6 +591,7 @@
         "id" : 20,
         "away" : {
           "name" : "Italy",
+          "shortest_name" : "IT",
           "id" : 5,
           "short_name" : "ITA",
           "badges" : {
@@ -567,6 +607,7 @@
         "location" : "Rat Verlegh Stadion, Breda",
         "home" : {
           "name" : "Switzerland",
+          "shortest_name" : "CH",
           "id" : 10,
           "short_name" : "SUI",
           "badges" : {
@@ -578,6 +619,7 @@
         "id" : 21,
         "away" : {
           "name" : "France",
+          "shortest_name" : "FR",
           "id" : 6,
           "short_name" : "FRA",
           "badges" : {
@@ -593,6 +635,7 @@
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "home" : {
           "name" : "Iceland",
+          "shortest_name" : "IS",
           "id" : 11,
           "short_name" : "ISL",
           "badges" : {
@@ -604,6 +647,7 @@
         "id" : 22,
         "away" : {
           "name" : "Austria",
+          "shortest_name" : "AT",
           "id" : 14,
           "short_name" : "AUT",
           "badges" : {
@@ -619,6 +663,7 @@
         "location" : "Koning Willem II Stadion, Tilburg",
         "home" : {
           "name" : "Portugal",
+          "shortest_name" : "PT",
           "id" : 16,
           "short_name" : "POR",
           "badges" : {
@@ -630,6 +675,7 @@
         "id" : 23,
         "away" : {
           "name" : "England",
+          "shortest_name" : "EN",
           "id" : 7,
           "short_name" : "ENG",
           "badges" : {
@@ -645,6 +691,7 @@
         "location" : "De Adelaarshorst, Deventer",
         "home" : {
           "name" : "Scotland",
+          "shortest_name" : "SC",
           "id" : 12,
           "short_name" : "SCO",
           "badges" : {
@@ -656,6 +703,7 @@
         "id" : 24,
         "away" : {
           "name" : "Spain",
+          "shortest_name" : "ES",
           "id" : 9,
           "short_name" : "ESP",
           "badges" : {
@@ -671,6 +719,7 @@
         "location" : "De Vijverberg, Doetinchem",
         "home" : {
           "name" : "Group A winner",
+          "shortest_name" : "WA",
           "id" : -1,
           "short_name" : "WA",
           "badges" : {
@@ -682,6 +731,7 @@
         "id" : 25,
         "away" : {
           "name" : "Group B runner-up",
+          "shortest_name" : "RB",
           "id" : -2,
           "short_name" : "RB",
           "badges" : {
@@ -697,6 +747,7 @@
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "home" : {
           "name" : "Group B winner",
+          "shortest_name" : "WB",
           "id" : -3,
           "short_name" : "WB",
           "badges" : {
@@ -708,6 +759,7 @@
         "id" : 26,
         "away" : {
           "name" : "Group A runner-up",
+          "shortest_name" : "RA",
           "id" : -4,
           "short_name" : "RA",
           "badges" : {
@@ -723,6 +775,7 @@
         "location" : "Koning Willem II Stadion, Tilburg",
         "home" : {
           "name" : "Group C winner",
+          "shortest_name" : "WC",
           "id" : -5,
           "short_name" : "WC",
           "badges" : {
@@ -734,6 +787,7 @@
         "id" : 27,
         "away" : {
           "name" : "Group D runner-up",
+          "shortest_name" : "RD",
           "id" : -6,
           "short_name" : "RD",
           "badges" : {
@@ -749,6 +803,7 @@
         "location" : "De Adelaarshorst, Deventer",
         "home" : {
           "name" : "Group D winner",
+          "shortest_name" : "WD",
           "id" : -7,
           "short_name" : "WD",
           "badges" : {
@@ -760,6 +815,7 @@
         "id" : 28,
         "away" : {
           "name" : "Group C runner-up",
+          "shortest_name" : "RC",
           "id" : -8,
           "short_name" : "RC",
           "badges" : {
@@ -775,6 +831,7 @@
         "location" : "Rat Verlegh Stadion, Breda",
         "home" : {
           "name" : "Quarter-final 2 winner",
+          "shortest_name" : "Q2",
           "id" : -9,
           "short_name" : "QF2",
           "badges" : {
@@ -786,6 +843,7 @@
         "id" : 29,
         "away" : {
           "name" : "Quarter-final 3 winner",
+          "shortest_name" : "Q3",
           "id" : -10,
           "short_name" : "QF3",
           "badges" : {
@@ -801,6 +859,7 @@
         "location" : "De Grolsch Veste, Enschede",
         "home" : {
           "name" : "Quarter-final 1 winner",
+          "shortest_name" : "Q1",
           "id" : -11,
           "short_name" : "QF1",
           "badges" : {
@@ -812,6 +871,7 @@
         "id" : 30,
         "away" : {
           "name" : "Quarter-final 4 winner",
+          "shortest_name" : "Q4",
           "id" : -12,
           "short_name" : "QF4",
           "badges" : {
@@ -827,6 +887,7 @@
         "location" : "De Grolsch Veste, Enschede",
         "home" : {
           "name" : "Semi-final 1 winner",
+          "shortest_name" : "S1",
           "id" : -13,
           "short_name" : "SF1",
           "badges" : {
@@ -838,6 +899,7 @@
         "id" : 31,
         "away" : {
           "name" : "Semi-final 2 winner",
+          "shortest_name" : "S2",
           "id" : -14,
           "short_name" : "SF2",
           "badges" : {
@@ -849,5 +911,5 @@
       }
     ]
   },
-  "edition" : 449
+  "edition" : 450
 }

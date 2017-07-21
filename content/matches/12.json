@@ -6,6 +6,7 @@
     "endDate" : 1500669000,
     "away" : {
       "name" : "Italy",
+      "shortest_name" : "IT",
       "id" : 5,
       "short_name" : "ITA",
       "badges" : {
@@ -17,6 +18,7 @@
     "date" : 1500662700,
     "home" : {
       "name" : "Germany",
+      "shortest_name" : "DE",
       "id" : 3,
       "short_name" : "GER",
       "badges" : {
@@ -34,5 +36,5 @@
       }
     ]
   },
-  "edition" : 449
+  "edition" : 450
 }

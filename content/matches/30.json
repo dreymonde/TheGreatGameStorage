@@ -6,6 +6,7 @@
     "endDate" : 1501792200,
     "away" : {
       "name" : "Quarter-final 4 winner",
+      "shortest_name" : "Q4",
       "id" : -12,
       "short_name" : "QF4",
       "badges" : {
@@ -17,6 +18,7 @@
     "date" : 1501785900,
     "home" : {
       "name" : "Quarter-final 1 winner",
+      "shortest_name" : "Q1",
       "id" : -11,
       "short_name" : "QF1",
       "badges" : {
@@ -34,5 +36,5 @@
       }
     ]
   },
-  "edition" : 449
+  "edition" : 450
 }

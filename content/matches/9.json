@@ -10,6 +10,7 @@
     "endDate" : 1500573180,
     "away" : {
       "name" : "Belgium",
+      "shortest_name" : "BE",
       "id" : 15,
       "short_name" : "BEL",
       "badges" : {
@@ -21,6 +22,7 @@
     "date" : 1500566400,
     "home" : {
       "name" : "Norway",
+      "shortest_name" : "NO",
       "id" : 8,
       "short_name" : "NOR",
       "badges" : {
@@ -74,5 +76,5 @@
       }
     ]
   },
-  "edition" : 449
+  "edition" : 450
 }

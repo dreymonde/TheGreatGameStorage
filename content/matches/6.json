@@ -10,6 +10,7 @@
     "endDate" : 1500410340,
     "away" : {
       "name" : "Iceland",
+      "shortest_name" : "IS",
       "id" : 11,
       "short_name" : "ISL",
       "badges" : {
@@ -21,6 +22,7 @@
     "date" : 1500403500,
     "home" : {
       "name" : "France",
+      "shortest_name" : "FR",
       "id" : 6,
       "short_name" : "FRA",
       "badges" : {
@@ -68,5 +70,5 @@
       }
     ]
   },
-  "edition" : 449
+  "edition" : 450
 }

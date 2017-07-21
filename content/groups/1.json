@@ -11,6 +11,7 @@
         "endDate" : 1500227580,
         "away" : {
           "name" : "Norway",
+          "shortest_name" : "NO",
           "id" : 8,
           "short_name" : "NOR",
           "badges" : {
@@ -22,6 +23,7 @@
         "date" : 1500220800,
         "home" : {
           "name" : "Netherlands",
+          "shortest_name" : "NL",
           "id" : 2,
           "short_name" : "NED",
           "badges" : {
@@ -41,6 +43,7 @@
         "endDate" : 1500237240,
         "away" : {
           "name" : "Belgium",
+          "shortest_name" : "BE",
           "id" : 15,
           "short_name" : "BEL",
           "badges" : {
@@ -52,6 +55,7 @@
         "date" : 1500230700,
         "home" : {
           "name" : "Denmark",
+          "shortest_name" : "DK",
           "id" : 13,
           "short_name" : "DEN",
           "badges" : {
@@ -71,6 +75,7 @@
         "endDate" : 1500573180,
         "away" : {
           "name" : "Belgium",
+          "shortest_name" : "BE",
           "id" : 15,
           "short_name" : "BEL",
           "badges" : {
@@ -82,6 +87,7 @@
         "date" : 1500566400,
         "home" : {
           "name" : "Norway",
+          "shortest_name" : "NO",
           "id" : 8,
           "short_name" : "NOR",
           "badges" : {
@@ -101,6 +107,7 @@
         "endDate" : 1500582900,
         "away" : {
           "name" : "Denmark",
+          "shortest_name" : "DK",
           "id" : 13,
           "short_name" : "DEN",
           "badges" : {
@@ -112,6 +119,7 @@
         "date" : 1500576300,
         "home" : {
           "name" : "Netherlands",
+          "shortest_name" : "NL",
           "id" : 2,
           "short_name" : "NED",
           "badges" : {
@@ -127,6 +135,7 @@
         "location" : "Koning Willem II Stadion, Tilburg",
         "home" : {
           "name" : "Belgium",
+          "shortest_name" : "BE",
           "id" : 15,
           "short_name" : "BEL",
           "badges" : {
@@ -138,6 +147,7 @@
         "id" : 17,
         "away" : {
           "name" : "Netherlands",
+          "shortest_name" : "NL",
           "id" : 2,
           "short_name" : "NED",
           "badges" : {
@@ -153,6 +163,7 @@
         "location" : "De Adelaarshorst, Deventer",
         "home" : {
           "name" : "Norway",
+          "shortest_name" : "NO",
           "id" : 8,
           "short_name" : "NOR",
           "badges" : {
@@ -164,6 +175,7 @@
         "id" : 18,
         "away" : {
           "name" : "Denmark",
+          "shortest_name" : "DK",
           "id" : 13,
           "short_name" : "DEN",
           "badges" : {
@@ -185,6 +197,7 @@
           "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/20\/Flag_of_the_Netherlands.svg\/640px-Flag_of_the_Netherlands.svg.png",
           "large" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/netherlands.png"
         },
+        "shortest_name" : "NL",
         "badge_url" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/netherlands.png"
       },
       {
@@ -196,6 +209,7 @@
           "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/9c\/Flag_of_Denmark.svg\/634px-Flag_of_Denmark.svg.png",
           "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
         },
+        "shortest_name" : "DK",
         "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
       },
       {
@@ -207,6 +221,7 @@
           "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/6\/65\/Flag_of_Belgium.svg\/692px-Flag_of_Belgium.svg.png",
           "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/f\/f5\/Belgium_urbsfa.png"
         },
+        "shortest_name" : "BE",
         "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/f\/f5\/Belgium_urbsfa.png"
       },
       {
@@ -218,10 +233,11 @@
           "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/d9\/Flag_of_Norway.svg\/640px-Flag_of_Norway.svg.png",
           "large" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/norway-fx.png"
         },
+        "shortest_name" : "NO",
         "badge_url" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/norway-fx.png"
       }
     ],
     "id" : 1
   },
-  "edition" : 449
+  "edition" : 450
 }

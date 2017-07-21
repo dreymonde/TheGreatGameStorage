@@ -13,6 +13,7 @@
         "endDate" : 1500313980,
         "away" : {
           "name" : "Russia",
+          "shortest_name" : "RU",
           "id" : 4,
           "short_name" : "RUS",
           "badges" : {
@@ -24,6 +25,7 @@
         "date" : 1500307200,
         "home" : {
           "name" : "Italy",
+          "shortest_name" : "IT",
           "id" : 5,
           "short_name" : "ITA",
           "badges" : {
@@ -39,6 +41,7 @@
         "location" : "De Adelaarshorst, Deventer",
         "home" : {
           "name" : "Sweden",
+          "shortest_name" : "SE",
           "id" : 1,
           "short_name" : "SWE",
           "badges" : {
@@ -50,6 +53,7 @@
         "id" : 11,
         "away" : {
           "name" : "Russia",
+          "shortest_name" : "RU",
           "id" : 4,
           "short_name" : "RUS",
           "badges" : {
@@ -65,6 +69,7 @@
         "location" : "Stadion Galgenwaard, Utrecht",
         "home" : {
           "name" : "Russia",
+          "shortest_name" : "RU",
           "id" : 4,
           "short_name" : "RUS",
           "badges" : {
@@ -76,6 +81,7 @@
         "id" : 19,
         "away" : {
           "name" : "Germany",
+          "shortest_name" : "DE",
           "id" : 3,
           "short_name" : "GER",
           "badges" : {
@@ -107,6 +113,7 @@
             "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/f\/f3\/Flag_of_Russia.svg\/640px-Flag_of_Russia.svg.png",
             "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/77\/Russian_Football_Union.png"
           },
+          "shortest_name" : "RU",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/77\/Russian_Football_Union.png"
         },
         {
@@ -118,6 +125,7 @@
             "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/b\/ba\/Flag_of_Germany.svg\/800px-Flag_of_Germany.svg.png",
             "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
           },
+          "shortest_name" : "DE",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
         },
         {
@@ -129,6 +137,7 @@
             "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4c\/Flag_of_Sweden.svg\/640px-Flag_of_Sweden.svg.png",
             "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/35\/Sweden_national_football_team_logo.png"
           },
+          "shortest_name" : "SE",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/35\/Sweden_national_football_team_logo.png"
         },
         {
@@ -140,11 +149,12 @@
             "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/0\/03\/Flag_of_Italy.svg\/640px-Flag_of_Italy.svg.png",
             "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
           },
+          "shortest_name" : "IT",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
         }
       ]
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/77\/Russian_Football_Union.png"
   },
-  "edition" : 449
+  "edition" : 450
 }

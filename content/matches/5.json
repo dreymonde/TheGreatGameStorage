@@ -10,6 +10,7 @@
     "endDate" : 1500400380,
     "away" : {
       "name" : "Switzerland",
+      "shortest_name" : "CH",
       "id" : 10,
       "short_name" : "SUI",
       "badges" : {
@@ -21,6 +22,7 @@
     "date" : 1500393600,
     "home" : {
       "name" : "Austria",
+      "shortest_name" : "AT",
       "id" : 14,
       "short_name" : "AUT",
       "badges" : {
@@ -68,5 +70,5 @@
       }
     ]
   },
-  "edition" : 449
+  "edition" : 450
 }

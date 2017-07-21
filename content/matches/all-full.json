@@ -12,6 +12,7 @@
         "endDate" : 1500227580,
         "away" : {
           "name" : "Norway",
+          "shortest_name" : "NO",
           "id" : 8,
           "short_name" : "NOR",
           "badges" : {
@@ -23,6 +24,7 @@
         "date" : 1500220800,
         "home" : {
           "name" : "Netherlands",
+          "shortest_name" : "NL",
           "id" : 2,
           "short_name" : "NED",
           "badges" : {
@@ -87,6 +89,7 @@
         "endDate" : 1500237240,
         "away" : {
           "name" : "Belgium",
+          "shortest_name" : "BE",
           "id" : 15,
           "short_name" : "BEL",
           "badges" : {
@@ -98,6 +101,7 @@
         "date" : 1500230700,
         "home" : {
           "name" : "Denmark",
+          "shortest_name" : "DK",
           "id" : 13,
           "short_name" : "DEN",
           "badges" : {
@@ -156,6 +160,7 @@
         "endDate" : 1500313980,
         "away" : {
           "name" : "Russia",
+          "shortest_name" : "RU",
           "id" : 4,
           "short_name" : "RUS",
           "badges" : {
@@ -167,6 +172,7 @@
         "date" : 1500307200,
         "home" : {
           "name" : "Italy",
+          "shortest_name" : "IT",
           "id" : 5,
           "short_name" : "ITA",
           "badges" : {
@@ -237,6 +243,7 @@
         "endDate" : 1500323700,
         "away" : {
           "name" : "Sweden",
+          "shortest_name" : "SE",
           "id" : 1,
           "short_name" : "SWE",
           "badges" : {
@@ -248,6 +255,7 @@
         "date" : 1500317100,
         "home" : {
           "name" : "Germany",
+          "shortest_name" : "DE",
           "id" : 3,
           "short_name" : "GER",
           "badges" : {
@@ -300,6 +308,7 @@
         "endDate" : 1500400380,
         "away" : {
           "name" : "Switzerland",
+          "shortest_name" : "CH",
           "id" : 10,
           "short_name" : "SUI",
           "badges" : {
@@ -311,6 +320,7 @@
         "date" : 1500393600,
         "home" : {
           "name" : "Austria",
+          "shortest_name" : "AT",
           "id" : 14,
           "short_name" : "AUT",
           "badges" : {
@@ -369,6 +379,7 @@
         "endDate" : 1500410340,
         "away" : {
           "name" : "Iceland",
+          "shortest_name" : "IS",
           "id" : 11,
           "short_name" : "ISL",
           "badges" : {
@@ -380,6 +391,7 @@
         "date" : 1500403500,
         "home" : {
           "name" : "France",
+          "shortest_name" : "FR",
           "id" : 6,
           "short_name" : "FRA",
           "badges" : {
@@ -438,6 +450,7 @@
         "endDate" : 1500486600,
         "away" : {
           "name" : "Portugal",
+          "shortest_name" : "PT",
           "id" : 16,
           "short_name" : "POR",
           "badges" : {
@@ -449,6 +462,7 @@
         "date" : 1500480000,
         "home" : {
           "name" : "Spain",
+          "shortest_name" : "ES",
           "id" : 9,
           "short_name" : "ESP",
           "badges" : {
@@ -513,6 +527,7 @@
         "endDate" : 1500496560,
         "away" : {
           "name" : "Scotland",
+          "shortest_name" : "SC",
           "id" : 12,
           "short_name" : "SCO",
           "badges" : {
@@ -524,6 +539,7 @@
         "date" : 1500489900,
         "home" : {
           "name" : "England",
+          "shortest_name" : "EN",
           "id" : 7,
           "short_name" : "ENG",
           "badges" : {
@@ -618,6 +634,7 @@
         "endDate" : 1500573180,
         "away" : {
           "name" : "Belgium",
+          "shortest_name" : "BE",
           "id" : 15,
           "short_name" : "BEL",
           "badges" : {
@@ -629,6 +646,7 @@
         "date" : 1500566400,
         "home" : {
           "name" : "Norway",
+          "shortest_name" : "NO",
           "id" : 8,
           "short_name" : "NOR",
           "badges" : {
@@ -693,6 +711,7 @@
         "endDate" : 1500582900,
         "away" : {
           "name" : "Denmark",
+          "shortest_name" : "DK",
           "id" : 13,
           "short_name" : "DEN",
           "badges" : {
@@ -704,6 +723,7 @@
         "date" : 1500576300,
         "home" : {
           "name" : "Netherlands",
+          "shortest_name" : "NL",
           "id" : 2,
           "short_name" : "NED",
           "badges" : {
@@ -758,6 +778,7 @@
         "endDate" : 1500659100,
         "away" : {
           "name" : "Russia",
+          "shortest_name" : "RU",
           "id" : 4,
           "short_name" : "RUS",
           "badges" : {
@@ -769,6 +790,7 @@
         "date" : 1500652800,
         "home" : {
           "name" : "Sweden",
+          "shortest_name" : "SE",
           "id" : 1,
           "short_name" : "SWE",
           "badges" : {
@@ -793,6 +815,7 @@
         "endDate" : 1500669000,
         "away" : {
           "name" : "Italy",
+          "shortest_name" : "IT",
           "id" : 5,
           "short_name" : "ITA",
           "badges" : {
@@ -804,6 +827,7 @@
         "date" : 1500662700,
         "home" : {
           "name" : "Germany",
+          "shortest_name" : "DE",
           "id" : 3,
           "short_name" : "GER",
           "badges" : {
@@ -828,6 +852,7 @@
         "endDate" : 1500745500,
         "away" : {
           "name" : "Switzerland",
+          "shortest_name" : "CH",
           "id" : 10,
           "short_name" : "SUI",
           "badges" : {
@@ -839,6 +864,7 @@
         "date" : 1500739200,
         "home" : {
           "name" : "Iceland",
+          "shortest_name" : "IS",
           "id" : 11,
           "short_name" : "ISL",
           "badges" : {
@@ -863,6 +889,7 @@
         "endDate" : 1500755400,
         "away" : {
           "name" : "Austria",
+          "shortest_name" : "AT",
           "id" : 14,
           "short_name" : "AUT",
           "badges" : {
@@ -874,6 +901,7 @@
         "date" : 1500749100,
         "home" : {
           "name" : "France",
+          "shortest_name" : "FR",
           "id" : 6,
           "short_name" : "FRA",
           "badges" : {
@@ -898,6 +926,7 @@
         "endDate" : 1500831900,
         "away" : {
           "name" : "Portugal",
+          "shortest_name" : "PT",
           "id" : 16,
           "short_name" : "POR",
           "badges" : {
@@ -909,6 +938,7 @@
         "date" : 1500825600,
         "home" : {
           "name" : "Scotland",
+          "shortest_name" : "SC",
           "id" : 12,
           "short_name" : "SCO",
           "badges" : {
@@ -933,6 +963,7 @@
         "endDate" : 1500841800,
         "away" : {
           "name" : "Spain",
+          "shortest_name" : "ES",
           "id" : 9,
           "short_name" : "ESP",
           "badges" : {
@@ -944,6 +975,7 @@
         "date" : 1500835500,
         "home" : {
           "name" : "England",
+          "shortest_name" : "EN",
           "id" : 7,
           "short_name" : "ENG",
           "badges" : {
@@ -968,6 +1000,7 @@
         "endDate" : 1500928200,
         "away" : {
           "name" : "Netherlands",
+          "shortest_name" : "NL",
           "id" : 2,
           "short_name" : "NED",
           "badges" : {
@@ -979,6 +1012,7 @@
         "date" : 1500921900,
         "home" : {
           "name" : "Belgium",
+          "shortest_name" : "BE",
           "id" : 15,
           "short_name" : "BEL",
           "badges" : {
@@ -1003,6 +1037,7 @@
         "endDate" : 1500928200,
         "away" : {
           "name" : "Denmark",
+          "shortest_name" : "DK",
           "id" : 13,
           "short_name" : "DEN",
           "badges" : {
@@ -1014,6 +1049,7 @@
         "date" : 1500921900,
         "home" : {
           "name" : "Norway",
+          "shortest_name" : "NO",
           "id" : 8,
           "short_name" : "NOR",
           "badges" : {
@@ -1038,6 +1074,7 @@
         "endDate" : 1501014600,
         "away" : {
           "name" : "Germany",
+          "shortest_name" : "DE",
           "id" : 3,
           "short_name" : "GER",
           "badges" : {
@@ -1049,6 +1086,7 @@
         "date" : 1501008300,
         "home" : {
           "name" : "Russia",
+          "shortest_name" : "RU",
           "id" : 4,
           "short_name" : "RUS",
           "badges" : {
@@ -1073,6 +1111,7 @@
         "endDate" : 1501014600,
         "away" : {
           "name" : "Italy",
+          "shortest_name" : "IT",
           "id" : 5,
           "short_name" : "ITA",
           "badges" : {
@@ -1084,6 +1123,7 @@
         "date" : 1501008300,
         "home" : {
           "name" : "Sweden",
+          "shortest_name" : "SE",
           "id" : 1,
           "short_name" : "SWE",
           "badges" : {
@@ -1108,6 +1148,7 @@
         "endDate" : 1501101000,
         "away" : {
           "name" : "France",
+          "shortest_name" : "FR",
           "id" : 6,
           "short_name" : "FRA",
           "badges" : {
@@ -1119,6 +1160,7 @@
         "date" : 1501094700,
         "home" : {
           "name" : "Switzerland",
+          "shortest_name" : "CH",
           "id" : 10,
           "short_name" : "SUI",
           "badges" : {
@@ -1143,6 +1185,7 @@
         "endDate" : 1501101000,
         "away" : {
           "name" : "Austria",
+          "shortest_name" : "AT",
           "id" : 14,
           "short_name" : "AUT",
           "badges" : {
@@ -1154,6 +1197,7 @@
         "date" : 1501094700,
         "home" : {
           "name" : "Iceland",
+          "shortest_name" : "IS",
           "id" : 11,
           "short_name" : "ISL",
           "badges" : {
@@ -1178,6 +1222,7 @@
         "endDate" : 1501187400,
         "away" : {
           "name" : "England",
+          "shortest_name" : "EN",
           "id" : 7,
           "short_name" : "ENG",
           "badges" : {
@@ -1189,6 +1234,7 @@
         "date" : 1501181100,
         "home" : {
           "name" : "Portugal",
+          "shortest_name" : "PT",
           "id" : 16,
           "short_name" : "POR",
           "badges" : {
@@ -1213,6 +1259,7 @@
         "endDate" : 1501187400,
         "away" : {
           "name" : "Spain",
+          "shortest_name" : "ES",
           "id" : 9,
           "short_name" : "ESP",
           "badges" : {
@@ -1224,6 +1271,7 @@
         "date" : 1501181100,
         "home" : {
           "name" : "Scotland",
+          "shortest_name" : "SC",
           "id" : 12,
           "short_name" : "SCO",
           "badges" : {
@@ -1248,6 +1296,7 @@
         "endDate" : 1501350300,
         "away" : {
           "name" : "Group B runner-up",
+          "shortest_name" : "RB",
           "id" : -2,
           "short_name" : "RB",
           "badges" : {
@@ -1259,6 +1308,7 @@
         "date" : 1501344000,
         "home" : {
           "name" : "Group A winner",
+          "shortest_name" : "WA",
           "id" : -1,
           "short_name" : "WA",
           "badges" : {
@@ -1283,6 +1333,7 @@
         "endDate" : 1501360200,
         "away" : {
           "name" : "Group A runner-up",
+          "shortest_name" : "RA",
           "id" : -4,
           "short_name" : "RA",
           "badges" : {
@@ -1294,6 +1345,7 @@
         "date" : 1501353900,
         "home" : {
           "name" : "Group B winner",
+          "shortest_name" : "WB",
           "id" : -3,
           "short_name" : "WB",
           "badges" : {
@@ -1318,6 +1370,7 @@
         "endDate" : 1501436700,
         "away" : {
           "name" : "Group D runner-up",
+          "shortest_name" : "RD",
           "id" : -6,
           "short_name" : "RD",
           "badges" : {
@@ -1329,6 +1382,7 @@
         "date" : 1501430400,
         "home" : {
           "name" : "Group C winner",
+          "shortest_name" : "WC",
           "id" : -5,
           "short_name" : "WC",
           "badges" : {
@@ -1353,6 +1407,7 @@
         "endDate" : 1501446600,
         "away" : {
           "name" : "Group C runner-up",
+          "shortest_name" : "RC",
           "id" : -8,
           "short_name" : "RC",
           "badges" : {
@@ -1364,6 +1419,7 @@
         "date" : 1501440300,
         "home" : {
           "name" : "Group D winner",
+          "shortest_name" : "WD",
           "id" : -7,
           "short_name" : "WD",
           "badges" : {
@@ -1388,6 +1444,7 @@
         "endDate" : 1501782300,
         "away" : {
           "name" : "Quarter-final 3 winner",
+          "shortest_name" : "Q3",
           "id" : -10,
           "short_name" : "QF3",
           "badges" : {
@@ -1399,6 +1456,7 @@
         "date" : 1501776000,
         "home" : {
           "name" : "Quarter-final 2 winner",
+          "shortest_name" : "Q2",
           "id" : -9,
           "short_name" : "QF2",
           "badges" : {
@@ -1423,6 +1481,7 @@
         "endDate" : 1501792200,
         "away" : {
           "name" : "Quarter-final 4 winner",
+          "shortest_name" : "Q4",
           "id" : -12,
           "short_name" : "QF4",
           "badges" : {
@@ -1434,6 +1493,7 @@
         "date" : 1501785900,
         "home" : {
           "name" : "Quarter-final 1 winner",
+          "shortest_name" : "Q1",
           "id" : -11,
           "short_name" : "QF1",
           "badges" : {
@@ -1458,6 +1518,7 @@
         "endDate" : 1502037900,
         "away" : {
           "name" : "Semi-final 2 winner",
+          "shortest_name" : "S2",
           "id" : -14,
           "short_name" : "SF2",
           "badges" : {
@@ -1469,6 +1530,7 @@
         "date" : 1502031600,
         "home" : {
           "name" : "Semi-final 1 winner",
+          "shortest_name" : "S1",
           "id" : -13,
           "short_name" : "SF1",
           "badges" : {
@@ -1488,5 +1550,5 @@
       }
     ]
   },
-  "edition" : 449
+  "edition" : 450
 }

@@ -11,6 +11,7 @@
         "endDate" : 1500486600,
         "away" : {
           "name" : "Portugal",
+          "shortest_name" : "PT",
           "id" : 16,
           "short_name" : "POR",
           "badges" : {
@@ -22,6 +23,7 @@
         "date" : 1500480000,
         "home" : {
           "name" : "Spain",
+          "shortest_name" : "ES",
           "id" : 9,
           "short_name" : "ESP",
           "badges" : {
@@ -41,6 +43,7 @@
         "endDate" : 1500496560,
         "away" : {
           "name" : "Scotland",
+          "shortest_name" : "SC",
           "id" : 12,
           "short_name" : "SCO",
           "badges" : {
@@ -52,6 +55,7 @@
         "date" : 1500489900,
         "home" : {
           "name" : "England",
+          "shortest_name" : "EN",
           "id" : 7,
           "short_name" : "ENG",
           "badges" : {
@@ -67,6 +71,7 @@
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "home" : {
           "name" : "Scotland",
+          "shortest_name" : "SC",
           "id" : 12,
           "short_name" : "SCO",
           "badges" : {
@@ -78,6 +83,7 @@
         "id" : 15,
         "away" : {
           "name" : "Portugal",
+          "shortest_name" : "PT",
           "id" : 16,
           "short_name" : "POR",
           "badges" : {
@@ -93,6 +99,7 @@
         "location" : "Rat Verlegh Stadion, Breda",
         "home" : {
           "name" : "England",
+          "shortest_name" : "EN",
           "id" : 7,
           "short_name" : "ENG",
           "badges" : {
@@ -104,6 +111,7 @@
         "id" : 16,
         "away" : {
           "name" : "Spain",
+          "shortest_name" : "ES",
           "id" : 9,
           "short_name" : "ESP",
           "badges" : {
@@ -119,6 +127,7 @@
         "location" : "Koning Willem II Stadion, Tilburg",
         "home" : {
           "name" : "Portugal",
+          "shortest_name" : "PT",
           "id" : 16,
           "short_name" : "POR",
           "badges" : {
@@ -130,6 +139,7 @@
         "id" : 23,
         "away" : {
           "name" : "England",
+          "shortest_name" : "EN",
           "id" : 7,
           "short_name" : "ENG",
           "badges" : {
@@ -145,6 +155,7 @@
         "location" : "De Adelaarshorst, Deventer",
         "home" : {
           "name" : "Scotland",
+          "shortest_name" : "SC",
           "id" : 12,
           "short_name" : "SCO",
           "badges" : {
@@ -156,6 +167,7 @@
         "id" : 24,
         "away" : {
           "name" : "Spain",
+          "shortest_name" : "ES",
           "id" : 9,
           "short_name" : "ESP",
           "badges" : {
@@ -177,6 +189,7 @@
           "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/b\/be\/Flag_of_England.svg\/800px-Flag_of_England.svg.png",
           "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/38\/England_crest_2009.svg\/403px-England_crest_2009.svg.png"
         },
+        "shortest_name" : "EN",
         "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/38\/England_crest_2009.svg\/403px-England_crest_2009.svg.png"
       },
       {
@@ -188,6 +201,7 @@
           "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/9a\/Flag_of_Spain.svg\/640px-Flag_of_Spain.svg.png",
           "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/31\/Spain_National_Football_Team_badge.png"
         },
+        "shortest_name" : "ES",
         "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/31\/Spain_National_Football_Team_badge.png"
       },
       {
@@ -199,6 +213,7 @@
           "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/5c\/Flag_of_Portugal.svg\/640px-Flag_of_Portugal.svg.png",
           "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/5f\/Portuguese_Football_Federation.svg\/359px-Portuguese_Football_Federation.svg.png"
         },
+        "shortest_name" : "PT",
         "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/5f\/Portuguese_Football_Federation.svg\/359px-Portuguese_Football_Federation.svg.png"
       },
       {
@@ -210,10 +225,11 @@
           "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/1\/10\/Flag_of_Scotland.svg\/800px-Flag_of_Scotland.svg.png",
           "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/8\/8f\/Scotland_national_football_team_logo.svg\/480px-Scotland_national_football_team_logo.svg.png"
         },
+        "shortest_name" : "SC",
         "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/8\/8f\/Scotland_national_football_team_logo.svg\/480px-Scotland_national_football_team_logo.svg.png"
       }
     ],
     "id" : 4
   },
-  "edition" : 449
+  "edition" : 450
 }

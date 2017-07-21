@@ -6,6 +6,7 @@
     "endDate" : 1501014600,
     "away" : {
       "name" : "Germany",
+      "shortest_name" : "DE",
       "id" : 3,
       "short_name" : "GER",
       "badges" : {
@@ -17,6 +18,7 @@
     "date" : 1501008300,
     "home" : {
       "name" : "Russia",
+      "shortest_name" : "RU",
       "id" : 4,
       "short_name" : "RUS",
       "badges" : {
@@ -34,5 +36,5 @@
       }
     ]
   },
-  "edition" : 449
+  "edition" : 450
 }

@@ -6,6 +6,7 @@
     "endDate" : 1501187400,
     "away" : {
       "name" : "England",
+      "shortest_name" : "EN",
       "id" : 7,
       "short_name" : "ENG",
       "badges" : {
@@ -17,6 +18,7 @@
     "date" : 1501181100,
     "home" : {
       "name" : "Portugal",
+      "shortest_name" : "PT",
       "id" : 16,
       "short_name" : "POR",
       "badges" : {
@@ -34,5 +36,5 @@
       }
     ]
   },
-  "edition" : 449
+  "edition" : 450
 }

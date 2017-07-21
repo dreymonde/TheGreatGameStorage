@@ -10,6 +10,7 @@
     "endDate" : 1500496560,
     "away" : {
       "name" : "Scotland",
+      "shortest_name" : "SC",
       "id" : 12,
       "short_name" : "SCO",
       "badges" : {
@@ -21,6 +22,7 @@
     "date" : 1500489900,
     "home" : {
       "name" : "England",
+      "shortest_name" : "EN",
       "id" : 7,
       "short_name" : "ENG",
       "badges" : {
@@ -104,5 +106,5 @@
       }
     ]
   },
-  "edition" : 449
+  "edition" : 450
 }

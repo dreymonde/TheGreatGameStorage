@@ -6,6 +6,7 @@
     "endDate" : 1502037900,
     "away" : {
       "name" : "Semi-final 2 winner",
+      "shortest_name" : "S2",
       "id" : -14,
       "short_name" : "SF2",
       "badges" : {
@@ -17,6 +18,7 @@
     "date" : 1502031600,
     "home" : {
       "name" : "Semi-final 1 winner",
+      "shortest_name" : "S1",
       "id" : -13,
       "short_name" : "SF1",
       "badges" : {
@@ -34,5 +36,5 @@
       }
     ]
   },
-  "edition" : 449
+  "edition" : 450
 }

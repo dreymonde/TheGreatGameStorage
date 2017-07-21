@@ -6,6 +6,7 @@
     "endDate" : 1500841800,
     "away" : {
       "name" : "Spain",
+      "shortest_name" : "ES",
       "id" : 9,
       "short_name" : "ESP",
       "badges" : {
@@ -17,6 +18,7 @@
     "date" : 1500835500,
     "home" : {
       "name" : "England",
+      "shortest_name" : "EN",
       "id" : 7,
       "short_name" : "ENG",
       "badges" : {
@@ -34,5 +36,5 @@
       }
     ]
   },
-  "edition" : 449
+  "edition" : 450
 }

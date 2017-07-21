@@ -6,6 +6,7 @@
     "endDate" : 1501360200,
     "away" : {
       "name" : "Group A runner-up",
+      "shortest_name" : "RA",
       "id" : -4,
       "short_name" : "RA",
       "badges" : {
@@ -17,6 +18,7 @@
     "date" : 1501353900,
     "home" : {
       "name" : "Group B winner",
+      "shortest_name" : "WB",
       "id" : -3,
       "short_name" : "WB",
       "badges" : {
@@ -34,5 +36,5 @@
       }
     ]
   },
-  "edition" : 449
+  "edition" : 450
 }

@@ -6,6 +6,7 @@
     "endDate" : 1501101000,
     "away" : {
       "name" : "France",
+      "shortest_name" : "FR",
       "id" : 6,
       "short_name" : "FRA",
       "badges" : {
@@ -17,6 +18,7 @@
     "date" : 1501094700,
     "home" : {
       "name" : "Switzerland",
+      "shortest_name" : "CH",
       "id" : 10,
       "short_name" : "SUI",
       "badges" : {
@@ -34,5 +36,5 @@
       }
     ]
   },
-  "edition" : 449
+  "edition" : 450
 }
