@@ -852,7 +852,7 @@
         "location" : "Koning Willem II Stadion, Tilburg",
         "score" : {
           "away" : 1,
-          "home" : 1
+          "home" : 2
         },
         "id" : 12,
         "stage_title" : "Group B, leg 2",
@@ -916,6 +916,12 @@
             "type" : "halftime_end",
             "text" : "The second half is underway",
             "real_minute" : 64
+          },
+          {
+            "match_minute" : 67,
+            "type" : "goal_home",
+            "text" : "Goal by Peter (penalty)",
+            "real_minute" : 86
           }
         ]
       },
@@ -1624,5 +1630,5 @@
       }
     ]
   },
-  "edition" : 488
+  "edition" : 490
 }
