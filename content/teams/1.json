@@ -109,6 +109,18 @@
       "title" : "Group B",
       "teams" : [
         {
+          "points" : 4,
+          "name" : "Sweden",
+          "id" : 1,
+          "short_name" : "SWE",
+          "badges" : {
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4c\/Flag_of_Sweden.svg\/640px-Flag_of_Sweden.svg.png",
+            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/35\/Sweden_national_football_team_logo.png"
+          },
+          "shortest_name" : "SE",
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/35\/Sweden_national_football_team_logo.png"
+        },
+        {
           "points" : 3,
           "name" : "Russia",
           "id" : 4,
@@ -133,18 +145,6 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
         },
         {
-          "points" : 1,
-          "name" : "Sweden",
-          "id" : 1,
-          "short_name" : "SWE",
-          "badges" : {
-            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4c\/Flag_of_Sweden.svg\/640px-Flag_of_Sweden.svg.png",
-            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/35\/Sweden_national_football_team_logo.png"
-          },
-          "shortest_name" : "SE",
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/35\/Sweden_national_football_team_logo.png"
-        },
-        {
           "points" : 0,
           "name" : "Italy",
           "id" : 5,
@@ -160,5 +160,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/35\/Sweden_national_football_team_logo.png"
   },
-  "edition" : 469
+  "edition" : 471
 }
