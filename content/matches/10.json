@@ -7,7 +7,7 @@
     },
     "id" : 10,
     "stage_title" : "Group A, leg 2",
-    "endDate" : 1500582900,
+    "endDate" : 1500577800,
     "away" : {
       "name" : "Denmark",
       "shortest_name" : "DK",
@@ -19,7 +19,7 @@
       },
       "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
     },
-    "date" : 1500576300,
+    "date" : 1500571200,
     "home" : {
       "name" : "Netherlands",
       "shortest_name" : "NL",
@@ -70,5 +70,5 @@
       }
     ]
   },
-  "edition" : 451
+  "edition" : 452
 }
