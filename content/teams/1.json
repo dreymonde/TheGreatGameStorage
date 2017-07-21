@@ -121,6 +121,18 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/35\/Sweden_national_football_team_logo.png"
         },
         {
+          "points" : 4,
+          "name" : "Germany",
+          "id" : 3,
+          "short_name" : "GER",
+          "badges" : {
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/b\/ba\/Flag_of_Germany.svg\/800px-Flag_of_Germany.svg.png",
+            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
+          },
+          "shortest_name" : "DE",
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
+        },
+        {
           "points" : 3,
           "name" : "Russia",
           "id" : 4,
@@ -131,18 +143,6 @@
           },
           "shortest_name" : "RU",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/77\/Russian_Football_Union.png"
-        },
-        {
-          "points" : 1,
-          "name" : "Germany",
-          "id" : 3,
-          "short_name" : "GER",
-          "badges" : {
-            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/b\/ba\/Flag_of_Germany.svg\/800px-Flag_of_Germany.svg.png",
-            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
-          },
-          "shortest_name" : "DE",
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
         },
         {
           "points" : 0,
@@ -160,5 +160,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/35\/Sweden_national_football_team_logo.png"
   },
-  "edition" : 503
+  "edition" : 506
 }

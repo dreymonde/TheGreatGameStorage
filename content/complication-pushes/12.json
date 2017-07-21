@@ -88,8 +88,14 @@
     {
       "match_minute" : 94,
       "type" : "end",
-      "text" : "Full time",
+      "text" : "Italy fought hard. After the red card, they did not give German team an easy way out. We saw a spectacular match today.",
       "real_minute" : 113
+    },
+    {
+      "match_minute" : 94,
+      "type" : "info",
+      "text" : "🇮🇹 Italy is out of the tournament. Let's thank them for the courage and the character they showed on the field",
+      "real_minute" : 116
     }
   ]
 }
