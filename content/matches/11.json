@@ -7,7 +7,7 @@
     },
     "id" : 11,
     "stage_title" : "Group B, leg 2",
-    "endDate" : 1500659100,
+    "endDate" : 1500659400,
     "away" : {
       "name" : "Russia",
       "shortest_name" : "RU",
@@ -67,8 +67,14 @@
         "type" : "goal_home",
         "text" : "Blackstenius makes it 2:0",
         "real_minute" : 68
+      },
+      {
+        "match_minute" : 93,
+        "type" : "end",
+        "text" : "Full time",
+        "real_minute" : 110
       }
     ]
   },
-  "edition" : 464
+  "edition" : 469
 }

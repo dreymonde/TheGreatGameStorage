@@ -355,7 +355,7 @@
               "home" : 2
             },
             "id" : 11,
-            "endDate" : 1500659100,
+            "endDate" : 1500659400,
             "away" : {
               "name" : "Russia",
               "shortest_name" : "RU",
@@ -995,5 +995,5 @@
       }
     ]
   },
-  "edition" : 464
+  "edition" : 469
 }
