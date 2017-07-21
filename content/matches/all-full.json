@@ -922,6 +922,12 @@
             "type" : "goal_home",
             "text" : "Goal by Peter (penalty)",
             "real_minute" : 86
+          },
+          {
+            "match_minute" : -1,
+            "type" : "info",
+            "text" : "Red card for Bartoli",
+            "real_minute" : -1
           }
         ]
       },
@@ -1630,5 +1636,5 @@
       }
     ]
   },
-  "edition" : 490
+  "edition" : 493
 }
