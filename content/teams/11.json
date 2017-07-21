@@ -92,6 +92,7 @@
       "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/ce\/Flag_of_Iceland.svg\/640px-Flag_of_Iceland.svg.png",
       "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a5\/Iceland_FA.png"
     },
+    "shortest_name" : "IS",
     "rank" : 10,
     "group" : {
       "id" : 3,
@@ -145,5 +146,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a5\/Iceland_FA.png"
   },
-  "edition" : 446
+  "edition" : 449
 }

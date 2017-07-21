@@ -92,6 +92,7 @@
       "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/0\/03\/Flag_of_Italy.svg\/640px-Flag_of_Italy.svg.png",
       "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
     },
+    "shortest_name" : "IT",
     "rank" : 8,
     "group" : {
       "id" : 2,
@@ -145,5 +146,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
   },
-  "edition" : 446
+  "edition" : 449
 }

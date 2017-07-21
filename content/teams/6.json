@@ -92,6 +92,7 @@
       "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/c\/c3\/Flag_of_France.svg\/640px-Flag_of_France.svg.png",
       "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/96\/Le_nouveau_logo_FFF.png"
     },
+    "shortest_name" : "FR",
     "rank" : 2,
     "group" : {
       "id" : 3,
@@ -145,5 +146,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/96\/Le_nouveau_logo_FFF.png"
   },
-  "edition" : 446
+  "edition" : 449
 }

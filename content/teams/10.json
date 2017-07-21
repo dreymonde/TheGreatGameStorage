@@ -92,6 +92,7 @@
       "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/92\/Civil_Ensign_of_Switzerland_%28Pantone%29.svg\/640px-Civil_Ensign_of_Switzerland_%28Pantone%29.svg.png",
       "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/53\/SFV_Logo.svg\/640px-SFV_Logo.svg.png"
     },
+    "shortest_name" : "CH",
     "rank" : 7,
     "group" : {
       "id" : 3,
@@ -145,5 +146,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/53\/SFV_Logo.svg\/640px-SFV_Logo.svg.png"
   },
-  "edition" : 446
+  "edition" : 449
 }

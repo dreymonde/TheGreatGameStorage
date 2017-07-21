@@ -92,6 +92,7 @@
       "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/f\/f3\/Flag_of_Russia.svg\/640px-Flag_of_Russia.svg.png",
       "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/77\/Russian_Football_Union.png"
     },
+    "shortest_name" : "RU",
     "rank" : 15,
     "group" : {
       "id" : 2,
@@ -145,5 +146,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/77\/Russian_Football_Union.png"
   },
-  "edition" : 446
+  "edition" : 449
 }

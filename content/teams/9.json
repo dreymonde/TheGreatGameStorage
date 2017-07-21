@@ -92,6 +92,7 @@
       "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/9a\/Flag_of_Spain.svg\/640px-Flag_of_Spain.svg.png",
       "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/31\/Spain_National_Football_Team_badge.png"
     },
+    "shortest_name" : "ES",
     "rank" : 6,
     "group" : {
       "id" : 4,
@@ -145,5 +146,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/31\/Spain_National_Football_Team_badge.png"
   },
-  "edition" : 446
+  "edition" : 449
 }

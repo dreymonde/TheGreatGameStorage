@@ -6,7 +6,7 @@
         "title" : "Group A",
         "teams" : [
           {
-            "points" : 3,
+            "points" : 6,
             "name" : "Netherlands",
             "id" : 2,
             "short_name" : "NED",
@@ -28,7 +28,7 @@
             "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
           },
           {
-            "points" : 0,
+            "points" : 3,
             "name" : "Belgium",
             "id" : 15,
             "short_name" : "BEL",
@@ -203,5 +203,5 @@
       }
     ]
   },
-  "edition" : 446
+  "edition" : 449
 }

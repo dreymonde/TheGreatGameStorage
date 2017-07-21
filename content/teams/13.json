@@ -96,13 +96,14 @@
       "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/9c\/Flag_of_Denmark.svg\/634px-Flag_of_Denmark.svg.png",
       "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
     },
+    "shortest_name" : "DK",
     "rank" : 12,
     "group" : {
       "id" : 1,
       "title" : "Group A",
       "teams" : [
         {
-          "points" : 3,
+          "points" : 6,
           "name" : "Netherlands",
           "id" : 2,
           "short_name" : "NED",
@@ -124,7 +125,7 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
         },
         {
-          "points" : 0,
+          "points" : 3,
           "name" : "Belgium",
           "id" : 15,
           "short_name" : "BEL",
@@ -149,5 +150,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
   },
-  "edition" : 446
+  "edition" : 449
 }
