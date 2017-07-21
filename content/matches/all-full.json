@@ -924,16 +924,16 @@
             "real_minute" : 86
           },
           {
-            "match_minute" : -1,
+            "match_minute" : 70,
             "type" : "info",
             "text" : "Red card for Bartoli (Italy)",
-            "real_minute" : -1
+            "real_minute" : 89
           },
           {
-            "match_minute" : -1,
+            "match_minute" : 73,
             "type" : "info",
             "text" : "Italy will be out of the tournament in case of defeat",
-            "real_minute" : -1
+            "real_minute" : 92
           }
         ]
       },
@@ -1642,5 +1642,5 @@
       }
     ]
   },
-  "edition" : 495
+  "edition" : 496
 }
