@@ -104,7 +104,7 @@
           "home" : 2
         },
         "id" : 12,
-        "endDate" : 1500669000,
+        "endDate" : 1500669480,
         "away" : {
           "name" : "Italy",
           "shortest_name" : "IT",
@@ -239,5 +239,5 @@
     ],
     "id" : 2
   },
-  "edition" : 496
+  "edition" : 499
 }

@@ -42,7 +42,7 @@
           "home" : 2
         },
         "id" : 12,
-        "endDate" : 1500669000,
+        "endDate" : 1500669480,
         "away" : {
           "name" : "Italy",
           "shortest_name" : "IT",
@@ -160,5 +160,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
   },
-  "edition" : 496
+  "edition" : 499
 }

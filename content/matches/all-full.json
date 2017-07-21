@@ -856,7 +856,7 @@
         },
         "id" : 12,
         "stage_title" : "Group B, leg 2",
-        "endDate" : 1500669000,
+        "endDate" : 1500669480,
         "away" : {
           "name" : "Italy",
           "shortest_name" : "IT",
@@ -934,6 +934,12 @@
             "type" : "info",
             "text" : "Italy will be out of the tournament in case of defeat",
             "real_minute" : 92
+          },
+          {
+            "match_minute" : 94,
+            "type" : "end",
+            "text" : "Full time",
+            "real_minute" : 113
           }
         ]
       },
@@ -1642,5 +1648,5 @@
       }
     ]
   },
-  "edition" : 496
+  "edition" : 499
 }
