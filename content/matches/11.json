@@ -49,8 +49,14 @@
         "type" : "goal_home",
         "text" : "Lotta Schelin scores after a brilliant long pass",
         "real_minute" : 22
+      },
+      {
+        "match_minute" : 47,
+        "type" : "halftime_start",
+        "text" : "Sweden is leading 1:0 after the first 45 minutes",
+        "real_minute" : 47
       }
     ]
   },
-  "edition" : 457
+  "edition" : 460
 }
