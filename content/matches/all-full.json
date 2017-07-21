@@ -910,6 +910,12 @@
             "type" : "halftime_start",
             "text" : "Half-time. The score is 1:1",
             "real_minute" : 48
+          },
+          {
+            "match_minute" : 45,
+            "type" : "halftime_end",
+            "text" : "The second half is underway",
+            "real_minute" : 64
           }
         ]
       },
@@ -1618,5 +1624,5 @@
       }
     ]
   },
-  "edition" : 487
+  "edition" : 488
 }
