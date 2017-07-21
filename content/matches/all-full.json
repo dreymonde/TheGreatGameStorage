@@ -944,7 +944,7 @@
           {
             "match_minute" : 94,
             "type" : "info",
-            "text" : "🇮🇹 Italy is going home. Let's thank them for the courage and the character they showed on the field",
+            "text" : "🇮🇹 Italy is out of the tournament. Let's thank them for the courage and the character they showed on the field",
             "real_minute" : 116
           }
         ]
@@ -1654,5 +1654,5 @@
       }
     ]
   },
-  "edition" : 502
+  "edition" : 503
 }
