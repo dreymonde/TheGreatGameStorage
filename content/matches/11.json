@@ -3,7 +3,7 @@
     "location" : "De Adelaarshorst, Deventer",
     "score" : {
       "away" : 0,
-      "home" : 1
+      "home" : 2
     },
     "id" : 11,
     "stage_title" : "Group B, leg 2",
@@ -61,8 +61,14 @@
         "type" : "halftime_end",
         "text" : "Second half is on",
         "real_minute" : 62
+      },
+      {
+        "match_minute" : 51,
+        "type" : "goal_home",
+        "text" : "Blackstenius makes it 2:0",
+        "real_minute" : 68
       }
     ]
   },
-  "edition" : 462
+  "edition" : 464
 }
