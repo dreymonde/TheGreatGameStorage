@@ -47,7 +47,7 @@
       {
         "match_minute" : 19,
         "type" : "goal_home",
-        "text" : "Henning scores after an unlucky goalkeeper mistake",
+        "text" : "Henning scores after an unlucky goalkeeper's mistake",
         "real_minute" : 19
       },
       {
@@ -59,10 +59,10 @@
       {
         "match_minute" : 48,
         "type" : "halftime_start",
-        "text" : "Half time. The score is 1:1",
+        "text" : "Half-time. The score is 1:1",
         "real_minute" : 48
       }
     ]
   },
-  "edition" : 485
+  "edition" : 487
 }
