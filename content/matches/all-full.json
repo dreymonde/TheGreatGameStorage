@@ -904,6 +904,12 @@
             "type" : "goal_away",
             "text" : "The score is even! Goal by Mauro",
             "real_minute" : 29
+          },
+          {
+            "match_minute" : 48,
+            "type" : "halftime_start",
+            "text" : "Half time. The score is 1:1",
+            "real_minute" : 48
           }
         ]
       },
@@ -1612,5 +1618,5 @@
       }
     ]
   },
-  "edition" : 484
+  "edition" : 485
 }
