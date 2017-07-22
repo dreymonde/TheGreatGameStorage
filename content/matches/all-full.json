@@ -1034,6 +1034,10 @@
       },
       {
         "location" : "Stadion Galgenwaard, Utrecht",
+        "score" : {
+          "away" : 0,
+          "home" : 0
+        },
         "id" : 14,
         "stage_title" : "Group C, leg 2",
         "endDate" : 1500755400,
@@ -1066,6 +1070,12 @@
             "type" : "info",
             "text" : "Location: Stadion Galgenwaard, Utrecht",
             "real_minute" : -2
+          },
+          {
+            "match_minute" : 0,
+            "type" : "start",
+            "text" : "The match has started",
+            "real_minute" : 0
           }
         ]
       },
@@ -1700,5 +1710,5 @@
       }
     ]
   },
-  "edition" : 526
+  "edition" : 529
 }

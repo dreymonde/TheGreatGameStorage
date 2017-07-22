@@ -36,21 +36,13 @@
         }
       },
       {
-        "endDate" : 1500755400,
-        "date" : 1500749100,
         "location" : "Stadion Galgenwaard, Utrecht",
-        "home" : {
-          "name" : "France",
-          "shortest_name" : "FR",
-          "id" : 6,
-          "short_name" : "FRA",
-          "badges" : {
-            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/c\/c3\/Flag_of_France.svg\/640px-Flag_of_France.svg.png",
-            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/96\/Le_nouveau_logo_FFF.png"
-          },
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/96\/Le_nouveau_logo_FFF.png"
+        "score" : {
+          "away" : 0,
+          "home" : 0
         },
         "id" : 14,
+        "endDate" : 1500755400,
         "away" : {
           "name" : "Austria",
           "shortest_name" : "AT",
@@ -61,6 +53,18 @@
             "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/14\/%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg\/640px-%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg.png"
           },
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/14\/%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg\/640px-%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg.png"
+        },
+        "date" : 1500749100,
+        "home" : {
+          "name" : "France",
+          "shortest_name" : "FR",
+          "id" : 6,
+          "short_name" : "FRA",
+          "badges" : {
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/c\/c3\/Flag_of_France.svg\/640px-Flag_of_France.svg.png",
+            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/96\/Le_nouveau_logo_FFF.png"
+          },
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/96\/Le_nouveau_logo_FFF.png"
         }
       },
       {
@@ -156,5 +160,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/14\/%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg\/640px-%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg.png"
   },
-  "edition" : 526
+  "edition" : 529
 }
