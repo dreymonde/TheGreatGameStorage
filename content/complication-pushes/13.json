@@ -1,7 +1,7 @@
 {
   "location" : "De Vijverberg, Doetinchem",
   "score" : {
-    "away" : 0,
+    "away" : 1,
     "home" : 1
   },
   "id" : 13,
@@ -46,8 +46,14 @@
     {
       "match_minute" : 33,
       "type" : "goal_home",
-      "text" : "What a goal for Iceland! Brilliant counter attack ends with an accurate strike from Fridriksdóttir",
+      "text" : "What a goal for Iceland! Brilliant counter attack ends with an accurate strike from Fanndís Fridriksdóttir",
       "real_minute" : 34
+    },
+    {
+      "match_minute" : 43,
+      "type" : "goal_away",
+      "text" : "And that's 1:1! Goal by Dickenmann",
+      "real_minute" : 44
     }
   ]
 }
