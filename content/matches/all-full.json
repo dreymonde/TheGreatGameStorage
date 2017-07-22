@@ -1035,7 +1035,7 @@
       {
         "location" : "Stadion Galgenwaard, Utrecht",
         "score" : {
-          "away" : 0,
+          "away" : 1,
           "home" : 0
         },
         "id" : 14,
@@ -1076,6 +1076,12 @@
             "type" : "start",
             "text" : "The match has started",
             "real_minute" : 0
+          },
+          {
+            "match_minute" : 27,
+            "type" : "goal_away",
+            "text" : "What a strike! Makas puts Austria ahead",
+            "real_minute" : 27
           }
         ]
       },
@@ -1710,5 +1716,5 @@
       }
     ]
   },
-  "edition" : 529
+  "edition" : 532
 }
