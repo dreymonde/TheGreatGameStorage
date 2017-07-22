@@ -997,7 +997,7 @@
           {
             "match_minute" : 33,
             "type" : "goal_home",
-            "text" : "What a goal for Iceland! Brilliant counter attack ends with an accurate strike from Fridriksdóttir",
+            "text" : "What a goal for Iceland! Brilliant counter attack ends with an accurate strike from Fanndís Fridriksdóttir",
             "real_minute" : 34
           }
         ]
@@ -1670,5 +1670,5 @@
       }
     ]
   },
-  "edition" : 513
+  "edition" : 515
 }
