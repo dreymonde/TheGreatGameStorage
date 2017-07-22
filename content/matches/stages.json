@@ -424,7 +424,7 @@
               "home" : 1
             },
             "id" : 13,
-            "endDate" : 1500745500,
+            "endDate" : 1500746340,
             "away" : {
               "name" : "Switzerland",
               "shortest_name" : "CH",
@@ -1003,5 +1003,5 @@
       }
     ]
   },
-  "edition" : 523
+  "edition" : 526
 }

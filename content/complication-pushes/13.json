@@ -1,7 +1,7 @@
 {
   "location" : "De Vijverberg, Doetinchem",
   "score" : {
-    "away" : 1,
+    "away" : 2,
     "home" : 1
   },
   "id" : 13,
@@ -66,6 +66,12 @@
       "type" : "halftime_end",
       "text" : "The secon half is on",
       "real_minute" : 62
+    },
+    {
+      "match_minute" : 52,
+      "type" : "goal_away",
+      "text" : "And now Switzerland's ahead! Bachmann scores",
+      "real_minute" : 69
     }
   ]
 }

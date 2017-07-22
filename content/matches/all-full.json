@@ -957,7 +957,7 @@
         },
         "id" : 13,
         "stage_title" : "Group C, leg 2",
-        "endDate" : 1500745500,
+        "endDate" : 1500746340,
         "away" : {
           "name" : "Switzerland",
           "shortest_name" : "CH",
@@ -1023,6 +1023,12 @@
             "type" : "goal_away",
             "text" : "And now Switzerland's ahead! Bachmann scores",
             "real_minute" : 69
+          },
+          {
+            "match_minute" : 102,
+            "type" : "end",
+            "text" : "After eleven (eleven!) added minutes, the match is over",
+            "real_minute" : 119
           }
         ]
       },
@@ -1694,5 +1700,5 @@
       }
     ]
   },
-  "edition" : 523
+  "edition" : 526
 }
