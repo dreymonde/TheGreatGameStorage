@@ -49,8 +49,14 @@
         "type" : "goal_away",
         "text" : "What a strike! Makas puts Austria ahead",
         "real_minute" : 27
+      },
+      {
+        "match_minute" : 47,
+        "type" : "halftime_start",
+        "text" : "Half-time",
+        "real_minute" : 47
       }
     ]
   },
-  "edition" : 532
+  "edition" : 535
 }
