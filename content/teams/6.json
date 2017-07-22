@@ -42,7 +42,7 @@
           "home" : 1
         },
         "id" : 14,
-        "endDate" : 1500755400,
+        "endDate" : 1500755880,
         "away" : {
           "name" : "Austria",
           "shortest_name" : "AT",
@@ -160,5 +160,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/96\/Le_nouveau_logo_FFF.png"
   },
-  "edition" : 539
+  "edition" : 543
 }

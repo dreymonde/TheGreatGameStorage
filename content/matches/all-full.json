@@ -1040,7 +1040,7 @@
         },
         "id" : 14,
         "stage_title" : "Group C, leg 2",
-        "endDate" : 1500755400,
+        "endDate" : 1500755880,
         "away" : {
           "name" : "Austria",
           "shortest_name" : "AT",
@@ -1100,6 +1100,12 @@
             "type" : "goal_home",
             "text" : "Equalizer by Henry",
             "real_minute" : 68
+          },
+          {
+            "match_minute" : 96,
+            "type" : "end",
+            "text" : "Full time, 1:1. A success for Austria, a setback for France",
+            "real_minute" : 113
           }
         ]
       },
@@ -1734,5 +1740,5 @@
       }
     ]
   },
-  "edition" : 539
+  "edition" : 543
 }
