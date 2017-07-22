@@ -60,6 +60,12 @@
       "type" : "halftime_start",
       "text" : "After the first half the score is even",
       "real_minute" : 48
+    },
+    {
+      "match_minute" : 45,
+      "type" : "halftime_end",
+      "text" : "The secon half is on",
+      "real_minute" : 62
     }
   ]
 }
