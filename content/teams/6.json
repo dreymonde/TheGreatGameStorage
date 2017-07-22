@@ -109,7 +109,7 @@
       "title" : "Group C",
       "teams" : [
         {
-          "points" : 3,
+          "points" : 4,
           "name" : "Austria",
           "id" : 14,
           "short_name" : "AUT",
@@ -121,7 +121,7 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/14\/%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg\/640px-%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg.png"
         },
         {
-          "points" : 3,
+          "points" : 4,
           "name" : "France",
           "id" : 6,
           "short_name" : "FRA",
@@ -131,6 +131,18 @@
           },
           "shortest_name" : "FR",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/96\/Le_nouveau_logo_FFF.png"
+        },
+        {
+          "points" : 3,
+          "name" : "Switzerland",
+          "id" : 10,
+          "short_name" : "SUI",
+          "badges" : {
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/92\/Civil_Ensign_of_Switzerland_%28Pantone%29.svg\/640px-Civil_Ensign_of_Switzerland_%28Pantone%29.svg.png",
+            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/53\/SFV_Logo.svg\/640px-SFV_Logo.svg.png"
+          },
+          "shortest_name" : "CH",
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/53\/SFV_Logo.svg\/640px-SFV_Logo.svg.png"
         },
         {
           "points" : 0,
@@ -143,22 +155,10 @@
           },
           "shortest_name" : "IS",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a5\/Iceland_FA.png"
-        },
-        {
-          "points" : 0,
-          "name" : "Switzerland",
-          "id" : 10,
-          "short_name" : "SUI",
-          "badges" : {
-            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/92\/Civil_Ensign_of_Switzerland_%28Pantone%29.svg\/640px-Civil_Ensign_of_Switzerland_%28Pantone%29.svg.png",
-            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/53\/SFV_Logo.svg\/640px-SFV_Logo.svg.png"
-          },
-          "shortest_name" : "CH",
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/53\/SFV_Logo.svg\/640px-SFV_Logo.svg.png"
         }
       ]
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/96\/Le_nouveau_logo_FFF.png"
   },
-  "edition" : 543
+  "edition" : 546
 }
