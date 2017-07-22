@@ -1036,7 +1036,7 @@
         "location" : "Stadion Galgenwaard, Utrecht",
         "score" : {
           "away" : 1,
-          "home" : 0
+          "home" : 1
         },
         "id" : 14,
         "stage_title" : "Group C, leg 2",
@@ -1094,6 +1094,12 @@
             "type" : "halftime_end",
             "text" : "Second half",
             "real_minute" : 62
+          },
+          {
+            "match_minute" : 51,
+            "type" : "goal_home",
+            "text" : "Equalizer by Henry",
+            "real_minute" : 68
           }
         ]
       },
@@ -1728,5 +1734,5 @@
       }
     ]
   },
-  "edition" : 537
+  "edition" : 539
 }

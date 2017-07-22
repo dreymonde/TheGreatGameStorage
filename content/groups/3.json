@@ -101,7 +101,7 @@
         "location" : "Stadion Galgenwaard, Utrecht",
         "score" : {
           "away" : 1,
-          "home" : 0
+          "home" : 1
         },
         "id" : 14,
         "endDate" : 1500755400,
@@ -239,5 +239,5 @@
     ],
     "id" : 3
   },
-  "edition" : 537
+  "edition" : 539
 }
