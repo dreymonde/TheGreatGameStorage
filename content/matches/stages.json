@@ -418,21 +418,13 @@
       {
         "matches" : [
           {
-            "endDate" : 1500745500,
-            "date" : 1500739200,
             "location" : "De Vijverberg, Doetinchem",
-            "home" : {
-              "name" : "Iceland",
-              "shortest_name" : "IS",
-              "id" : 11,
-              "short_name" : "ISL",
-              "badges" : {
-                "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/ce\/Flag_of_Iceland.svg\/640px-Flag_of_Iceland.svg.png",
-                "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a5\/Iceland_FA.png"
-              },
-              "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a5\/Iceland_FA.png"
+            "score" : {
+              "away" : 0,
+              "home" : 0
             },
             "id" : 13,
+            "endDate" : 1500745500,
             "away" : {
               "name" : "Switzerland",
               "shortest_name" : "CH",
@@ -443,6 +435,18 @@
                 "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/53\/SFV_Logo.svg\/640px-SFV_Logo.svg.png"
               },
               "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/53\/SFV_Logo.svg\/640px-SFV_Logo.svg.png"
+            },
+            "date" : 1500739200,
+            "home" : {
+              "name" : "Iceland",
+              "shortest_name" : "IS",
+              "id" : 11,
+              "short_name" : "ISL",
+              "badges" : {
+                "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/ce\/Flag_of_Iceland.svg\/640px-Flag_of_Iceland.svg.png",
+                "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a5\/Iceland_FA.png"
+              },
+              "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a5\/Iceland_FA.png"
             }
           },
           {
@@ -999,5 +1003,5 @@
       }
     ]
   },
-  "edition" : 506
+  "edition" : 507
 }
