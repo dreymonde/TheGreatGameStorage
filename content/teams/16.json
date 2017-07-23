@@ -38,7 +38,7 @@
       {
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "score" : {
-          "away" : 1,
+          "away" : 2,
           "home" : 1
         },
         "id" : 15,
@@ -160,5 +160,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/5f\/Portuguese_Football_Federation.svg\/359px-Portuguese_Football_Federation.svg.png"
   },
-  "edition" : 571
+  "edition" : 574
 }
