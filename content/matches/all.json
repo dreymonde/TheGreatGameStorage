@@ -488,7 +488,7 @@
           "home" : 2
         },
         "id" : 16,
-        "endDate" : 1500841800,
+        "endDate" : 1500841980,
         "away" : {
           "name" : "Spain",
           "shortest_name" : "ES",
@@ -935,5 +935,5 @@
       }
     ]
   },
-  "edition" : 590
+  "edition" : 593
 }
