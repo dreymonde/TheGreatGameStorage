@@ -133,7 +133,7 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/31\/Spain_National_Football_Team_badge.png"
         },
         {
-          "points" : 0,
+          "points" : 3,
           "name" : "Portugal",
           "id" : 16,
           "short_name" : "POR",
@@ -160,5 +160,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/5f\/Portuguese_Football_Federation.svg\/359px-Portuguese_Football_Federation.svg.png"
   },
-  "edition" : 577
+  "edition" : 580
 }

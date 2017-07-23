@@ -36,21 +36,13 @@
         }
       },
       {
-        "endDate" : 1500841800,
-        "date" : 1500835500,
         "location" : "Rat Verlegh Stadion, Breda",
-        "home" : {
-          "name" : "England",
-          "shortest_name" : "EN",
-          "id" : 7,
-          "short_name" : "ENG",
-          "badges" : {
-            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/b\/be\/Flag_of_England.svg\/800px-Flag_of_England.svg.png",
-            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/38\/England_crest_2009.svg\/403px-England_crest_2009.svg.png"
-          },
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/38\/England_crest_2009.svg\/403px-England_crest_2009.svg.png"
+        "score" : {
+          "away" : 0,
+          "home" : 0
         },
         "id" : 16,
+        "endDate" : 1500841800,
         "away" : {
           "name" : "Spain",
           "shortest_name" : "ES",
@@ -61,6 +53,18 @@
             "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/31\/Spain_National_Football_Team_badge.png"
           },
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/31\/Spain_National_Football_Team_badge.png"
+        },
+        "date" : 1500835500,
+        "home" : {
+          "name" : "England",
+          "shortest_name" : "EN",
+          "id" : 7,
+          "short_name" : "ENG",
+          "badges" : {
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/b\/be\/Flag_of_England.svg\/800px-Flag_of_England.svg.png",
+            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/38\/England_crest_2009.svg\/403px-England_crest_2009.svg.png"
+          },
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/38\/England_crest_2009.svg\/403px-England_crest_2009.svg.png"
         }
       },
       {
@@ -129,7 +133,7 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/31\/Spain_National_Football_Team_badge.png"
         },
         {
-          "points" : 0,
+          "points" : 3,
           "name" : "Portugal",
           "id" : 16,
           "short_name" : "POR",
@@ -156,5 +160,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/31\/Spain_National_Football_Team_badge.png"
   },
-  "edition" : 577
+  "edition" : 580
 }
