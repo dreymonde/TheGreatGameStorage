@@ -189,7 +189,7 @@
     "title" : "Group D",
     "teams" : [
       {
-        "points" : 3,
+        "points" : 6,
         "name" : "England",
         "id" : 7,
         "short_name" : "ENG",
@@ -239,5 +239,5 @@
     ],
     "id" : 4
   },
-  "edition" : 593
+  "edition" : 596
 }

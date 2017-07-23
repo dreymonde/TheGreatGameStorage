@@ -6,7 +6,7 @@
   },
   "id" : 16,
   "stage_title" : "Group D, leg 2",
-  "endDate" : 1500841800,
+  "endDate" : 1500841980,
   "away" : {
     "name" : "Spain",
     "shortest_name" : "ES",
@@ -66,6 +66,12 @@
       "type" : "goal_home",
       "text" : "And that's second! Goal by Taylor",
       "real_minute" : 100
+    },
+    {
+      "match_minute" : 93,
+      "type" : "end",
+      "text" : "England wins another three points and tops Group D",
+      "real_minute" : 108
     }
   ]
 }
