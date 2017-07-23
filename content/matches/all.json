@@ -485,7 +485,7 @@
         "location" : "Rat Verlegh Stadion, Breda",
         "score" : {
           "away" : 0,
-          "home" : 0
+          "home" : 1
         },
         "id" : 16,
         "endDate" : 1500841800,
@@ -935,5 +935,5 @@
       }
     ]
   },
-  "edition" : 580
+  "edition" : 583
 }
