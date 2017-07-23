@@ -68,7 +68,7 @@
       {
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "score" : {
-          "away" : 0,
+          "away" : 1,
           "home" : 0
         },
         "id" : 15,
@@ -235,5 +235,5 @@
     ],
     "id" : 4
   },
-  "edition" : 561
+  "edition" : 564
 }

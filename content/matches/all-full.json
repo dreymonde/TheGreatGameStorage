@@ -1118,7 +1118,7 @@
       {
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "score" : {
-          "away" : 0,
+          "away" : 1,
           "home" : 0
         },
         "id" : 15,
@@ -1159,6 +1159,12 @@
             "type" : "start",
             "text" : "The game has started",
             "real_minute" : 1
+          },
+          {
+            "match_minute" : 27,
+            "type" : "goal_away",
+            "text" : "Portugal is taking the lead! Goal by Carolina Mendes",
+            "real_minute" : 28
           }
         ]
       },
@@ -1756,5 +1762,5 @@
       }
     ]
   },
-  "edition" : 561
+  "edition" : 564
 }
