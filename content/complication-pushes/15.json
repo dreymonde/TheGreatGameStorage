@@ -48,6 +48,12 @@
       "type" : "goal_away",
       "text" : "Portugal is taking the lead! Goal by Carolina Mendes",
       "real_minute" : 28
+    },
+    {
+      "match_minute" : 46,
+      "type" : "halftime_start",
+      "text" : "Half-time.",
+      "real_minute" : 47
     }
   ]
 }
