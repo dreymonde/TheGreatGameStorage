@@ -48,6 +48,12 @@
       "type" : "goal_home",
       "text" : "That was real quick! Goal by Kirby",
       "real_minute" : 1
+    },
+    {
+      "match_minute" : 46,
+      "type" : "halftime_start",
+      "text" : "Half-time",
+      "real_minute" : 46
     }
   ]
 }
