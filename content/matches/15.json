@@ -7,7 +7,7 @@
     },
     "id" : 15,
     "stage_title" : "Group D, leg 2",
-    "endDate" : 1500831900,
+    "endDate" : 1500832260,
     "away" : {
       "name" : "Portugal",
       "shortest_name" : "PT",
@@ -73,8 +73,14 @@
         "type" : "goal_away",
         "text" : "And Portugal scores again! Goal by Ana Leite",
         "real_minute" : 88
+      },
+      {
+        "match_minute" : 95,
+        "type" : "end",
+        "text" : "Full time. Portugal wins, Scotland now has very little chances for outing",
+        "real_minute" : 111
       }
     ]
   },
-  "edition" : 574
+  "edition" : 577
 }

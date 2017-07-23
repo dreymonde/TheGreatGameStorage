@@ -1,7 +1,7 @@
 {
   "location" : "Sparta Stadion Het Kasteel, Rotterdam",
   "score" : {
-    "away" : 1,
+    "away" : 2,
     "home" : 1
   },
   "id" : 15,
@@ -66,6 +66,12 @@
       "type" : "goal_home",
       "text" : "Scotland scores! What a goal by Cuthbert",
       "real_minute" : 84
+    },
+    {
+      "match_minute" : 72,
+      "type" : "goal_away",
+      "text" : "And Portugal scores again! Goal by Ana Leite",
+      "real_minute" : 88
     }
   ]
 }

@@ -493,7 +493,7 @@
               "home" : 1
             },
             "id" : 15,
-            "endDate" : 1500831900,
+            "endDate" : 1500832260,
             "away" : {
               "name" : "Portugal",
               "shortest_name" : "PT",
@@ -1011,5 +1011,5 @@
       }
     ]
   },
-  "edition" : 574
+  "edition" : 577
 }
