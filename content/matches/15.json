@@ -3,7 +3,7 @@
     "location" : "Sparta Stadion Het Kasteel, Rotterdam",
     "score" : {
       "away" : 1,
-      "home" : 0
+      "home" : 1
     },
     "id" : 15,
     "stage_title" : "Group D, leg 2",
@@ -61,8 +61,14 @@
         "type" : "halftime_end",
         "text" : "Second half is on",
         "real_minute" : 61
+      },
+      {
+        "match_minute" : 68,
+        "type" : "goal_home",
+        "text" : "Scotland scores! What a goal by Cuthbert",
+        "real_minute" : 84
       }
     ]
   },
-  "edition" : 569
+  "edition" : 571
 }
