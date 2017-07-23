@@ -1,0 +1,77 @@
+{
+  "location" : "Stadion Galgenwaard, Utrecht",
+  "score" : {
+    "away" : 0,
+    "home" : 1
+  },
+  "id" : 1,
+  "stage_title" : "Group A, leg 1",
+  "endDate" : 1500227580,
+  "away" : {
+    "name" : "Norway",
+    "shortest_name" : "NO",
+    "id" : 8,
+    "short_name" : "NOR",
+    "badges" : {
+      "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/d9\/Flag_of_Norway.svg\/640px-Flag_of_Norway.svg.png",
+      "large" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/norway-fx.png"
+    },
+    "badge_url" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/norway-fx.png"
+  },
+  "date" : 1500220800,
+  "home" : {
+    "name" : "Netherlands",
+    "shortest_name" : "NL",
+    "id" : 2,
+    "short_name" : "NED",
+    "badges" : {
+      "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/20\/Flag_of_the_Netherlands.svg\/640px-Flag_of_the_Netherlands.svg.png",
+      "large" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/netherlands.png"
+    },
+    "badge_url" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/netherlands.png"
+  },
+  "events" : [
+    {
+      "match_minute" : -2,
+      "type" : "info",
+      "text" : "Location: Stadion Galgenwaard, Utrecht",
+      "real_minute" : -2
+    },
+    {
+      "match_minute" : -1,
+      "type" : "info",
+      "text" : "Remember, together #WePlayStrong. We're starting in a few minutes",
+      "real_minute" : -1
+    },
+    {
+      "match_minute" : 0,
+      "type" : "start",
+      "text" : "Let the fun begin! Welcome to Euro 2017",
+      "real_minute" : 1
+    },
+    {
+      "match_minute" : 46,
+      "type" : "halftime_start",
+      "text" : "Beautiful game so far",
+      "real_minute" : 47
+    },
+    {
+      "match_minute" : 45,
+      "type" : "halftime_end",
+      "text" : "Up for the second half",
+      "real_minute" : 64
+    },
+    {
+      "match_minute" : 66,
+      "type" : "goal_home",
+      "text" : "What a goal by van de Sanden! Netherlands takes the lead",
+      "real_minute" : 85
+    },
+    {
+      "match_minute" : 94,
+      "type" : "end",
+      "text" : "Unexpected, yet fully deserved win for the hosts!",
+      "real_minute" : 113
+    }
+  ]
+}

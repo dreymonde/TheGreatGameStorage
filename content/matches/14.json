@@ -73,8 +73,14 @@
         "type" : "end",
         "text" : "Full time, 1:1. A success for Austria, a setback for France",
         "real_minute" : 113
+      },
+      {
+        "match_minute" : 100,
+        "type" : "info",
+        "text" : "🇮🇸 After yesterday's France-Austria draw, Iceland has no chances for playoffs. Iceland fought bravely and their fans are absolutely the best! Their best moments are definetely ahead",
+        "real_minute" : 117
       }
     ]
   },
-  "edition" : 546
+  "edition" : 558
 }
