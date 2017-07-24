@@ -2,7 +2,7 @@
   "content" : {
     "location" : "Koning Willem II Stadion, Tilburg",
     "score" : {
-      "away" : 1,
+      "away" : 2,
       "home" : 1
     },
     "id" : 17,
@@ -79,8 +79,14 @@
         "type" : "goal_home",
         "text" : "What a goal by Wullaert! Belgium is back in the race!",
         "real_minute" : 80
+      },
+      {
+        "match_minute" : 74,
+        "type" : "goal_away",
+        "text" : "Goal by Martens. Belgium is on the brink again",
+        "real_minute" : 96
       }
     ]
   },
-  "edition" : 629
+  "edition" : 632
 }
