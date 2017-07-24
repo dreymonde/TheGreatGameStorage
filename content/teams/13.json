@@ -98,6 +98,34 @@
           },
           "badge_url" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/norway-fx.png"
         }
+      },
+      {
+        "endDate" : 1501360200,
+        "date" : 1501353900,
+        "location" : "Sparta Stadion Het Kasteel, Rotterdam",
+        "home" : {
+          "name" : "Group B winner",
+          "shortest_name" : "WB",
+          "id" : -3,
+          "short_name" : "WB",
+          "badges" : {
+            "flag" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png",
+            "large" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+          },
+          "badge_url" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+        },
+        "id" : 26,
+        "away" : {
+          "name" : "Denmark",
+          "shortest_name" : "DK",
+          "id" : 13,
+          "short_name" : "DEN",
+          "badges" : {
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/9c\/Flag_of_Denmark.svg\/634px-Flag_of_Denmark.svg.png",
+            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
+          },
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
+        }
       }
     ],
     "id" : 13,
@@ -113,7 +141,7 @@
       "title" : "Group A",
       "teams" : [
         {
-          "points" : 6,
+          "points" : 9,
           "name" : "Netherlands",
           "id" : 2,
           "short_name" : "NED",
@@ -125,7 +153,7 @@
           "badge_url" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/netherlands.png"
         },
         {
-          "points" : 3,
+          "points" : 6,
           "name" : "Denmark",
           "id" : 13,
           "short_name" : "DEN",
@@ -164,5 +192,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
   },
-  "edition" : 651
+  "edition" : 653
 }

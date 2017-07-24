@@ -6,7 +6,7 @@
         "title" : "Group A",
         "teams" : [
           {
-            "points" : 6,
+            "points" : 9,
             "name" : "Netherlands",
             "id" : 2,
             "short_name" : "NED",
@@ -18,7 +18,7 @@
             "badge_url" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/netherlands.png"
           },
           {
-            "points" : 3,
+            "points" : 6,
             "name" : "Denmark",
             "id" : 13,
             "short_name" : "DEN",
@@ -219,5 +219,5 @@
       }
     ]
   },
-  "edition" : 651
+  "edition" : 653
 }

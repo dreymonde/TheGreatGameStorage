@@ -98,6 +98,34 @@
           },
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/f\/f5\/Belgium_urbsfa.png"
         }
+      },
+      {
+        "endDate" : 1501350300,
+        "date" : 1501344000,
+        "location" : "De Vijverberg, Doetinchem",
+        "home" : {
+          "name" : "Netherlands",
+          "shortest_name" : "NL",
+          "id" : 2,
+          "short_name" : "NED",
+          "badges" : {
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/20\/Flag_of_the_Netherlands.svg\/640px-Flag_of_the_Netherlands.svg.png",
+            "large" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/netherlands.png"
+          },
+          "badge_url" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/netherlands.png"
+        },
+        "id" : 25,
+        "away" : {
+          "name" : "Group B runner-up",
+          "shortest_name" : "RB",
+          "id" : -2,
+          "short_name" : "RB",
+          "badges" : {
+            "flag" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png",
+            "large" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+          },
+          "badge_url" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+        }
       }
     ],
     "id" : 2,
@@ -113,7 +141,7 @@
       "title" : "Group A",
       "teams" : [
         {
-          "points" : 6,
+          "points" : 9,
           "name" : "Netherlands",
           "id" : 2,
           "short_name" : "NED",
@@ -125,7 +153,7 @@
           "badge_url" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/netherlands.png"
         },
         {
-          "points" : 3,
+          "points" : 6,
           "name" : "Denmark",
           "id" : 13,
           "short_name" : "DEN",
@@ -164,5 +192,5 @@
     },
     "badge_url" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/netherlands.png"
   },
-  "edition" : 651
+  "edition" : 653
 }

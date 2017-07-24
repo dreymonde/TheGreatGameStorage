@@ -750,15 +750,15 @@
         "date" : 1501344000,
         "location" : "De Vijverberg, Doetinchem",
         "home" : {
-          "name" : "Group A winner",
-          "shortest_name" : "WA",
-          "id" : -1,
-          "short_name" : "WA",
+          "name" : "Netherlands",
+          "shortest_name" : "NL",
+          "id" : 2,
+          "short_name" : "NED",
           "badges" : {
-            "flag" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png",
-            "large" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/20\/Flag_of_the_Netherlands.svg\/640px-Flag_of_the_Netherlands.svg.png",
+            "large" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/netherlands.png"
           },
-          "badge_url" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+          "badge_url" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/netherlands.png"
         },
         "id" : 25,
         "away" : {
@@ -790,15 +790,15 @@
         },
         "id" : 26,
         "away" : {
-          "name" : "Group A runner-up",
-          "shortest_name" : "RA",
-          "id" : -4,
-          "short_name" : "RA",
+          "name" : "Denmark",
+          "shortest_name" : "DK",
+          "id" : 13,
+          "short_name" : "DEN",
           "badges" : {
-            "flag" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png",
-            "large" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/9c\/Flag_of_Denmark.svg\/634px-Flag_of_Denmark.svg.png",
+            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
           },
-          "badge_url" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
         }
       },
       {
@@ -943,5 +943,5 @@
       }
     ]
   },
-  "edition" : 651
+  "edition" : 653
 }
