@@ -1365,7 +1365,7 @@
           {
             "match_minute" : 94,
             "type" : "end",
-            "text" : "Full time. Netherlands is finishing first, Belgium, most likely, is going home",
+            "text" : "Full time. Netherlands is finishing first, Belgium is most likely going home",
             "real_minute" : 116
           }
         ]
@@ -1930,5 +1930,5 @@
       }
     ]
   },
-  "edition" : 638
+  "edition" : 639
 }
