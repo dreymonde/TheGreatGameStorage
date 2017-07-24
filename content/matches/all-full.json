@@ -1279,7 +1279,7 @@
         "location" : "Koning Willem II Stadion, Tilburg",
         "score" : {
           "away" : 1,
-          "home" : 0
+          "home" : 1
         },
         "id" : 17,
         "stage_title" : "Group A, leg 3",
@@ -1349,6 +1349,12 @@
             "type" : "halftime_end",
             "text" : "Now to the second half",
             "real_minute" : 67
+          },
+          {
+            "match_minute" : 59,
+            "type" : "goal_home",
+            "text" : "What a goal by Wullaert! Belgium is back in the race!",
+            "real_minute" : 80
           }
         ]
       },
@@ -1912,5 +1918,5 @@
       }
     ]
   },
-  "edition" : 628
+  "edition" : 629
 }

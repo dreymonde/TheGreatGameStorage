@@ -71,7 +71,7 @@
         "location" : "Koning Willem II Stadion, Tilburg",
         "score" : {
           "away" : 1,
-          "home" : 0
+          "home" : 1
         },
         "id" : 17,
         "endDate" : 1500928200,
@@ -164,5 +164,5 @@
     },
     "badge_url" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/netherlands.png"
   },
-  "edition" : 628
+  "edition" : 629
 }
