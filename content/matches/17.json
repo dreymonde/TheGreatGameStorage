@@ -91,8 +91,14 @@
         "type" : "end",
         "text" : "Full time. Netherlands is finishing first, Belgium is most likely going home",
         "real_minute" : 116
+      },
+      {
+        "match_minute" : 100,
+        "type" : "info",
+        "text" : "🇧🇪 Denmark won their match, so Belgium is going home. Although they're out, they showed a great skill and courage",
+        "real_minute" : 117
       }
     ]
   },
-  "edition" : 644
+  "edition" : 645
 }
