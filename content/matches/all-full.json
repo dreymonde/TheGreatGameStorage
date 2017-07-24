@@ -1468,6 +1468,12 @@
             "type" : "info",
             "text" : "🇳🇴 They tried, but, unfortunately, at this Euro Norway team did not show their best. They're going home, but this tournament will definetely make them stronger.",
             "real_minute" : 121
+          },
+          {
+            "match_minute" : 110,
+            "type" : "info",
+            "text" : "🇩🇰 Denmark fought hard, fought every minute of every match. They finished this group second, and now they're in the playoffs",
+            "real_minute" : 126
           }
         ]
       },
@@ -1954,5 +1960,5 @@
       }
     ]
   },
-  "edition" : 649
+  "edition" : 651
 }
