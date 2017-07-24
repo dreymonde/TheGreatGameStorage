@@ -61,8 +61,14 @@
         "type" : "info",
         "text" : "🇳🇴 Norway must win by a three-goal margin and hope Belgium lose if they want to reach the quarter-finals. - UEFA.com",
         "real_minute" : 10
+      },
+      {
+        "match_minute" : 45,
+        "type" : "halftime_start",
+        "text" : "That was the first half",
+        "real_minute" : 45
       }
     ]
   },
-  "edition" : 615
+  "edition" : 618
 }
