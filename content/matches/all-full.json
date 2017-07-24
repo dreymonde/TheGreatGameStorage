@@ -1337,6 +1337,12 @@
             "type" : "goal_away",
             "text" : "Spitse makes a huge step for Netherlands towards winning this group!",
             "real_minute" : 27
+          },
+          {
+            "match_minute" : 51,
+            "type" : "halftime_start",
+            "text" : "Half-time",
+            "real_minute" : 51
           }
         ]
       },
@@ -1894,5 +1900,5 @@
       }
     ]
   },
-  "edition" : 618
+  "edition" : 620
 }
