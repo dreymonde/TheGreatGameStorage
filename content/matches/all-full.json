@@ -1343,6 +1343,12 @@
             "type" : "halftime_start",
             "text" : "Half-time",
             "real_minute" : 51
+          },
+          {
+            "match_minute" : 45,
+            "type" : "halftime_end",
+            "text" : "Now to the second half",
+            "real_minute" : 67
           }
         ]
       },
@@ -1906,5 +1912,5 @@
       }
     ]
   },
-  "edition" : 623
+  "edition" : 625
 }
