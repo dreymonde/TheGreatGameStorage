@@ -66,6 +66,12 @@
       "type" : "halftime_start",
       "text" : "That was the first half",
       "real_minute" : 45
+    },
+    {
+      "match_minute" : 45,
+      "type" : "halftime_end",
+      "text" : "",
+      "real_minute" : 66
     }
   ]
 }
