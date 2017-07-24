@@ -1325,7 +1325,7 @@
       {
         "location" : "De Adelaarshorst, Deventer",
         "score" : {
-          "away" : 0,
+          "away" : 1,
           "home" : 0
         },
         "id" : 18,
@@ -1366,6 +1366,12 @@
             "type" : "start",
             "text" : "",
             "real_minute" : 0
+          },
+          {
+            "match_minute" : 5,
+            "type" : "goal_away",
+            "text" : "That's a quick goal! Veje is the scorer",
+            "real_minute" : 5
           }
         ]
       },
@@ -1852,5 +1858,5 @@
       }
     ]
   },
-  "edition" : 598
+  "edition" : 604
 }
