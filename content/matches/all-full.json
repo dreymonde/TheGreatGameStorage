@@ -1373,6 +1373,12 @@
             "type" : "info",
             "text" : "🇧🇪 Denmark won their match, so Belgium is going home. Although they're out, they showed a great skill and courage. This team has a great future.",
             "real_minute" : 117
+          },
+          {
+            "match_minute" : 105,
+            "type" : "info",
+            "text" : "🇳🇱 Hosts won this group with an astonishing 9\/9 points result. We saw a true mastery in their game, and now we're going to see it in the playoffs.",
+            "real_minute" : 122
           }
         ]
       },
@@ -1948,5 +1954,5 @@
       }
     ]
   },
-  "edition" : 648
+  "edition" : 649
 }
