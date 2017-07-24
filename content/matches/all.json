@@ -520,7 +520,7 @@
           "home" : 1
         },
         "id" : 17,
-        "endDate" : 1500928200,
+        "endDate" : 1500928860,
         "away" : {
           "name" : "Netherlands",
           "shortest_name" : "NL",
@@ -943,5 +943,5 @@
       }
     ]
   },
-  "edition" : 632
+  "edition" : 635
 }
