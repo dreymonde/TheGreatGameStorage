@@ -2,7 +2,7 @@
   "content" : {
     "location" : "Koning Willem II Stadion, Tilburg",
     "score" : {
-      "away" : 0,
+      "away" : 1,
       "home" : 0
     },
     "id" : 17,
@@ -55,8 +55,14 @@
         "type" : "info",
         "text" : "🇧🇪 Belgium are through with a win by any scoreline (even if they win 1-0 and Denmark win, Belgium would be at worst second due to overall goal difference or on head-to-head with the Netherlands). If Belgium win 1-0 and Denmark win 2-0 would mean disciplinary points, eventually coefficients to decide who finishes first and second. Belgium will be through with a draw if Denmark do not win. Belgium can afford to lose if Denmark lose by a margin of one or two goals (if Norway win by three and Belgium lose, Norway finish second). - UEFA.com",
         "real_minute" : 10
+      },
+      {
+        "match_minute" : 27,
+        "type" : "goal_away",
+        "text" : "Spitse makes a huge step for Netherlands towards winning this group!",
+        "real_minute" : 27
       }
     ]
   },
-  "edition" : 614
+  "edition" : 615
 }
