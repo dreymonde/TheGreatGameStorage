@@ -1388,7 +1388,7 @@
           {
             "match_minute" : 5,
             "type" : "info",
-            "text" : "🇩🇰 Denmark are through if they win only if Belgium do not win OR if Belgium win by a margin or two goals or more OR if Belgium win 1-0 and Denmark win by a scoreline other than 1-0. If Belgium win 1-0 and Denmark win 2-0 would mean disciplinary points, eventually coefficients to decide who finishes first and second. Denmark are through with a draw if Belgium lose or draw. Denmark are out if they lose. - UEFA.com",
+            "text" : "🇩🇰 Denmark are through if they win only if Belgium do not win OR if Belgium win by a margin of two goals or more OR if Belgium win 1-0 and Denmark win by a scoreline other than 1-0. If Belgium win 1-0 and Denmark win 2-0 would mean disciplinary points, eventually coefficients to decide who finishes first and second. Denmark are through with a draw if Belgium lose or draw. Denmark are out if they lose. - UEFA.com",
             "real_minute" : 5
           },
           {
@@ -1882,5 +1882,5 @@
       }
     ]
   },
-  "edition" : 613
+  "edition" : 614
 }
