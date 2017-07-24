@@ -68,21 +68,13 @@
         }
       },
       {
-        "endDate" : 1500928200,
-        "date" : 1500921900,
         "location" : "De Adelaarshorst, Deventer",
-        "home" : {
-          "name" : "Norway",
-          "shortest_name" : "NO",
-          "id" : 8,
-          "short_name" : "NOR",
-          "badges" : {
-            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/d9\/Flag_of_Norway.svg\/640px-Flag_of_Norway.svg.png",
-            "large" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/norway-fx.png"
-          },
-          "badge_url" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/norway-fx.png"
+        "score" : {
+          "away" : 0,
+          "home" : 0
         },
         "id" : 18,
+        "endDate" : 1500928200,
         "away" : {
           "name" : "Denmark",
           "shortest_name" : "DK",
@@ -93,6 +85,18 @@
             "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
           },
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
+        },
+        "date" : 1500921900,
+        "home" : {
+          "name" : "Norway",
+          "shortest_name" : "NO",
+          "id" : 8,
+          "short_name" : "NOR",
+          "badges" : {
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/d9\/Flag_of_Norway.svg\/640px-Flag_of_Norway.svg.png",
+            "large" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/norway-fx.png"
+          },
+          "badge_url" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/norway-fx.png"
         }
       }
     ],
@@ -160,5 +164,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
   },
-  "edition" : 597
+  "edition" : 598
 }
