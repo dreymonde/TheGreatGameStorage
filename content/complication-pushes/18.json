@@ -1,0 +1,65 @@
+{
+  "location" : "De Adelaarshorst, Deventer",
+  "score" : {
+    "away" : 1,
+    "home" : 0
+  },
+  "id" : 18,
+  "stage_title" : "Group A, leg 3",
+  "endDate" : 1500928200,
+  "away" : {
+    "name" : "Denmark",
+    "shortest_name" : "DK",
+    "id" : 13,
+    "short_name" : "DEN",
+    "badges" : {
+      "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/9c\/Flag_of_Denmark.svg\/634px-Flag_of_Denmark.svg.png",
+      "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
+    },
+    "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
+  },
+  "date" : 1500921900,
+  "home" : {
+    "name" : "Norway",
+    "shortest_name" : "NO",
+    "id" : 8,
+    "short_name" : "NOR",
+    "badges" : {
+      "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/d9\/Flag_of_Norway.svg\/640px-Flag_of_Norway.svg.png",
+      "large" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/norway-fx.png"
+    },
+    "badge_url" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/norway-fx.png"
+  },
+  "events" : [
+    {
+      "match_minute" : -2,
+      "type" : "info",
+      "text" : "Location: De Adelaarshorst, Deventer",
+      "real_minute" : -2
+    },
+    {
+      "match_minute" : 0,
+      "type" : "start",
+      "text" : "",
+      "real_minute" : 0
+    },
+    {
+      "match_minute" : 5,
+      "type" : "goal_away",
+      "text" : "That's a quick goal! Veje is the scorer",
+      "real_minute" : 5
+    },
+    {
+      "match_minute" : 5,
+      "type" : "info",
+      "text" : "🇩🇰 Denmark are through if they win only if Belgium do not win OR if Belgium win by a margin or two goals or more OR if Belgium win 1-0 and Denmark win by a scoreline other than 1-0. If Belgium win 1-0 and Denmark win 2-0 would mean disciplinary points, eventually coefficients to decide who finishes first and second. Denmark are through with a draw if Belgium lose or draw. Denmark are out if they lose. - UEFA.com",
+      "real_minute" : 5
+    },
+    {
+      "match_minute" : 10,
+      "type" : "info",
+      "text" : "🇳🇴 Norway must win by a three-goal margin and hope Belgium lose if they want to reach the quarter-finals.",
+      "real_minute" : 10
+    }
+  ]
+}
