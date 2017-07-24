@@ -1450,6 +1450,12 @@
             "type" : "end",
             "text" : "Denmark is officially in the playoffs! Norway unexpectedly finishes last",
             "real_minute" : 122
+          },
+          {
+            "match_minute" : 105,
+            "type" : "info",
+            "text" : "🇳🇴 They tried, but, unfortunately, at this Euro Norway team did not show their best. They're going home, but this tournament will definetely make them stronger.",
+            "real_minute" : 121
           }
         ]
       },
@@ -1936,5 +1942,5 @@
       }
     ]
   },
-  "edition" : 640
+  "edition" : 644
 }
