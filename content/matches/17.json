@@ -49,8 +49,14 @@
         "type" : "info",
         "text" : "🇳🇱 Netherlands are through as group winners with a draw. They can only be knocked out if they lose to Belgium and Denmark win. Even then the Netherlands will be through if they lose by a one-goal margin other than 1-0 regardless of the Denmark score. If Belgium win 1-0 and Denmark win 1-0 then the Netherlands and Denmark will be split on disciplinary points, or then on coefficient, which favours Denmark. - UEFA.com",
         "real_minute" : 5
+      },
+      {
+        "match_minute" : 10,
+        "type" : "info",
+        "text" : "🇧🇪 Belgium are through with a win by any scoreline (even if they win 1-0 and Denmark win, Belgium would be at worst second due to overall goal difference or on head-to-head with the Netherlands). If Belgium win 1-0 and Denmark win 2-0 would mean disciplinary points, eventually coefficients to decide who finishes first and second. Belgium will be through with a draw if Denmark do not win. Belgium can afford to lose if Denmark lose by a margin of one or two goals (if Norway win by three and Belgium lose, Norway finish second). - UEFA.com",
+        "real_minute" : 10
       }
     ]
   },
-  "edition" : 607
+  "edition" : 608
 }
