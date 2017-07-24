@@ -74,7 +74,7 @@
           "home" : 0
         },
         "id" : 18,
-        "endDate" : 1500928200,
+        "endDate" : 1500929220,
         "away" : {
           "name" : "Denmark",
           "shortest_name" : "DK",
@@ -164,5 +164,5 @@
     },
     "badge_url" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/norway-fx.png"
   },
-  "edition" : 639
+  "edition" : 640
 }
