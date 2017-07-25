@@ -660,7 +660,7 @@
             "location" : "De Vijverberg, Doetinchem",
             "score" : {
               "away" : 2,
-              "home" : 1
+              "home" : 2
             },
             "id" : 20,
             "endDate" : 1501014600,
@@ -1031,5 +1031,5 @@
       }
     ]
   },
-  "edition" : 684
+  "edition" : 687
 }

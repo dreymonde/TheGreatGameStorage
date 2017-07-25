@@ -3,7 +3,7 @@
     "location" : "De Vijverberg, Doetinchem",
     "score" : {
       "away" : 2,
-      "home" : 1
+      "home" : 2
     },
     "id" : 20,
     "stage_title" : "Group B, leg 3",
@@ -85,8 +85,14 @@
         "type" : "halftime_end",
         "text" : "The second half is on.",
         "real_minute" : 64
+      },
+      {
+        "match_minute" : 47,
+        "type" : "goal_home",
+        "text" : "And the score is even again! Goal by Stina Blackstenius",
+        "real_minute" : 66
       }
     ]
   },
-  "edition" : 684
+  "edition" : 687
 }
