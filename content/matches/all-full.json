@@ -1480,7 +1480,7 @@
       {
         "location" : "Stadion Galgenwaard, Utrecht",
         "score" : {
-          "away" : 0,
+          "away" : 1,
           "home" : 0
         },
         "id" : 19,
@@ -1527,6 +1527,12 @@
             "type" : "info",
             "text" : "🇷🇺 Russia are through if they win and out with any other result. They top the group if they win and Sweden do not. - UEFA.com",
             "real_minute" : 3
+          },
+          {
+            "match_minute" : 10,
+            "type" : "goal_away",
+            "text" : "Peter scores from the penalty spot",
+            "real_minute" : 11
           }
         ]
       },
@@ -1998,5 +2004,5 @@
       }
     ]
   },
-  "edition" : 664
+  "edition" : 665
 }
