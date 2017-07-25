@@ -1,0 +1,101 @@
+{
+  "location" : "De Vijverberg, Doetinchem",
+  "score" : {
+    "away" : 3,
+    "home" : 2
+  },
+  "id" : 20,
+  "stage_title" : "Group B, leg 3",
+  "endDate" : 1501014600,
+  "away" : {
+    "name" : "Italy",
+    "shortest_name" : "IT",
+    "id" : 5,
+    "short_name" : "ITA",
+    "badges" : {
+      "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/0\/03\/Flag_of_Italy.svg\/640px-Flag_of_Italy.svg.png",
+      "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
+    },
+    "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
+  },
+  "date" : 1501008300,
+  "home" : {
+    "name" : "Sweden",
+    "shortest_name" : "SE",
+    "id" : 1,
+    "short_name" : "SWE",
+    "badges" : {
+      "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4c\/Flag_of_Sweden.svg\/640px-Flag_of_Sweden.svg.png",
+      "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/35\/Sweden_national_football_team_logo.png"
+    },
+    "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/35\/Sweden_national_football_team_logo.png"
+  },
+  "events" : [
+    {
+      "match_minute" : -2,
+      "type" : "info",
+      "text" : "Location: De Vijverberg, Doetinchem",
+      "real_minute" : -2
+    },
+    {
+      "match_minute" : 0,
+      "type" : "start",
+      "text" : "A draw will work for Sweden, Italy is already out of chances.",
+      "real_minute" : 1
+    },
+    {
+      "match_minute" : 4,
+      "type" : "goal_away",
+      "text" : "Goal by Sabatino!",
+      "real_minute" : 5
+    },
+    {
+      "match_minute" : 5,
+      "type" : "info",
+      "text" : "🇸🇪 Sweden are through with a draw or if Russia fail to win. If Sweden and Germany finish level on points they will be split on overall goal difference, then overall goals scored, then disciplinary. If all those things are level, Germany have the superior coefficient. - UEFA.com",
+      "real_minute" : 5
+    },
+    {
+      "match_minute" : 14,
+      "type" : "goal_home",
+      "text" : "Lotta Schelin equalises!",
+      "real_minute" : 15
+    },
+    {
+      "match_minute" : 16,
+      "type" : "info",
+      "text" : "🇮🇹 Italy are out and will finish fourth in the group.",
+      "real_minute" : 17
+    },
+    {
+      "match_minute" : 37,
+      "type" : "goal_away",
+      "text" : "Italy is ahead again! Sabatino scores (again)",
+      "real_minute" : 38
+    },
+    {
+      "match_minute" : 45,
+      "type" : "halftime_start",
+      "text" : "A very interesting game so far. Italy is showing real strength.",
+      "real_minute" : 46
+    },
+    {
+      "match_minute" : 45,
+      "type" : "halftime_end",
+      "text" : "The second half is on.",
+      "real_minute" : 64
+    },
+    {
+      "match_minute" : 47,
+      "type" : "goal_home",
+      "text" : "And the score is even again! Goal by Stina Blackstenius",
+      "real_minute" : 66
+    },
+    {
+      "match_minute" : 85,
+      "type" : "goal_away",
+      "text" : "It ain't over yet! Girelli scores",
+      "real_minute" : 104
+    }
+  ]
+}

@@ -7,7 +7,7 @@
     },
     "id" : 19,
     "stage_title" : "Group B, leg 3",
-    "endDate" : 1501014600,
+    "endDate" : 1501015020,
     "away" : {
       "name" : "Germany",
       "shortest_name" : "DE",
@@ -79,8 +79,14 @@
         "type" : "goal_away",
         "text" : "Goal from Marozsán",
         "real_minute" : 75
+      },
+      {
+        "match_minute" : 93,
+        "type" : "end",
+        "text" : "Full time. Germany is going through.",
+        "real_minute" : 112
       }
     ]
   },
-  "edition" : 693
+  "edition" : 696
 }

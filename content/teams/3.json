@@ -74,7 +74,7 @@
           "home" : 0
         },
         "id" : 19,
-        "endDate" : 1501014600,
+        "endDate" : 1501015020,
         "away" : {
           "name" : "Germany",
           "shortest_name" : "DE",
@@ -164,5 +164,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
   },
-  "edition" : 693
+  "edition" : 696
 }

@@ -584,7 +584,7 @@
           "home" : 0
         },
         "id" : 19,
-        "endDate" : 1501014600,
+        "endDate" : 1501015020,
         "away" : {
           "name" : "Germany",
           "shortest_name" : "DE",
@@ -616,7 +616,7 @@
           "home" : 2
         },
         "id" : 20,
-        "endDate" : 1501014600,
+        "endDate" : 1501015020,
         "away" : {
           "name" : "Italy",
           "shortest_name" : "IT",
@@ -951,5 +951,5 @@
       }
     ]
   },
-  "edition" : 693
+  "edition" : 696
 }
