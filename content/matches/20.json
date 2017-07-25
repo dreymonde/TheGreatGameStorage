@@ -61,8 +61,14 @@
         "type" : "goal_home",
         "text" : "Lotta Schelin equalises!",
         "real_minute" : 15
+      },
+      {
+        "match_minute" : 16,
+        "type" : "info",
+        "text" : "🇮🇹 Italy are out and will finish fourth in the group.",
+        "real_minute" : 17
       }
     ]
   },
-  "edition" : 669
+  "edition" : 672
 }
