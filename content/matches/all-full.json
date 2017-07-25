@@ -1480,7 +1480,7 @@
       {
         "location" : "Stadion Galgenwaard, Utrecht",
         "score" : {
-          "away" : 1,
+          "away" : 2,
           "home" : 0
         },
         "id" : 19,
@@ -1551,6 +1551,12 @@
             "type" : "halftime_end",
             "text" : "The second half is on.",
             "real_minute" : 64
+          },
+          {
+            "match_minute" : 56,
+            "type" : "goal_away",
+            "text" : "Goal from Marozsán",
+            "real_minute" : 75
           }
         ]
       },
@@ -2058,5 +2064,5 @@
       }
     ]
   },
-  "edition" : 687
+  "edition" : 690
 }
