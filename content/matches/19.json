@@ -43,8 +43,14 @@
         "type" : "start",
         "text" : "Start of the game. Russia needs victory, for Germany draw will be enough.",
         "real_minute" : 1
+      },
+      {
+        "match_minute" : 3,
+        "type" : "info",
+        "text" : "🇷🇺 Russia are through if they win and out with any other result. They top the group if they win and Sweden do not. - UEFA.com",
+        "real_minute" : 3
       }
     ]
   },
-  "edition" : 659
+  "edition" : 663
 }
