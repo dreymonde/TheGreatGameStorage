@@ -616,7 +616,7 @@
           "home" : 1
         },
         "id" : 20,
-        "endDate" : 1501017000,
+        "endDate" : 1501014600,
         "away" : {
           "name" : "Italy",
           "shortest_name" : "IT",
@@ -951,5 +951,5 @@
       }
     ]
   },
-  "edition" : 683
+  "edition" : 684
 }

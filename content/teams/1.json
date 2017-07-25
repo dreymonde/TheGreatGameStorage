@@ -74,7 +74,7 @@
           "home" : 1
         },
         "id" : 20,
-        "endDate" : 1501017000,
+        "endDate" : 1501014600,
         "away" : {
           "name" : "Italy",
           "shortest_name" : "IT",
@@ -164,5 +164,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/35\/Sweden_national_football_team_logo.png"
   },
-  "edition" : 683
+  "edition" : 684
 }

@@ -1562,7 +1562,7 @@
         },
         "id" : 20,
         "stage_title" : "Group B, leg 3",
-        "endDate" : 1501017000,
+        "endDate" : 1501014600,
         "away" : {
           "name" : "Italy",
           "shortest_name" : "IT",
@@ -1637,7 +1637,7 @@
           },
           {
             "match_minute" : 45,
-            "type" : "halftime_start",
+            "type" : "halftime_end",
             "text" : "The second half is on.",
             "real_minute" : 64
           }
@@ -2052,5 +2052,5 @@
       }
     ]
   },
-  "edition" : 683
+  "edition" : 684
 }
