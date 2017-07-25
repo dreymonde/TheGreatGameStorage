@@ -1545,7 +1545,7 @@
       {
         "location" : "De Vijverberg, Doetinchem",
         "score" : {
-          "away" : 1,
+          "away" : 2,
           "home" : 1
         },
         "id" : 20,
@@ -1610,6 +1610,12 @@
             "type" : "info",
             "text" : "🇮🇹 Italy are out and will finish fourth in the group.",
             "real_minute" : 17
+          },
+          {
+            "match_minute" : 37,
+            "type" : "goal_away",
+            "text" : "Italy is ahead again! Sabatino scores (again)",
+            "real_minute" : 38
           }
         ]
       },
@@ -2022,5 +2028,5 @@
       }
     ]
   },
-  "edition" : 672
+  "edition" : 674
 }
