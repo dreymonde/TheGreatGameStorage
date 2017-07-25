@@ -85,8 +85,20 @@
         "type" : "end",
         "text" : "Full time. Germany is going through.",
         "real_minute" : 112
+      },
+      {
+        "match_minute" : 95,
+        "type" : "info",
+        "text" : "🇷🇺 In this group, Russia needed to pull off a miracle to go through. The miracle did not happen. And although they lost to Sweden and Germany, they certianly did not let their fans down.",
+        "real_minute" : 114
+      },
+      {
+        "match_minute" : 97,
+        "type" : "info",
+        "text" : "🇩🇪 Probably nobody is surprised by that. Germany, eight-time Euro winner, is finishing first in Group B.",
+        "real_minute" : 116
       }
     ]
   },
-  "edition" : 696
+  "edition" : 704
 }
