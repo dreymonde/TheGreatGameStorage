@@ -2,7 +2,7 @@
   "content" : {
     "location" : "De Vijverberg, Doetinchem",
     "score" : {
-      "away" : 2,
+      "away" : 3,
       "home" : 2
     },
     "id" : 20,
@@ -91,8 +91,14 @@
         "type" : "goal_home",
         "text" : "And the score is even again! Goal by Stina Blackstenius",
         "real_minute" : 66
+      },
+      {
+        "match_minute" : 85,
+        "type" : "goal_away",
+        "text" : "It ain't over yet! Girelli scores",
+        "real_minute" : 104
       }
     ]
   },
-  "edition" : 690
+  "edition" : 693
 }

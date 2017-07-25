@@ -1,0 +1,83 @@
+{
+  "location" : "Stadion Galgenwaard, Utrecht",
+  "score" : {
+    "away" : 2,
+    "home" : 0
+  },
+  "id" : 19,
+  "stage_title" : "Group B, leg 3",
+  "endDate" : 1501014600,
+  "away" : {
+    "name" : "Germany",
+    "shortest_name" : "DE",
+    "id" : 3,
+    "short_name" : "GER",
+    "badges" : {
+      "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/b\/ba\/Flag_of_Germany.svg\/800px-Flag_of_Germany.svg.png",
+      "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
+    },
+    "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
+  },
+  "date" : 1501008300,
+  "home" : {
+    "name" : "Russia",
+    "shortest_name" : "RU",
+    "id" : 4,
+    "short_name" : "RUS",
+    "badges" : {
+      "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/f\/f3\/Flag_of_Russia.svg\/640px-Flag_of_Russia.svg.png",
+      "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/77\/Russian_Football_Union.png"
+    },
+    "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/77\/Russian_Football_Union.png"
+  },
+  "events" : [
+    {
+      "match_minute" : -2,
+      "type" : "info",
+      "text" : "Location: Stadion Galgenwaard, Utrecht",
+      "real_minute" : -2
+    },
+    {
+      "match_minute" : 0,
+      "type" : "start",
+      "text" : "Start of the game. Russia needs victory, for Germany draw will be enough.",
+      "real_minute" : 1
+    },
+    {
+      "match_minute" : 3,
+      "type" : "info",
+      "text" : "🇷🇺 Russia are through if they win and out with any other result. They top the group if they win and Sweden do not. - UEFA.com",
+      "real_minute" : 3
+    },
+    {
+      "match_minute" : 10,
+      "type" : "goal_away",
+      "text" : "Peter scores from the penalty spot",
+      "real_minute" : 11
+    },
+    {
+      "match_minute" : 12,
+      "type" : "info",
+      "text" : "🇩🇪 Germany are through with a draw. If Germany lose, they need Sweden to also be beaten, when second place (meaning a game against Denmark rather than the Netherlsnds) will be decided by overall goal difference, then overall goals scored, then disciplinary. If all those things are level, Germany have the superior coefficient. - UEFA.com",
+      "real_minute" : 12
+    },
+    {
+      "match_minute" : 48,
+      "type" : "halftime_start",
+      "text" : "Half-time",
+      "real_minute" : 49
+    },
+    {
+      "match_minute" : 45,
+      "type" : "halftime_end",
+      "text" : "The second half is on.",
+      "real_minute" : 64
+    },
+    {
+      "match_minute" : 56,
+      "type" : "goal_away",
+      "text" : "Goal from Marozsán",
+      "real_minute" : 75
+    }
+  ]
+}
