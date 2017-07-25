@@ -5,15 +5,15 @@
     "stage_title" : "Quarter-finals, Day 1",
     "endDate" : 1501350300,
     "away" : {
-      "name" : "Group B runner-up",
-      "shortest_name" : "RB",
-      "id" : -2,
-      "short_name" : "RB",
+      "name" : "Sweden",
+      "shortest_name" : "SE",
+      "id" : 1,
+      "short_name" : "SWE",
       "badges" : {
-        "flag" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png",
-        "large" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+        "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4c\/Flag_of_Sweden.svg\/640px-Flag_of_Sweden.svg.png",
+        "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/35\/Sweden_national_football_team_logo.png"
       },
-      "badge_url" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+      "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/35\/Sweden_national_football_team_logo.png"
     },
     "date" : 1501344000,
     "home" : {
@@ -36,5 +36,5 @@
       }
     ]
   },
-  "edition" : 704
+  "edition" : 707
 }

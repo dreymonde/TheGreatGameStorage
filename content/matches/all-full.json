@@ -1682,6 +1682,12 @@
             "type" : "end",
             "text" : "Full time. The last moment of joy for Italian team.",
             "real_minute" : 112
+          },
+          {
+            "match_minute" : 95,
+            "type" : "info",
+            "text" : "🇸🇪 Sweden showed a decent skill in their game. They're finishing second in Group B and will face Netherlands in quarter-finals.",
+            "real_minute" : 114
           }
         ]
       },
@@ -1839,15 +1845,15 @@
         "stage_title" : "Quarter-finals, Day 1",
         "endDate" : 1501350300,
         "away" : {
-          "name" : "Group B runner-up",
-          "shortest_name" : "RB",
-          "id" : -2,
-          "short_name" : "RB",
+          "name" : "Sweden",
+          "shortest_name" : "SE",
+          "id" : 1,
+          "short_name" : "SWE",
           "badges" : {
-            "flag" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png",
-            "large" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4c\/Flag_of_Sweden.svg\/640px-Flag_of_Sweden.svg.png",
+            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/35\/Sweden_national_football_team_logo.png"
           },
-          "badge_url" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/35\/Sweden_national_football_team_logo.png"
         },
         "date" : 1501344000,
         "home" : {
@@ -1888,15 +1894,15 @@
         },
         "date" : 1501353900,
         "home" : {
-          "name" : "Group B winner",
-          "shortest_name" : "WB",
-          "id" : -3,
-          "short_name" : "WB",
+          "name" : "Germany",
+          "shortest_name" : "DE",
+          "id" : 3,
+          "short_name" : "GER",
           "badges" : {
-            "flag" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png",
-            "large" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/b\/ba\/Flag_of_Germany.svg\/800px-Flag_of_Germany.svg.png",
+            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
           },
-          "badge_url" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
         },
         "events" : [
           {
@@ -2094,5 +2100,5 @@
       }
     ]
   },
-  "edition" : 704
+  "edition" : 707
 }

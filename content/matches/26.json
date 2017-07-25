@@ -17,15 +17,15 @@
     },
     "date" : 1501353900,
     "home" : {
-      "name" : "Group B winner",
-      "shortest_name" : "WB",
-      "id" : -3,
-      "short_name" : "WB",
+      "name" : "Germany",
+      "shortest_name" : "DE",
+      "id" : 3,
+      "short_name" : "GER",
       "badges" : {
-        "flag" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png",
-        "large" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+        "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/b\/ba\/Flag_of_Germany.svg\/800px-Flag_of_Germany.svg.png",
+        "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
       },
-      "badge_url" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+      "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
     },
     "events" : [
       {
@@ -36,5 +36,5 @@
       }
     ]
   },
-  "edition" : 704
+  "edition" : 707
 }

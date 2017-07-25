@@ -103,8 +103,14 @@
         "type" : "end",
         "text" : "Full time. The last moment of joy for Italian team.",
         "real_minute" : 112
+      },
+      {
+        "match_minute" : 95,
+        "type" : "info",
+        "text" : "🇸🇪 Sweden showed a decent skill in their game. They're finishing second in Group B and will face Netherlands in quarter-finals.",
+        "real_minute" : 114
       }
     ]
   },
-  "edition" : 704
+  "edition" : 707
 }
