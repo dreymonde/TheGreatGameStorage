@@ -72,6 +72,12 @@
       "type" : "goal_away",
       "text" : "Italy is ahead again! Sabatino scores (again)",
       "real_minute" : 38
+    },
+    {
+      "match_minute" : 45,
+      "type" : "halftime_start",
+      "text" : "A very interesting game so far. Italy is showing real strength.",
+      "real_minute" : 46
     }
   ]
 }
