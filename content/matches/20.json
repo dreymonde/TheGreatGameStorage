@@ -2,7 +2,7 @@
   "content" : {
     "location" : "De Vijverberg, Doetinchem",
     "score" : {
-      "away" : 0,
+      "away" : 1,
       "home" : 0
     },
     "id" : 20,
@@ -43,8 +43,14 @@
         "type" : "start",
         "text" : "A draw will work for Sweden, Italy is already out of chances.",
         "real_minute" : 1
+      },
+      {
+        "match_minute" : 4,
+        "type" : "goal_away",
+        "text" : "Goal by Sabatino!",
+        "real_minute" : 5
       }
     ]
   },
-  "edition" : 658
+  "edition" : 659
 }
