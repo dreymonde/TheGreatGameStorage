@@ -578,21 +578,13 @@
         }
       },
       {
-        "endDate" : 1501014600,
-        "date" : 1501008300,
         "location" : "Stadion Galgenwaard, Utrecht",
-        "home" : {
-          "name" : "Russia",
-          "shortest_name" : "RU",
-          "id" : 4,
-          "short_name" : "RUS",
-          "badges" : {
-            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/f\/f3\/Flag_of_Russia.svg\/640px-Flag_of_Russia.svg.png",
-            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/77\/Russian_Football_Union.png"
-          },
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/77\/Russian_Football_Union.png"
+        "score" : {
+          "away" : 0,
+          "home" : 0
         },
         "id" : 19,
+        "endDate" : 1501014600,
         "away" : {
           "name" : "Germany",
           "shortest_name" : "DE",
@@ -603,24 +595,28 @@
             "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
           },
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
+        },
+        "date" : 1501008300,
+        "home" : {
+          "name" : "Russia",
+          "shortest_name" : "RU",
+          "id" : 4,
+          "short_name" : "RUS",
+          "badges" : {
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/f\/f3\/Flag_of_Russia.svg\/640px-Flag_of_Russia.svg.png",
+            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/77\/Russian_Football_Union.png"
+          },
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/77\/Russian_Football_Union.png"
         }
       },
       {
-        "endDate" : 1501014600,
-        "date" : 1501008300,
         "location" : "De Vijverberg, Doetinchem",
-        "home" : {
-          "name" : "Sweden",
-          "shortest_name" : "SE",
-          "id" : 1,
-          "short_name" : "SWE",
-          "badges" : {
-            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4c\/Flag_of_Sweden.svg\/640px-Flag_of_Sweden.svg.png",
-            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/35\/Sweden_national_football_team_logo.png"
-          },
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/35\/Sweden_national_football_team_logo.png"
+        "score" : {
+          "away" : 0,
+          "home" : 0
         },
         "id" : 20,
+        "endDate" : 1501014600,
         "away" : {
           "name" : "Italy",
           "shortest_name" : "IT",
@@ -631,6 +627,18 @@
             "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
           },
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
+        },
+        "date" : 1501008300,
+        "home" : {
+          "name" : "Sweden",
+          "shortest_name" : "SE",
+          "id" : 1,
+          "short_name" : "SWE",
+          "badges" : {
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4c\/Flag_of_Sweden.svg\/640px-Flag_of_Sweden.svg.png",
+            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/35\/Sweden_national_football_team_logo.png"
+          },
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/35\/Sweden_national_football_team_logo.png"
         }
       },
       {
@@ -943,5 +951,5 @@
       }
     ]
   },
-  "edition" : 653
+  "edition" : 658
 }
