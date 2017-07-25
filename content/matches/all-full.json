@@ -1546,7 +1546,7 @@
         "location" : "De Vijverberg, Doetinchem",
         "score" : {
           "away" : 1,
-          "home" : 0
+          "home" : 1
         },
         "id" : 20,
         "stage_title" : "Group B, leg 3",
@@ -1598,6 +1598,12 @@
             "type" : "info",
             "text" : "🇸🇪 Sweden are through with a draw or if Russia fail to win. If Sweden and Germany finish level on points they will be split on overall goal difference, then overall goals scored, then disciplinary. If all those things are level, Germany have the superior coefficient. - UEFA.com",
             "real_minute" : 5
+          },
+          {
+            "match_minute" : 14,
+            "type" : "goal_home",
+            "text" : "Lotta Schelin equalises!",
+            "real_minute" : 15
           }
         ]
       },
@@ -2010,5 +2016,5 @@
       }
     ]
   },
-  "edition" : 668
+  "edition" : 669
 }
