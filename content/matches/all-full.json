@@ -1556,7 +1556,7 @@
         },
         "id" : 20,
         "stage_title" : "Group B, leg 3",
-        "endDate" : 1501014600,
+        "endDate" : 1501017000,
         "away" : {
           "name" : "Italy",
           "shortest_name" : "IT",
@@ -1628,6 +1628,12 @@
             "type" : "halftime_start",
             "text" : "A very interesting game so far. Italy is showing real strength.",
             "real_minute" : 46
+          },
+          {
+            "match_minute" : 45,
+            "type" : "halftime_start",
+            "text" : "The second half is on.",
+            "real_minute" : 64
           }
         ]
       },
@@ -2040,5 +2046,5 @@
       }
     ]
   },
-  "edition" : 679
+  "edition" : 682
 }

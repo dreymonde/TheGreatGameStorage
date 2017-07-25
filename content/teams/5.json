@@ -74,7 +74,7 @@
           "home" : 1
         },
         "id" : 20,
-        "endDate" : 1501014600,
+        "endDate" : 1501017000,
         "away" : {
           "name" : "Italy",
           "shortest_name" : "IT",
@@ -164,5 +164,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/97\/FIGC_logo.svg\/414px-FIGC_logo.svg.png"
   },
-  "edition" : 679
+  "edition" : 682
 }
