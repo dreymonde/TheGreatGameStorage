@@ -7,7 +7,7 @@
     },
     "id" : 21,
     "stage_title" : "Group C, leg 3",
-    "endDate" : 1501101000,
+    "endDate" : 1501101420,
     "away" : {
       "name" : "France",
       "shortest_name" : "FR",
@@ -85,8 +85,14 @@
         "type" : "goal_away",
         "text" : "France is back! Abily equalises",
         "real_minute" : 93
+      },
+      {
+        "match_minute" : 95,
+        "type" : "end",
+        "text" : "France is going through!",
+        "real_minute" : 112
       }
     ]
   },
-  "edition" : 745
+  "edition" : 750
 }

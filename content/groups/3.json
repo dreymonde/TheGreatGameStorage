@@ -136,7 +136,7 @@
           "home" : 1
         },
         "id" : 21,
-        "endDate" : 1501101000,
+        "endDate" : 1501101420,
         "away" : {
           "name" : "France",
           "shortest_name" : "FR",
@@ -247,5 +247,5 @@
     ],
     "id" : 3
   },
-  "edition" : 745
+  "edition" : 750
 }
