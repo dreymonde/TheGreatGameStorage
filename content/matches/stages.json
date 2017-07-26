@@ -694,21 +694,13 @@
       {
         "matches" : [
           {
-            "endDate" : 1501101000,
-            "date" : 1501094700,
             "location" : "Rat Verlegh Stadion, Breda",
-            "home" : {
-              "name" : "Switzerland",
-              "shortest_name" : "CH",
-              "id" : 10,
-              "short_name" : "SUI",
-              "badges" : {
-                "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/92\/Civil_Ensign_of_Switzerland_%28Pantone%29.svg\/640px-Civil_Ensign_of_Switzerland_%28Pantone%29.svg.png",
-                "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/53\/SFV_Logo.svg\/640px-SFV_Logo.svg.png"
-              },
-              "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/53\/SFV_Logo.svg\/640px-SFV_Logo.svg.png"
+            "score" : {
+              "away" : 0,
+              "home" : 0
             },
             "id" : 21,
+            "endDate" : 1501101000,
             "away" : {
               "name" : "France",
               "shortest_name" : "FR",
@@ -719,24 +711,28 @@
                 "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/96\/Le_nouveau_logo_FFF.png"
               },
               "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/96\/Le_nouveau_logo_FFF.png"
+            },
+            "date" : 1501094700,
+            "home" : {
+              "name" : "Switzerland",
+              "shortest_name" : "CH",
+              "id" : 10,
+              "short_name" : "SUI",
+              "badges" : {
+                "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/92\/Civil_Ensign_of_Switzerland_%28Pantone%29.svg\/640px-Civil_Ensign_of_Switzerland_%28Pantone%29.svg.png",
+                "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/53\/SFV_Logo.svg\/640px-SFV_Logo.svg.png"
+              },
+              "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/53\/SFV_Logo.svg\/640px-SFV_Logo.svg.png"
             }
           },
           {
-            "endDate" : 1501101000,
-            "date" : 1501094700,
             "location" : "Sparta Stadion Het Kasteel, Rotterdam",
-            "home" : {
-              "name" : "Iceland",
-              "shortest_name" : "IS",
-              "id" : 11,
-              "short_name" : "ISL",
-              "badges" : {
-                "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/ce\/Flag_of_Iceland.svg\/640px-Flag_of_Iceland.svg.png",
-                "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a5\/Iceland_FA.png"
-              },
-              "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a5\/Iceland_FA.png"
+            "score" : {
+              "away" : 0,
+              "home" : 0
             },
             "id" : 22,
+            "endDate" : 1501101000,
             "away" : {
               "name" : "Austria",
               "shortest_name" : "AT",
@@ -747,6 +743,18 @@
                 "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/14\/%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg\/640px-%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg.png"
               },
               "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/14\/%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg\/640px-%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg.png"
+            },
+            "date" : 1501094700,
+            "home" : {
+              "name" : "Iceland",
+              "shortest_name" : "IS",
+              "id" : 11,
+              "short_name" : "ISL",
+              "badges" : {
+                "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/ce\/Flag_of_Iceland.svg\/640px-Flag_of_Iceland.svg.png",
+                "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a5\/Iceland_FA.png"
+              },
+              "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a5\/Iceland_FA.png"
             }
           }
         ],
@@ -1031,5 +1039,5 @@
       }
     ]
   },
-  "edition" : 708
+  "edition" : 710
 }

@@ -68,21 +68,13 @@
         }
       },
       {
-        "endDate" : 1501101000,
-        "date" : 1501094700,
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
-        "home" : {
-          "name" : "Iceland",
-          "shortest_name" : "IS",
-          "id" : 11,
-          "short_name" : "ISL",
-          "badges" : {
-            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/ce\/Flag_of_Iceland.svg\/640px-Flag_of_Iceland.svg.png",
-            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a5\/Iceland_FA.png"
-          },
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a5\/Iceland_FA.png"
+        "score" : {
+          "away" : 0,
+          "home" : 0
         },
         "id" : 22,
+        "endDate" : 1501101000,
         "away" : {
           "name" : "Austria",
           "shortest_name" : "AT",
@@ -93,6 +85,18 @@
             "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/14\/%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg\/640px-%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg.png"
           },
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/14\/%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg\/640px-%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg.png"
+        },
+        "date" : 1501094700,
+        "home" : {
+          "name" : "Iceland",
+          "shortest_name" : "IS",
+          "id" : 11,
+          "short_name" : "ISL",
+          "badges" : {
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/ce\/Flag_of_Iceland.svg\/640px-Flag_of_Iceland.svg.png",
+            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a5\/Iceland_FA.png"
+          },
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a5\/Iceland_FA.png"
         }
       }
     ],
@@ -160,5 +164,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/14\/%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg\/640px-%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg.png"
   },
-  "edition" : 708
+  "edition" : 710
 }

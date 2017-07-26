@@ -1693,6 +1693,10 @@
       },
       {
         "location" : "Rat Verlegh Stadion, Breda",
+        "score" : {
+          "away" : 0,
+          "home" : 0
+        },
         "id" : 21,
         "stage_title" : "Group C, leg 3",
         "endDate" : 1501101000,
@@ -1725,11 +1729,21 @@
             "type" : "info",
             "text" : "Location: Rat Verlegh Stadion, Breda",
             "real_minute" : -2
+          },
+          {
+            "match_minute" : 0,
+            "type" : "start",
+            "text" : "",
+            "real_minute" : 1
           }
         ]
       },
       {
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
+        "score" : {
+          "away" : 0,
+          "home" : 0
+        },
         "id" : 22,
         "stage_title" : "Group C, leg 3",
         "endDate" : 1501101000,
@@ -1762,6 +1776,12 @@
             "type" : "info",
             "text" : "Location: Sparta Stadion Het Kasteel, Rotterdam",
             "real_minute" : -2
+          },
+          {
+            "match_minute" : 0,
+            "type" : "start",
+            "text" : "",
+            "real_minute" : 1
           }
         ]
       },
@@ -2100,5 +2120,5 @@
       }
     ]
   },
-  "edition" : 708
+  "edition" : 710
 }
