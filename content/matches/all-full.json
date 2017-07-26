@@ -1788,7 +1788,7 @@
         },
         "id" : 22,
         "stage_title" : "Group C, leg 3",
-        "endDate" : 1501101000,
+        "endDate" : 1501101300,
         "away" : {
           "name" : "Austria",
           "shortest_name" : "AT",
@@ -1862,10 +1862,16 @@
             "real_minute" : 62
           },
           {
-            "match_minute" : 89,
+            "match_minute" : 90,
             "type" : "goal_away",
             "text" : "Enzinger makes it 3:0",
             "real_minute" : 106
+          },
+          {
+            "match_minute" : 93,
+            "type" : "end",
+            "text" : "Austria is going to quarter-finals!",
+            "real_minute" : 110
           }
         ]
       },
@@ -2204,5 +2210,5 @@
       }
     ]
   },
-  "edition" : 742
+  "edition" : 745
 }
