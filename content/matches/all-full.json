@@ -1783,6 +1783,12 @@
             "type" : "end",
             "text" : "France is going through!",
             "real_minute" : 112
+          },
+          {
+            "match_minute" : 97,
+            "type" : "info",
+            "text" : "🇨🇭 Switzerland was so close, but France is surely not an easy opponent. As for their first Euro, Swiss team showed a very decent game.",
+            "real_minute" : 114
           }
         ]
       },
@@ -1878,6 +1884,12 @@
             "type" : "end",
             "text" : "Austria is going to quarter-finals!",
             "real_minute" : 110
+          },
+          {
+            "match_minute" : 97,
+            "type" : "info",
+            "text" : "🇦🇹 Austria is a small surprise of this Euro. They showed themselves as fighters, and we're happy to see them in the quarter-finals!",
+            "real_minute" : 114
           }
         ]
       },
@@ -2216,5 +2228,5 @@
       }
     ]
   },
-  "edition" : 750
+  "edition" : 755
 }
