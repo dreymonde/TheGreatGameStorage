@@ -2,7 +2,7 @@
   "content" : {
     "location" : "Sparta Stadion Het Kasteel, Rotterdam",
     "score" : {
-      "away" : 1,
+      "away" : 2,
       "home" : 0
     },
     "id" : 22,
@@ -61,8 +61,14 @@
         "type" : "goal_away",
         "text" : "And that's a goal by Zadrazil!",
         "real_minute" : 36
+      },
+      {
+        "match_minute" : 44,
+        "type" : "goal_away",
+        "text" : "Second goal for Austria!",
+        "real_minute" : 44
       }
     ]
   },
-  "edition" : 723
+  "edition" : 727
 }
