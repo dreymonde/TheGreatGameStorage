@@ -1765,7 +1765,7 @@
       {
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "score" : {
-          "away" : 0,
+          "away" : 1,
           "home" : 0
         },
         "id" : 22,
@@ -1818,6 +1818,12 @@
             "type" : "info",
             "text" : "🇮🇸 Iceland are out and will finish fourth in the group. - UEFA.com",
             "real_minute" : 10
+          },
+          {
+            "match_minute" : 36,
+            "type" : "goal_away",
+            "text" : "And that's a goal by Zadrazil!",
+            "real_minute" : 36
           }
         ]
       },
@@ -2156,5 +2162,5 @@
       }
     ]
   },
-  "edition" : 722
+  "edition" : 723
 }
