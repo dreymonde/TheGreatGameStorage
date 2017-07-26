@@ -55,8 +55,14 @@
         "type" : "info",
         "text" : "🇨🇭 Switzerland are through if they win and out with any other result. They top the group if they win and Austria do not. - UEFA.com",
         "real_minute" : 10
+      },
+      {
+        "match_minute" : 17,
+        "type" : "info",
+        "text" : "Wow! That's a red card for Perisset (France)",
+        "real_minute" : 17
       }
     ]
   },
-  "edition" : 717
+  "edition" : 718
 }
