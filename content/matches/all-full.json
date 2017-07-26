@@ -1757,7 +1757,7 @@
           {
             "match_minute" : 19,
             "type" : "goal_home",
-            "text" : "Right after the red card for France, Crnogorčević scores!",
+            "text" : "Right after the red card for France, Crnogorčević scores with a beautiful header!",
             "real_minute" : 19
           }
         ]
@@ -2156,5 +2156,5 @@
       }
     ]
   },
-  "edition" : 719
+  "edition" : 722
 }
