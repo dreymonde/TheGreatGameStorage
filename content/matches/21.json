@@ -97,8 +97,14 @@
         "type" : "info",
         "text" : "🇨🇭 Switzerland was so close, but France is surely not an easy opponent. As for their first Euro, Swiss team showed a very decent game.",
         "real_minute" : 114
+      },
+      {
+        "match_minute" : 100,
+        "type" : "info",
+        "text" : "🇫🇷 Originally considered a favorite, France was on a brink of elimination. But the late goal by Camille Abily leads them to the quarter-finals.",
+        "real_minute" : 117
       }
     ]
   },
-  "edition" : 755
+  "edition" : 757
 }
