@@ -67,8 +67,14 @@
         "type" : "goal_home",
         "text" : "Right after the red card for France, Crnogorčević scores with a beautiful header!",
         "real_minute" : 19
+      },
+      {
+        "match_minute" : 46,
+        "type" : "halftime_start",
+        "text" : "Half-time",
+        "real_minute" : 46
       }
     ]
   },
-  "edition" : 727
+  "edition" : 730
 }
