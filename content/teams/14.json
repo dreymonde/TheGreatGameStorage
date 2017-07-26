@@ -98,6 +98,34 @@
           },
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a5\/Iceland_FA.png"
         }
+      },
+      {
+        "endDate" : 1501436700,
+        "date" : 1501430400,
+        "location" : "Koning Willem II Stadion, Tilburg",
+        "home" : {
+          "name" : "Austria",
+          "shortest_name" : "AT",
+          "id" : 14,
+          "short_name" : "AUT",
+          "badges" : {
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/41\/Flag_of_Austria.svg\/640px-Flag_of_Austria.svg.png",
+            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/14\/%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg\/640px-%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg.png"
+          },
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/14\/%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg\/640px-%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg.png"
+        },
+        "id" : 27,
+        "away" : {
+          "name" : "Group D runner-up",
+          "shortest_name" : "RD",
+          "id" : -6,
+          "short_name" : "RD",
+          "badges" : {
+            "flag" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png",
+            "large" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+          },
+          "badge_url" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+        }
       }
     ],
     "id" : 14,
@@ -113,7 +141,7 @@
       "title" : "Group C",
       "teams" : [
         {
-          "points" : 4,
+          "points" : 7,
           "name" : "Austria",
           "id" : 14,
           "short_name" : "AUT",
@@ -125,7 +153,7 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/14\/%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg\/640px-%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg.png"
         },
         {
-          "points" : 4,
+          "points" : 5,
           "name" : "France",
           "id" : 6,
           "short_name" : "FRA",
@@ -137,7 +165,7 @@
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/96\/Le_nouveau_logo_FFF.png"
         },
         {
-          "points" : 3,
+          "points" : 4,
           "name" : "Switzerland",
           "id" : 10,
           "short_name" : "SUI",
@@ -164,5 +192,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/14\/%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg\/640px-%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg.png"
   },
-  "edition" : 757
+  "edition" : 758
 }

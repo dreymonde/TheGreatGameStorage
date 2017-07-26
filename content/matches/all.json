@@ -822,15 +822,15 @@
         "date" : 1501430400,
         "location" : "Koning Willem II Stadion, Tilburg",
         "home" : {
-          "name" : "Group C winner",
-          "shortest_name" : "WC",
-          "id" : -5,
-          "short_name" : "WC",
+          "name" : "Austria",
+          "shortest_name" : "AT",
+          "id" : 14,
+          "short_name" : "AUT",
           "badges" : {
-            "flag" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png",
-            "large" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/41\/Flag_of_Austria.svg\/640px-Flag_of_Austria.svg.png",
+            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/14\/%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg\/640px-%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg.png"
           },
-          "badge_url" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/14\/%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg\/640px-%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg.png"
         },
         "id" : 27,
         "away" : {
@@ -862,15 +862,15 @@
         },
         "id" : 28,
         "away" : {
-          "name" : "Group C runner-up",
-          "shortest_name" : "RC",
-          "id" : -8,
-          "short_name" : "RC",
+          "name" : "France",
+          "shortest_name" : "FR",
+          "id" : 6,
+          "short_name" : "FRA",
           "badges" : {
-            "flag" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png",
-            "large" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/c\/c3\/Flag_of_France.svg\/640px-Flag_of_France.svg.png",
+            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/96\/Le_nouveau_logo_FFF.png"
           },
-          "badge_url" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/96\/Le_nouveau_logo_FFF.png"
         }
       },
       {
@@ -959,5 +959,5 @@
       }
     ]
   },
-  "edition" : 757
+  "edition" : 758
 }

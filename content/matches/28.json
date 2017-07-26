@@ -5,15 +5,15 @@
     "stage_title" : "Quarter-finals, Day 2",
     "endDate" : 1501446600,
     "away" : {
-      "name" : "Group C runner-up",
-      "shortest_name" : "RC",
-      "id" : -8,
-      "short_name" : "RC",
+      "name" : "France",
+      "shortest_name" : "FR",
+      "id" : 6,
+      "short_name" : "FRA",
       "badges" : {
-        "flag" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png",
-        "large" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+        "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/c\/c3\/Flag_of_France.svg\/640px-Flag_of_France.svg.png",
+        "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/96\/Le_nouveau_logo_FFF.png"
       },
-      "badge_url" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+      "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/96\/Le_nouveau_logo_FFF.png"
     },
     "date" : 1501440300,
     "home" : {
@@ -36,5 +36,5 @@
       }
     ]
   },
-  "edition" : 757
+  "edition" : 758
 }
