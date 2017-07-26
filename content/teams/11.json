@@ -70,7 +70,7 @@
       {
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "score" : {
-          "away" : 2,
+          "away" : 3,
           "home" : 0
         },
         "id" : 22,
@@ -164,5 +164,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a5\/Iceland_FA.png"
   },
-  "edition" : 737
+  "edition" : 742
 }

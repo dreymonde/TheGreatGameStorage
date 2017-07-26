@@ -1783,7 +1783,7 @@
       {
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "score" : {
-          "away" : 2,
+          "away" : 3,
           "home" : 0
         },
         "id" : 22,
@@ -1846,7 +1846,7 @@
           {
             "match_minute" : 44,
             "type" : "goal_away",
-            "text" : "Second goal for Austria!",
+            "text" : "Second goal for Austria! Burger scores",
             "real_minute" : 44
           },
           {
@@ -1860,6 +1860,12 @@
             "type" : "halftime_end",
             "text" : "",
             "real_minute" : 62
+          },
+          {
+            "match_minute" : 89,
+            "type" : "goal_away",
+            "text" : "Enzinger makes it 3:0",
+            "real_minute" : 106
           }
         ]
       },
@@ -2198,5 +2204,5 @@
       }
     ]
   },
-  "edition" : 737
+  "edition" : 742
 }
