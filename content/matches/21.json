@@ -47,16 +47,16 @@
       {
         "match_minute" : 5,
         "type" : "info",
-        "text" : "🇫🇷 France are through with a draw. If France lose, they need Austria to also be beaten, when second place will be decided by overall goal difference, then overall goals scored, the disciplinary. If all those things are level, France have the superior coefficient.",
+        "text" : "🇫🇷 France are through with a draw. If France lose, they need Austria to also be beaten, when second place will be decided by overall goal difference, then overall goals scored, the disciplinary. If all those things are level, France have the superior coefficient. - UEFA.com",
         "real_minute" : 5
       },
       {
         "match_minute" : 10,
         "type" : "info",
-        "text" : "🇨🇭 Switzerland are through if they win and out with any other result. They top the group if they win and Austria do not.",
+        "text" : "🇨🇭 Switzerland are through if they win and out with any other result. They top the group if they win and Austria do not. - UEFA.com",
         "real_minute" : 10
       }
     ]
   },
-  "edition" : 715
+  "edition" : 716
 }
