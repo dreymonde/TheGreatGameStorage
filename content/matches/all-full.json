@@ -1804,7 +1804,7 @@
           {
             "match_minute" : 10,
             "type" : "info",
-            "text" : "🇮🇸 Iceland are out and will finish fourth in the group.",
+            "text" : "🇮🇸 Iceland are out and will finish fourth in the group. - UEFA.com",
             "real_minute" : 10
           }
         ]
@@ -2144,5 +2144,5 @@
       }
     ]
   },
-  "edition" : 716
+  "edition" : 717
 }
