@@ -1694,7 +1694,7 @@
       {
         "location" : "Rat Verlegh Stadion, Breda",
         "score" : {
-          "away" : 0,
+          "away" : 1,
           "home" : 1
         },
         "id" : 21,
@@ -1771,6 +1771,12 @@
             "type" : "halftime_end",
             "text" : "Now to the second half",
             "real_minute" : 62
+          },
+          {
+            "match_minute" : 76,
+            "type" : "goal_away",
+            "text" : "France is back! Abily equalises",
+            "real_minute" : 93
           }
         ]
       },
@@ -2192,5 +2198,5 @@
       }
     ]
   },
-  "edition" : 733
+  "edition" : 737
 }
