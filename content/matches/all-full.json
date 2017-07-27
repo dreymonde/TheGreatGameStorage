@@ -1947,7 +1947,7 @@
           {
             "match_minute" : 7,
             "type" : "goal_away",
-            "text" : "After a huge goalkeeper's mistake, Williams scores",
+            "text" : "After a huge goalkeeper's mistake, Duggan scores",
             "real_minute" : 8
           }
         ]
@@ -2260,5 +2260,5 @@
       }
     ]
   },
-  "edition" : 767
+  "edition" : 768
 }
