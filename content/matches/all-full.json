@@ -2032,6 +2032,12 @@
             "type" : "goal_home",
             "text" : "That's a goal for Scotland! Weir scores",
             "real_minute" : 43
+          },
+          {
+            "match_minute" : 45,
+            "type" : "halftime_start",
+            "text" : "Half-time. Scotland must score at least one more to have a chance to proceed",
+            "real_minute" : 46
           }
         ]
       },
@@ -2296,5 +2302,5 @@
       }
     ]
   },
-  "edition" : 777
+  "edition" : 780
 }
