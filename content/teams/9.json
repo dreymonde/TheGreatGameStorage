@@ -71,7 +71,7 @@
         "location" : "De Adelaarshorst, Deventer",
         "score" : {
           "away" : 0,
-          "home" : 0
+          "home" : 1
         },
         "id" : 24,
         "endDate" : 1501187400,
@@ -164,5 +164,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/31\/Spain_National_Football_Team_badge.png"
   },
-  "edition" : 776
+  "edition" : 777
 }
