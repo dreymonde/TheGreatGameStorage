@@ -49,8 +49,14 @@
         "type" : "goal_away",
         "text" : "After a huge goalkeeper's mistake, Duggan scores",
         "real_minute" : 8
+      },
+      {
+        "match_minute" : 10,
+        "type" : "info",
+        "text" : "🇬🇧 England are through with a win, a draw or even a one or two-goal defeat, If England lose by three or more, they will be out if Spain win. If England lose 2-0 and Spain win, England would be at worst second ahead of Portugal on overall goal difference. - UEFA.com",
+        "real_minute" : 10
       }
     ]
   },
-  "edition" : 768
+  "edition" : 771
 }
