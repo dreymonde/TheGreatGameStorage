@@ -68,21 +68,13 @@
         }
       },
       {
-        "endDate" : 1501187400,
-        "date" : 1501181100,
         "location" : "Koning Willem II Stadion, Tilburg",
-        "home" : {
-          "name" : "Portugal",
-          "shortest_name" : "PT",
-          "id" : 16,
-          "short_name" : "POR",
-          "badges" : {
-            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/5c\/Flag_of_Portugal.svg\/640px-Flag_of_Portugal.svg.png",
-            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/5f\/Portuguese_Football_Federation.svg\/359px-Portuguese_Football_Federation.svg.png"
-          },
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/5f\/Portuguese_Football_Federation.svg\/359px-Portuguese_Football_Federation.svg.png"
+        "score" : {
+          "away" : 0,
+          "home" : 0
         },
         "id" : 23,
+        "endDate" : 1501187400,
         "away" : {
           "name" : "England",
           "shortest_name" : "EN",
@@ -93,6 +85,18 @@
             "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/38\/England_crest_2009.svg\/403px-England_crest_2009.svg.png"
           },
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/38\/England_crest_2009.svg\/403px-England_crest_2009.svg.png"
+        },
+        "date" : 1501181100,
+        "home" : {
+          "name" : "Portugal",
+          "shortest_name" : "PT",
+          "id" : 16,
+          "short_name" : "POR",
+          "badges" : {
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/5c\/Flag_of_Portugal.svg\/640px-Flag_of_Portugal.svg.png",
+            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/5f\/Portuguese_Football_Federation.svg\/359px-Portuguese_Football_Federation.svg.png"
+          },
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/5f\/Portuguese_Football_Federation.svg\/359px-Portuguese_Football_Federation.svg.png"
         }
       }
     ],
@@ -160,5 +164,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/5f\/Portuguese_Football_Federation.svg\/359px-Portuguese_Football_Federation.svg.png"
   },
-  "edition" : 761
+  "edition" : 763
 }
