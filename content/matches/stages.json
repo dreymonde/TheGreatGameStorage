@@ -769,7 +769,7 @@
               "home" : 1
             },
             "id" : 23,
-            "endDate" : 1501187400,
+            "endDate" : 1501187640,
             "away" : {
               "name" : "England",
               "shortest_name" : "EN",
@@ -1047,5 +1047,5 @@
       }
     ]
   },
-  "edition" : 789
+  "edition" : 794
 }

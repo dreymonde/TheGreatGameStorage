@@ -74,7 +74,7 @@
           "home" : 1
         },
         "id" : 23,
-        "endDate" : 1501187400,
+        "endDate" : 1501187640,
         "away" : {
           "name" : "England",
           "shortest_name" : "EN",
@@ -113,7 +113,7 @@
       "title" : "Group D",
       "teams" : [
         {
-          "points" : 6,
+          "points" : 9,
           "name" : "England",
           "id" : 7,
           "short_name" : "ENG",
@@ -138,18 +138,6 @@
         },
         {
           "points" : 3,
-          "name" : "Portugal",
-          "id" : 16,
-          "short_name" : "POR",
-          "badges" : {
-            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/5c\/Flag_of_Portugal.svg\/640px-Flag_of_Portugal.svg.png",
-            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/5f\/Portuguese_Football_Federation.svg\/359px-Portuguese_Football_Federation.svg.png"
-          },
-          "shortest_name" : "PT",
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/5f\/Portuguese_Football_Federation.svg\/359px-Portuguese_Football_Federation.svg.png"
-        },
-        {
-          "points" : 0,
           "name" : "Scotland",
           "id" : 12,
           "short_name" : "SCO",
@@ -159,10 +147,22 @@
           },
           "shortest_name" : "SC",
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/8\/8f\/Scotland_national_football_team_logo.svg\/480px-Scotland_national_football_team_logo.svg.png"
+        },
+        {
+          "points" : 3,
+          "name" : "Portugal",
+          "id" : 16,
+          "short_name" : "POR",
+          "badges" : {
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/5c\/Flag_of_Portugal.svg\/640px-Flag_of_Portugal.svg.png",
+            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/5f\/Portuguese_Football_Federation.svg\/359px-Portuguese_Football_Federation.svg.png"
+          },
+          "shortest_name" : "PT",
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/5f\/Portuguese_Football_Federation.svg\/359px-Portuguese_Football_Federation.svg.png"
         }
       ]
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/5\/5f\/Portuguese_Football_Federation.svg\/359px-Portuguese_Football_Federation.svg.png"
   },
-  "edition" : 789
+  "edition" : 794
 }
