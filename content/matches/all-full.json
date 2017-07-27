@@ -1903,7 +1903,7 @@
         "location" : "Koning Willem II Stadion, Tilburg",
         "score" : {
           "away" : 1,
-          "home" : 0
+          "home" : 1
         },
         "id" : 23,
         "stage_title" : "Group D, leg 3",
@@ -1955,6 +1955,12 @@
             "type" : "info",
             "text" : "🇬🇧 England are through with a win, a draw or even a one or two-goal defeat, If England lose by three or more, they will be out if Spain win. If England lose 2-0 and Spain win, England would be at worst second ahead of Portugal on overall goal difference. - UEFA.com",
             "real_minute" : 10
+          },
+          {
+            "match_minute" : 17,
+            "type" : "goal_home",
+            "text" : "And Portugal scores! Goal by Carolina Mendes. Though they still need to score at least once - only victory will put them through.",
+            "real_minute" : 17
           }
         ]
       },
@@ -2272,5 +2278,5 @@
       }
     ]
   },
-  "edition" : 772
+  "edition" : 773
 }
