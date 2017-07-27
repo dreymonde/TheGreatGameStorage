@@ -1991,6 +1991,18 @@
             "type" : "end",
             "text" : "Full time",
             "real_minute" : 109
+          },
+          {
+            "match_minute" : 95,
+            "type" : "info",
+            "text" : "🇵🇹 Even though Scotland defeated Spain, Portugal needed at least a draw to move forward. Sadly, they did not get it. However, this was an incredible debut for this team.",
+            "real_minute" : 111
+          },
+          {
+            "match_minute" : 98,
+            "type" : "info",
+            "text" : "🇬🇧 Without any doubt, England showed the best game in this group. They're going to the quarter-finals and will face France there.",
+            "real_minute" : 114
           }
         ]
       },
@@ -2074,6 +2086,18 @@
             "type" : "end",
             "text" : "Scotland lacked one goal to go through. Spain is going to the quarter-finals",
             "real_minute" : 109
+          },
+          {
+            "match_minute" : 95,
+            "type" : "info",
+            "text" : "Scotland was so incredibly close. But the second goal did not happen, and so they're out of the competition. Their courage was huge, it was great to witness their game.",
+            "real_minute" : 111
+          },
+          {
+            "match_minute" : 98,
+            "type" : "info",
+            "text" : "🇪🇸 Thanks to the Portugal loss, Spain is going to the quarter-finals!",
+            "real_minute" : 114
           }
         ]
       },
@@ -2338,5 +2362,5 @@
       }
     ]
   },
-  "edition" : 799
+  "edition" : 800
 }
