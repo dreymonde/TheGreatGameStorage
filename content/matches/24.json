@@ -67,8 +67,14 @@
         "type" : "halftime_start",
         "text" : "Half-time. Scotland must score at least one more to have a chance to proceed",
         "real_minute" : 46
+      },
+      {
+        "match_minute" : 45,
+        "type" : "halftime_end",
+        "text" : "Now to the second half",
+        "real_minute" : 61
       }
     ]
   },
-  "edition" : 781
+  "edition" : 784
 }
