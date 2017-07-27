@@ -6,7 +6,7 @@
   },
   "id" : 23,
   "stage_title" : "Group D, leg 3",
-  "endDate" : 1501187400,
+  "endDate" : 1501187640,
   "away" : {
     "name" : "England",
     "shortest_name" : "EN",
@@ -84,6 +84,12 @@
       "type" : "goal_away",
       "text" : "Oh wow what a goal by Parris!",
       "real_minute" : 64
+    },
+    {
+      "match_minute" : 93,
+      "type" : "end",
+      "text" : "Full time",
+      "real_minute" : 109
     }
   ]
 }
