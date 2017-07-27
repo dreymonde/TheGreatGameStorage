@@ -1902,7 +1902,7 @@
       {
         "location" : "Koning Willem II Stadion, Tilburg",
         "score" : {
-          "away" : 1,
+          "away" : 2,
           "home" : 1
         },
         "id" : 23,
@@ -1979,6 +1979,12 @@
             "type" : "halftime_end",
             "text" : "The second half is on",
             "real_minute" : 61
+          },
+          {
+            "match_minute" : 48,
+            "type" : "goal_away",
+            "text" : "Oh wow what a goal by Parris!",
+            "real_minute" : 64
           }
         ]
       },
@@ -2320,5 +2326,5 @@
       }
     ]
   },
-  "edition" : 784
+  "edition" : 786
 }
