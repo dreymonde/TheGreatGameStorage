@@ -43,8 +43,14 @@
         "type" : "start",
         "text" : "",
         "real_minute" : 1
+      },
+      {
+        "match_minute" : 10,
+        "type" : "info",
+        "text" : "Spain are through if they win unless Portugal beat England by a two-goal margin. If that result is 3-1, 4-2 etc, Spain cannot go through; if it is 2-0, Spain would be out if they won 1-0, or if they win 2-1 and are behind Portugal on disciplinary rankings. Spain are through with a draw if Portugal do not win. If Spain lose by one goal, they are through if Portugal lose. If Spain lose by two goals or more, they are out. - UEFA.com",
+        "real_minute" : 10
       }
     ]
   },
-  "edition" : 771
+  "edition" : 772
 }
