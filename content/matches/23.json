@@ -2,7 +2,7 @@
   "content" : {
     "location" : "Koning Willem II Stadion, Tilburg",
     "score" : {
-      "away" : 0,
+      "away" : 1,
       "home" : 0
     },
     "id" : 23,
@@ -43,8 +43,14 @@
         "type" : "start",
         "text" : "",
         "real_minute" : 1
+      },
+      {
+        "match_minute" : 7,
+        "type" : "goal_away",
+        "text" : "After a huge goalkeeper's mistake, Williams scores",
+        "real_minute" : 8
       }
     ]
   },
-  "edition" : 763
+  "edition" : 767
 }
