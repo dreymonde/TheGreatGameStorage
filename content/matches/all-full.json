@@ -1967,6 +1967,12 @@
             "type" : "info",
             "text" : "🇵🇹 Portugal are through with any win if Spain do not win. Portugal are definitely through if they win by three goals, or a two-goal margin other than 2-0. If Portugal win by one goal, they need Spain not to win. If Portugal win 2-0, they are through if Spain do not win or if Spain win 1-0. If Portugal win 2-0 and Spain win 2-1, they will be split on disciplinary points, or then on coefficient, which favours Spain. If Portugal draw, they need Spain to lose. If Portugal lose they are out. - UEFA.com",
             "real_minute" : 19
+          },
+          {
+            "match_minute" : 45,
+            "type" : "halftime_start",
+            "text" : "Half-time",
+            "real_minute" : 46
           }
         ]
       },
@@ -2302,5 +2308,5 @@
       }
     ]
   },
-  "edition" : 780
+  "edition" : 781
 }
