@@ -2181,15 +2181,15 @@
         "stage_title" : "Quarter-finals, Day 2",
         "endDate" : 1501436700,
         "away" : {
-          "name" : "Group D runner-up",
-          "shortest_name" : "RD",
-          "id" : -6,
-          "short_name" : "RD",
+          "name" : "Spain",
+          "shortest_name" : "ES",
+          "id" : 9,
+          "short_name" : "ESP",
           "badges" : {
-            "flag" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png",
-            "large" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/9\/9a\/Flag_of_Spain.svg\/640px-Flag_of_Spain.svg.png",
+            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/31\/Spain_National_Football_Team_badge.png"
           },
-          "badge_url" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/31\/Spain_National_Football_Team_badge.png"
         },
         "date" : 1501430400,
         "home" : {
@@ -2230,15 +2230,15 @@
         },
         "date" : 1501440300,
         "home" : {
-          "name" : "Group D winner",
-          "shortest_name" : "WD",
-          "id" : -7,
-          "short_name" : "WD",
+          "name" : "England",
+          "shortest_name" : "EN",
+          "id" : 7,
+          "short_name" : "ENG",
           "badges" : {
-            "flag" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png",
-            "large" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/b\/be\/Flag_of_England.svg\/800px-Flag_of_England.svg.png",
+            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/38\/England_crest_2009.svg\/403px-England_crest_2009.svg.png"
           },
-          "badge_url" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/38\/England_crest_2009.svg\/403px-England_crest_2009.svg.png"
         },
         "events" : [
           {
@@ -2362,5 +2362,5 @@
       }
     ]
   },
-  "edition" : 800
+  "edition" : 801
 }
