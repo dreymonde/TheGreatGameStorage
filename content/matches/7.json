@@ -7,7 +7,7 @@
     },
     "id" : 7,
     "stage_title" : "Group D, leg 1",
-    "endDate" : 1500486600,
+    "endDate" : 1500486660,
     "away" : {
       "name" : "Portugal",
       "shortest_name" : "PT",
@@ -76,5 +76,5 @@
       }
     ]
   },
-  "edition" : 831
+  "edition" : 833
 }

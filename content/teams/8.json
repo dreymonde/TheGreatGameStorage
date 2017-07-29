@@ -10,7 +10,7 @@
           "home" : 1
         },
         "id" : 1,
-        "endDate" : 1500227580,
+        "endDate" : 1500227640,
         "away" : {
           "name" : "Norway",
           "shortest_name" : "NO",
@@ -42,7 +42,7 @@
           "home" : 0
         },
         "id" : 9,
-        "endDate" : 1500573180,
+        "endDate" : 1500573240,
         "away" : {
           "name" : "Belgium",
           "shortest_name" : "BE",
@@ -164,5 +164,5 @@
     },
     "badge_url" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/norway-fx.png"
   },
-  "edition" : 831
+  "edition" : 833
 }

@@ -7,7 +7,7 @@
     },
     "id" : 9,
     "stage_title" : "Group A, leg 2",
-    "endDate" : 1500573180,
+    "endDate" : 1500573240,
     "away" : {
       "name" : "Belgium",
       "shortest_name" : "BE",
@@ -76,5 +76,5 @@
       }
     ]
   },
-  "edition" : 831
+  "edition" : 833
 }

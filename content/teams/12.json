@@ -42,7 +42,7 @@
           "home" : 1
         },
         "id" : 15,
-        "endDate" : 1500832260,
+        "endDate" : 1500832320,
         "away" : {
           "name" : "Portugal",
           "shortest_name" : "PT",
@@ -74,7 +74,7 @@
           "home" : 1
         },
         "id" : 24,
-        "endDate" : 1501187640,
+        "endDate" : 1501187700,
         "away" : {
           "name" : "Spain",
           "shortest_name" : "ES",
@@ -164,5 +164,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/8\/8f\/Scotland_national_football_team_logo.svg\/480px-Scotland_national_football_team_logo.svg.png"
   },
-  "edition" : 831
+  "edition" : 833
 }

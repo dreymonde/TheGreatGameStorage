@@ -7,7 +7,7 @@
     },
     "id" : 1,
     "stage_title" : "Group A, leg 1",
-    "endDate" : 1500227580,
+    "endDate" : 1500227640,
     "away" : {
       "name" : "Norway",
       "shortest_name" : "NO",
@@ -76,5 +76,5 @@
       }
     ]
   },
-  "edition" : 831
+  "edition" : 833
 }

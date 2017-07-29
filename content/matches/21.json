@@ -7,7 +7,7 @@
     },
     "id" : 21,
     "stage_title" : "Group C, leg 3",
-    "endDate" : 1501101420,
+    "endDate" : 1501101480,
     "away" : {
       "name" : "France",
       "shortest_name" : "FR",
@@ -106,5 +106,5 @@
       }
     ]
   },
-  "edition" : 831
+  "edition" : 833
 }

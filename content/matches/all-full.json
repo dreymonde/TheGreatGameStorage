@@ -9,7 +9,7 @@
         },
         "id" : 1,
         "stage_title" : "Group A, leg 1",
-        "endDate" : 1500227580,
+        "endDate" : 1500227640,
         "away" : {
           "name" : "Norway",
           "shortest_name" : "NO",
@@ -86,7 +86,7 @@
         },
         "id" : 2,
         "stage_title" : "Group A, leg 1",
-        "endDate" : 1500237240,
+        "endDate" : 1500237300,
         "away" : {
           "name" : "Belgium",
           "shortest_name" : "BE",
@@ -240,7 +240,7 @@
         },
         "id" : 4,
         "stage_title" : "Group B, leg 1",
-        "endDate" : 1500323700,
+        "endDate" : 1500323820,
         "away" : {
           "name" : "Sweden",
           "shortest_name" : "SE",
@@ -305,7 +305,7 @@
         },
         "id" : 5,
         "stage_title" : "Group C, leg 1",
-        "endDate" : 1500400380,
+        "endDate" : 1500400440,
         "away" : {
           "name" : "Switzerland",
           "shortest_name" : "CH",
@@ -376,7 +376,7 @@
         },
         "id" : 6,
         "stage_title" : "Group C, leg 1",
-        "endDate" : 1500410340,
+        "endDate" : 1500410460,
         "away" : {
           "name" : "Iceland",
           "shortest_name" : "IS",
@@ -447,7 +447,7 @@
         },
         "id" : 7,
         "stage_title" : "Group D, leg 1",
-        "endDate" : 1500486600,
+        "endDate" : 1500486660,
         "away" : {
           "name" : "Portugal",
           "shortest_name" : "PT",
@@ -631,7 +631,7 @@
         },
         "id" : 9,
         "stage_title" : "Group A, leg 2",
-        "endDate" : 1500573180,
+        "endDate" : 1500573240,
         "away" : {
           "name" : "Belgium",
           "shortest_name" : "BE",
@@ -856,7 +856,7 @@
         },
         "id" : 12,
         "stage_title" : "Group B, leg 2",
-        "endDate" : 1500669480,
+        "endDate" : 1500669540,
         "away" : {
           "name" : "Italy",
           "shortest_name" : "IT",
@@ -957,7 +957,7 @@
         },
         "id" : 13,
         "stage_title" : "Group C, leg 2",
-        "endDate" : 1500746340,
+        "endDate" : 1500746400,
         "away" : {
           "name" : "Switzerland",
           "shortest_name" : "CH",
@@ -1123,7 +1123,7 @@
         },
         "id" : 15,
         "stage_title" : "Group D, leg 2",
-        "endDate" : 1500832260,
+        "endDate" : 1500832320,
         "away" : {
           "name" : "Portugal",
           "shortest_name" : "PT",
@@ -1485,7 +1485,7 @@
         },
         "id" : 19,
         "stage_title" : "Group B, leg 3",
-        "endDate" : 1501015020,
+        "endDate" : 1501015080,
         "away" : {
           "name" : "Germany",
           "shortest_name" : "DE",
@@ -1586,7 +1586,7 @@
         },
         "id" : 20,
         "stage_title" : "Group B, leg 3",
-        "endDate" : 1501015020,
+        "endDate" : 1501015080,
         "away" : {
           "name" : "Italy",
           "shortest_name" : "IT",
@@ -1699,7 +1699,7 @@
         },
         "id" : 21,
         "stage_title" : "Group C, leg 3",
-        "endDate" : 1501101420,
+        "endDate" : 1501101480,
         "away" : {
           "name" : "France",
           "shortest_name" : "FR",
@@ -1806,7 +1806,7 @@
         },
         "id" : 22,
         "stage_title" : "Group C, leg 3",
-        "endDate" : 1501101300,
+        "endDate" : 1501101360,
         "away" : {
           "name" : "Austria",
           "shortest_name" : "AT",
@@ -1907,7 +1907,7 @@
         },
         "id" : 23,
         "stage_title" : "Group D, leg 3",
-        "endDate" : 1501187640,
+        "endDate" : 1501187700,
         "away" : {
           "name" : "England",
           "shortest_name" : "EN",
@@ -2014,7 +2014,7 @@
         },
         "id" : 24,
         "stage_title" : "Group D, leg 3",
-        "endDate" : 1501187640,
+        "endDate" : 1501187700,
         "away" : {
           "name" : "Spain",
           "shortest_name" : "ES",
@@ -2414,5 +2414,5 @@
       }
     ]
   },
-  "edition" : 831
+  "edition" : 833
 }
