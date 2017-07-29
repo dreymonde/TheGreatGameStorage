@@ -2151,6 +2151,12 @@
             "type" : "goal_home",
             "text" : "Goal by Martens!",
             "real_minute" : 33
+          },
+          {
+            "match_minute" : 46,
+            "type" : "halftime_start",
+            "text" : "1:0 after the first half",
+            "real_minute" : 47
           }
         ]
       },
@@ -2378,5 +2384,5 @@
       }
     ]
   },
-  "edition" : 809
+  "edition" : 812
 }
