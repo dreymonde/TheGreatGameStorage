@@ -7,7 +7,7 @@
     },
     "id" : 24,
     "stage_title" : "Group D, leg 3",
-    "endDate" : 1501187640,
+    "endDate" : 1501187700,
     "away" : {
       "name" : "Spain",
       "shortest_name" : "ES",
@@ -94,5 +94,5 @@
       }
     ]
   },
-  "edition" : 835
+  "edition" : 836
 }

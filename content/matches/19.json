@@ -7,7 +7,7 @@
     },
     "id" : 19,
     "stage_title" : "Group B, leg 3",
-    "endDate" : 1501015020,
+    "endDate" : 1501015080,
     "away" : {
       "name" : "Germany",
       "shortest_name" : "DE",
@@ -100,5 +100,5 @@
       }
     ]
   },
-  "edition" : 835
+  "edition" : 836
 }

@@ -74,7 +74,7 @@
           "home" : 0
         },
         "id" : 19,
-        "endDate" : 1501015020,
+        "endDate" : 1501015080,
         "away" : {
           "name" : "Germany",
           "shortest_name" : "DE",
@@ -164,5 +164,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/7\/77\/Russian_Football_Union.png"
   },
-  "edition" : 835
+  "edition" : 836
 }

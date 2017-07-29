@@ -8,7 +8,7 @@
           "home" : 1
         },
         "id" : 1,
-        "endDate" : 1500227580,
+        "endDate" : 1500227640,
         "away" : {
           "name" : "Norway",
           "shortest_name" : "NO",
@@ -40,7 +40,7 @@
           "home" : 1
         },
         "id" : 2,
-        "endDate" : 1500237240,
+        "endDate" : 1500237300,
         "away" : {
           "name" : "Belgium",
           "shortest_name" : "BE",
@@ -72,7 +72,7 @@
           "home" : 0
         },
         "id" : 9,
-        "endDate" : 1500573180,
+        "endDate" : 1500573240,
         "away" : {
           "name" : "Belgium",
           "shortest_name" : "BE",
@@ -247,5 +247,5 @@
     ],
     "id" : 1
   },
-  "edition" : 835
+  "edition" : 836
 }

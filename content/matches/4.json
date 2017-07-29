@@ -7,7 +7,7 @@
     },
     "id" : 4,
     "stage_title" : "Group B, leg 1",
-    "endDate" : 1500323700,
+    "endDate" : 1500323820,
     "away" : {
       "name" : "Sweden",
       "shortest_name" : "SE",
@@ -64,5 +64,5 @@
       }
     ]
   },
-  "edition" : 835
+  "edition" : 836
 }

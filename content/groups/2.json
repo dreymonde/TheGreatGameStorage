@@ -40,7 +40,7 @@
           "home" : 0
         },
         "id" : 4,
-        "endDate" : 1500323700,
+        "endDate" : 1500323820,
         "away" : {
           "name" : "Sweden",
           "shortest_name" : "SE",
@@ -104,7 +104,7 @@
           "home" : 2
         },
         "id" : 12,
-        "endDate" : 1500669480,
+        "endDate" : 1500669540,
         "away" : {
           "name" : "Italy",
           "shortest_name" : "IT",
@@ -136,7 +136,7 @@
           "home" : 0
         },
         "id" : 19,
-        "endDate" : 1501015020,
+        "endDate" : 1501015080,
         "away" : {
           "name" : "Germany",
           "shortest_name" : "DE",
@@ -168,7 +168,7 @@
           "home" : 2
         },
         "id" : 20,
-        "endDate" : 1501015020,
+        "endDate" : 1501015080,
         "away" : {
           "name" : "Italy",
           "shortest_name" : "IT",
@@ -247,5 +247,5 @@
     ],
     "id" : 2
   },
-  "edition" : 835
+  "edition" : 836
 }

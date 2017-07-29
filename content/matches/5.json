@@ -7,7 +7,7 @@
     },
     "id" : 5,
     "stage_title" : "Group C, leg 1",
-    "endDate" : 1500400380,
+    "endDate" : 1500400440,
     "away" : {
       "name" : "Switzerland",
       "shortest_name" : "CH",
@@ -70,5 +70,5 @@
       }
     ]
   },
-  "edition" : 835
+  "edition" : 836
 }

@@ -10,7 +10,7 @@
               "home" : 1
             },
             "id" : 1,
-            "endDate" : 1500227580,
+            "endDate" : 1500227640,
             "away" : {
               "name" : "Norway",
               "shortest_name" : "NO",
@@ -42,7 +42,7 @@
               "home" : 1
             },
             "id" : 2,
-            "endDate" : 1500237240,
+            "endDate" : 1500237300,
             "away" : {
               "name" : "Belgium",
               "shortest_name" : "BE",
@@ -111,7 +111,7 @@
               "home" : 0
             },
             "id" : 4,
-            "endDate" : 1500323700,
+            "endDate" : 1500323820,
             "away" : {
               "name" : "Sweden",
               "shortest_name" : "SE",
@@ -148,7 +148,7 @@
               "home" : 1
             },
             "id" : 5,
-            "endDate" : 1500400380,
+            "endDate" : 1500400440,
             "away" : {
               "name" : "Switzerland",
               "shortest_name" : "CH",
@@ -180,7 +180,7 @@
               "home" : 1
             },
             "id" : 6,
-            "endDate" : 1500410340,
+            "endDate" : 1500410460,
             "away" : {
               "name" : "Iceland",
               "shortest_name" : "IS",
@@ -217,7 +217,7 @@
               "home" : 2
             },
             "id" : 7,
-            "endDate" : 1500486600,
+            "endDate" : 1500486660,
             "away" : {
               "name" : "Portugal",
               "shortest_name" : "PT",
@@ -286,7 +286,7 @@
               "home" : 0
             },
             "id" : 9,
-            "endDate" : 1500573180,
+            "endDate" : 1500573240,
             "away" : {
               "name" : "Belgium",
               "shortest_name" : "BE",
@@ -387,7 +387,7 @@
               "home" : 2
             },
             "id" : 12,
-            "endDate" : 1500669480,
+            "endDate" : 1500669540,
             "away" : {
               "name" : "Italy",
               "shortest_name" : "IT",
@@ -424,7 +424,7 @@
               "home" : 1
             },
             "id" : 13,
-            "endDate" : 1500746340,
+            "endDate" : 1500746400,
             "away" : {
               "name" : "Switzerland",
               "shortest_name" : "CH",
@@ -493,7 +493,7 @@
               "home" : 1
             },
             "id" : 15,
-            "endDate" : 1500832260,
+            "endDate" : 1500832320,
             "away" : {
               "name" : "Portugal",
               "shortest_name" : "PT",
@@ -631,7 +631,7 @@
               "home" : 0
             },
             "id" : 19,
-            "endDate" : 1501015020,
+            "endDate" : 1501015080,
             "away" : {
               "name" : "Germany",
               "shortest_name" : "DE",
@@ -663,7 +663,7 @@
               "home" : 2
             },
             "id" : 20,
-            "endDate" : 1501015020,
+            "endDate" : 1501015080,
             "away" : {
               "name" : "Italy",
               "shortest_name" : "IT",
@@ -700,7 +700,7 @@
               "home" : 1
             },
             "id" : 21,
-            "endDate" : 1501101420,
+            "endDate" : 1501101480,
             "away" : {
               "name" : "France",
               "shortest_name" : "FR",
@@ -732,7 +732,7 @@
               "home" : 0
             },
             "id" : 22,
-            "endDate" : 1501101300,
+            "endDate" : 1501101360,
             "away" : {
               "name" : "Austria",
               "shortest_name" : "AT",
@@ -769,7 +769,7 @@
               "home" : 1
             },
             "id" : 23,
-            "endDate" : 1501187640,
+            "endDate" : 1501187700,
             "away" : {
               "name" : "England",
               "shortest_name" : "EN",
@@ -801,7 +801,7 @@
               "home" : 1
             },
             "id" : 24,
-            "endDate" : 1501187640,
+            "endDate" : 1501187700,
             "away" : {
               "name" : "Spain",
               "shortest_name" : "ES",
@@ -1051,5 +1051,5 @@
       }
     ]
   },
-  "edition" : 835
+  "edition" : 836
 }
