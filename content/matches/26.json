@@ -51,8 +51,20 @@
         "type" : "info",
         "text" : "The game is postponed. The exact time will be reported later",
         "real_minute" : -1
+      },
+      {
+        "match_minute" : -1,
+        "type" : "info",
+        "text" : "Match postponed due to adverse weather conditions - UEFA.com",
+        "real_minute" : -1
+      },
+      {
+        "match_minute" : -1,
+        "type" : "info",
+        "text" : "Second quarter-final rescheduled for Sunday – more information to follow - UEFA.com",
+        "real_minute" : -1
       }
     ]
   },
-  "edition" : 838
+  "edition" : 840
 }

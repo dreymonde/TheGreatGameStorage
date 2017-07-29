@@ -44,6 +44,12 @@
       "type" : "info",
       "text" : "Kick-off has been delayed due to heavy rain. - UEFA.com",
       "real_minute" : -1
+    },
+    {
+      "match_minute" : -1,
+      "type" : "info",
+      "text" : "The game is postponed. The exact time will be reported later",
+      "real_minute" : -1
     }
   ]
 }
