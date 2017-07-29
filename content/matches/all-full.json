@@ -2229,7 +2229,7 @@
             "match_minute" : -1,
             "type" : "info",
             "text" : "The game is postponed. The exact time will be reported later",
-            "real_minute" : 20
+            "real_minute" : -1
           }
         ]
       },
@@ -2420,5 +2420,5 @@
       }
     ]
   },
-  "edition" : 837
+  "edition" : 838
 }
