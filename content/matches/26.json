@@ -33,8 +33,14 @@
         "type" : "info",
         "text" : "Location: Sparta Stadion Het Kasteel, Rotterdam",
         "real_minute" : -2
+      },
+      {
+        "match_minute" : -1,
+        "type" : "info",
+        "text" : "The start is delayed (15 min)",
+        "real_minute" : -1
       }
     ]
   },
-  "edition" : 826
+  "edition" : 827
 }
