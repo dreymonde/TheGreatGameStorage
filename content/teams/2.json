@@ -106,7 +106,7 @@
           "home" : 2
         },
         "id" : 25,
-        "endDate" : 1501350300,
+        "endDate" : 1501350540,
         "away" : {
           "name" : "Sweden",
           "shortest_name" : "SE",
@@ -196,5 +196,5 @@
     },
     "badge_url" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/netherlands.png"
   },
-  "edition" : 822
+  "edition" : 823
 }

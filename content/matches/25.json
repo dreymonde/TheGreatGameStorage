@@ -7,7 +7,7 @@
     },
     "id" : 25,
     "stage_title" : "Quarter-finals, Day 1",
-    "endDate" : 1501350300,
+    "endDate" : 1501350540,
     "away" : {
       "name" : "Sweden",
       "shortest_name" : "SE",
@@ -67,8 +67,14 @@
         "type" : "goal_home",
         "text" : "And that's another one! Miedema scores.",
         "real_minute" : 80
+      },
+      {
+        "match_minute" : 93,
+        "type" : "end",
+        "text" : "That's it for Sweden. Netherlands is going to semis!",
+        "real_minute" : 109
       }
     ]
   },
-  "edition" : 822
+  "edition" : 823
 }
