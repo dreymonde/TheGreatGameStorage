@@ -66,6 +66,12 @@
       "type" : "goal_home",
       "text" : "And that's another one! Miedema scores.",
       "real_minute" : 80
+    },
+    {
+      "match_minute" : 65,
+      "type" : "info",
+      "text" : "",
+      "real_minute" : 81
     }
   ]
 }
