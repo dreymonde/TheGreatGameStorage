@@ -39,8 +39,14 @@
         "type" : "info",
         "text" : "Kick-off has been delayed until 21:00CET due to heavy rain. - UEFA.com",
         "real_minute" : -1
+      },
+      {
+        "match_minute" : -1,
+        "type" : "info",
+        "text" : "Kick-off has been delayed due to heavy rain. - UEFA.com",
+        "real_minute" : -1
       }
     ]
   },
-  "edition" : 829
+  "edition" : 831
 }
