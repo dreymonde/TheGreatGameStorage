@@ -130,6 +130,34 @@
           },
           "badge_url" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/netherlands.png"
         }
+      },
+      {
+        "endDate" : 1501792200,
+        "date" : 1501785900,
+        "location" : "De Grolsch Veste, Enschede",
+        "home" : {
+          "name" : "Netherlands",
+          "shortest_name" : "NL",
+          "id" : 2,
+          "short_name" : "NED",
+          "badges" : {
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/20\/Flag_of_the_Netherlands.svg\/640px-Flag_of_the_Netherlands.svg.png",
+            "large" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/netherlands.png"
+          },
+          "badge_url" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/netherlands.png"
+        },
+        "id" : 30,
+        "away" : {
+          "name" : "Quarter-final 4 winner",
+          "shortest_name" : "Q4",
+          "id" : -12,
+          "short_name" : "QF4",
+          "badges" : {
+            "flag" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png",
+            "large" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+          },
+          "badge_url" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+        }
       }
     ],
     "id" : 2,
@@ -196,5 +224,5 @@
     },
     "badge_url" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/netherlands.png"
   },
-  "edition" : 823
+  "edition" : 826
 }

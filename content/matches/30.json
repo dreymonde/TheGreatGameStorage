@@ -17,15 +17,15 @@
     },
     "date" : 1501785900,
     "home" : {
-      "name" : "Quarter-final 1 winner",
-      "shortest_name" : "Q1",
-      "id" : -11,
-      "short_name" : "QF1",
+      "name" : "Netherlands",
+      "shortest_name" : "NL",
+      "id" : 2,
+      "short_name" : "NED",
       "badges" : {
-        "flag" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png",
-        "large" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+        "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/20\/Flag_of_the_Netherlands.svg\/640px-Flag_of_the_Netherlands.svg.png",
+        "large" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/netherlands.png"
       },
-      "badge_url" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+      "badge_url" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/netherlands.png"
     },
     "events" : [
       {
@@ -36,5 +36,5 @@
       }
     ]
   },
-  "edition" : 823
+  "edition" : 826
 }
