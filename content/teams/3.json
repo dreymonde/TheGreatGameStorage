@@ -100,8 +100,8 @@
         }
       },
       {
-        "endDate" : 1501360200,
-        "date" : 1501353900,
+        "endDate" : 1501446600,
+        "date" : 1501440300,
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "home" : {
           "name" : "Germany",
@@ -192,5 +192,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
   },
-  "edition" : 840
+  "edition" : 841
 }

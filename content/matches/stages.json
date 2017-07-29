@@ -862,10 +862,15 @@
               },
               "badge_url" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/netherlands.png"
             }
-          },
+          }
+        ],
+        "title" : "Quarter-finals, Day 1"
+      },
+      {
+        "matches" : [
           {
-            "endDate" : 1501360200,
-            "date" : 1501353900,
+            "endDate" : 1501446600,
+            "date" : 1501440300,
             "location" : "Sparta Stadion Het Kasteel, Rotterdam",
             "home" : {
               "name" : "Germany",
@@ -890,12 +895,7 @@
               },
               "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
             }
-          }
-        ],
-        "title" : "Quarter-finals, Day 1"
-      },
-      {
-        "matches" : [
+          },
           {
             "endDate" : 1501436700,
             "date" : 1501430400,
@@ -1051,5 +1051,5 @@
       }
     ]
   },
-  "edition" : 840
+  "edition" : 841
 }
