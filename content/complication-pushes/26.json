@@ -1,0 +1,43 @@
+{
+  "location" : "Sparta Stadion Het Kasteel, Rotterdam",
+  "id" : 26,
+  "stage_title" : "Quarter-finals, Day 1",
+  "endDate" : 1501360200,
+  "away" : {
+    "name" : "Denmark",
+    "shortest_name" : "DK",
+    "id" : 13,
+    "short_name" : "DEN",
+    "badges" : {
+      "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/9c\/Flag_of_Denmark.svg\/634px-Flag_of_Denmark.svg.png",
+      "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
+    },
+    "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
+  },
+  "date" : 1501353900,
+  "home" : {
+    "name" : "Germany",
+    "shortest_name" : "DE",
+    "id" : 3,
+    "short_name" : "GER",
+    "badges" : {
+      "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/b\/ba\/Flag_of_Germany.svg\/800px-Flag_of_Germany.svg.png",
+      "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
+    },
+    "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
+  },
+  "events" : [
+    {
+      "match_minute" : -2,
+      "type" : "info",
+      "text" : "Location: Sparta Stadion Het Kasteel, Rotterdam",
+      "real_minute" : -2
+    },
+    {
+      "match_minute" : -1,
+      "type" : "info",
+      "text" : "The start is delayed (15 min)",
+      "real_minute" : -1
+    }
+  ]
+}
