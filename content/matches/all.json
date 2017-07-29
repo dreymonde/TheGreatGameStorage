@@ -802,8 +802,8 @@
         }
       },
       {
-        "endDate" : 1501446600,
-        "date" : 1501440300,
+        "endDate" : 1501436700,
+        "date" : 1501430400,
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "home" : {
           "name" : "Germany",
@@ -971,5 +971,5 @@
       }
     ]
   },
-  "edition" : 841
+  "edition" : 842
 }

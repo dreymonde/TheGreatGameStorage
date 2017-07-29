@@ -2182,7 +2182,7 @@
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "id" : 26,
         "stage_title" : "Quarter-finals, Day 2",
-        "endDate" : 1501446600,
+        "endDate" : 1501436700,
         "away" : {
           "name" : "Denmark",
           "shortest_name" : "DK",
@@ -2194,7 +2194,7 @@
           },
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
         },
-        "date" : 1501440300,
+        "date" : 1501430400,
         "home" : {
           "name" : "Germany",
           "shortest_name" : "DE",
@@ -2432,5 +2432,5 @@
       }
     ]
   },
-  "edition" : 841
+  "edition" : 842
 }
