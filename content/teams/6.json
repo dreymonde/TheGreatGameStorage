@@ -10,7 +10,7 @@
           "home" : 1
         },
         "id" : 6,
-        "endDate" : 1500410460,
+        "endDate" : 1500410340,
         "away" : {
           "name" : "Iceland",
           "shortest_name" : "IS",
@@ -74,7 +74,7 @@
           "home" : 1
         },
         "id" : 21,
-        "endDate" : 1501101480,
+        "endDate" : 1501101420,
         "away" : {
           "name" : "France",
           "shortest_name" : "FR",
@@ -192,5 +192,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/96\/Le_nouveau_logo_FFF.png"
   },
-  "edition" : 834
+  "edition" : 835
 }

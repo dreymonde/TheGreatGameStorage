@@ -8,7 +8,7 @@
           "home" : 1
         },
         "id" : 5,
-        "endDate" : 1500400440,
+        "endDate" : 1500400380,
         "away" : {
           "name" : "Switzerland",
           "shortest_name" : "CH",
@@ -40,7 +40,7 @@
           "home" : 1
         },
         "id" : 6,
-        "endDate" : 1500410460,
+        "endDate" : 1500410340,
         "away" : {
           "name" : "Iceland",
           "shortest_name" : "IS",
@@ -72,7 +72,7 @@
           "home" : 1
         },
         "id" : 13,
-        "endDate" : 1500746400,
+        "endDate" : 1500746340,
         "away" : {
           "name" : "Switzerland",
           "shortest_name" : "CH",
@@ -136,7 +136,7 @@
           "home" : 1
         },
         "id" : 21,
-        "endDate" : 1501101480,
+        "endDate" : 1501101420,
         "away" : {
           "name" : "France",
           "shortest_name" : "FR",
@@ -168,7 +168,7 @@
           "home" : 0
         },
         "id" : 22,
-        "endDate" : 1501101360,
+        "endDate" : 1501101300,
         "away" : {
           "name" : "Austria",
           "shortest_name" : "AT",
@@ -247,5 +247,5 @@
     ],
     "id" : 3
   },
-  "edition" : 834
+  "edition" : 835
 }

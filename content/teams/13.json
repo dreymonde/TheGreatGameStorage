@@ -10,7 +10,7 @@
           "home" : 1
         },
         "id" : 2,
-        "endDate" : 1500237300,
+        "endDate" : 1500237240,
         "away" : {
           "name" : "Belgium",
           "shortest_name" : "BE",
@@ -192,5 +192,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
   },
-  "edition" : 834
+  "edition" : 835
 }

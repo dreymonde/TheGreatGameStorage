@@ -10,7 +10,7 @@
           "home" : 1
         },
         "id" : 2,
-        "endDate" : 1500237300,
+        "endDate" : 1500237240,
         "away" : {
           "name" : "Belgium",
           "shortest_name" : "BE",
@@ -42,7 +42,7 @@
           "home" : 0
         },
         "id" : 9,
-        "endDate" : 1500573240,
+        "endDate" : 1500573180,
         "away" : {
           "name" : "Belgium",
           "shortest_name" : "BE",
@@ -164,5 +164,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/f\/f5\/Belgium_urbsfa.png"
   },
-  "edition" : 834
+  "edition" : 835
 }

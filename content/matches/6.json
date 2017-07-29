@@ -7,7 +7,7 @@
     },
     "id" : 6,
     "stage_title" : "Group C, leg 1",
-    "endDate" : 1500410460,
+    "endDate" : 1500410340,
     "away" : {
       "name" : "Iceland",
       "shortest_name" : "IS",
@@ -70,5 +70,5 @@
       }
     ]
   },
-  "edition" : 834
+  "edition" : 835
 }

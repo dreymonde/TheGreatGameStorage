@@ -10,7 +10,7 @@
           "home" : 0
         },
         "id" : 4,
-        "endDate" : 1500323820,
+        "endDate" : 1500323700,
         "away" : {
           "name" : "Sweden",
           "shortest_name" : "SE",
@@ -42,7 +42,7 @@
           "home" : 2
         },
         "id" : 12,
-        "endDate" : 1500669540,
+        "endDate" : 1500669480,
         "away" : {
           "name" : "Italy",
           "shortest_name" : "IT",
@@ -74,7 +74,7 @@
           "home" : 0
         },
         "id" : 19,
-        "endDate" : 1501015080,
+        "endDate" : 1501015020,
         "away" : {
           "name" : "Germany",
           "shortest_name" : "DE",
@@ -192,5 +192,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
   },
-  "edition" : 834
+  "edition" : 835
 }

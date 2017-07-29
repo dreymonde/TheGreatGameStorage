@@ -8,7 +8,7 @@
           "home" : 2
         },
         "id" : 7,
-        "endDate" : 1500486660,
+        "endDate" : 1500486600,
         "away" : {
           "name" : "Portugal",
           "shortest_name" : "PT",
@@ -72,7 +72,7 @@
           "home" : 1
         },
         "id" : 15,
-        "endDate" : 1500832320,
+        "endDate" : 1500832260,
         "away" : {
           "name" : "Portugal",
           "shortest_name" : "PT",
@@ -136,7 +136,7 @@
           "home" : 1
         },
         "id" : 23,
-        "endDate" : 1501187700,
+        "endDate" : 1501187640,
         "away" : {
           "name" : "England",
           "shortest_name" : "EN",
@@ -168,7 +168,7 @@
           "home" : 1
         },
         "id" : 24,
-        "endDate" : 1501187700,
+        "endDate" : 1501187640,
         "away" : {
           "name" : "Spain",
           "shortest_name" : "ES",
@@ -247,5 +247,5 @@
     ],
     "id" : 4
   },
-  "edition" : 834
+  "edition" : 835
 }
