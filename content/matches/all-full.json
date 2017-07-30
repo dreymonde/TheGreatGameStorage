@@ -2365,6 +2365,12 @@
             "type" : "halftime_start",
             "text" : "PS Now to the penalty shoot-out",
             "real_minute" : 147
+          },
+          {
+            "match_minute" : 120,
+            "type" : "info",
+            "text" : "PH Score!",
+            "real_minute" : 150
           }
         ]
       },
@@ -2518,5 +2524,5 @@
       }
     ]
   },
-  "edition" : 873
+  "edition" : 877
 }
