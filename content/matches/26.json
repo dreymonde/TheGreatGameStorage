@@ -2,7 +2,7 @@
   "content" : {
     "location" : "Sparta Stadion Het Kasteel, Rotterdam",
     "score" : {
-      "away" : 0,
+      "away" : 1,
       "home" : 1
     },
     "id" : 26,
@@ -85,8 +85,20 @@
         "type" : "halftime_start",
         "text" : "Half-time",
         "real_minute" : 47
+      },
+      {
+        "match_minute" : 45,
+        "type" : "halftime_end",
+        "text" : "",
+        "real_minute" : 62
+      },
+      {
+        "match_minute" : 48,
+        "type" : "goal_away",
+        "text" : "Goal by Nadim!",
+        "real_minute" : 65
       }
     ]
   },
-  "edition" : 847
+  "edition" : 848
 }
