@@ -2392,37 +2392,37 @@
             "match_minute" : 120,
             "type" : "info",
             "text" : "PA Goal (Sampedro)",
-            "real_minute" : 152
+            "real_minute" : 153
           },
           {
             "match_minute" : 120,
             "type" : "info",
             "text" : "PH Goal (Aschauer)",
-            "real_minute" : 153
+            "real_minute" : 154
           },
           {
             "match_minute" : 120,
             "type" : "info",
             "text" : "MA That's a miss! (Silvia Meseguer)",
-            "real_minute" : 153
+            "real_minute" : 155
           },
           {
             "match_minute" : 120,
             "type" : "info",
             "text" : "PH Goal (Pinther)",
-            "real_minute" : 154
+            "real_minute" : 156
           },
           {
             "match_minute" : 120,
             "type" : "info",
             "text" : "PA Goal (Corredera)",
-            "real_minute" : 154
+            "real_minute" : 157
           },
           {
             "match_minute" : 120,
             "type" : "info",
             "text" : "PH Goal (Puntigam)",
-            "real_minute" : 155
+            "real_minute" : 158
           },
           {
             "match_minute" : 120,
@@ -2598,5 +2598,5 @@
       }
     ]
   },
-  "edition" : 903
+  "edition" : 904
 }
