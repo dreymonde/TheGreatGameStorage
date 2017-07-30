@@ -1,8 +1,12 @@
 {
   "location" : "Sparta Stadion Het Kasteel, Rotterdam",
+  "score" : {
+    "away" : 0,
+    "home" : 1
+  },
   "id" : 26,
-  "stage_title" : "Quarter-finals, Day 1",
-  "endDate" : 1501360200,
+  "stage_title" : "Quarter-finals, Day 2",
+  "endDate" : 1501415100,
   "away" : {
     "name" : "Denmark",
     "shortest_name" : "DK",
@@ -14,7 +18,7 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
   },
-  "date" : 1501353900,
+  "date" : 1501408800,
   "home" : {
     "name" : "Germany",
     "shortest_name" : "DE",
@@ -50,6 +54,30 @@
       "type" : "info",
       "text" : "The game is postponed. The exact time will be reported later",
       "real_minute" : -1
+    },
+    {
+      "match_minute" : -1,
+      "type" : "info",
+      "text" : "Match postponed due to adverse weather conditions - UEFA.com",
+      "real_minute" : -1
+    },
+    {
+      "match_minute" : -1,
+      "type" : "info",
+      "text" : "Second quarter-final rescheduled for Sunday – more information to follow - UEFA.com",
+      "real_minute" : -1
+    },
+    {
+      "match_minute" : 0,
+      "type" : "start",
+      "text" : "The game has finally started",
+      "real_minute" : 0
+    },
+    {
+      "match_minute" : 3,
+      "type" : "goal_home",
+      "text" : "Goal by Kerschowski!",
+      "real_minute" : 3
     }
   ]
 }

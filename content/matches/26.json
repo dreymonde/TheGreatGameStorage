@@ -65,7 +65,7 @@
       {
         "match_minute" : -1,
         "type" : "info",
-        "text" : "Second quarter-final rescheduled for Sunday – more information to follow - UEFA.com",
+        "text" : "The UEFA Women's EURO 2017 quarter-final between Germany and Denmark in Rotterdam has been postponed to 12CET on Sunday due to heavy rain. - UEFA.com",
         "real_minute" : -1
       },
       {
@@ -82,5 +82,5 @@
       }
     ]
   },
-  "edition" : 843
+  "edition" : 846
 }
