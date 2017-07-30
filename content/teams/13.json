@@ -130,6 +130,34 @@
           },
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/e\/e5\/DFBWomen.svg\/401px-DFBWomen.svg.png"
         }
+      },
+      {
+        "endDate" : 1501782300,
+        "date" : 1501776000,
+        "location" : "Rat Verlegh Stadion, Breda",
+        "home" : {
+          "name" : "Denmark",
+          "shortest_name" : "DK",
+          "id" : 13,
+          "short_name" : "DEN",
+          "badges" : {
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/9c\/Flag_of_Denmark.svg\/634px-Flag_of_Denmark.svg.png",
+            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
+          },
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
+        },
+        "id" : 29,
+        "away" : {
+          "name" : "Quarter-final 3 winner",
+          "shortest_name" : "Q3",
+          "id" : -10,
+          "short_name" : "QF3",
+          "badges" : {
+            "flag" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png",
+            "large" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+          },
+          "badge_url" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+        }
       }
     ],
     "id" : 13,
@@ -196,5 +224,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
   },
-  "edition" : 856
+  "edition" : 858
 }
