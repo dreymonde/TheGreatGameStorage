@@ -2482,6 +2482,12 @@
             "type" : "start",
             "text" : "Here we go!",
             "real_minute" : 0
+          },
+          {
+            "match_minute" : 46,
+            "type" : "halftime_start",
+            "text" : "Half-time",
+            "real_minute" : 45
           }
         ]
       },
@@ -2598,5 +2604,5 @@
       }
     ]
   },
-  "edition" : 904
+  "edition" : 906
 }
