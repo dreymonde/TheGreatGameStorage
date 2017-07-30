@@ -141,10 +141,10 @@
       {
         "match_minute" : 120,
         "type" : "info",
-        "text" : "Penalties: \n🔹🔹🔹🔹🔹 Austria 5\n🔹🔹🔸🔹⚪️ Spain 3",
+        "text" : "Penalties: \n🔹🔹🔹🔹🔹 Austria 5\n🔹🔹🔸🔹◽️ Spain 3",
         "real_minute" : 165
       }
     ]
   },
-  "edition" : 900
+  "edition" : 901
 }
