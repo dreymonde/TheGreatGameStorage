@@ -79,8 +79,14 @@
         "type" : "goal_home",
         "text" : "Goal by Kerschowski!",
         "real_minute" : 3
+      },
+      {
+        "match_minute" : 47,
+        "type" : "halftime_start",
+        "text" : "Half-time",
+        "real_minute" : 47
       }
     ]
   },
-  "edition" : 846
+  "edition" : 847
 }
