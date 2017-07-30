@@ -2181,7 +2181,7 @@
       {
         "location" : "Sparta Stadion Het Kasteel, Rotterdam",
         "score" : {
-          "away" : 1,
+          "away" : 2,
           "home" : 1
         },
         "id" : 26,
@@ -2276,6 +2276,12 @@
             "type" : "goal_away",
             "text" : "Goal by Nadim!",
             "real_minute" : 65
+          },
+          {
+            "match_minute" : 83,
+            "type" : "goal_away",
+            "text" : "Oh wow that's a goal by Nielsen! Denmark is really close to eliminating Germany, a.k.a. doing the impossible.",
+            "real_minute" : 100
           }
         ]
       },
@@ -2466,5 +2472,5 @@
       }
     ]
   },
-  "edition" : 851
+  "edition" : 852
 }
