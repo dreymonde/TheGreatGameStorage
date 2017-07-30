@@ -7,7 +7,7 @@
     },
     "id" : 27,
     "stage_title" : "Quarter-finals, Day 2",
-    "endDate" : 1501439160,
+    "endDate" : 1501440960,
     "away" : {
       "name" : "Spain",
       "shortest_name" : "ES",
@@ -67,8 +67,14 @@
         "type" : "halftime_end",
         "text" : "ET 30 more minutes",
         "real_minute" : 117
+      },
+      {
+        "match_minute" : 120,
+        "type" : "halftime_start",
+        "text" : "PS Now to the penalty shoot-out",
+        "real_minute" : 147
       }
     ]
   },
-  "edition" : 872
+  "edition" : 873
 }
