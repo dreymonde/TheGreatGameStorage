@@ -2293,9 +2293,13 @@
       },
       {
         "location" : "Koning Willem II Stadion, Tilburg",
+        "score" : {
+          "away" : 0,
+          "home" : 0
+        },
         "id" : 27,
         "stage_title" : "Quarter-finals, Day 2",
-        "endDate" : 1501436700,
+        "endDate" : 1501436760,
         "away" : {
           "name" : "Spain",
           "shortest_name" : "ES",
@@ -2325,6 +2329,12 @@
             "type" : "info",
             "text" : "Location: Koning Willem II Stadion, Tilburg",
             "real_minute" : -2
+          },
+          {
+            "match_minute" : 0,
+            "type" : "start",
+            "text" : "Here's the whistle",
+            "real_minute" : 1
           }
         ]
       },
@@ -2478,5 +2488,5 @@
       }
     ]
   },
-  "edition" : 858
+  "edition" : 859
 }

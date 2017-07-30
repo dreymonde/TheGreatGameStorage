@@ -901,21 +901,13 @@
             }
           },
           {
-            "endDate" : 1501436700,
-            "date" : 1501430400,
             "location" : "Koning Willem II Stadion, Tilburg",
-            "home" : {
-              "name" : "Austria",
-              "shortest_name" : "AT",
-              "id" : 14,
-              "short_name" : "AUT",
-              "badges" : {
-                "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/41\/Flag_of_Austria.svg\/640px-Flag_of_Austria.svg.png",
-                "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/14\/%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg\/640px-%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg.png"
-              },
-              "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/14\/%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg\/640px-%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg.png"
+            "score" : {
+              "away" : 0,
+              "home" : 0
             },
             "id" : 27,
+            "endDate" : 1501436760,
             "away" : {
               "name" : "Spain",
               "shortest_name" : "ES",
@@ -926,6 +918,18 @@
                 "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/31\/Spain_National_Football_Team_badge.png"
               },
               "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/31\/Spain_National_Football_Team_badge.png"
+            },
+            "date" : 1501430400,
+            "home" : {
+              "name" : "Austria",
+              "shortest_name" : "AT",
+              "id" : 14,
+              "short_name" : "AUT",
+              "badges" : {
+                "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/41\/Flag_of_Austria.svg\/640px-Flag_of_Austria.svg.png",
+                "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/14\/%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg\/640px-%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg.png"
+              },
+              "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/14\/%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg\/640px-%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg.png"
             }
           },
           {
@@ -1055,5 +1059,5 @@
       }
     ]
   },
-  "edition" : 858
+  "edition" : 859
 }
