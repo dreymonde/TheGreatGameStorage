@@ -834,6 +834,10 @@
         }
       },
       {
+        "penalties" : {
+          "away" : 3,
+          "home" : 5
+        },
         "location" : "Koning Willem II Stadion, Tilburg",
         "score" : {
           "away" : 0,
@@ -979,5 +983,5 @@
       }
     ]
   },
-  "edition" : 891
+  "edition" : 894
 }
