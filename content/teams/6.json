@@ -106,7 +106,7 @@
           "home" : 1
         },
         "id" : 28,
-        "endDate" : 1501446600,
+        "endDate" : 1501446960,
         "away" : {
           "name" : "France",
           "shortest_name" : "FR",
@@ -196,5 +196,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/96\/Le_nouveau_logo_FFF.png"
   },
-  "edition" : 912
+  "edition" : 916
 }

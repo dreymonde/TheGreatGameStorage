@@ -2446,7 +2446,7 @@
         },
         "id" : 28,
         "stage_title" : "Quarter-finals, Day 2",
-        "endDate" : 1501446600,
+        "endDate" : 1501446960,
         "away" : {
           "name" : "France",
           "shortest_name" : "FR",
@@ -2500,6 +2500,12 @@
             "type" : "goal_home",
             "text" : "Goal by Jodie Taylor!",
             "real_minute" : 75
+          },
+          {
+            "match_minute" : 96,
+            "type" : "end",
+            "text" : "Full time. England will face Netherlands in the semi-final!",
+            "real_minute" : 111
           }
         ]
       },
@@ -2616,5 +2622,5 @@
       }
     ]
   },
-  "edition" : 912
+  "edition" : 916
 }
