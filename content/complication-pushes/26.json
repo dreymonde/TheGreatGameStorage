@@ -1,7 +1,7 @@
 {
   "location" : "Sparta Stadion Het Kasteel, Rotterdam",
   "score" : {
-    "away" : 0,
+    "away" : 1,
     "home" : 1
   },
   "id" : 26,
@@ -64,7 +64,7 @@
     {
       "match_minute" : -1,
       "type" : "info",
-      "text" : "Second quarter-final rescheduled for Sunday – more information to follow - UEFA.com",
+      "text" : "The UEFA Women's EURO 2017 quarter-final between Germany and Denmark in Rotterdam has been postponed to 12CET on Sunday due to heavy rain. - UEFA.com",
       "real_minute" : -1
     },
     {
@@ -78,6 +78,24 @@
       "type" : "goal_home",
       "text" : "Goal by Kerschowski!",
       "real_minute" : 3
+    },
+    {
+      "match_minute" : 47,
+      "type" : "halftime_start",
+      "text" : "Half-time",
+      "real_minute" : 47
+    },
+    {
+      "match_minute" : 45,
+      "type" : "halftime_end",
+      "text" : "",
+      "real_minute" : 62
+    },
+    {
+      "match_minute" : 48,
+      "type" : "goal_away",
+      "text" : "Goal by Nadim!",
+      "real_minute" : 65
     }
   ]
 }
