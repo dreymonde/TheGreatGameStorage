@@ -1,12 +1,12 @@
 {
   "location" : "Sparta Stadion Het Kasteel, Rotterdam",
   "score" : {
-    "away" : 1,
+    "away" : 2,
     "home" : 1
   },
   "id" : 26,
   "stage_title" : "Quarter-finals, Day 2",
-  "endDate" : 1501415100,
+  "endDate" : 1501415460,
   "away" : {
     "name" : "Denmark",
     "shortest_name" : "DK",
@@ -92,10 +92,22 @@
       "real_minute" : 62
     },
     {
-      "match_minute" : 48,
+      "match_minute" : 49,
       "type" : "goal_away",
       "text" : "Goal by Nadim!",
       "real_minute" : 65
+    },
+    {
+      "match_minute" : 83,
+      "type" : "goal_away",
+      "text" : "Oh wow that's a goal by Nielsen! Denmark is really close to eliminating Germany, a.k.a. doing the impossible.",
+      "real_minute" : 100
+    },
+    {
+      "match_minute" : 94,
+      "type" : "end",
+      "text" : "Well that's a front-pager. Germany is knocked-out. Denmark is going to semis, and Germany is going home without a trophy first time since 1995",
+      "real_minute" : 111
     }
   ]
 }

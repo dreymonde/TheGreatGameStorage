@@ -808,7 +808,7 @@
           "home" : 1
         },
         "id" : 26,
-        "endDate" : 1501415100,
+        "endDate" : 1501415460,
         "away" : {
           "name" : "Denmark",
           "shortest_name" : "DK",
@@ -975,5 +975,5 @@
       }
     ]
   },
-  "edition" : 852
+  "edition" : 856
 }
