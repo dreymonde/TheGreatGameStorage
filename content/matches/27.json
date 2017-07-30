@@ -79,8 +79,14 @@
         "type" : "info",
         "text" : "PH Score!",
         "real_minute" : 150
+      },
+      {
+        "match_minute" : 120,
+        "type" : "info",
+        "text" : "PA Score!",
+        "real_minute" : 151
       }
     ]
   },
-  "edition" : 877
+  "edition" : 882
 }
