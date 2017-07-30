@@ -2280,7 +2280,7 @@
           {
             "match_minute" : 83,
             "type" : "goal_away",
-            "text" : "Oh wow that's a goal by Nielsen! Denmark is really close to eliminating Germany, a.k.a. doing the impossible.",
+            "text" : "Oh wow that's a goal by Theresa Nielsen! Denmark is really close to eliminating Germany, a.k.a. doing the impossible.",
             "real_minute" : 100
           },
           {
@@ -2598,5 +2598,5 @@
       }
     ]
   },
-  "edition" : 902
+  "edition" : 903
 }
