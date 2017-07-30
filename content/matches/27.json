@@ -137,8 +137,14 @@
         "type" : "end",
         "text" : "Austria wins!",
         "real_minute" : 156
+      },
+      {
+        "match_minute" : 120,
+        "type" : "info",
+        "text" : "Penalties: \n🔵🔵🔵🔵🔵 Austria 5\n🔵🔵🔴🔵⚪️ Spain 3",
+        "real_minute" : 165
       }
     ]
   },
-  "edition" : 898
+  "edition" : 899
 }
