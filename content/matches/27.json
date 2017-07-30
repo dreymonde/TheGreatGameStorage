@@ -43,8 +43,14 @@
         "type" : "start",
         "text" : "Here's the whistle",
         "real_minute" : 1
+      },
+      {
+        "match_minute" : 47,
+        "type" : "halftime_start",
+        "text" : "Half-time. 0:0 so far",
+        "real_minute" : 48
       }
     ]
   },
-  "edition" : 859
+  "edition" : 862
 }
