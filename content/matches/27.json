@@ -81,55 +81,55 @@
       {
         "match_minute" : 120,
         "type" : "info",
-        "text" : "PH Score!",
+        "text" : "PH Goal (Feiersinger)",
         "real_minute" : 150
       },
       {
         "match_minute" : 120,
         "type" : "info",
-        "text" : "PA Score!",
+        "text" : "PA Goal (García)",
         "real_minute" : 151
       },
       {
         "match_minute" : 120,
         "type" : "info",
-        "text" : "PH Score!",
+        "text" : "PH Goal (Burger)",
         "real_minute" : 152
       },
       {
         "match_minute" : 120,
         "type" : "info",
-        "text" : "PA Score!",
+        "text" : "PA Goal (Sampedro)",
         "real_minute" : 152
       },
       {
         "match_minute" : 120,
         "type" : "info",
-        "text" : "PH Score!",
+        "text" : "PH Goal (Aschauer)",
         "real_minute" : 153
       },
       {
         "match_minute" : 120,
         "type" : "info",
-        "text" : "MA That's a miss!",
+        "text" : "MA That's a miss! (Silvia Meseguer)",
         "real_minute" : 153
       },
       {
         "match_minute" : 120,
         "type" : "info",
-        "text" : "PH Score!",
+        "text" : "PH Goal (Pinther)",
         "real_minute" : 154
       },
       {
         "match_minute" : 120,
         "type" : "info",
-        "text" : "PA Score!",
+        "text" : "PA Goal (Corredera)",
         "real_minute" : 154
       },
       {
         "match_minute" : 120,
         "type" : "info",
-        "text" : "PH Score!",
+        "text" : "PH Goal (Puntigam)",
         "real_minute" : 155
       },
       {
@@ -146,5 +146,5 @@
       }
     ]
   },
-  "edition" : 901
+  "edition" : 902
 }
