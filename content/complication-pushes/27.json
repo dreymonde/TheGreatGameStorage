@@ -48,6 +48,12 @@
       "type" : "halftime_start",
       "text" : "Half-time. 0:0 so far",
       "real_minute" : 48
+    },
+    {
+      "match_minute" : 45,
+      "type" : "halftime_end",
+      "text" : "Second half",
+      "real_minute" : 63
     }
   ]
 }

@@ -2299,7 +2299,7 @@
         },
         "id" : 27,
         "stage_title" : "Quarter-finals, Day 2",
-        "endDate" : 1501436760,
+        "endDate" : 1501439160,
         "away" : {
           "name" : "Spain",
           "shortest_name" : "ES",
@@ -2347,6 +2347,12 @@
             "type" : "halftime_end",
             "text" : "Second half",
             "real_minute" : 63
+          },
+          {
+            "match_minute" : 92,
+            "type" : "halftime_start",
+            "text" : "FE Now we're going to extratime. Please make sure you have the latest version of the app.",
+            "real_minute" : 110
           }
         ]
       },
@@ -2500,5 +2506,5 @@
       }
     ]
   },
-  "edition" : 864
+  "edition" : 867
 }

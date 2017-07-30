@@ -106,7 +106,7 @@
           "home" : 0
         },
         "id" : 27,
-        "endDate" : 1501436760,
+        "endDate" : 1501439160,
         "away" : {
           "name" : "Spain",
           "shortest_name" : "ES",
@@ -196,5 +196,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/31\/Spain_National_Football_Team_badge.png"
   },
-  "edition" : 864
+  "edition" : 867
 }
