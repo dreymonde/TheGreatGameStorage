@@ -66,9 +66,9 @@
         "match_minute" : 90,
         "type" : "halftime_end",
         "text" : "ET 30 more minutes",
-        "real_minute" : 118
+        "real_minute" : 117
       }
     ]
   },
-  "edition" : 870
+  "edition" : 872
 }

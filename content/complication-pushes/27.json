@@ -58,8 +58,14 @@
     {
       "match_minute" : 92,
       "type" : "halftime_start",
-      "text" : "FE Now we're going to extratime. Please make sure you have the latest version of the app.",
+      "text" : "FE Now we're going to extra time. Please make sure you have the latest version of the app.",
       "real_minute" : 110
+    },
+    {
+      "match_minute" : 90,
+      "type" : "halftime_end",
+      "text" : "ET 30 more minutes",
+      "real_minute" : 118
     }
   ]
 }
