@@ -990,15 +990,15 @@
             },
             "id" : 29,
             "away" : {
-              "name" : "Quarter-final 3 winner",
-              "shortest_name" : "Q3",
-              "id" : -10,
-              "short_name" : "QF3",
+              "name" : "Austria",
+              "shortest_name" : "AT",
+              "id" : 14,
+              "short_name" : "AUT",
               "badges" : {
-                "flag" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png",
-                "large" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+                "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/41\/Flag_of_Austria.svg\/640px-Flag_of_Austria.svg.png",
+                "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/14\/%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg\/640px-%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg.png"
               },
-              "badge_url" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+              "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/14\/%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg\/640px-%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg.png"
             }
           },
           {
@@ -1067,5 +1067,5 @@
       }
     ]
   },
-  "edition" : 896
+  "edition" : 898
 }
