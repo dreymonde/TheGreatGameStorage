@@ -67,8 +67,14 @@
         "type" : "halftime_end",
         "text" : "ET ",
         "real_minute" : 120
+      },
+      {
+        "match_minute" : 105,
+        "type" : "info",
+        "text" : "Second half of an extra time",
+        "real_minute" : 137
       }
     ]
   },
-  "edition" : 935
+  "edition" : 937
 }
