@@ -106,6 +106,12 @@
       "type" : "info",
       "text" : "MA Another miss!",
       "real_minute" : 153
+    },
+    {
+      "match_minute" : 120,
+      "type" : "info",
+      "text" : "MH Denmark misses!",
+      "real_minute" : 154
     }
   ]
 }

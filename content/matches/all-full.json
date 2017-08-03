@@ -2623,6 +2623,12 @@
             "type" : "info",
             "text" : "MH Denmark misses!",
             "real_minute" : 154
+          },
+          {
+            "match_minute" : 120,
+            "type" : "info",
+            "text" : "MA So unlucky for Austria",
+            "real_minute" : 155
           }
         ]
       },
@@ -2702,5 +2708,5 @@
       }
     ]
   },
-  "edition" : 950
+  "edition" : 952
 }
