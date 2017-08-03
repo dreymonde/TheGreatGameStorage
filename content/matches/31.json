@@ -5,27 +5,27 @@
     "stage_title" : "Final",
     "endDate" : 1502037900,
     "away" : {
-      "name" : "Semi-final 2 winner",
-      "shortest_name" : "S2",
-      "id" : -14,
-      "short_name" : "SF2",
+      "name" : "Netherlands",
+      "shortest_name" : "NL",
+      "id" : 2,
+      "short_name" : "NED",
       "badges" : {
-        "flag" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png",
-        "large" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+        "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/20\/Flag_of_the_Netherlands.svg\/640px-Flag_of_the_Netherlands.svg.png",
+        "large" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/netherlands.png"
       },
-      "badge_url" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+      "badge_url" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/netherlands.png"
     },
     "date" : 1502031600,
     "home" : {
-      "name" : "Semi-final 1 winner",
-      "shortest_name" : "S1",
-      "id" : -13,
-      "short_name" : "SF1",
+      "name" : "Denmark",
+      "shortest_name" : "DK",
+      "id" : 13,
+      "short_name" : "DEN",
       "badges" : {
-        "flag" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png",
-        "large" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+        "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/9c\/Flag_of_Denmark.svg\/634px-Flag_of_Denmark.svg.png",
+        "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
       },
-      "badge_url" : "https:\/\/raw.githubusercontent.com\/dreymonde\/thegreatgame-storage\/master\/empty.png"
+      "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
     },
     "events" : [
       {
@@ -36,5 +36,5 @@
       }
     ]
   },
-  "edition" : 983
+  "edition" : 985
 }
