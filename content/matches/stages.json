@@ -976,7 +976,7 @@
           {
             "penalties" : {
               "away" : 0,
-              "home" : 1
+              "home" : 2
             },
             "location" : "Rat Verlegh Stadion, Breda",
             "score" : {
@@ -1075,5 +1075,5 @@
       }
     ]
   },
-  "edition" : 944
+  "edition" : 946
 }
