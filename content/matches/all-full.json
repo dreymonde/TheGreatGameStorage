@@ -2521,7 +2521,7 @@
         },
         "id" : 29,
         "stage_title" : "Semi-finals",
-        "endDate" : 1501786560,
+        "endDate" : 1501785420,
         "away" : {
           "name" : "Austria",
           "shortest_name" : "AT",
@@ -2635,6 +2635,12 @@
             "type" : "info",
             "text" : "PH Denmark wins!",
             "real_minute" : 156
+          },
+          {
+            "match_minute" : 120,
+            "type" : "end",
+            "text" : "What a drama. Denmark is finally going to the final, first time in their history.",
+            "real_minute" : 156
           }
         ]
       },
@@ -2714,5 +2720,5 @@
       }
     ]
   },
-  "edition" : 954
+  "edition" : 957
 }
