@@ -980,7 +980,7 @@
               "home" : 0
             },
             "id" : 29,
-            "endDate" : 1501782360,
+            "endDate" : 1501784760,
             "away" : {
               "name" : "Austria",
               "shortest_name" : "AT",
@@ -1071,5 +1071,5 @@
       }
     ]
   },
-  "edition" : 929
+  "edition" : 931
 }

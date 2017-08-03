@@ -7,7 +7,7 @@
     },
     "id" : 29,
     "stage_title" : "Semi-finals",
-    "endDate" : 1501782360,
+    "endDate" : 1501784760,
     "away" : {
       "name" : "Austria",
       "shortest_name" : "AT",
@@ -55,8 +55,14 @@
         "type" : "halftime_end",
         "text" : "",
         "real_minute" : 63
+      },
+      {
+        "match_minute" : 95,
+        "type" : "halftime_start",
+        "text" : "FE That's gonna be an extra-time",
+        "real_minute" : 113
       }
     ]
   },
-  "edition" : 929
+  "edition" : 931
 }
