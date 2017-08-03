@@ -136,21 +136,13 @@
         }
       },
       {
-        "endDate" : 1501782300,
-        "date" : 1501776000,
         "location" : "Rat Verlegh Stadion, Breda",
-        "home" : {
-          "name" : "Denmark",
-          "shortest_name" : "DK",
-          "id" : 13,
-          "short_name" : "DEN",
-          "badges" : {
-            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/9c\/Flag_of_Denmark.svg\/634px-Flag_of_Denmark.svg.png",
-            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
-          },
-          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
+        "score" : {
+          "away" : 0,
+          "home" : 0
         },
         "id" : 29,
+        "endDate" : 1501782360,
         "away" : {
           "name" : "Austria",
           "shortest_name" : "AT",
@@ -161,6 +153,18 @@
             "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/14\/%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg\/640px-%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg.png"
           },
           "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/14\/%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg\/640px-%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg.png"
+        },
+        "date" : 1501776000,
+        "home" : {
+          "name" : "Denmark",
+          "shortest_name" : "DK",
+          "id" : 13,
+          "short_name" : "DEN",
+          "badges" : {
+            "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/9c\/Flag_of_Denmark.svg\/634px-Flag_of_Denmark.svg.png",
+            "large" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
+          },
+          "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
         }
       }
     ],
@@ -228,5 +232,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/1\/14\/%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg\/640px-%C3%96sterreichischer_Fu%C3%9Fball-Bund_logo.svg.png"
   },
-  "edition" : 923
+  "edition" : 924
 }
