@@ -2510,6 +2510,10 @@
         ]
       },
       {
+        "penalties" : {
+          "away" : 0,
+          "home" : 0
+        },
         "location" : "Rat Verlegh Stadion, Breda",
         "score" : {
           "away" : 0,
@@ -2517,7 +2521,7 @@
         },
         "id" : 29,
         "stage_title" : "Semi-finals",
-        "endDate" : 1501784760,
+        "endDate" : 1501786560,
         "away" : {
           "name" : "Austria",
           "shortest_name" : "AT",
@@ -2583,6 +2587,12 @@
             "type" : "info",
             "text" : "Second half of an extra time",
             "real_minute" : 137
+          },
+          {
+            "match_minute" : 121,
+            "type" : "halftime_start",
+            "text" : "PS Penalties!",
+            "real_minute" : 152
           }
         ]
       },
@@ -2662,5 +2672,5 @@
       }
     ]
   },
-  "edition" : 937
+  "edition" : 938
 }

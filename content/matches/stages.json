@@ -974,13 +974,17 @@
       {
         "matches" : [
           {
+            "penalties" : {
+              "away" : 0,
+              "home" : 0
+            },
             "location" : "Rat Verlegh Stadion, Breda",
             "score" : {
               "away" : 0,
               "home" : 0
             },
             "id" : 29,
-            "endDate" : 1501784760,
+            "endDate" : 1501786560,
             "away" : {
               "name" : "Austria",
               "shortest_name" : "AT",
@@ -1071,5 +1075,5 @@
       }
     ]
   },
-  "edition" : 937
+  "edition" : 938
 }
