@@ -77,7 +77,7 @@
       {
         "match_minute" : 93,
         "type" : "goal_home",
-        "text" : "Own goal",
+        "text" : "Own goal by Millie Bright",
         "real_minute" : 108
       },
       {
@@ -88,5 +88,5 @@
       }
     ]
   },
-  "edition" : 985
+  "edition" : 989
 }
