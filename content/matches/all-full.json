@@ -2512,7 +2512,7 @@
       {
         "penalties" : {
           "away" : 0,
-          "home" : 0
+          "home" : 1
         },
         "location" : "Rat Verlegh Stadion, Breda",
         "score" : {
@@ -2593,6 +2593,12 @@
             "type" : "halftime_start",
             "text" : "PS Penalties!",
             "real_minute" : 152
+          },
+          {
+            "match_minute" : 120,
+            "type" : "info",
+            "text" : "PH ",
+            "real_minute" : 155
           }
         ]
       },
@@ -2672,5 +2678,5 @@
       }
     ]
   },
-  "edition" : 938
+  "edition" : 941
 }

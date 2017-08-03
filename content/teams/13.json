@@ -134,7 +134,7 @@
       {
         "penalties" : {
           "away" : 0,
-          "home" : 0
+          "home" : 1
         },
         "location" : "Rat Verlegh Stadion, Breda",
         "score" : {
@@ -232,5 +232,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
   },
-  "edition" : 938
+  "edition" : 941
 }
