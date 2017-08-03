@@ -60,6 +60,12 @@
       "type" : "halftime_start",
       "text" : "",
       "real_minute" : 45
+    },
+    {
+      "match_minute" : 45,
+      "type" : "halftime_end",
+      "text" : "Here we go, the second half.",
+      "real_minute" : 60
     }
   ]
 }
