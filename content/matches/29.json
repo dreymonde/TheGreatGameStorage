@@ -131,8 +131,14 @@
         "type" : "end",
         "text" : "What a drama. Denmark is finally going to the final, first time in their history.",
         "real_minute" : 158
+      },
+      {
+        "match_minute" : 120,
+        "type" : "info",
+        "text" : "Penalties: \n🔹🔹🔸🔹◽️ Denmark 3\n🔸🔸🔸◽️◽️ Austria 0",
+        "real_minute" : 165
       }
     ]
   },
-  "edition" : 970
+  "edition" : 972
 }
