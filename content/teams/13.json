@@ -142,7 +142,7 @@
           "home" : 0
         },
         "id" : 29,
-        "endDate" : 1501785420,
+        "endDate" : 1501785540,
         "away" : {
           "name" : "Austria",
           "shortest_name" : "AT",
@@ -232,5 +232,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
   },
-  "edition" : 960
+  "edition" : 963
 }

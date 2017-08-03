@@ -2521,7 +2521,7 @@
         },
         "id" : 29,
         "stage_title" : "Semi-finals",
-        "endDate" : 1501785420,
+        "endDate" : 1501785540,
         "away" : {
           "name" : "Austria",
           "shortest_name" : "AT",
@@ -2597,50 +2597,50 @@
           {
             "match_minute" : 120,
             "type" : "info",
-            "text" : "PH ",
-            "real_minute" : 150
-          },
-          {
-            "match_minute" : 120,
-            "type" : "info",
-            "text" : "MA Miss!",
-            "real_minute" : 151
-          },
-          {
-            "match_minute" : 120,
-            "type" : "info",
-            "text" : "PH ",
+            "text" : "PH Goal (Nadim)",
             "real_minute" : 152
           },
           {
             "match_minute" : 120,
             "type" : "info",
-            "text" : "MA Another miss!",
+            "text" : "MA Miss! (Feiersinger)",
             "real_minute" : 153
           },
           {
             "match_minute" : 120,
             "type" : "info",
-            "text" : "MH Denmark misses!",
+            "text" : "PH Goal (Harder)",
             "real_minute" : 154
           },
           {
             "match_minute" : 120,
             "type" : "info",
-            "text" : "MA So unlucky for Austria",
+            "text" : "MA Another miss! (Pinther)",
             "real_minute" : 155
           },
           {
             "match_minute" : 120,
             "type" : "info",
-            "text" : "PH Denmark wins!",
+            "text" : "MH Denmark misses! (Pedersen)",
             "real_minute" : 156
+          },
+          {
+            "match_minute" : 120,
+            "type" : "info",
+            "text" : "MA So unlucky for Austria (Aschauer)",
+            "real_minute" : 157
+          },
+          {
+            "match_minute" : 120,
+            "type" : "info",
+            "text" : "PH Sørensen scores and Denmark wins!",
+            "real_minute" : 158
           },
           {
             "match_minute" : 120,
             "type" : "end",
             "text" : "What a drama. Denmark is finally going to the final, first time in their history.",
-            "real_minute" : 156
+            "real_minute" : 158
           }
         ]
       },
@@ -2730,5 +2730,5 @@
       }
     ]
   },
-  "edition" : 960
+  "edition" : 963
 }
