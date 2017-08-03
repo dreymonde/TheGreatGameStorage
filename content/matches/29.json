@@ -43,8 +43,14 @@
         "type" : "start",
         "text" : "Here we go!",
         "real_minute" : 1
+      },
+      {
+        "match_minute" : 47,
+        "type" : "halftime_start",
+        "text" : "That's half-time",
+        "real_minute" : 48
       }
     ]
   },
-  "edition" : 924
+  "edition" : 927
 }
