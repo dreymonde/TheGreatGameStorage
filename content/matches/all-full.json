@@ -2559,6 +2559,12 @@
             "type" : "halftime_start",
             "text" : "That's half-time",
             "real_minute" : 48
+          },
+          {
+            "match_minute" : 45,
+            "type" : "halftime_end",
+            "text" : "",
+            "real_minute" : 63
           }
         ]
       },
@@ -2638,5 +2644,5 @@
       }
     ]
   },
-  "edition" : 927
+  "edition" : 929
 }
