@@ -138,7 +138,7 @@
           "home" : 3
         },
         "id" : 30,
-        "endDate" : 1501792320,
+        "endDate" : 1501792440,
         "away" : {
           "name" : "England",
           "shortest_name" : "EN",
@@ -228,5 +228,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/3\/38\/England_crest_2009.svg\/403px-England_crest_2009.svg.png"
   },
-  "edition" : 982
+  "edition" : 983
 }

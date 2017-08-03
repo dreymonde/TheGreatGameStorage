@@ -7,7 +7,7 @@
     },
     "id" : 30,
     "stage_title" : "Semi-finals",
-    "endDate" : 1501792320,
+    "endDate" : 1501792440,
     "away" : {
       "name" : "England",
       "shortest_name" : "EN",
@@ -81,12 +81,12 @@
         "real_minute" : 108
       },
       {
-        "match_minute" : 92,
+        "match_minute" : 94,
         "type" : "end",
         "text" : "Netherlands is going to the final!",
-        "real_minute" : 107
+        "real_minute" : 109
       }
     ]
   },
-  "edition" : 982
+  "edition" : 983
 }
