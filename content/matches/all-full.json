@@ -2654,11 +2654,11 @@
         "location" : "De Grolsch Veste, Enschede",
         "score" : {
           "away" : 0,
-          "home" : 2
+          "home" : 3
         },
         "id" : 30,
         "stage_title" : "Semi-finals",
-        "endDate" : 1501792200,
+        "endDate" : 1501792320,
         "away" : {
           "name" : "England",
           "shortest_name" : "EN",
@@ -2724,6 +2724,18 @@
             "type" : "goal_home",
             "text" : "That's 2:0! Goal by Van de Donk",
             "real_minute" : 77
+          },
+          {
+            "match_minute" : 93,
+            "type" : "goal_home",
+            "text" : "Own goal",
+            "real_minute" : 108
+          },
+          {
+            "match_minute" : 92,
+            "type" : "end",
+            "text" : "Netherlands is going to the final!",
+            "real_minute" : 107
           }
         ]
       },
@@ -2766,5 +2778,5 @@
       }
     ]
   },
-  "edition" : 979
+  "edition" : 982
 }
