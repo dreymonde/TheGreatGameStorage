@@ -55,8 +55,14 @@
         "type" : "goal_home",
         "text" : "Miedema scores!",
         "real_minute" : 22
+      },
+      {
+        "match_minute" : 45,
+        "type" : "halftime_start",
+        "text" : "",
+        "real_minute" : 45
       }
     ]
   },
-  "edition" : 972
+  "edition" : 973
 }
