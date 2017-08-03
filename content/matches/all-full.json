@@ -2648,7 +2648,7 @@
         "location" : "De Grolsch Veste, Enschede",
         "score" : {
           "away" : 0,
-          "home" : 0
+          "home" : 1
         },
         "id" : 30,
         "stage_title" : "Semi-finals",
@@ -2694,6 +2694,12 @@
             "type" : "info",
             "text" : "The winner of this game will meet Denmark in the final",
             "real_minute" : 18
+          },
+          {
+            "match_minute" : 22,
+            "type" : "goal_home",
+            "text" : "Miedema scores!",
+            "real_minute" : 22
           }
         ]
       },
@@ -2736,5 +2742,5 @@
       }
     ]
   },
-  "edition" : 965
+  "edition" : 967
 }
