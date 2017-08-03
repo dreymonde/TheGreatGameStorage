@@ -43,8 +43,14 @@
         "type" : "start",
         "text" : "",
         "real_minute" : 0
+      },
+      {
+        "match_minute" : 18,
+        "type" : "info",
+        "text" : "The winner of this game will meet Denmark in the final",
+        "real_minute" : 18
       }
     ]
   },
-  "edition" : 963
+  "edition" : 965
 }
