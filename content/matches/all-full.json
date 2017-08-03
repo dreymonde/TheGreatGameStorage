@@ -2569,7 +2569,7 @@
           {
             "match_minute" : 95,
             "type" : "halftime_start",
-            "text" : "FE That's gonna be an extra-time",
+            "text" : "FE That's gonna be an extra time",
             "real_minute" : 113
           }
         ]
@@ -2650,5 +2650,5 @@
       }
     ]
   },
-  "edition" : 931
+  "edition" : 934
 }
