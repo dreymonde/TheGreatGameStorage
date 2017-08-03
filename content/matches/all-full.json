@@ -2646,6 +2646,10 @@
       },
       {
         "location" : "De Grolsch Veste, Enschede",
+        "score" : {
+          "away" : 0,
+          "home" : 0
+        },
         "id" : 30,
         "stage_title" : "Semi-finals",
         "endDate" : 1501792200,
@@ -2678,6 +2682,12 @@
             "type" : "info",
             "text" : "Location: De Grolsch Veste, Enschede",
             "real_minute" : -2
+          },
+          {
+            "match_minute" : 0,
+            "type" : "start",
+            "text" : "",
+            "real_minute" : 0
           }
         ]
       },
@@ -2720,5 +2730,5 @@
       }
     ]
   },
-  "edition" : 957
+  "edition" : 960
 }
