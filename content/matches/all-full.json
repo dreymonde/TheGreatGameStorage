@@ -2813,10 +2813,16 @@
             "type" : "halftime_start",
             "text" : "",
             "real_minute" : 47
+          },
+          {
+            "match_minute" : 45,
+            "type" : "halftime_end",
+            "text" : "",
+            "real_minute" : 63
           }
         ]
       }
     ]
   },
-  "edition" : 1016
+  "edition" : 1018
 }
