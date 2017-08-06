@@ -1,6 +1,10 @@
 {
   "content" : {
     "location" : "De Grolsch Veste, Enschede",
+    "score" : {
+      "away" : 0,
+      "home" : 0
+    },
     "id" : 31,
     "stage_title" : "Final",
     "endDate" : 1502037900,
@@ -33,8 +37,14 @@
         "type" : "info",
         "text" : "Location: De Grolsch Veste, Enschede",
         "real_minute" : -2
+      },
+      {
+        "match_minute" : 0,
+        "type" : "start",
+        "text" : "Welcome to the final game!",
+        "real_minute" : 0
       }
     ]
   },
-  "edition" : 994
+  "edition" : 997
 }
