@@ -171,7 +171,7 @@
         "location" : "De Grolsch Veste, Enschede",
         "score" : {
           "away" : 1,
-          "home" : 0
+          "home" : 1
         },
         "id" : 31,
         "endDate" : 1502037900,
@@ -264,5 +264,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
   },
-  "edition" : 1000
+  "edition" : 1003
 }
