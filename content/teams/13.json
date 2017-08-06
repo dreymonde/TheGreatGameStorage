@@ -174,7 +174,7 @@
           "home" : 4
         },
         "id" : 31,
-        "endDate" : 1502037900,
+        "endDate" : 1502038320,
         "away" : {
           "name" : "Denmark",
           "shortest_name" : "DK",
@@ -264,5 +264,5 @@
     },
     "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
   },
-  "edition" : 1029
+  "edition" : 1032
 }
