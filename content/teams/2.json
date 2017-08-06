@@ -166,7 +166,7 @@
       {
         "location" : "De Grolsch Veste, Enschede",
         "score" : {
-          "away" : 0,
+          "away" : 1,
           "home" : 0
         },
         "id" : 31,
@@ -260,5 +260,5 @@
     },
     "badge_url" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/netherlands.png"
   },
-  "edition" : 997
+  "edition" : 1000
 }

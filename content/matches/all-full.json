@@ -2742,7 +2742,7 @@
       {
         "location" : "De Grolsch Veste, Enschede",
         "score" : {
-          "away" : 0,
+          "away" : 1,
           "home" : 0
         },
         "id" : 31,
@@ -2783,10 +2783,16 @@
             "type" : "start",
             "text" : "Welcome to the final game!",
             "real_minute" : 0
+          },
+          {
+            "match_minute" : 6,
+            "type" : "goal_away",
+            "text" : "What a start! Nadim scores from the penalty spot",
+            "real_minute" : 6
           }
         ]
       }
     ]
   },
-  "edition" : 997
+  "edition" : 1000
 }
