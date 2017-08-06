@@ -85,14 +85,8 @@
         "type" : "goal_home",
         "text" : "Netherlands scores again! Goal by Spitse",
         "real_minute" : 69
-      },
-      {
-        "match_minute" : 60,
-        "type" : "info",
-        "text" : "A very dynamic game",
-        "real_minute" : 78
       }
     ]
   },
-  "edition" : 1027
+  "edition" : 1028
 }
