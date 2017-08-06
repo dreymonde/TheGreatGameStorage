@@ -5,18 +5,6 @@
     "stage_title" : "Final",
     "endDate" : 1502037900,
     "away" : {
-      "name" : "Netherlands",
-      "shortest_name" : "NL",
-      "id" : 2,
-      "short_name" : "NED",
-      "badges" : {
-        "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/20\/Flag_of_the_Netherlands.svg\/640px-Flag_of_the_Netherlands.svg.png",
-        "large" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/netherlands.png"
-      },
-      "badge_url" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/netherlands.png"
-    },
-    "date" : 1502031600,
-    "home" : {
       "name" : "Denmark",
       "shortest_name" : "DK",
       "id" : 13,
@@ -27,6 +15,18 @@
       },
       "badge_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/4f\/Dansk_Boldspil-Union_logo.svg\/480px-Dansk_Boldspil-Union_logo.svg.png"
     },
+    "date" : 1502031600,
+    "home" : {
+      "name" : "Netherlands",
+      "shortest_name" : "NL",
+      "id" : 2,
+      "short_name" : "NED",
+      "badges" : {
+        "flag" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/20\/Flag_of_the_Netherlands.svg\/640px-Flag_of_the_Netherlands.svg.png",
+        "large" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/netherlands.png"
+      },
+      "badge_url" : "https:\/\/github.com\/dreymonde\/thegreatgame-badges\/raw\/master\/netherlands.png"
+    },
     "events" : [
       {
         "match_minute" : -2,
@@ -36,5 +36,5 @@
       }
     ]
   },
-  "edition" : 993
+  "edition" : 994
 }
