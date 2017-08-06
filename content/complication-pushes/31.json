@@ -2,7 +2,7 @@
   "location" : "De Grolsch Veste, Enschede",
   "score" : {
     "away" : 2,
-    "home" : 2
+    "home" : 3
   },
   "id" : 31,
   "stage_title" : "Final",
@@ -78,6 +78,12 @@
       "type" : "halftime_end",
       "text" : "",
       "real_minute" : 63
+    },
+    {
+      "match_minute" : 51,
+      "type" : "goal_home",
+      "text" : "Netherlands scores again! Goal by Spitse",
+      "real_minute" : 69
     }
   ]
 }
