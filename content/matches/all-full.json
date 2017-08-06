@@ -2743,7 +2743,7 @@
         "location" : "De Grolsch Veste, Enschede",
         "score" : {
           "away" : 2,
-          "home" : 3
+          "home" : 4
         },
         "id" : 31,
         "stage_title" : "Final",
@@ -2825,10 +2825,16 @@
             "type" : "goal_home",
             "text" : "Netherlands scores again! Goal by Spitse",
             "real_minute" : 69
+          },
+          {
+            "match_minute" : 89,
+            "type" : "goal_home",
+            "text" : "That's a second goal by Miedema, and the score is now 4:2!",
+            "real_minute" : 89
           }
         ]
       }
     ]
   },
-  "edition" : 1028
+  "edition" : 1029
 }
