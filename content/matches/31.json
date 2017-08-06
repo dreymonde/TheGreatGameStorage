@@ -67,8 +67,14 @@
         "type" : "goal_away",
         "text" : "Harder scores as a result of a beautiful counter-attack",
         "real_minute" : 33
+      },
+      {
+        "match_minute" : 47,
+        "type" : "halftime_start",
+        "text" : "",
+        "real_minute" : 47
       }
     ]
   },
-  "edition" : 1009
+  "edition" : 1013
 }

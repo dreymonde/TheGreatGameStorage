@@ -1,7 +1,7 @@
 {
   "location" : "De Grolsch Veste, Enschede",
   "score" : {
-    "away" : 1,
+    "away" : 2,
     "home" : 2
   },
   "id" : 31,
@@ -60,6 +60,12 @@
       "type" : "goal_home",
       "text" : "Goal by Martens!",
       "real_minute" : 28
+    },
+    {
+      "match_minute" : 33,
+      "type" : "goal_away",
+      "text" : "Harder scores as a result of a beautiful counter-attack",
+      "real_minute" : 33
     }
   ]
 }
