@@ -2,7 +2,7 @@
   "location" : "De Grolsch Veste, Enschede",
   "score" : {
     "away" : 1,
-    "home" : 0
+    "home" : 1
   },
   "id" : 31,
   "stage_title" : "Final",
@@ -48,6 +48,12 @@
       "type" : "goal_away",
       "text" : "What a start! Nadim scores from the penalty spot",
       "real_minute" : 6
+    },
+    {
+      "match_minute" : 10,
+      "type" : "goal_home",
+      "text" : "Now that's a response! Goal by Miedema",
+      "real_minute" : 10
     }
   ]
 }

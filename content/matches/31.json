@@ -3,7 +3,7 @@
     "location" : "De Grolsch Veste, Enschede",
     "score" : {
       "away" : 1,
-      "home" : 1
+      "home" : 2
     },
     "id" : 31,
     "stage_title" : "Final",
@@ -55,8 +55,14 @@
         "type" : "goal_home",
         "text" : "Now that's a response! Goal by Miedema",
         "real_minute" : 10
+      },
+      {
+        "match_minute" : 28,
+        "type" : "goal_home",
+        "text" : "Goal by Martens!",
+        "real_minute" : 28
       }
     ]
   },
-  "edition" : 1003
+  "edition" : 1006
 }

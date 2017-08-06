@@ -1050,7 +1050,7 @@
             "location" : "De Grolsch Veste, Enschede",
             "score" : {
               "away" : 1,
-              "home" : 1
+              "home" : 2
             },
             "id" : 31,
             "endDate" : 1502037900,
@@ -1083,5 +1083,5 @@
       }
     ]
   },
-  "edition" : 1003
+  "edition" : 1006
 }
