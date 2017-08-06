@@ -6,7 +6,7 @@
   },
   "id" : 31,
   "stage_title" : "Final",
-  "endDate" : 1502037900,
+  "endDate" : 1502038320,
   "away" : {
     "name" : "Denmark",
     "shortest_name" : "DK",
@@ -90,6 +90,12 @@
       "type" : "goal_home",
       "text" : "That's a second goal by Miedema, and the score is now 4:2!",
       "real_minute" : 89
+    },
+    {
+      "match_minute" : 96,
+      "type" : "end",
+      "text" : "That's it, we have a new champion!",
+      "real_minute" : 112
     }
   ]
 }
