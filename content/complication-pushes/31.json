@@ -96,6 +96,12 @@
       "type" : "end",
       "text" : "That's it, we have a new champion!",
       "real_minute" : 112
+    },
+    {
+      "match_minute" : 100,
+      "type" : "info",
+      "text" : "We are witnessing the rise of the new power in European women's football. Congratulations to the Netherlands team and all their supporters!",
+      "real_minute" : 118
     }
   ]
 }

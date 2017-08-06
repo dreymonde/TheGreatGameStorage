@@ -2841,12 +2841,18 @@
           {
             "match_minute" : 100,
             "type" : "info",
-            "text" : "🇳🇱 We are witnessing the rise of the new power in European women's football. Congratulations to the Netherlands team and all their supporters!",
+            "text" : "We are witnessing the rise of the new power in European women's football. Congratulations to the Netherlands team and all their supporters!",
             "real_minute" : 118
+          },
+          {
+            "match_minute" : 102,
+            "type" : "info",
+            "text" : "🇳🇱 Champions!",
+            "real_minute" : 120
           }
         ]
       }
     ]
   },
-  "edition" : 1035
+  "edition" : 1038
 }
